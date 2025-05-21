@@ -17,21 +17,21 @@
                     "id": "game_industry_intro",
                     "title": "Giới thiệu về ngành game và các lĩnh vực trong ngành",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/df0ddae65658e5f9d0f914f74a80408d/raw/game_industry_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_industry_intro.md",
                     "description": "Tổng quan về ngành công nghiệp game, các lĩnh vực phát triển và các công ty game nổi bật."
                 },
                 {
                     "id": "intro_video",
                     "title": "Video chủ đề Tiếng Anh Chuyên Ngành Game",
                     "type": "gist_video",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/4b1e740017339115d0dcbc259f923b62/raw/makeitpro_list_video_course_5.json",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/makeitpro_list_video_course_5.json",
                     "description": "Video minh họa chủ đề Tiếng Anh Chuyên Ngành Game."
                 },
                 {
                     "id": "intro_md",
                     "title": "Markdown chủ đề Tiếng Anh Chuyên Ngành Game",
                     "type": "markdown_list",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/618e1680e2f81cba0bdd9e44c9aab7a5/raw/makeitpro_list_md_course_5.json",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/makeitpro_list_md_course_5.json",
                     "description": "Markdown minh họa chủ đề Tiếng Anh Chuyên Ngành Game."
                 },
                 {
@@ -85,7 +85,7 @@
                     "id": "game_genres_intro",
                     "title": "Giới thiệu về các thể loại game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/2daf183966854d37f3936dcb4b2aa2f2/raw/game_genres_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_genres_intro.md",
                     "description": "Tổng quan về các thể loại game phổ biến, đặc điểm của từng thể loại và cách chúng được phân loại trong ngành công nghiệp game."
                 },
                 {
@@ -139,7 +139,7 @@
                     "id": "game_development_process_intro",
                     "title": "Giới thiệu về quy trình phát triển game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/d509414fa6d936d78251ce91c181adbb/raw/game_development_process_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_development_process_intro.md",
                     "description": "Tổng quan về các bước trong quy trình phát triển game, bao gồm lên ý tưởng, thiết kế, lập trình, thử nghiệm, và phát hành game."
                 },
                 {
@@ -193,7 +193,7 @@
                     "id": "game_development_tools_intro",
                     "title": "Giới thiệu về các công cụ phát triển game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/c998053d58c8d521b45d2d6b0acd9c4a/raw/game_development_tools_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_development_tools_intro.md",
                     "description": "Tổng quan về các công cụ phát triển game phổ biến và vai trò của chúng trong quá trình phát triển game, bao gồm phần mềm lập trình, game engines và công cụ thiết kế."
                 },
                 {
@@ -247,7 +247,7 @@
                     "id": "game_design_intro",
                     "title": "Giới thiệu về thiết kế game và vai trò của trải nghiệm người chơi",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/fac82198c3ee406b3782080027a866b6/raw/game_design_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_design_intro.md",
                     "description": "Tổng quan về thiết kế game và các yếu tố ảnh hưởng đến trải nghiệm người chơi, từ cơ chế chơi đến giao diện người dùng."
                 },
                 {
@@ -301,7 +301,7 @@
                     "id": "game_testing_intro",
                     "title": "Giới thiệu về kiểm tra và sửa lỗi game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/fe662610d0198be8763f36848903c984/raw/game_testing_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_testing_intro.md",
                     "description": "Tổng quan về quy trình kiểm tra game, cách kiểm tra hiệu suất, tìm kiếm lỗi và sửa chúng trước khi game được phát hành."
                 },
                 {
@@ -355,7 +355,7 @@
                     "id": "game_launch_intro",
                     "title": "Giới thiệu về phát hành game và tiếp thị",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/9f6f2694598716f57adcdb7f0fce1b48/raw/game_launch_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_launch_intro.md",
                     "description": "Tổng quan về các bước trong quá trình phát hành game, từ việc chuẩn bị cho ngày ra mắt đến việc sử dụng các chiến lược tiếp thị hiệu quả để thu hút người chơi."
                 },
                 {
@@ -409,7 +409,7 @@
                     "id": "game_feedback_intro",
                     "title": "Giới thiệu về phản hồi và cải tiến game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f1402737d401e6834876146c6e466bb6/raw/game_feedback_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_feedback_intro.md",
                     "description": "Tổng quan về cách thu thập phản hồi từ người chơi và sử dụng dữ liệu đó để cải tiến game, từ việc sửa lỗi đến việc cải thiện các tính năng và nội dung."
                 },
                 {
@@ -463,7 +463,7 @@
                     "id": "game_performance_intro",
                     "title": "Giới thiệu về tối ưu hóa hiệu suất game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/968ba796bb7230ea381419225cecb60f/raw/game_performance_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_performance_intro.md",
                     "description": "Tổng quan về tầm quan trọng của tối ưu hóa hiệu suất game và các yếu tố cần chú ý để giảm độ trễ, cải thiện tốc độ tải và sử dụng tài nguyên hiệu quả trong game."
                 },
                 {
@@ -517,7 +517,7 @@
                     "id": "game_security_intro",
                     "title": "Giới thiệu về an ninh game và bảo mật",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/c7a23359138532305f635fe008168874/raw/game_security_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_security_intro.md",
                     "description": "Tổng quan về các vấn đề an ninh và bảo mật trong game, từ việc bảo vệ dữ liệu người chơi đến ngăn chặn các cuộc tấn công mạng và gian lận trong game."
                 },
                 {
@@ -571,7 +571,7 @@
                     "id": "game_graphics_intro",
                     "title": "Giới thiệu về đồ họa game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/4c3bf9b7abdf1f9902b2adc9b70fc54f/raw/game_graphics_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_graphics_intro.md",
                     "description": "Tổng quan về các yếu tố đồ họa trong game, từ các kỹ thuật cơ bản trong thiết kế nhân vật và môi trường đến tối ưu hóa hiệu suất đồ họa cho game."
                 },
                 {
@@ -625,7 +625,7 @@
                     "id": "game_programming_intro",
                     "title": "Giới thiệu về lập trình game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f5044e03df70a8d07a16be099b89750f/raw/game_programming_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_programming_intro.md",
                     "description": "Tổng quan về các nguyên tắc cơ bản trong lập trình game, bao gồm các khái niệm cơ bản về cấu trúc game, phát triển tính năng và lập trình logic trong game."
                 },
                 {
@@ -679,7 +679,7 @@
                     "id": "game_testing_intro",
                     "title": "Giới thiệu về kiểm thử game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/d26a72af41f83a0314a0ef318520fb77/raw/game_testing_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_testing_intro.md",
                     "description": "Tổng quan về các bước và phương pháp kiểm thử game, bao gồm việc phát hiện lỗi, kiểm tra các tính năng và đánh giá hiệu suất của game."
                 },
                 {
@@ -733,7 +733,7 @@
                     "id": "game_project_management_intro",
                     "title": "Giới thiệu về quản lý dự án game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/25e03592dbf0907a72be0d85c44bb4e3/raw/game_project_management_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_project_management_intro.md",
                     "description": "Tổng quan về các phương pháp quản lý dự án game, bao gồm lập kế hoạch, phân bổ tài nguyên và quản lý tiến độ để đảm bảo dự án phát triển game được hoàn thành đúng hạn và đạt chất lượng cao."
                 },
                 {
@@ -787,7 +787,7 @@
                     "id": "cross_platform_game_development_intro",
                     "title": "Giới thiệu về phát triển game đa nền tảng",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/eb2a9474776405ffc01d24880fd4b2bd/raw/cross_platform_game_development_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/cross_platform_game_development_intro.md",
                     "description": "Tổng quan về các nguyên tắc và phương pháp phát triển game đa nền tảng, từ việc xây dựng game cho nhiều hệ điều hành khác nhau đến tối ưu hóa hiệu suất và tương thích của game."
                 },
                 {
@@ -841,7 +841,7 @@
                     "id": "ui_ux_design_intro",
                     "title": "Giới thiệu về thiết kế UI/UX trong game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/7e7d4855d4492799c9c38254c96c9bba/raw/ui_ux_design_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/ui_ux_design_intro.md",
                     "description": "Tổng quan về thiết kế giao diện người dùng (UI) và trải nghiệm người dùng (UX) trong game, bao gồm việc tạo ra các yếu tố giao diện và tối ưu hóa các chức năng để người chơi có trải nghiệm tốt nhất."
                 },
                 {
@@ -895,7 +895,7 @@
                     "id": "game_performance_optimization_intro",
                     "title": "Giới thiệu về tối ưu hóa hiệu suất game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/cff56983ba5716e29f2c30b09d70f23f/raw/game_performance_optimization_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_performance_optimization_intro.md",
                     "description": "Tổng quan về các chiến lược và kỹ thuật tối ưu hóa hiệu suất trong game, giúp game hoạt động mượt mà và giảm thiểu các vấn đề về độ trễ và tốc độ khung hình thấp."
                 },
                 {
@@ -949,7 +949,7 @@
                     "id": "game_testing_intro",
                     "title": "Giới thiệu về kiểm thử game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/908f9baff300f15fd52e9f5a855916bc/raw/game_testing_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_testing_intro.md",
                     "description": "Tổng quan về các phương pháp kiểm thử game, bao gồm kiểm tra lỗi, kiểm tra tính năng và kiểm tra hiệu suất, nhằm đảm bảo game hoạt động ổn định và không có lỗi trước khi phát hành."
                 },
                 {
@@ -1003,7 +1003,7 @@
                     "id": "game_development_project_management_intro",
                     "title": "Giới thiệu về quản lý dự án phát triển game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/4fbc819d04f244eb2b17860860893125/raw/game_development_project_management_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_development_project_management_intro.md",
                     "description": "Tổng quan về quy trình quản lý dự án phát triển game, bao gồm lập kế hoạch, phân bổ tài nguyên, và theo dõi tiến độ để đảm bảo dự án được thực hiện đúng thời gian và trong ngân sách."
                 },
                 {
@@ -1057,7 +1057,7 @@
                     "id": "game_content_creation_management_intro",
                     "title": "Giới thiệu về tạo và quản lý nội dung game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/9a632b7cc9af8c763f81372282eeb049/raw/game_content_creation_management_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_content_creation_management_intro.md",
                     "description": "Tổng quan về quy trình tạo ra nội dung game, từ việc phát triển ý tưởng ban đầu cho đến quản lý các tài nguyên và nội dung sau khi trò chơi ra mắt."
                 },
                 {
@@ -1111,7 +1111,7 @@
                     "id": "game_sound_design_intro",
                     "title": "Giới thiệu về thiết kế âm thanh trong game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/6a08f9de186ca751d6c4ab65b6cba2b5/raw/game_sound_design_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_sound_design_intro.md",
                     "description": "Tổng quan về vai trò của âm thanh trong game, từ âm nhạc nền đến các hiệu ứng âm thanh và cách âm thanh được sử dụng để nâng cao trải nghiệm người chơi và tạo ra không khí đặc trưng cho trò chơi."
                 },
                 {
@@ -1165,7 +1165,7 @@
                     "id": "game_optimization_intro",
                     "title": "Giới thiệu về tối ưu hóa game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f4eee60a15e5e0aec3ea7c4fe7e4dedc/raw/game_optimization_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_optimization_intro.md",
                     "description": "Tổng quan về quy trình tối ưu hóa game, từ việc tối ưu hóa đồ họa và hiệu suất đến việc tối ưu hóa mã nguồn và cải thiện tốc độ tải game, giúp game chạy mượt mà trên các thiết bị khác nhau."
                 },
                 {
@@ -1219,7 +1219,7 @@
                     "id": "mobile_game_development_intro",
                     "title": "Giới thiệu về phát triển trò chơi di động",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/9cd8ae526e4c97fc2306b78ad3e05276/raw/mobile_game_development_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/mobile_game_development_intro.md",
                     "description": "Tổng quan về quy trình phát triển game di động, từ việc lên ý tưởng đến phát triển, tối ưu hóa và phát hành game trên các nền tảng như iOS và Android."
                 },
                 {
@@ -1273,7 +1273,7 @@
                     "id": "mobile_game_design_intro",
                     "title": "Giới thiệu về thiết kế trò chơi di động",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/d5d391dc7ec26fe8b8f9180570363295/raw/mobile_game_design_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/mobile_game_design_intro.md",
                     "description": "Tổng quan về quy trình thiết kế game di động, từ việc lên ý tưởng, thiết kế gameplay đến tạo dựng giao diện và trải nghiệm người chơi."
                 },
                 {
@@ -1327,7 +1327,7 @@
                     "id": "mobile_game_performance_optimization_intro",
                     "title": "Giới thiệu về tối ưu hóa hiệu suất trò chơi di động",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/e013440665ce8f6b3093831d033aef6e/raw/mobile_game_performance_optimization_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/mobile_game_performance_optimization_intro.md",
                     "description": "Tổng quan về các kỹ thuật và chiến lược tối ưu hóa hiệu suất cho game di động, bao gồm việc giảm thời gian tải, tối ưu hóa đồ họa, và quản lý bộ nhớ hiệu quả."
                 },
                 {
@@ -1381,7 +1381,7 @@
                     "id": "mobile_game_testing_debugging_intro",
                     "title": "Giới thiệu về kiểm thử và gỡ lỗi trò chơi di động",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/45dcf1b631e5ae8c82450e6de9a99e6e/raw/mobile_game_testing_debugging_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/mobile_game_testing_debugging_intro.md",
                     "description": "Tổng quan về quy trình kiểm thử và gỡ lỗi trong phát triển trò chơi di động, bao gồm các loại kiểm thử, công cụ gỡ lỗi, và cách tối ưu hóa hiệu suất game trong quá trình phát triển."
                 },
                 {
@@ -1435,7 +1435,7 @@
                     "id": "mobile_game_launch_intro",
                     "title": "Giới thiệu về phát hành trò chơi di động",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/204784eff202121a2d1ca3bb3d767317/raw/mobile_game_launch_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/mobile_game_launch_intro.md",
                     "description": "Tổng quan về các bước cần thiết để phát hành trò chơi di động thành công, bao gồm việc chuẩn bị ứng dụng, đăng tải lên App Store và Google Play, và chiến lược tiếp thị để thu hút người chơi."
                 },
                 {
@@ -1489,7 +1489,7 @@
                     "id": "mobile_game_marketing_intro",
                     "title": "Giới thiệu về tiếp thị trò chơi di động",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/0d537b6ffb9b2438031e8116bec66923/raw/mobile_game_marketing_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/mobile_game_marketing_intro.md",
                     "description": "Tổng quan về các chiến lược tiếp thị trò chơi di động, từ việc tìm kiếm đối tượng mục tiêu, chiến lược quảng bá, đến việc sử dụng các kênh tiếp thị số để tăng trưởng người chơi và doanh thu."
                 },
                 {
@@ -1543,7 +1543,7 @@
                     "id": "mobile_game_performance_intro",
                     "title": "Giới thiệu về phân tích và tối ưu hóa hiệu suất trò chơi di động",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/744d7e0a4406e734f4368529dd6f03a5/raw/mobile_game_performance_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/mobile_game_performance_intro.md",
                     "description": "Tổng quan về các kỹ thuật và công cụ phân tích và tối ưu hóa hiệu suất trò chơi di động. Bài học sẽ đề cập đến việc cải thiện tốc độ, tối ưu hóa bộ nhớ và đồ họa để trò chơi hoạt động mượt mà trên nhiều nền tảng và thiết bị."
                 },
                 {
@@ -1597,7 +1597,7 @@
                     "id": "mobile_game_user_experience_intro",
                     "title": "Giới thiệu về tối ưu hóa trải nghiệm người chơi",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/8dece2bfaa94817bd08d7e66255c78c8/raw/mobile_game_user_experience_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/mobile_game_user_experience_intro.md",
                     "description": "Tổng quan về các yếu tố quan trọng trong tối ưu hóa trải nghiệm người chơi, bao gồm giao diện người dùng (UI), trải nghiệm người dùng (UX), thiết kế game dễ tiếp cận và chiến lược để giữ người chơi quay lại với trò chơi."
                 },
                 {
@@ -1651,7 +1651,7 @@
                     "id": "sound_design_intro",
                     "title": "Giới thiệu về thiết kế âm thanh và nhạc nền trong trò chơi di động",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/0d356e5808f722adf516021f21122a48/raw/sound_design_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/sound_design_intro.md",
                     "description": "Tổng quan về các yếu tố âm thanh trong trò chơi di động, bao gồm hiệu ứng âm thanh, nhạc nền, và sự kết hợp của chúng để tạo ra một trải nghiệm chơi game sống động và hấp dẫn."
                 },
                 {
@@ -1705,7 +1705,7 @@
                     "id": "mobile_game_size_intro",
                     "title": "Giới thiệu về tối ưu hóa kích thước và hiệu suất tải",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/eda84e636cd671d444c88c0f3c7f789d/raw/mobile_game_size_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/mobile_game_size_intro.md",
                     "description": "Tổng quan về các chiến lược giảm kích thước trò chơi và tăng tốc độ tải để cải thiện trải nghiệm người chơi và hỗ trợ nhiều loại thiết bị di động khác nhau."
                 },
                 {
@@ -1759,7 +1759,7 @@
                     "id": "mobile_game_analytics_intro",
                     "title": "Giới thiệu về phân tích dữ liệu người chơi",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/0f7f7aba7a589c0bbcf533ce962f6aee/raw/mobile_game_analytics_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/mobile_game_analytics_intro.md",
                     "description": "Giới thiệu vai trò của phân tích dữ liệu trong phát triển game – giúp theo dõi hành vi người chơi, phát hiện vấn đề và cải thiện gameplay."
                 },
                 {
@@ -1813,7 +1813,7 @@
                     "id": "retention_optimization_intro",
                     "title": "Giới thiệu về tối ưu hóa tỷ lệ giữ chân",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/a26dec901a074533bedcbcf9dad3ed4d/raw/retention_optimization_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/retention_optimization_intro.md",
                     "description": "Giải thích tại sao tỷ lệ giữ chân người chơi là chỉ số then chốt cho sự thành công lâu dài của game di động và các yếu tố ảnh hưởng đến nó."
                 },
                 {
@@ -1867,7 +1867,7 @@
                     "id": "monetization_intro",
                     "title": "Giới thiệu về kiếm tiền từ game di động",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/9b853c8f159b2533c5d13e12640bb367/raw/monetization_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/monetization_intro.md",
                     "description": "Tổng quan các hình thức kiếm tiền chính và những yếu tố cần cân nhắc khi xây dựng chiến lược doanh thu cho game di động."
                 },
                 {
@@ -1921,7 +1921,7 @@
                     "id": "gaming_community_intro",
                     "title": "Giới thiệu về cộng đồng game và người chơi",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/dec006ab90a5746c6c2133c98f0a8903/raw/gaming_community_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/gaming_community_intro.md",
                     "description": "Tổng quan vai trò của cộng đồng trong việc giữ chân người chơi, lan tỏa game và thu hút người dùng mới."
                 },
                 {
@@ -1975,7 +1975,7 @@
                     "id": "team_communication_intro",
                     "title": "Giới thiệu về giao tiếp nhóm",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/21e5eae896a2262de59fc1b98e3a2920/raw/team_communication_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/team_communication_intro.md",
                     "description": "Tại sao giao tiếp hiệu quả là yếu tố then chốt trong hợp tác phát triển game, đặc biệt là trong môi trường nhóm đa chức năng."
                 },
                 {
@@ -2029,7 +2029,7 @@
                     "id": "gdd_intro",
                     "title": "Giới thiệu về tài liệu thiết kế game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/50ade7aa964d363ef8011c7e864686b0/raw/gdd_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/gdd_intro.md",
                     "description": "Khái niệm và vai trò của Game Design Document trong quy trình phát triển game."
                 },
                 {
@@ -2083,7 +2083,7 @@
                     "id": "game_testing_intro",
                     "title": "Giới thiệu về kiểm thử game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/77c0957ed00276917dc7a8462c4ce883/raw/game_testing_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_testing_intro.md",
                     "description": "Tầm quan trọng của kiểm thử game trong phát triển sản phẩm chất lượng và trải nghiệm người dùng tốt."
                 },
                 {
@@ -2137,7 +2137,7 @@
                     "id": "game_roles_intro",
                     "title": "Giới thiệu các vai trò trong team phát triển game",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/ff5af7a87ea13783458a3a5da41e248e/raw/game_roles_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/game_roles_intro.md",
                     "description": "Tổng quan về tổ chức nhân sự trong một studio game hiện đại: từ lập trình đến nghệ thuật, từ thiết kế đến phân tích kinh doanh."
                 },
                 {

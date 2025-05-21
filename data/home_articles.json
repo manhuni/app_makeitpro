@@ -3,18 +3,18 @@
         "title": "Giới thiệu về Flutter",
         "summary": "Flutter là một framework phát triển ứng dụng di động mã nguồn mở của Google.",
         "imageUrl": "https://example.com/flutter-article.jpg",
-        "url": "https://gist.githubusercontent.com/manhuni/89be7ca72042fbee2c74ffb1e0227d46/raw/article_1.md"
+        "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/article_1.md"
     },
     {
         "title": "Khám phá Dart",
         "summary": "Dart là ngôn ngữ lập trình được sử dụng trong Flutter.",
         "imageUrl": "https://example.com/dart-article.jpg",
-        "url": "https://gist.githubusercontent.com/manhuni/89be7ca72042fbee2c74ffb1e0227d46/raw/article_2.md"
+        "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/article_2.md"
     },
     {
         "title": "Các xu hướng phát triển ứng dụng di động 2025",
         "summary": "Các xu hướng phát triển ứng dụng di động trong năm 2025 đang thay đổi nhanh chóng.",
         "imageUrl": "https://example.com/mobile-trends-2025.jpg",
-        "url": "https://gist.githubusercontent.com/manhuni/89be7ca72042fbee2c74ffb1e0227d46/raw/article_3.md"
+        "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/article_3.md"
     }
 ]

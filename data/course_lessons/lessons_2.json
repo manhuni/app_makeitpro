@@ -16,21 +16,21 @@
                     "id": "family_intro",
                     "title": "Giới thiệu chủ đề Gia đình",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/31e5a92a631085e8281bd8a8f30e4e2a/raw/family_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/family_intro.md",
                     "description": "Từ ngữ về gia đình, nhà cửa và cuộc sống hằng ngày."
                 },
                 {
                     "id": "intro_video",
                     "title": "Video chủ đề Tiếng Anh Thông Dụng",
                     "type": "gist_video",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/1fe719030235736f87923cca75650601/raw/makeitpro_list_video_course_2.json",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/makeitpro_list_video_course_2.json",
                     "description": "Video minh họa chủ đề Tiếng Anh Thông Dụng."
                 },
                 {
                     "id": "intro_md",
                     "title": "Markdown chủ đề Tiếng Anh Thông Dụng",
                     "type": "markdown_list",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/8139f553b035cce44d191825754f089f/raw/makeitpro_list_md_course_2.json",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/makeitpro_list_md_course_2.json",
                     "description": "Markdown minh họa chủ đề Tiếng Anh Thông Dụng."
                 },
                 {
@@ -80,7 +80,7 @@
                     "id": "greetings_intro",
                     "title": "Giới thiệu chủ đề",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/6338d66afff1086ed2f0bfe9f7300dd8/raw/greetings_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/greetings_intro.md",
                     "description": "Giới thiệu khái quát về các tình huống chào hỏi và giới thiệu bản thân."
                 },
                 {
@@ -130,7 +130,7 @@
                     "id": "health_intro",
                     "title": "Giới thiệu chủ đề Sức khỏe",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/a85aa71337ed048bf4198325717f78d8/raw/health_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/health_intro.md",
                     "description": "Tình huống thường gặp khi cần chăm sóc sức khỏe hoặc gặp bác sĩ."
                 },
                 {
@@ -180,7 +180,7 @@
                     "id": "restaurant_intro",
                     "title": "Giới thiệu chủ đề Nhà hàng",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/da7cfcb6f4b1d087cc8b79fe2bf7d9e3/raw/restaurant_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/restaurant_intro.md",
                     "description": "Tổng quan các tình huống giao tiếp trong nhà hàng."
                 },
                 {
@@ -230,7 +230,7 @@
                     "id": "school_intro",
                     "title": "Giới thiệu chủ đề Trường học",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/14c59308039219c337a5b52af13c8d11/raw/school_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/school_intro.md",
                     "description": "Tình huống đi học, trong lớp học hoặc giao tiếp với giáo viên."
                 },
                 {
@@ -280,7 +280,7 @@
                     "id": "shopping_intro",
                     "title": "Giới thiệu chủ đề Mua sắm",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/79daea98f5f1f688d2fc1e8d54959332/raw/shopping_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/shopping_intro.md",
                     "description": "Tổng quan về các tình huống mua sắm thường gặp."
                 },
                 {
@@ -330,7 +330,7 @@
                     "id": "time_intro",
                     "title": "Giới thiệu chủ đề Thời gian",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/00c7e4b38686cf396adffbb58c93fc2b/raw/time_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/time_intro.md",
                     "description": "Thời gian, ngày trong tuần, tháng và cách nói giờ giấc."
                 },
                 {
@@ -380,7 +380,7 @@
                     "id": "transport_intro",
                     "title": "Giới thiệu chủ đề Giao thông",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/56c4f73c20bb1d4cc0158d90d89aba2a/raw/transport_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/transport_intro.md",
                     "description": "Tình huống thường gặp khi di chuyển ngoài đường."
                 },
                 {
@@ -430,7 +430,7 @@
                     "id": "weather_intro",
                     "title": "Giới thiệu chủ đề Thời tiết",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/933a8a221fedf5736f6796435b770b69/raw/weather_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/weather_intro.md",
                     "description": "Tình huống nói về thời tiết và mùa trong năm."
                 },
                 {
@@ -480,7 +480,7 @@
                     "id": "work_intro",
                     "title": "Giới thiệu chủ đề Công việc",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f7245b9ac191129f210f8f52a5084989/raw/work_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/work_intro.md",
                     "description": "Giao tiếp và thuật ngữ hay dùng trong văn phòng."
                 },
                 {

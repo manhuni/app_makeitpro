@@ -16,21 +16,21 @@
                     "id": "articles_intro",
                     "title": "Giới thiệu về mạo từ",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/9983c6b87417eca0af6181b13690cc1d/raw/articles_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/articles_intro.md",
                     "description": "Giải thích sự khác biệt giữa a, an, và the trong các tình huống cụ thể."
                 },
                 {
                     "id": "intro_video",
                     "title": "Video chủ đề Khóa học Tiếng Anh Thông Dụng",
                     "type": "gist_video",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/edb18272a5155cd0581127f1df5905c2/raw/makeitpro_list_video_course_3.json",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/makeitpro_list_video_course_3.json",
                     "description": "Video minh họa chủ đề Khóa học Tiếng Anh Thông Dụng."
                 },
                 {
                     "id": "intro_md",
                     "title": "Markdown chủ đề Khóa học Tiếng Anh Thông Dụng",
                     "type": "markdown_list",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/8eb81cdfaaae6a2bab4fc5bba0d7c9db/raw/makeitpro_list_md_course_3.json",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/makeitpro_list_md_course_3.json",
                     "description": "Markdown minh họa chủ đề Khóa học Tiếng Anh Thông Dụng."
                 },
                 {
@@ -84,7 +84,7 @@
                     "id": "plural_intro",
                     "title": "Giới thiệu danh từ số nhiều",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/97256adc2d1cd62836a5c4050952ba5e/raw/plural_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/plural_intro.md",
                     "description": "Danh từ thay đổi như thế nào khi chuyển từ số ít sang số nhiều?"
                 },
                 {
@@ -134,7 +134,7 @@
                     "id": "present_simple_intro",
                     "title": "Giới thiệu thì hiện tại đơn",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/cac0bd84b8f50d0cfc1da3783b474999/raw/present_simple_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/present_simple_intro.md",
                     "description": "Cấu trúc và cách sử dụng thì hiện tại đơn."
                 },
                 {
@@ -184,7 +184,7 @@
                     "id": "past_simple_intro",
                     "title": "Giới thiệu thì quá khứ đơn",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/e72b533cc5e12bc0847b0f7e037823e4/raw/past_simple_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/past_simple_intro.md",
                     "description": "Cách chia động từ và dấu hiệu nhận biết thì quá khứ."
                 },
                 {
@@ -234,7 +234,7 @@
                     "id": "pronouns_intro",
                     "title": "Giới thiệu đại từ và tính từ sở hữu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/5e545091030da0d1e1f6471856612e98/raw/pronouns_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/pronouns_intro.md",
                     "description": "Đại từ và tính từ sở hữu – dễ nhầm lẫn nếu không luyện tập kỹ."
                 },
                 {
@@ -284,7 +284,7 @@
                     "id": "present_continuous_intro",
                     "title": "Giới thiệu thì hiện tại tiếp diễn",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f8670aa44214139916ec28d0328dd316/raw/present_continuous_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/present_continuous_intro.md",
                     "description": "Cách chia động từ với 'to be' và 'V-ing'."
                 },
                 {
@@ -334,7 +334,7 @@
                     "id": "future_simple_intro",
                     "title": "Giới thiệu thì tương lai đơn",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/016b92ffd903d6994bd57ede2d5db236/raw/future_simple_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/future_simple_intro.md",
                     "description": "Dùng will/shall với động từ nguyên thể."
                 },
                 {
@@ -384,7 +384,7 @@
                     "id": "present_perfect_intro",
                     "title": "Giới thiệu thì hiện tại hoàn thành",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/26005a867af1ff3988042410a57557ad/raw/present_perfect_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/present_perfect_intro.md",
                     "description": "Dấu hiệu nhận biết và cách dùng thì hiện tại hoàn thành."
                 },
                 {
@@ -434,7 +434,7 @@
                     "id": "present_perfect_continuous_intro",
                     "title": "Giới thiệu thì hiện tại hoàn thành tiếp diễn",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/6106533f935b820303929b80041c4af9/raw/present_perfect_continuous_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/present_perfect_continuous_intro.md",
                     "description": "Giới thiệu cách dùng và cấu trúc của thì hiện tại hoàn thành tiếp diễn."
                 },
                 {
@@ -484,7 +484,7 @@
                     "id": "past_continuous_intro",
                     "title": "Giới thiệu thì quá khứ tiếp diễn",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/1b01c986c95cb4cdfe3cceefcef8baed/raw/past_continuous_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/past_continuous_intro.md",
                     "description": "Cách chia động từ với was/were và V-ing."
                 },
                 {
@@ -534,7 +534,7 @@
                     "id": "past_perfect_intro",
                     "title": "Giới thiệu thì quá khứ hoàn thành",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/1463a9344c78d54b86579e39de560488/raw/past_perfect_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/past_perfect_intro.md",
                     "description": "Cấu trúc và dấu hiệu nhận biết thì quá khứ hoàn thành."
                 },
                 {
@@ -584,7 +584,7 @@
                     "id": "passive_voice_intro",
                     "title": "Giới thiệu câu bị động",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/342273b0e0a5f32287de479e48e625bd/raw/passive_voice_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/passive_voice_intro.md",
                     "description": "Giới thiệu tổng quan về thể bị động và khi nào dùng."
                 },
                 {
@@ -634,7 +634,7 @@
                     "id": "error_articles_intro",
                     "title": "Giới thiệu lỗi về mạo từ",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/0260ce213b8c99aa8fd636f39831b493/raw/error_articles_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/error_articles_intro.md",
                     "description": "Giải thích vì sao người Việt dễ sai khi dùng mạo từ."
                 },
                 {
@@ -684,7 +684,7 @@
                     "id": "error_tense_intro",
                     "title": "Giới thiệu lỗi chia thì",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/47e0b0fad8c5f8829e0b10ddaca202e2/raw/error_tense_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/error_tense_intro.md",
                     "description": "Các lỗi điển hình về thì, do ảnh hưởng từ tiếng Việt không chia thì rõ ràng."
                 },
                 {
@@ -734,7 +734,7 @@
                     "id": "error_subject_verb_intro",
                     "title": "Giới thiệu lỗi thiếu chủ ngữ/động từ",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/0be4492b20c8512bab12ed13153ffe72/raw/error_subject_verb_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/error_subject_verb_intro.md",
                     "description": "Người học thường dịch từng từ từ tiếng Việt sang mà quên mất cấu trúc câu cần có chủ ngữ và động từ rõ ràng."
                 },
                 {
@@ -784,7 +784,7 @@
                     "id": "error_much_many_intro",
                     "title": "Giới thiệu lỗi dùng much và many",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/65458bb08f4d258215fbc4a505eb83a9/raw/error_much_many_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/error_much_many_intro.md",
                     "description": "Giới thiệu về sự khác biệt giữa 'much' và 'many', và cách dùng đúng trong câu."
                 },
                 {
@@ -834,7 +834,7 @@
                     "id": "error_prepositions_intro",
                     "title": "Giới thiệu lỗi giới từ",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/4c8c7a7b25da5c3dc4fb147defe484ff/raw/error_prepositions_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/error_prepositions_intro.md",
                     "description": "Giới thiệu cách dùng giới từ trong tiếng Anh và các lỗi người Việt hay gặp phải."
                 },
                 {
@@ -884,7 +884,7 @@
                     "id": "error_conditional_intro",
                     "title": "Giới thiệu lỗi câu điều kiện",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/210d94ed9f1eabe7da919052c6d034c4/raw/error_conditional_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/error_conditional_intro.md",
                     "description": "Lỗi thường gặp khi người Việt dùng câu điều kiện, chẳng hạn như sai thì, thiếu thành phần trong câu."
                 },
                 {
@@ -934,7 +934,7 @@
                     "id": "error_some_any_intro",
                     "title": "Giới thiệu lỗi với 'some' và 'any'",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b0795b0624a4c3b2a68d05e007f04bfc/raw/error_some_any_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/error_some_any_intro.md",
                     "description": "'Some' và 'any' thường bị dùng sai, đặc biệt trong câu hỏi hoặc phủ định."
                 },
                 {
@@ -984,7 +984,7 @@
                     "id": "error_be_intro",
                     "title": "Giới thiệu lỗi với động từ 'to be'",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/31f46b0067c836b0eb0f8563a3a9e482/raw/error_be_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/error_be_intro.md",
                     "description": "Giới thiệu các lỗi thường gặp khi dùng động từ 'to be' trong câu hỏi và phủ định."
                 },
                 {
@@ -1034,7 +1034,7 @@
                     "id": "error_too_very_intro",
                     "title": "Giới thiệu lỗi với 'too' và 'very'",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/bc48447cd06bce3731dc2370db7d5389/raw/error_too_very_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/error_too_very_intro.md",
                     "description": "'Too' và 'very' đều chỉ mức độ, nhưng có sự khác biệt quan trọng trong cách sử dụng."
                 },
                 {
@@ -1084,7 +1084,7 @@
                     "id": "error_few_a_few_intro",
                     "title": "Giới thiệu lỗi với 'few' và 'a few'",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/11133674dcd4c5fc561b700a1ea0b251/raw/error_few_a_few_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/error_few_a_few_intro.md",
                     "description": "'Few' và 'a few' đều ám chỉ số lượng ít, nhưng cách sử dụng chúng lại khác nhau."
                 },
                 {
@@ -1134,7 +1134,7 @@
                     "id": "error_because_intro",
                     "title": "Giới thiệu lỗi với 'because' và 'because of'",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/d767f5f4b3fc4e454877e760802219f0/raw/error_because_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/error_because_intro.md",
                     "description": "Phân biệt và sử dụng đúng 'because' và 'because of' trong các câu giải thích lý do."
                 },
                 {
@@ -1184,7 +1184,7 @@
                     "id": "error_in_at_intro",
                     "title": "Giới thiệu lỗi với 'in' và 'at'",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/65155ba179a595d9bf4eb636445ef6d1/raw/error_in_at_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/error_in_at_intro.md",
                     "description": "'In' và 'at' đều có nghĩa là 'ở', nhưng cách sử dụng chúng trong các ngữ cảnh khác nhau là khác nhau."
                 },
                 {
@@ -1234,7 +1234,7 @@
                     "id": "error_have_has_intro",
                     "title": "Giới thiệu lỗi với 'have' và 'has'",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/d0f86165d62a8fe55f2909712d33a104/raw/error_have_has_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/error_have_has_intro.md",
                     "description": "'Have' và 'has' đều là động từ 'có', nhưng cách sử dụng của chúng phụ thuộc vào chủ ngữ trong câu."
                 },
                 {

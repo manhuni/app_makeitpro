@@ -17,24 +17,23 @@
                     "id": "personal_dev_intro_md",
                     "title": "Phát triển bản thân là gì?",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/7346f4e2771e1612ad9b013831f210b1/raw/personal_dev_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/personal_dev_intro.md",
                     "description": "Giới thiệu khái niệm 'personal development', tại sao nó quan trọng và bạn có thể bắt đầu từ đâu."
                 },
                 {
                     "id": "intro_video",
                     "title": "Video chủ đề Tiếng Anh cho Phát Triển Bản Thân & Tư Duy Hệ Thống",
                     "type": "gist_video",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/46c59bafd56b6ae3aef85064439e50c3/raw/makeitpro_list_video_course_6.json",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/makeitpro_list_video_course_6.json",
                     "description": "Video minh họa chủ đề Tiếng Anh cho Phát Triển Bản Thân & Tư Duy Hệ Thống."
                 },
                 {
                     "id": "intro_md",
                     "title": "Markdown chủ đề Tiếng Anh cho Phát Triển Bản Thân & Tư Duy Hệ Thống",
                     "type": "markdown_list",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/dc8d7953f424461129e8b4b611c8a5df/raw/makeitpro_list_md_course_6.json",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/makeitpro_list_md_course_6.json",
                     "description": "Markdown minh họa chủ đề Tiếng Anh cho Phát Triển Bản Thân & Tư Duy Hệ Thống."
                 },
-                
                 {
                     "id": "personal_dev_language",
                     "title": "Ngôn ngữ tiếng Anh cho phát triển bản thân",
@@ -86,7 +85,7 @@
                     "id": "systems_thinking_intro_md",
                     "title": "Tư duy hệ thống là gì?",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/4e064ec733473204801c79b80422c7d7/raw/systems_thinking_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/systems_thinking_intro.md",
                     "description": "Giới thiệu tư duy hệ thống (systems thinking) – cách tiếp cận giúp nhìn thấy bức tranh toàn cảnh thay vì chỉ tập trung vào từng phần riêng lẻ."
                 },
                 {
@@ -140,7 +139,7 @@
                     "id": "feedback_loops_intro_md",
                     "title": "Vòng phản hồi trong hệ thống",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/c0f8ca8beaa0c38c3ad673da1c61bd3b/raw/feedback_loops_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/feedback_loops_intro.md",
                     "description": "Giới thiệu về các vòng phản hồi trong tư duy hệ thống và cách chúng ảnh hưởng đến sự thay đổi và phát triển của hệ thống theo thời gian."
                 },
                 {
@@ -194,7 +193,7 @@
                     "id": "mental_models_intro_md",
                     "title": "Mô hình tư duy là gì?",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f0c4c2cafe5f24e739ece70d25741a86/raw/mental_models_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/mental_models_intro.md",
                     "description": "Giới thiệu về mô hình tư duy (mental models) và cách chúng giúp chúng ta hiểu và giải quyết các vấn đề phức tạp trong tư duy hệ thống."
                 },
                 {
@@ -248,7 +247,7 @@
                     "id": "critical_thinking_intro_md",
                     "title": "Tư duy phản biện là gì?",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/53e20762657bd245a392e44912eb7610/raw/critical_thinking_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/critical_thinking_intro.md",
                     "description": "Giới thiệu về tư duy phản biện và cách áp dụng tư duy này để đánh giá thông tin, lập luận và đưa ra quyết định chính xác."
                 },
                 {
@@ -302,7 +301,7 @@
                     "id": "goal_setting_intro_md",
                     "title": "Thiết lập mục tiêu thông minh (SMART Goals)",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f5d60afbbb1b7914881897401b7d5d7f/raw/goal_setting_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/goal_setting_intro.md",
                     "description": "Giới thiệu về phương pháp thiết lập mục tiêu SMART (Cụ thể, Đo lường được, Có thể đạt được, Liên quan, Thời gian cụ thể)."
                 },
                 {
@@ -356,7 +355,7 @@
                     "id": "time_management_intro_md",
                     "title": "Quản lý thời gian hiệu quả",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/ab7147f5613aaf1782987044b19a72fb/raw/time_management_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/time_management_intro.md",
                     "description": "Giới thiệu về các kỹ thuật quản lý thời gian như phương pháp Pomodoro và nguyên tắc Eisenhower, giúp người học cải thiện khả năng quản lý công việc hiệu quả."
                 },
                 {
@@ -410,7 +409,7 @@
                     "id": "innovation_intro_md",
                     "title": "Đổi mới sáng tạo là gì?",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/5892d452f9988e8d7e8fb01d0afb8089/raw/innovation_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/innovation_intro.md",
                     "description": "Giới thiệu về đổi mới sáng tạo, các phương pháp và kỹ thuật kích thích sáng tạo trong tư duy hệ thống và môi trường làm việc."
                 },
                 {
@@ -464,7 +463,7 @@
                     "id": "continuous_improvement_intro_md",
                     "title": "Cải tiến liên tục là gì?",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f724b6cc8030bc1544f3941ec79a53e1/raw/continuous_improvement_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/continuous_improvement_intro.md",
                     "description": "Giới thiệu về nguyên lý cải tiến liên tục, các phương pháp và công cụ giúp tối ưu hóa hiệu suất trong các hệ thống và tổ chức."
                 },
                 {
@@ -518,7 +517,7 @@
                     "id": "leadership_intro_md",
                     "title": "Lãnh đạo là gì?",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/50f4784869778d61e803dadcb8c1f7e9/raw/leadership_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/leadership_intro.md",
                     "description": "Giới thiệu về các khái niệm lãnh đạo, các phong cách lãnh đạo khác nhau và tầm quan trọng của lãnh đạo trong hệ thống làm việc hiện đại."
                 },
                 {
@@ -572,7 +571,7 @@
                     "id": "conflict_management_intro_md",
                     "title": "Quản lý xung đột là gì?",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/e1499ccf044f0db31c642a6929626a6b/raw/conflict_management_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/conflict_management_intro.md",
                     "description": "Giới thiệu về xung đột trong môi trường làm việc, cách nhận diện và xử lý các xung đột để duy trì mối quan hệ làm việc tốt đẹp."
                 },
                 {
@@ -626,7 +625,7 @@
                     "id": "performance_evaluation_intro_md",
                     "title": "Đánh giá hiệu suất là gì?",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/11088b85689071ec8b74f55e8ae32cac/raw/performance_evaluation_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/performance_evaluation_intro.md",
                     "description": "Giới thiệu về khái niệm đánh giá hiệu suất, các tiêu chí và công cụ đánh giá giúp xác định hiệu quả công việc của cá nhân và đội nhóm."
                 },
                 {
@@ -680,7 +679,7 @@
                     "id": "critical_thinking_intro_md",
                     "title": "Tư duy phản biện là gì?",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b234a921b4df9caf26cb05bca34c8e4a/raw/critical_thinking_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/critical_thinking_intro.md",
                     "description": "Giới thiệu về tư duy phản biện, những kỹ năng và phương pháp giúp cải thiện khả năng phân tích và đánh giá thông tin một cách logic và hiệu quả."
                 },
                 {
@@ -734,7 +733,7 @@
                     "id": "communication_intro_md",
                     "title": "Kỹ năng giao tiếp cơ bản",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f2d4c9cfb9febf6a01771f04acd927a1/raw/communication_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/communication_intro.md",
                     "description": "Giới thiệu về các yếu tố cơ bản trong giao tiếp, từ việc lắng nghe chủ động đến việc truyền đạt thông điệp một cách rõ ràng và dễ hiểu."
                 },
                 {
@@ -788,7 +787,7 @@
                     "id": "leadership_intro_md",
                     "title": "Lãnh đạo là gì?",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/2402c1cf86c2ee63763a21f64b1b15ec/raw/leadership_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/leadership_intro.md",
                     "description": "Giới thiệu về khái niệm lãnh đạo, các kiểu lãnh đạo khác nhau và vai trò của người lãnh đạo trong việc dẫn dắt đội nhóm."
                 },
                 {
@@ -842,7 +841,7 @@
                     "id": "time_management_intro_md",
                     "title": "Quản lý thời gian hiệu quả",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/2f77911aacb164c8cd43128c27f20b94/raw/time_management_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/time_management_intro.md",
                     "description": "Giới thiệu về quản lý thời gian, tầm quan trọng của việc lên kế hoạch và cách sắp xếp các ưu tiên để đạt được hiệu quả công việc cao nhất."
                 },
                 {
@@ -896,7 +895,7 @@
                     "id": "stress_management_intro_md",
                     "title": "Quản lý căng thẳng hiệu quả",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/7770b329922bfd23dddf3227343a6fcc/raw/stress_management_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/stress_management_intro.md",
                     "description": "Giới thiệu về các phương pháp quản lý căng thẳng, bao gồm kỹ thuật thở, thiền và cách thức làm việc trong môi trường ít căng thẳng hơn."
                 },
                 {
@@ -950,7 +949,7 @@
                     "id": "decision_making_intro_md",
                     "title": "Ra quyết định hiệu quả",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/6e66de1959e2b5fd74a54eafba44037d/raw/decision_making_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/decision_making_intro.md",
                     "description": "Giới thiệu về các chiến lược ra quyết định, bao gồm việc phân tích thông tin, đánh giá các lựa chọn và đưa ra quyết định dựa trên thông tin có sẵn."
                 },
                 {
@@ -1004,7 +1003,7 @@
                     "id": "communication_intro_md",
                     "title": "Giới thiệu về kỹ năng giao tiếp",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/4e2b55e9db6231e3368c4e47c93d0521/raw/communication_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/communication_intro.md",
                     "description": "Giới thiệu về tầm quan trọng của kỹ năng giao tiếp trong môi trường làm việc và cách thức phát triển kỹ năng này để đạt được hiệu quả công việc tốt hơn."
                 },
                 {
@@ -1058,7 +1057,7 @@
                     "id": "relationship_management_intro_md",
                     "title": "Giới thiệu về quản lý mối quan hệ",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/92508358c23c6d94c413fba18051b38f/raw/relationship_management_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/relationship_management_intro.md",
                     "description": "Giới thiệu về tầm quan trọng của việc quản lý mối quan hệ và các yếu tố cần có để xây dựng và duy trì các mối quan hệ hiệu quả trong công việc và cuộc sống."
                 },
                 {
@@ -1112,7 +1111,7 @@
                     "id": "leadership_intro_md",
                     "title": "Giới thiệu về lãnh đạo và ảnh hưởng",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/eb34fb91bb65ac477f0a5ae997b47610/raw/leadership_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/leadership_intro.md",
                     "description": "Giới thiệu về khái niệm lãnh đạo và ảnh hưởng trong công việc và cuộc sống, cùng với các yếu tố quan trọng để trở thành một nhà lãnh đạo hiệu quả."
                 },
                 {
@@ -1166,7 +1165,7 @@
                     "id": "creative_thinking_intro_md",
                     "title": "Giới thiệu về tư duy sáng tạo và đổi mới",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/ffc0efb39fa727990ead57578590ba5f/raw/creative_thinking_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/creative_thinking_intro.md",
                     "description": "Khám phá khái niệm tư duy sáng tạo và đổi mới, cùng với các yếu tố cần thiết để thúc đẩy sự sáng tạo và giải quyết vấn đề hiệu quả."
                 },
                 {
@@ -1220,7 +1219,7 @@
                     "id": "time_management_intro_md",
                     "title": "Giới thiệu về quản lý thời gian và hiệu suất",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/a937c489938b461ec23e070f00c97ca0/raw/time_management_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/time_management_intro.md",
                     "description": "Giới thiệu về tầm quan trọng của việc quản lý thời gian và các yếu tố ảnh hưởng đến năng suất làm việc trong môi trường công sở."
                 },
                 {
@@ -1274,7 +1273,7 @@
                     "id": "negotiation_intro_md",
                     "title": "Giới thiệu về đàm phán và thuyết phục",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/af1d9e2ddcc0b89b195a284514796a2d/raw/negotiation_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/negotiation_intro.md",
                     "description": "Giới thiệu về khái niệm đàm phán và thuyết phục, tầm quan trọng của chúng trong môi trường làm việc và cách áp dụng các chiến lược phù hợp."
                 },
                 {
@@ -1328,7 +1327,7 @@
                     "id": "personal_development_intro_md",
                     "title": "Giới thiệu về phát triển cá nhân và học hỏi suốt đời",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/2f200150dae218c3d57e534aef3a3dd4/raw/personal_development_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/personal_development_intro.md",
                     "description": "Giới thiệu về khái niệm phát triển cá nhân và học hỏi suốt đời, cùng với các lợi ích của việc duy trì quá trình học hỏi liên tục trong suốt sự nghiệp và cuộc sống."
                 },
                 {
@@ -1382,7 +1381,7 @@
                     "id": "teamwork_intro_md",
                     "title": "Giới thiệu về kỹ năng làm việc nhóm",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/3fc4fd2816fbaf9dc62cdd3963f0fc62/raw/teamwork_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/teamwork_intro.md",
                     "description": "Giới thiệu về tầm quan trọng của làm việc nhóm và các yếu tố cơ bản giúp xây dựng một nhóm làm việc hiệu quả."
                 },
                 {
@@ -1436,7 +1435,7 @@
                     "id": "problem_solving_intro_md",
                     "title": "Giới thiệu về kỹ năng giải quyết vấn đề",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/653cbc892273e371a092e1f88968bff4/raw/problem_solving_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/problem_solving_intro.md",
                     "description": "Giới thiệu về khái niệm và tầm quan trọng của kỹ năng giải quyết vấn đề trong các tình huống công việc và cuộc sống thường ngày."
                 },
                 {
@@ -1490,7 +1489,7 @@
                     "id": "leadership_intro_md",
                     "title": "Giới thiệu về kỹ năng lãnh đạo",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f1e1bbe07faee231f9b4d1ddbc5fb2f5/raw/leadership_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/leadership_intro.md",
                     "description": "Giới thiệu về vai trò của lãnh đạo và những yếu tố cơ bản cần thiết để phát triển kỹ năng lãnh đạo trong công việc và cuộc sống."
                 },
                 {
@@ -1544,7 +1543,7 @@
                     "id": "time_management_intro_md",
                     "title": "Giới thiệu về kỹ năng quản lý thời gian",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/6e3c2850a11555415c3250a69f64b7a9/raw/time_management_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/time_management_intro.md",
                     "description": "Giới thiệu về tầm quan trọng của quản lý thời gian và cách các kỹ thuật này có thể giúp bạn làm việc hiệu quả và giảm bớt căng thẳng."
                 },
                 {
@@ -1598,7 +1597,7 @@
                     "id": "communication_intro_md",
                     "title": "Giới thiệu về kỹ năng giao tiếp",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/19154d3108aa547d0485968eb1d97e39/raw/communication_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/communication_intro.md",
                     "description": "Giới thiệu về vai trò quan trọng của kỹ năng giao tiếp trong cuộc sống và công việc, giúp bạn tương tác hiệu quả với người khác."
                 },
                 {
@@ -1652,7 +1651,7 @@
                     "id": "conflict_resolution_intro_md",
                     "title": "Giới thiệu về kỹ năng giải quyết xung đột",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/56ceb7d8ffb83e725b051ebd6d923440/raw/conflict_resolution_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/conflict_resolution_intro.md",
                     "description": "Giới thiệu về tầm quan trọng của việc giải quyết xung đột và các chiến lược cần thiết để xử lý các tình huống xung đột trong môi trường công việc và cuộc sống."
                 },
                 {
@@ -1706,7 +1705,7 @@
                     "id": "decision_making_intro_md",
                     "title": "Giới thiệu về kỹ năng ra quyết định",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/fbace20ec24e60c3a16d5b20563677ae/raw/decision_making_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/decision_making_intro.md",
                     "description": "Giới thiệu về tầm quan trọng của việc ra quyết định đúng đắn và các yếu tố cần thiết để đưa ra quyết định hiệu quả trong mọi tình huống."
                 },
                 {
@@ -1760,7 +1759,7 @@
                     "id": "leadership_intro_md",
                     "title": "Giới thiệu về kỹ năng lãnh đạo",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b504de375d52685ef25869c78c99923d/raw/leadership_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/leadership_intro.md",
                     "description": "Giới thiệu về vai trò và tầm quan trọng của lãnh đạo trong việc hướng dẫn đội nhóm, tạo động lực và thúc đẩy thành công trong công việc."
                 },
                 {
@@ -1814,7 +1813,7 @@
                     "id": "teamwork_intro_md",
                     "title": "Giới thiệu về kỹ năng làm việc nhóm",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/429f3a9cd040c1dc02879cdc397e1fb5/raw/teamwork_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/teamwork_intro.md",
                     "description": "Giới thiệu về tầm quan trọng của kỹ năng làm việc nhóm và cách mà sự hợp tác trong một nhóm có thể giúp đạt được thành công lớn hơn trong công việc."
                 },
                 {
@@ -1868,7 +1867,7 @@
                     "id": "time_management_intro_md",
                     "title": "Giới thiệu về kỹ năng quản lý thời gian",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/2b40961b855eabf410f2d43d0c39f15d/raw/time_management_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/time_management_intro.md",
                     "description": "Giới thiệu về tầm quan trọng của việc quản lý thời gian trong cuộc sống và công việc, giúp bạn đạt được sự cân bằng và hiệu quả cao hơn."
                 },
                 {
@@ -1922,7 +1921,7 @@
                     "id": "negotiation_intro_md",
                     "title": "Giới thiệu về kỹ năng đàm phán",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/2293bc4b31bc2b1a4f82aff8c7b87f72/raw/negotiation_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/negotiation_intro.md",
                     "description": "Giới thiệu về tầm quan trọng của kỹ năng đàm phán và cách mà một cuộc đàm phán có thể ảnh hưởng đến các mối quan hệ và kết quả công việc."
                 },
                 {
@@ -1976,7 +1975,7 @@
                     "id": "leadership_intro_md",
                     "title": "Giới thiệu về kỹ năng lãnh đạo",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/8a6ebecbccb3bbfba27fc2344632fcc1/raw/leadership_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/leadership_intro.md",
                     "description": "Giới thiệu về vai trò quan trọng của lãnh đạo trong tổ chức và cách lãnh đạo có thể ảnh hưởng đến hiệu quả công việc và phát triển cá nhân."
                 },
                 {
@@ -2030,7 +2029,7 @@
                     "id": "teamwork_intro_md",
                     "title": "Giới thiệu về kỹ năng làm việc nhóm",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/238a371a3f7d5830ab5815794bbbe237/raw/teamwork_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/teamwork_intro.md",
                     "description": "Giới thiệu về tầm quan trọng của làm việc nhóm và cách các kỹ năng này ảnh hưởng đến hiệu quả công việc và sự phát triển của nhóm."
                 },
                 {
@@ -2084,7 +2083,7 @@
                     "id": "time_management_intro_md",
                     "title": "Giới thiệu về quản lý thời gian",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b5b69e256445a6b4408bff431eff2866/raw/time_management_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/time_management_intro.md",
                     "description": "Giới thiệu về tầm quan trọng của việc quản lý thời gian và cách các kỹ năng này giúp bạn làm việc hiệu quả hơn trong công việc và cuộc sống."
                 },
                 {

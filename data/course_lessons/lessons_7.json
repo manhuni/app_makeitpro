@@ -17,42 +17,42 @@
                     "id": "cardinal_intro",
                     "title": "Giới thiệu về số đếm",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/a81b3f07408881abc85162538e20066b/raw/cardinal_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/cardinal_intro.md",
                     "description": "Tìm hiểu khái niệm số đếm và cách sử dụng chúng trong cuộc sống hàng ngày."
                 },
                 {
                     "id": "intro_video",
                     "title": "Video chủ đề Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc",
                     "type": "gist_video",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/080b308cebd28fcc475a1a1a5d4fb18b/raw/makeitpro_list_video_course_7.json",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/makeitpro_list_video_course_7.json",
                     "description": "Video minh họa Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc."
                 },
                 {
                     "id": "intro_audio",
                     "title": "Audio chủ đề Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc",
                     "type": "gist_audio",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/8030cb7dcba7c3f76534882fd4f3ee6d/raw/makeitpro_list_audio_course_7.json",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/makeitpro_list_audio_course_7.json",
                     "description": "Audio minh họa Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc."
                 },
                 {
                     "id": "intro_md",
                     "title": "Markdown chủ đề Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc",
                     "type": "markdown_list",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b3ac44367492f5fca1f69dd96c2916fa/raw/makeitpro_list_md_course_7.json",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/makeitpro_list_md_course_7.json",
                     "description": "Markdown minh họa Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc."
                 },
                 {
                     "id": "intro_pdf",
                     "title": "Pdf chủ đề Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc",
                     "type": "pdf_list",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/6ae528341f220f8c1a9efa156e2f773a/raw/makeitpro_list_pdf_course_7.json",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/makeitpro_list_pdf_course_7.json",
                     "description": "Pdf minh họa Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc."
                 },
                 {
                     "id": "intro_flashcard",
                     "title": "Flashcard chủ đề Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc",
                     "type": "flashcard_list",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/a3d209550400018531559de5fe56b2c8/raw/makeitpro_list_flashcard_course_7.json",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/makeitpro_list_flashcard_course_7.json",
                     "description": "Flashcard minh họa Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc."
                 },
                 {
@@ -106,7 +106,7 @@
                     "id": "ordinal_intro",
                     "title": "Giới thiệu về số thứ tự",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/8c012f85cd82d06ab0602396d01e6e8a/raw/ordinal_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/ordinal_intro.md",
                     "description": "Tìm hiểu sự khác biệt giữa số đếm và số thứ tự, và cách dùng số thứ tự trong đời sống hàng ngày."
                 },
                 {
@@ -160,7 +160,7 @@
                     "id": "years_intro",
                     "title": "Giới thiệu về cách đọc năm",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b979ea28a9a550b65683cbcb324aef75/raw/years_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/years_intro.md",
                     "description": "Tìm hiểu cách đọc năm trong tiếng Anh theo từng mốc thời gian và quy tắc biến đổi theo thời đại."
                 },
                 {
@@ -214,7 +214,7 @@
                     "id": "floors_intro",
                     "title": "Giới thiệu về cách đọc tầng",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/44577785f6dcf90f972cade8c7d1450c/raw/floors_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/floors_intro.md",
                     "description": "Tìm hiểu cách gọi các tầng của tòa nhà và sự khác biệt giữa Anh - Mỹ."
                 },
                 {
@@ -268,7 +268,7 @@
                     "id": "dates_intro",
                     "title": "Giới thiệu về cách nói ngày tháng",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/08db63e6fbb5d9300a8dca0ceae35206/raw/dates_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/dates_intro.md",
                     "description": "Phân biệt cách nói ngày tháng theo chuẩn Anh - Mỹ và ứng dụng trong giao tiếp hàng ngày."
                 },
                 {
@@ -322,7 +322,7 @@
                     "id": "time_intro",
                     "title": "Giới thiệu về cách nói giờ",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/187d98995ca0c2c4beb67ead36e06079/raw/time_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/time_intro.md",
                     "description": "Tìm hiểu cách nói giờ trong tiếng Anh, từ việc đọc giờ chính thức đến các cách nói thông dụng hơn trong cuộc sống hàng ngày."
                 },
                 {
@@ -376,7 +376,7 @@
                     "id": "money_intro",
                     "title": "Giới thiệu về tiền tệ",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/dbcb9099bb03235a9a5e986f483177b6/raw/money_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/money_intro.md",
                     "description": "Tìm hiểu cách sử dụng tiền tệ trong giao tiếp hàng ngày, bao gồm các đơn vị tiền tệ phổ biến và cách diễn đạt số tiền trong tiếng Anh."
                 },
                 {
@@ -430,7 +430,7 @@
                     "id": "phone_numbers_intro",
                     "title": "Giới thiệu về số điện thoại",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/c64683efc7d774066df216fcaad93b82/raw/phone_numbers_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/phone_numbers_intro.md",
                     "description": "Tìm hiểu cách gọi số điện thoại trong tiếng Anh và cách đọc số điện thoại chính xác."
                 },
                 {
@@ -484,7 +484,7 @@
                     "id": "fractions_decimals_intro",
                     "title": "Giới thiệu về phân số và thập phân",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/92f7c583c5ac4a05d0aa73e31f8947cc/raw/fractions_decimals_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/fractions_decimals_intro.md",
                     "description": "Tìm hiểu cách đọc và sử dụng phân số và thập phân trong tiếng Anh, đặc biệt là cách sử dụng các thuật ngữ khi giao tiếp về các giá trị này."
                 },
                 {
@@ -538,7 +538,7 @@
                     "id": "units_of_measurement_intro",
                     "title": "Giới thiệu về các đơn vị đo lường",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/dee92d53d064f4ead10f8e95ee98e324/raw/units_of_measurement_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/units_of_measurement_intro.md",
                     "description": "Tìm hiểu các đơn vị đo lường trong tiếng Anh và cách sử dụng chúng trong các tình huống giao tiếp hàng ngày hoặc trong công việc."
                 },
                 {
@@ -592,7 +592,7 @@
                     "id": "measurement_size_intro",
                     "title": "Giới thiệu về đo lường và kích thước",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/2ee38e33eb2bbbe0483baab43ca37d32/raw/measurement_size_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/measurement_size_intro.md",
                     "description": "Tìm hiểu cách sử dụng các đơn vị đo lường khi nói về kích thước và đo lường."
                 },
                 {
@@ -642,7 +642,7 @@
                     "id": "addresses_intro",
                     "title": "Giới thiệu về địa chỉ",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/7d8d216880fbdc29e0647b52d8ddfd08/raw/addresses_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/addresses_intro.md",
                     "description": "Tìm hiểu cách nói về địa chỉ trong tiếng Anh, từ số nhà đến tên đường, thành phố và mã bưu điện."
                 },
                 {

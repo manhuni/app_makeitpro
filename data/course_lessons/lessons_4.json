@@ -16,21 +16,21 @@
                     "id": "introduction_family_communication",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b5ada2f9f2eeecd67fb33fb12b4b8beb/raw/introduction_family_communication.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_family_communication.md",
                     "description": "Giới thiệu về tầm quan trọng của giao tiếp trong gia đình và mục tiêu của bài học."
                 },
                 {
                     "id": "intro_video",
                     "title": "Video chủ đề Tiếng Anh Giao Tiếp Cơ Bản Cho Người Mới Bắt Đầu",
                     "type": "gist_video",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/9613db7b681dbc51b5a864b7fe30109c/raw/makeitpro_list_video_course_4.json",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/makeitpro_list_video_course_4.json",
                     "description": "Video minh họa chủ đề Tiếng Anh Giao Tiếp Cơ Bản Cho Người Mới Bắt Đầu."
                 },
                 {
                     "id": "intro_md",
                     "title": "Markdown chủ đề Tiếng Anh Giao Tiếp Cơ Bản Cho Người Mới Bắt Đầu",
                     "type": "markdown_list",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/4df33e1fba3b1dd54220666b3a3c3b4f/raw/makeitpro_list_md_course_4.json",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/makeitpro_list_md_course_4.json",
                     "description": "Markdown minh họa chủ đề Tiếng Anh Giao Tiếp Cơ Bản Cho Người Mới Bắt Đầu."
                 },
                 {
@@ -227,7 +227,7 @@
                     "id": "introduction_personal_interests",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b306548660eb6398dfe5b4f841fe25c1/raw/introduction_personal_interests.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_personal_interests.md",
                     "description": "Giới thiệu về tầm quan trọng của việc chia sẻ sở thích và mục tiêu của bài học."
                 },
                 {
@@ -364,7 +364,7 @@
                     "id": "introduction_describing_objects",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/3a60d68e5e1e0f93e9d5f9dc60dc8ebb/raw/introduction_describing_objects.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_describing_objects.md",
                     "description": "Giới thiệu về tầm quan trọng của việc miêu tả đồ vật và mục tiêu của bài học."
                 },
                 {
@@ -541,7 +541,7 @@
                     "id": "introduction_talking_about_weather",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/8061534edf02ab9f335257b724dba301/raw/introduction_talking_about_weather.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_talking_about_weather.md",
                     "description": "Giới thiệu về tầm quan trọng của việc nói về thời tiết và mục tiêu của bài học."
                 },
                 {
@@ -728,7 +728,7 @@
                     "id": "introduction_giving_directions",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/1ca1c1283ad1c20278d1ba4d704ddd9c/raw/ntroduction_giving_directions.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/ntroduction_giving_directions.md",
                     "description": "Giới thiệu về tầm quan trọng của việc biết chỉ đường và hỏi đường, mục tiêu của bài học."
                 },
                 {
@@ -915,7 +915,7 @@
                     "id": "introduction_ordering_food_drinks",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/7a22090dedfc2d68114f4ab7d2dffe21/raw/introduction_ordering_food_drinks.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_ordering_food_drinks.md",
                     "description": "Giới thiệu về tầm quan trọng của việc biết gọi món và mục tiêu của bài học."
                 },
                 {
@@ -1102,7 +1102,7 @@
                     "id": "introduction_basic_shopping",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/caa3b5eeb12258f2f6a1204089b01142/raw/introduction_basic_shopping.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_basic_shopping.md",
                     "description": "Giới thiệu về tầm quan trọng của việc biết giao tiếp khi mua sắm và mục tiêu của bài học."
                 },
                 {
@@ -1339,7 +1339,7 @@
                     "id": "introduction_travel",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/da86035dbf767dc84ee5e928f0baafb1/raw/introduction_travel.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_travel.md",
                     "description": "Giới thiệu về tầm quan trọng của giao tiếp khi đi du lịch và mục tiêu của bài học."
                 },
                 {
@@ -1595,7 +1595,7 @@
                     "id": "introduction_hobbies_leisure",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f8d2432b5f70ccac475d7f49c3018120/raw/introduction_hobbies_leisure.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_hobbies_leisure.md",
                     "description": "Giới thiệu về tầm quan trọng của việc chia sẻ sở thích và hoạt động giải trí, mục tiêu của bài học."
                 },
                 {
@@ -1729,7 +1729,7 @@
                     "id": "introduction_future_plans",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/53b05dcf03f9c9e259f27143cd9b946d/raw/introduction_future_plans.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_future_plans.md",
                     "description": "Giới thiệu về tầm quan trọng của việc chia sẻ kế hoạch tương lai và mục tiêu của bài học."
                 },
                 {
@@ -1925,7 +1925,7 @@
                     "id": "introduction_comparing_objects",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/e94e7aa951b470f62819c53ead27e995/raw/introduction_comparing_objects.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_comparing_objects.md",
                     "description": "Giới thiệu về tầm quan trọng của việc so sánh đồ vật và mục tiêu của bài học."
                 },
                 {
@@ -2099,7 +2099,7 @@
                     "id": "introduction_talking_about_feelings",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/6da1b416d742cdf6895238a3ae9d13e1/raw/introduction_talking_about_feelings.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_talking_about_feelings.md",
                     "description": "Giới thiệu về tầm quan trọng của việc diễn tả cảm xúc và mục tiêu của bài học."
                 },
                 {
@@ -2286,7 +2286,7 @@
                     "id": "introduction_giving_advice",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/9db3fb8a19f015eb3ea987aac101ab0d/raw/introduction_giving_advice.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_giving_advice.md",
                     "description": "Giới thiệu về tầm quan trọng của việc đưa ra lời khuyên hữu ích và mục tiêu của bài học."
                 },
                 {
@@ -2525,7 +2525,7 @@
                     "id": "introduction_social_issues",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/06a81c7c756841e23c7437dfb9a17415/raw/introduction_social_issues.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_social_issues.md",
                     "description": "Giới thiệu về tầm quan trọng của việc thảo luận về các vấn đề xã hội và mục tiêu của bài học."
                 },
                 {
@@ -2769,7 +2769,7 @@
                     "id": "introduction_storytelling",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/ef3bc875acb27d7ef8917cc51bb930e9/raw/introduction_storytelling.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_storytelling.md",
                     "description": "Giới thiệu về tầm quan trọng của việc kể chuyện và chia sẻ kinh nghiệm, mục tiêu của bài học."
                 },
                 {
@@ -2970,7 +2970,7 @@
                     "id": "introduction_movies_music",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b7e74ee86d926a08d53333eae810e54b/raw/introduction_movies_music.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_movies_music.md",
                     "description": "Giới thiệu về tầm quan trọng của việc chia sẻ sở thích về phim ảnh và âm nhạc, mục tiêu của bài học."
                 },
                 {
@@ -3182,7 +3182,7 @@
                     "id": "introduction_work_study",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/3a371c5687e6027874037b4c3044dc47/raw/introduction_work_study.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_work_study.md",
                     "description": "Giới thiệu về tầm quan trọng của việc thảo luận về công việc và học tập, mục tiêu của bài học."
                 },
                 {
@@ -3435,7 +3435,7 @@
                     "id": "introduction_sports_health",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/1c628e6228512001250168b0b10e158f/raw/introduction_sports_health.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_sports_health.md",
                     "description": "Giới thiệu về tầm quan trọng của việc thảo luận về thể thao và sức khỏe, mục tiêu của bài học."
                 },
                 {
@@ -3691,7 +3691,7 @@
                     "id": "introduction_travel_culture",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b27c6c9dfc5082966b3d935fbe7bf2ff/raw/introduction_travel_culture.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_travel_culture.md",
                     "description": "Giới thiệu về tầm quan trọng của việc thảo luận về du lịch và văn hóa, mục tiêu của bài học."
                 },
                 {
@@ -3905,7 +3905,7 @@
                     "id": "introduction_crime_law",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/a74a8d8446242e01a911cf6e2f6c56a8/raw/introduction_crime_law.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_crime_law.md",
                     "description": "Giới thiệu về tầm quan trọng của việc hiểu biết về tội phạm và pháp luật, mục tiêu của bài học."
                 },
                 {
@@ -4117,7 +4117,7 @@
                     "id": "introduction_emergency_police_law",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/d7b41033cce97e915b9a6ae846725c33/raw/introduction_emergency_police_law.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_emergency_police_law.md",
                     "description": "Giới thiệu về tầm quan trọng của việc biết cách giao tiếp với cảnh sát trong tình huống khẩn cấp và mục tiêu của bài học."
                 },
                 {
@@ -4319,7 +4319,7 @@
                     "id": "introduction_emergency_medical_rescue",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "ihttps://gist.githubusercontent.com/manhuni/96012cfe272743099f16c5aaf54861e4/raw/ntroduction_emergency_medical_rescue.md",
+                    "fileUrl": "ihttps://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/ntroduction_emergency_medical_rescue.md",
                     "description": "Giới thiệu về tầm quan trọng của việc biết cách gọi cứu thương và cứu hộ trong tình huống khẩn cấp và mục tiêu của bài học."
                 },
                 {
@@ -4533,7 +4533,7 @@
                     "id": "introduction_traffic_parking",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/098e89804f5fb1307eb29b9b008e2387/raw/introduction_traffic_parking.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_traffic_parking.md",
                     "description": "Giới thiệu về tầm quan trọng của việc hiểu biết về giao thông và đỗ xe, mục tiêu của bài học."
                 },
                 {
@@ -4787,7 +4787,7 @@
                     "id": "introduction_discrimination_prejudice",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/a8ee7c98bb254e7441f06e2d8516d319/raw/introduction_discrimination_prejudice.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_discrimination_prejudice.md",
                     "description": "Giới thiệu về tầm quan trọng của việc nhận thức và thảo luận về phân biệt đối xử và kỳ thị, mục tiêu của bài học."
                 },
                 {
@@ -5001,7 +5001,7 @@
                     "id": "introduction_race_cultural_diversity",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/bf20a51e6b49fd911d21182413a3e970/raw/introduction_race_cultural_diversity.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_race_cultural_diversity.md",
                     "description": "Giới thiệu về tầm quan trọng của việc hiểu và tôn trọng sự đa dạng chủng tộc và văn hóa, mục tiêu của bài học."
                 },
                 {
@@ -5215,7 +5215,7 @@
                     "id": "introduction_conflict_argument",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/9f452647631786192186c6a4b01bb3d7/raw/introduction_conflict_argument.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_conflict_argument.md",
                     "description": "Giới thiệu về tầm quan trọng của việc hiểu và xử lý xung đột một cách hiệu quả, mục tiêu của bài học."
                 },
                 {
@@ -5429,7 +5429,7 @@
                     "id": "introduction_violence_fight",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b857d02ee5bc211c322d334205b78167/raw/introduction_violence_fight.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_violence_fight.md",
                     "description": "Giới thiệu về tầm quan trọng của việc nhận biết và tránh xa bạo lực, mục tiêu của bài học."
                 },
                 {
@@ -5643,7 +5643,7 @@
                     "id": "introduction_collision_traffic_accident",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/1ed2992882a0317173d3185cd94e2913/raw/introduction_collision_traffic_accident.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_collision_traffic_accident.md",
                     "description": "Giới thiệu về tầm quan trọng của việc hiểu biết về các tình huống đâm nhau và tai nạn giao thông, mục tiêu của bài học."
                 },
                 {
@@ -5897,7 +5897,7 @@
                     "id": "introduction_other_illegal_activities",
                     "title": "Giới thiệu",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/3e7ebaf649f4421efab528eb93a1cb5e/raw/introduction_other_illegal_activities.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_other_illegal_activities.md",
                     "description": "Giới thiệu về sự đa dạng của các hành vi phạm pháp và mục tiêu của bài học."
                 },
                 {
@@ -6163,7 +6163,7 @@
                     "id": "introduction_tariffs",
                     "title": "Giới thiệu về Thuế quan",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/fccb3f5a31d939fc23f16c97406d9bf4/raw/introduction_tariffs.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_tariffs.md",
                     "description": "Giới thiệu khái niệm cơ bản về thuế quan và tầm quan trọng của nó trong thương mại quốc tế."
                 },
                 {
@@ -6332,7 +6332,7 @@
                     "id": "introduction_economic_crisis",
                     "title": "Giới thiệu về Khủng hoảng kinh tế",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/a2a36a76dd7b36265dab3dc71e36c294/raw/introduction_economic_crisis.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_economic_crisis.md",
                     "description": "Giới thiệu khái niệm cơ bản về khủng hoảng kinh tế và tầm quan trọng của việc hiểu về nó."
                 },
                 {
@@ -6505,7 +6505,7 @@
                     "id": "introduction_mineral_contracts",
                     "title": "Giới thiệu về Hợp đồng khoáng sản",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/541e06952841a4a7089d1c9d4574b42c/raw/introduction_mineral_contracts.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_mineral_contracts.md",
                     "description": "Giới thiệu khái niệm cơ bản về hợp đồng khoáng sản và tầm quan trọng của nó trong ngành khai thác tài nguyên."
                 },
                 {
@@ -6673,7 +6673,7 @@
                     "id": "introduction_digital_currency",
                     "title": "Giới thiệu về Đồng tiền số",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/0040529cbb2280e48834a45067e15070/raw/introduction_digital_currency.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_digital_currency.md",
                     "description": "Giới thiệu khái niệm cơ bản về đồng tiền số và sự khác biệt giữa tiền điện tử và tiền kỹ thuật số của ngân hàng trung ương (CBDC)."
                 },
                 {
@@ -6837,7 +6837,7 @@
                     "id": "introduction_digital_transformation",
                     "title": "Giới thiệu về Chuyển đổi số",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/490d65384ed5a9284bf19b1c6a456ec8/raw/introduction_digital_transformation.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_digital_transformation.md",
                     "description": "Giới thiệu khái niệm cơ bản về chuyển đổi số và tầm quan trọng của nó trong bối cảnh hiện nay."
                 },
                 {
@@ -7012,7 +7012,7 @@
                     "id": "introduction_economic_models",
                     "title": "Giới thiệu về Các mô hình kinh tế",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/6fe7b04cdf484a0315ca9c17515dfe54/raw/introduction_economic_models.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_economic_models.md",
                     "description": "Giới thiệu khái niệm cơ bản về mô hình kinh tế và vai trò của chúng trong phân tích kinh tế."
                 },
                 {
@@ -7355,7 +7355,7 @@
                     "id": "introduction_financial_investment",
                     "title": "Giới thiệu về Đầu tư tài chính",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/157ad5fc111a3015408b143a10a922d3/raw/introduction_financial_investment.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_financial_investment.md",
                     "description": "Giới thiệu khái niệm cơ bản về đầu tư tài chính và tầm quan trọng của nó trong việc gia tăng tài sản."
                 },
                 {
@@ -7521,7 +7521,7 @@
                     "id": "introduction_inflation_deflation",
                     "title": "Giới thiệu về Lạm phát và giảm phát",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/5916779ce94feafc07ec3fbd062910fd/raw/introduction_inflation_deflation.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_inflation_deflation.md",
                     "description": "Giới thiệu khái niệm cơ bản về lạm phát và giảm phát, hai hiện tượng trái ngược nhau nhưng có ảnh hưởng lớn đến nền kinh tế."
                 },
                 {
@@ -7678,7 +7678,7 @@
                     "id": "introduction_monetary_fiscal_policy",
                     "title": "Giới thiệu về Chính sách tiền tệ và chính sách tài khóa",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/5997630ae32bf0102e558816fa0e221e/raw/introduction_monetary_fiscal_policy.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_monetary_fiscal_policy.md",
                     "description": "Giới thiệu khái niệm cơ bản về chính sách tiền tệ và chính sách tài khóa, hai công cụ quan trọng mà chính phủ sử dụng để quản lý nền kinh tế."
                 },
                 {
@@ -7835,7 +7835,7 @@
                     "id": "introduction_economic_health",
                     "title": "Giới thiệu về Sức khỏe nền kinh tế",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/e58b512b0bf5d80fc656f60b7879899d/raw/introduction_economic_health.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_economic_health.md",
                     "description": "Giới thiệu khái niệm về sức khỏe nền kinh tế và tầm quan trọng của việc theo dõi các chỉ số kinh tế."
                 },
                 {
@@ -7988,7 +7988,7 @@
                     "id": "introduction_globalization",
                     "title": "Giới thiệu về Toàn cầu hóa",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/cc6597ae1c888d50c43ca3ead08e6c8a/raw/introduction_globalization.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_globalization.md",
                     "description": "Giới thiệu khái niệm cơ bản về toàn cầu hóa và tầm quan trọng của nó trong thế giới hiện đại."
                 },
                 {
@@ -8182,7 +8182,7 @@
                     "id": "introduction_sustainable_development",
                     "title": "Giới thiệu về Phát triển bền vững",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/500c0d94b3ad9b2148e40879a72eaaea/raw/introduction_sustainable_development.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_sustainable_development.md",
                     "description": "Giới thiệu khái niệm cơ bản về phát triển bền vững và tầm quan trọng của nó trong bối cảnh các thách thức toàn cầu hiện nay."
                 },
                 {
@@ -8350,7 +8350,7 @@
                     "id": "introduction_business_ethics",
                     "title": "Giới thiệu về Đạo đức kinh doanh",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/cb20183bb947f00b82626181a26726d7/raw/introduction_business_ethics.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_business_ethics.md",
                     "description": "Giới thiệu khái niệm cơ bản về đạo đức kinh doanh và vai trò của nó trong sự thành công bền vững của doanh nghiệp."
                 },
                 {
@@ -8573,7 +8573,7 @@
                     "id": "introduction_csr",
                     "title": "Giới thiệu về Trách nhiệm xã hội của doanh nghiệp (CSR)",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b396a9cff1a0f1c96f944d943ce96aca/raw/introduction_csr.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_csr.md",
                     "description": "Giới thiệu khái niệm cơ bản về CSR và tầm quan trọng của nó trong bối cảnh phát triển bền vững."
                 },
                 {
@@ -8758,7 +8758,7 @@
                     "id": "introduction_entrepreneurship",
                     "title": "Giới thiệu về Khởi nghiệp",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/cbf4d4eb55409ba54400ef3bfcf67fd7/raw/introduction_entrepreneurship.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_entrepreneurship.md",
                     "description": "Giới thiệu khái niệm cơ bản về khởi nghiệp và vai trò của nó trong nền kinh tế."
                 },
                 {
@@ -8966,7 +8966,7 @@
                     "id": "introduction_risk_management",
                     "title": "Giới thiệu về Quản lý rủi ro",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/4b7bd102810287566eb04d5b4265c7e4/raw/introduction_risk_management.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_risk_management.md",
                     "description": "Giới thiệu khái niệm cơ bản về quản lý rủi ro và vai trò của nó trong việc bảo vệ và phát triển doanh nghiệp."
                 },
                 {
@@ -9191,7 +9191,7 @@
                     "id": "introduction_quality_management",
                     "title": "Giới thiệu về Quản lý chất lượng",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/6924487f5e8a17ecc92e51abe4c04a91/raw/introduction_quality_management.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_quality_management.md",
                     "description": "Giới thiệu khái niệm cơ bản về quản lý chất lượng và vai trò của nó trong việc đáp ứng yêu cầu của khách hàng và nâng cao hiệu quả hoạt động."
                 },
                 {
@@ -9400,7 +9400,7 @@
                     "id": "introduction_supply_chain_management",
                     "title": "Giới thiệu về Quản lý chuỗi cung ứng",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/181c314ec12df6074db16863b45827c9/raw/introduction_supply_chain_management.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/introduction_supply_chain_management.md",
                     "description": "Giới thiệu khái niệm cơ bản về quản lý chuỗi cung ứng và vai trò của nó trong việc tối ưu hóa dòng chảy hàng hóa và thông tin."
                 },
                 {
@@ -9653,7 +9653,7 @@
                     "id": "project_management_intro",
                     "title": "Giới thiệu về quản lý dự án",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b90ed0b8352b869b8ddf02b45ad3041e/raw/project_management_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/project_management_intro.md",
                     "description": "Tìm hiểu vai trò và tầm quan trọng của quản lý dự án trong các tổ chức hiện đại."
                 },
                 {
@@ -9707,7 +9707,7 @@
                     "id": "change_management_intro",
                     "title": "Giới thiệu về quản lý sự thay đổi",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/799a55450f3fd75999c4e88f3791ad18/raw/change_management_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/change_management_intro.md",
                     "description": "Giới thiệu khái niệm và mục tiêu chính của quản lý sự thay đổi trong tổ chức."
                 },
                 {
@@ -9761,7 +9761,7 @@
                     "id": "business_ethics_intro",
                     "title": "Giới thiệu về đạo đức kinh doanh và trách nhiệm xã hội",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/fe2e4a9107521102ea027277bda2ec02/raw/business_ethics_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/business_ethics_intro.md",
                     "description": "Tổng quan về các giá trị đạo đức và trách nhiệm của doanh nghiệp đối với xã hội và môi trường."
                 },
                 {
@@ -9815,7 +9815,7 @@
                     "id": "entrepreneurship_intro",
                     "title": "Giới thiệu về khởi nghiệp và đổi mới",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b18a56d380c865cc94a75c153bffcf01/raw/entrepreneurship_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/entrepreneurship_intro.md",
                     "description": "Giới thiệu khái niệm khởi nghiệp và vai trò của đổi mới trong phát triển doanh nghiệp."
                 },
                 {
@@ -9869,7 +9869,7 @@
                     "id": "international_business_intro",
                     "title": "Giới thiệu về kinh doanh quốc tế",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/2098df0eac59ed7288131042111db40d/raw/international_business_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/international_business_intro.md",
                     "description": "Tổng quan về tầm quan trọng và các yếu tố chính của kinh doanh quốc tế trong nền kinh tế toàn cầu."
                 },
                 {
@@ -9923,7 +9923,7 @@
                     "id": "data_analysis_intro",
                     "title": "Giới thiệu về phân tích dữ liệu trong kinh doanh",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/dc0066ffa62ce1064db53bb5499c0863/raw/data_analysis_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/data_analysis_intro.md",
                     "description": "Tổng quan về cách dữ liệu được sử dụng để hỗ trợ chiến lược và hoạt động kinh doanh."
                 },
                 {
@@ -9977,7 +9977,7 @@
                     "id": "digital_transformation_intro",
                     "title": "Giới thiệu về chuyển đổi số trong doanh nghiệp",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/4feee0c359746e10a0b16d87a78676de/raw/digital_transformation_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/digital_transformation_intro.md",
                     "description": "Tổng quan về quá trình chuyển đổi số và tác động của nó đến doanh nghiệp trong kỷ nguyên số."
                 },
                 {
@@ -10031,7 +10031,7 @@
                     "id": "digital_marketing_intro",
                     "title": "Giới thiệu về marketing kỹ thuật số",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/79e76117e05ecb04b7a00fb963957276/raw/digital_marketing_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/digital_marketing_intro.md",
                     "description": "Tổng quan về marketing kỹ thuật số và cách nó tác động đến chiến lược tiếp thị hiện nay."
                 },
                 {
@@ -10085,7 +10085,7 @@
                     "id": "sales_distribution_intro",
                     "title": "Giới thiệu về bán hàng và quản lý kênh phân phối",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/a51624a1599184b98b26a40545a094b4/raw/sales_distribution_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/sales_distribution_intro.md",
                     "description": "Tổng quan về quá trình bán hàng và các chiến lược phân phối sản phẩm hiệu quả trong môi trường cạnh tranh."
                 },
                 {
@@ -10139,7 +10139,7 @@
                     "id": "customer_service_intro",
                     "title": "Giới thiệu về dịch vụ khách hàng",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/fb577913200ef0690e23bd65e474cd39/raw/customer_service_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/customer_service_intro.md",
                     "description": "Tổng quan về tầm quan trọng của dịch vụ khách hàng và cách các công ty có thể cải thiện trải nghiệm khách hàng."
                 },
                 {
@@ -10193,7 +10193,7 @@
                     "id": "soft_skills_intro",
                     "title": "Giới thiệu về kỹ năng mềm trong kinh doanh",
                     "type": "markdown",
-                    "fileUrl": "https://gist.githubusercontent.com/manhuni/4b1e59e1d337e97748a04d20aa08d598/raw/soft_skills_intro.md",
+                    "fileUrl": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/soft_skills_intro.md",
                     "description": "Tổng quan về các kỹ năng mềm cần thiết trong kinh doanh, bao gồm giao tiếp, làm việc nhóm và giải quyết vấn đề."
                 },
                 {
