@@ -1,0 +1,29 @@
+{
+    "intro_flashcard": [
+        {
+            "type": "gist",
+            "description": "IPA",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/flashcard_ipa.json"
+        },
+        {
+            "type": "gist",
+            "description": "[A-G] Complete Phrasal Verbs List",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/flashcard_complete_phrasal_verbs_list.json"
+        },
+        {
+            "type": "gist",
+            "description": "[H-N] Complete Phrasal Verbs List",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/flashcard_complete_phrasal_verbs_list_h_n.json"
+        },
+        {
+            "type": "gist",
+            "description": "[O-T] Complete Phrasal Verbs List",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/flashcard_complete_phrasal_verbs_list_o_t.json"
+        },
+        {
+            "type": "gist",
+            "description": "[U-Z] Complete Phrasal Verbs List",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/refs/heads/main/gist/flashcard_complete_phrasal_verbs_list_u_z.json"
+        }
+    ]
+}

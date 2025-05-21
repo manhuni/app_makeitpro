@@ -1,0 +1,34 @@
+{
+  "intro_pdf": [
+          {
+              "type": "github",
+              "description": "Grammar: Using Prepositions",
+              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/pdf/Prepositions%20Final.pdf"
+          },
+          {
+              "type": "github",
+              "description": "Grammar Cheatsheet",
+              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/pdf/Grammar%20Cheatsheet.pdf"
+          },
+          {
+              "type": "github",
+              "description": "Sentence Types and Functions",
+              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/pdf/Sentence%20Types%20and%20Functions.pdf"
+          },
+          {
+              "type": "github",
+              "description": "Academic Writing Cheat Sheet English",
+              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/pdf/Academic-Writing-Cheat-Sheet-English.pdf"
+          },
+          {
+              "type": "github",
+              "description": "Commas Cheat Sheet",
+              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/pdf/commas.pdf"
+          },
+          {
+              "type": "github",
+              "description": "Complete Phrasal Verbs List",
+              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/pdf/Complete-PV-list.pdf"
+          }
+      ]
+}

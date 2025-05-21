@@ -1,0 +1,56 @@
+{
+  "rss": {
+    "vnexpress": {
+      "domain": "https://vnexpress.net",
+      "channels": [
+        { "title": "Trang chủ", "rss": "/rss/tin-moi-nhat.rss" },
+        { "title": "Tâm sự", "rss": "/rss/tam-su.rss" },
+        { "title": "Thế giới", "rss": "/rss/the-gioi.rss" },
+        { "title": "Thời sự", "rss": "/rss/thoi-su.rss" },
+        { "title": "Kinh doanh", "rss": "/rss/kinh-doanh.rss" },
+        { "title": "Startup", "rss": "/rss/startup.rss" },
+        { "title": "Giải trí", "rss": "/rss/giai-tri.rss" },
+        { "title": "Thể thao", "rss": "/rss/the-thao.rss" },
+        { "title": "Pháp luật", "rss": "/rss/phap-luat.rss" },
+        { "title": "Giáo dục", "rss": "/rss/giao-duc.rss" },
+        { "title": "Tin mới nhất", "rss": "/rss/tin-moi-nhat.rss" },
+        { "title": "Tin nổi bật", "rss": "/rss/tin-noi-bat.rss" },
+        { "title": "Sức khỏe", "rss": "/rss/suc-khoe.rss" },
+        { "title": "Đời sống", "rss": "/rss/gia-dinh.rss" },
+        { "title": "Du lịch", "rss": "/rss/du-lich.rss" },
+        { "title": "Khoa học công nghệ", "rss": "/rss/khoa-hoc-cong-nghe.rss" },
+        { "title": "Xe", "rss": "/rss/oto-xe-may.rss" },
+        { "title": "Ý kiến", "rss": "/rss/y-kien.rss" },
+        { "title": "Cười", "rss": "/rss/cuoi.rss" },
+        { "title": "Tin xem nhiều", "rss": "/rss/tin-xem-nhieu.rss" }
+      ]
+    },
+    "24h": {
+      "domain": "https://cdn.24h.com.vn",
+      "channels": [
+        { "title": "Trang chủ", "rss": "/upload/rss/trangchu24h.rss" },
+        { "title": "Tin tức trong ngày", "rss": "/upload/rss/tintuctrongngay.rss" },
+        { "title": "Bóng đá", "rss": "/upload/rss/bongda.rss" },
+        { "title": "ASIAN CUP 2019", "rss": "/upload/rss/asiancup2019.rss" },
+        { "title": "An ninh - Hình sự", "rss": "/upload/rss/anninhhinhsu.rss" },
+        { "title": "Thời trang", "rss": "/upload/rss/thoitrang.rss" },
+        { "title": "Thời trang Hi-tech", "rss": "/upload/rss/thoitranghitech.rss" },
+        { "title": "Tài chính – Bất động sản", "rss": "/upload/rss/taichinhbatdongsan.rss" },
+        { "title": "Ẩm thực", "rss": "/upload/rss/amthuc.rss" },
+        { "title": "Làm đẹp", "rss": "/upload/rss/lamdep.rss" },
+        { "title": "Phim", "rss": "/upload/rss/phim.rss" },
+        { "title": "Giáo dục - du học", "rss": "/upload/rss/giaoducduhoc.rss" },
+        { "title": "Bạn trẻ - Cuộc sống", "rss": "/upload/rss/bantrecuocsong.rss" },
+        { "title": "Ca nhạc - MTV", "rss": "/upload/rss/canhacmtv.rss" },
+        { "title": "Thể thao", "rss": "/upload/rss/thethao.rss" },
+        { "title": "Phi thường - kỳ quặc", "rss": "/upload/rss/phithuongkyquac.rss" },
+        { "title": "Công nghệ thông tin", "rss": "/upload/rss/congnghethongtin.rss" },
+        { "title": "Ô tô", "rss": "/upload/rss/oto.rss" },
+        { "title": "Thị trường - Tiêu dùng", "rss": "/upload/rss/thitruongtieudung.rss" },
+        { "title": "Du lịch", "rss": "/upload/rss/dulich.rss" },
+        { "title": "Sức khỏe đời sống", "rss": "/upload/rss/suckhoedoisong.rss" },
+        { "title": "Cười 24h", "rss": "/upload/rss/cuoi24h.rss" }
+      ]
+    }
+  }
+}

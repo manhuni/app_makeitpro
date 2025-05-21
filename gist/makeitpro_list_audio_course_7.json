@@ -1,0 +1,9 @@
+{
+  "intro_audio": [
+          {
+              "type": "github",
+              "description": "https://pronunciationstudio.com/chapter-1-sample/",
+              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/audio/audiointro.mp3"
+          }
+      ]
+}
