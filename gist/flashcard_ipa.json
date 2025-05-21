@@ -1,0 +1,1100 @@
+{
+    "topic": "IPA",
+    "flashcards": [
+        {
+            "word": "/iː/",
+            "exampleWords": [
+                "see",
+                "green",
+                "seat",
+                "machine",
+                "belief"
+            ],
+            "exampleWordHighlighted": "s**ee**",
+            "definition": "A long close front unrounded vowel, pronounced with the tongue high and towards the front of the mouth.",
+            "exampleSentence": "I can see the green tree from here.",
+            "exampleSentenceIPA": "/aɪ kæn siː ðə ɡriːn triː frɒm hɪə/",
+            "exampleSentence_vn": "Tôi có thể nhìn thấy cây xanh từ đây.",
+            "audio": "https://example.com/audio/iː.mp3",
+            "tips": "Giữ môi hơi kéo dài như đang cười nhẹ và phát âm âm dài.",
+            "type": "vowel",
+            "tags": [
+                "long vowel",
+                "front vowel",
+                "common"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Think of the double 'ee' in 'see' which signals a long /iː/ sound."
+        },
+        {
+            "word": "/ɪ/",
+            "exampleWords": [
+                "bit",
+                "ship",
+                "sit",
+                "milk",
+                "quick"
+            ],
+            "exampleWordHighlighted": "b**i**t",
+            "definition": "A short close front unrounded vowel, pronounced with the tongue high but slightly lower than /iː/.",
+            "exampleSentence": "She bit into the juicy apple quickly.",
+            "exampleSentenceIPA": "/ʃiː bɪt ˈɪntuː ðə ˈdʒuːsi ˈæpəl ˈkwɪkli/",
+            "exampleSentence_vn": "Cô ấy cắn vào quả táo mọng nước một cách nhanh chóng.",
+            "audio": "https://example.com/audio/ɪ.mp3",
+            "tips": "Giữ miệng mở vừa phải, âm ngắn và không kéo dài.",
+            "type": "vowel",
+            "tags": [
+                "short vowel",
+                "front vowel",
+                "common"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Think of the short 'i' in 'bit' that sounds quicker than 'see'."
+        },
+        {
+            "word": "/ʊ/",
+            "exampleWords": [
+                "put",
+                "good",
+                "book",
+                "foot",
+                "could"
+            ],
+            "exampleWordHighlighted": "g**oo**d",
+            "definition": "A short close back rounded vowel, pronounced with lips rounded and tongue raised near the back.",
+            "exampleSentence": "He put the book on the foot of the bed.",
+            "exampleSentenceIPA": "/hi pʊt ðə bʊk ɒn ðə fʊt əv ðə bɛd/",
+            "exampleSentence_vn": "Anh ấy đặt cuốn sách ở cuối giường.",
+            "audio": "https://example.com/audio/ʊ.mp3",
+            "tips": "Môi tròn nhẹ, âm ngắn, không kéo dài.",
+            "type": "vowel",
+            "tags": [
+                "short vowel",
+                "back vowel",
+                "common"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Nhớ đến âm ngắn như trong từ 'put' và 'good'."
+        },
+        {
+            "word": "/uː/",
+            "exampleWords": [
+                "too",
+                "blue",
+                "food",
+                "school",
+                "moon"
+            ],
+            "exampleWordHighlighted": "bl**ue**",
+            "definition": "A long close back rounded vowel, pronounced with lips rounded and tongue high at the back.",
+            "exampleSentence": "The sky is so blue and clear today.",
+            "exampleSentenceIPA": "/ðə skaɪ ɪz səʊ bluː ænd klɪə təˈdeɪ/",
+            "exampleSentence_vn": "Bầu trời hôm nay rất xanh và trong.",
+            "audio": "https://example.com/audio/uː.mp3",
+            "tips": "Môi tròn, giữ âm lâu hơn và rõ ràng.",
+            "type": "vowel",
+            "tags": [
+                "long vowel",
+                "back vowel",
+                "common"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Tưởng tượng âm kéo dài trong từ 'moon' hay 'food'."
+        },
+        {
+            "word": "/e/",
+            "exampleWords": [
+                "bed",
+                "head",
+                "red",
+                "said",
+                "friend"
+            ],
+            "exampleWordHighlighted": "b**e**d",
+            "definition": "A short mid-front unrounded vowel, được phát âm với lưỡi đặt ở giữa phần trước miệng.",
+            "exampleSentence": "The bed in the room is very comfortable.",
+            "exampleSentenceIPA": "/ðə bɛd ɪn ðə ruːm ɪz ˈveri ˈkʌmfətəbl/",
+            "exampleSentence_vn": "Chiếc giường trong phòng rất thoải mái.",
+            "audio": "https://example.com/audio/e.mp3",
+            "tips": "Mở miệng vừa phải, âm ngắn và rõ ràng.",
+            "type": "vowel",
+            "tags": [
+                "short vowel",
+                "front vowel",
+                "common"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Ghi nhớ âm trong từ 'bed' và 'red'."
+        },
+        {
+            "word": "/ə/",
+            "exampleWords": [
+                "about",
+                "sofa",
+                "banana",
+                "again",
+                "ago"
+            ],
+            "exampleWordHighlighted": "ab**ou**t",
+            "definition": "A mid-central, unstressed, neutral vowel sound, often called 'schwa', pronounced with the tongue relaxed in the middle of the mouth.",
+            "exampleSentence": "She is about to leave the house.",
+            "exampleSentenceIPA": "/ʃi ɪz əˈbaʊt tə liːv ðə haʊs/",
+            "exampleSentence_vn": "Cô ấy sắp rời khỏi nhà.",
+            "audio": "https://example.com/audio/ə.mp3",
+            "tips": "Phát âm rất nhẹ và nhanh, không nhấn mạnh.",
+            "type": "vowel",
+            "tags": [
+                "schwa",
+                "unstressed vowel",
+                "common"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm trung tính, thường ở âm tiết không nhấn trong tiếng Anh."
+        },
+        {
+            "word": "/ɜː/",
+            "exampleWords": [
+                "bird",
+                "learn",
+                "word",
+                "nurse",
+                "early"
+            ],
+            "exampleWordHighlighted": "b**ir**d",
+            "definition": "A mid-central, stressed, long vowel sound with the tongue positioned in the middle and lips unrounded.",
+            "exampleSentence": "The bird is singing beautifully.",
+            "exampleSentenceIPA": "/ðə bɜːd ɪz ˈsɪŋɪŋ ˈbjuːtɪfəli/",
+            "exampleSentence_vn": "Con chim đang hót rất hay.",
+            "audio": "https://example.com/audio/ɜː.mp3",
+            "tips": "Giữ âm dài và rõ, môi mở tự nhiên.",
+            "type": "vowel",
+            "tags": [
+                "long vowel",
+                "central vowel",
+                "common"
+            ],
+            "languageLevel": "A2",
+            "mnemonic": "Nhớ âm trong từ 'bird' kéo dài và rõ ràng."
+        },
+        {
+            "word": "/ɔː/",
+            "exampleWords": [
+                "call",
+                "door",
+                "more",
+                "law",
+                "saw"
+            ],
+            "exampleWordHighlighted": "d**oo**r",
+            "definition": "A long open-mid back rounded vowel, pronounced with lips rounded and the tongue positioned low in the back.",
+            "exampleSentence": "Please close the door behind you.",
+            "exampleSentenceIPA": "/pliːz kləʊz ðə dɔːr bɪˈhaɪnd juː/",
+            "exampleSentence_vn": "Làm ơn đóng cửa lại phía sau bạn.",
+            "audio": "https://example.com/audio/ɔː.mp3",
+            "tips": "Môi tròn và giữ âm dài, không nhấn quá mạnh.",
+            "type": "vowel",
+            "tags": [
+                "long vowel",
+                "back vowel",
+                "common"
+            ],
+            "languageLevel": "A2",
+            "mnemonic": "Giống âm trong từ 'door' và 'call'."
+        },
+        {
+            "word": "/æ/",
+            "exampleWords": [
+                "cat",
+                "black",
+                "apple",
+                "man",
+                "hat"
+            ],
+            "exampleWordHighlighted": "c**a**t",
+            "definition": "A short front open vowel, pronounced with the tongue low and at the front of the mouth.",
+            "exampleSentence": "The black cat is sleeping on the mat.",
+            "exampleSentenceIPA": "/ðə blæk kæt ɪz ˈsliːpɪŋ ɒn ðə mæt/",
+            "exampleSentence_vn": "Con mèo đen đang ngủ trên tấm thảm.",
+            "audio": "https://example.com/audio/æ.mp3",
+            "tips": "Mở miệng rộng, lưỡi thấp.",
+            "type": "vowel",
+            "tags": [
+                "short vowel",
+                "front vowel",
+                "common"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm rộng như trong từ 'cat' và 'apple'."
+        },
+        {
+            "word": "/ʌ/",
+            "exampleWords": [
+                "cup",
+                "luck",
+                "sun",
+                "bus",
+                "love"
+            ],
+            "exampleWordHighlighted": "c**u**p",
+            "definition": "A short central vowel, pronounced with the tongue positioned in the middle of the mouth, slightly lowered.",
+            "exampleSentence": "I drank a cup of tea this morning.",
+            "exampleSentenceIPA": "/aɪ dræŋk ə kʌp əv tiː ðɪs ˈmɔːnɪŋ/",
+            "exampleSentence_vn": "Tôi đã uống một tách trà sáng nay.",
+            "audio": "https://example.com/audio/ʌ.mp3",
+            "tips": "Miệng hơi mở, âm ngắn và tự nhiên.",
+            "type": "vowel",
+            "tags": [
+                "short vowel",
+                "central vowel",
+                "common"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm giống trong từ 'cup' và 'luck'."
+        },
+        {
+            "word": "/ɑː/",
+            "exampleWords": [
+                "car",
+                "father",
+                "start",
+                "park",
+                "heart"
+            ],
+            "exampleWordHighlighted": "c**ar**",
+            "definition": "A long open back unrounded vowel, pronounced with the tongue low and towards the back of the mouth.",
+            "exampleSentence": "My car is parked outside.",
+            "exampleSentenceIPA": "/maɪ kɑːr ɪz pɑːrkt ˈaʊtsaɪd/",
+            "exampleSentence_vn": "Xe của tôi đang đậu ngoài kia.",
+            "audio": "https://example.com/audio/ɑː.mp3",
+            "tips": "Mở miệng rộng, giữ âm lâu và không tròn môi.",
+            "type": "vowel",
+            "tags": [
+                "long vowel",
+                "back vowel",
+                "common"
+            ],
+            "languageLevel": "A2",
+            "mnemonic": "Âm dài như trong từ 'car' và 'father'."
+        },
+        {
+            "word": "/ɒ/",
+            "exampleWords": [
+                "hot",
+                "dog",
+                "pot",
+                "box",
+                "clock"
+            ],
+            "exampleWordHighlighted": "h**o**t",
+            "definition": "A short open back rounded vowel, pronounced with the tongue low and back, lips rounded.",
+            "exampleSentence": "It is very hot today.",
+            "exampleSentenceIPA": "/ɪt ɪz ˈveri hɒt təˈdeɪ/",
+            "exampleSentence_vn": "Hôm nay rất nóng.",
+            "audio": "https://example.com/audio/ɒ.mp3",
+            "tips": "Môi tròn, âm ngắn, mở miệng rộng.",
+            "type": "vowel",
+            "tags": [
+                "short vowel",
+                "back vowel",
+                "common"
+            ],
+            "languageLevel": "A2",
+            "mnemonic": "Âm ngắn trong từ 'hot' và 'dog'."
+        },
+        {
+            "word": "/eɪ/",
+            "exampleWords": [
+                "day",
+                "play",
+                "say",
+                "eight",
+                "face"
+            ],
+            "exampleWordHighlighted": "d**ay**",
+            "definition": "A diphthong starting with a mid-front vowel moving to a close front vowel.",
+            "exampleSentence": "Today is a sunny day.",
+            "exampleSentenceIPA": "/təˈdeɪ ɪz ə ˈsʌni deɪ/",
+            "exampleSentence_vn": "Hôm nay là một ngày nắng đẹp.",
+            "audio": "https://example.com/audio/eɪ.mp3",
+            "tips": "Bắt đầu bằng âm /e/ rồi nhanh chóng chuyển sang /ɪ/.",
+            "type": "diphthong",
+            "tags": [
+                "diphthong",
+                "common"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Giống âm trong từ 'day' và 'play'."
+        },
+        {
+            "word": "/aɪ/",
+            "exampleWords": [
+                "my",
+                "time",
+                "five",
+                "like",
+                "high"
+            ],
+            "exampleWordHighlighted": "t**i**me",
+            "definition": "A diphthong starting with an open front vowel moving to a close front vowel.",
+            "exampleSentence": "My time to shine has come.",
+            "exampleSentenceIPA": "/maɪ taɪm tə ʃaɪn hæz kʌm/",
+            "exampleSentence_vn": "Đã đến lúc tôi tỏa sáng.",
+            "audio": "https://example.com/audio/aɪ.mp3",
+            "tips": "Bắt đầu âm mở rộng rồi chuyển nhanh sang âm cao /ɪ/.",
+            "type": "diphthong",
+            "tags": [
+                "diphthong",
+                "common"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm trong từ 'my' và 'time'."
+        },
+        {
+            "word": "/ɔɪ/",
+            "exampleWords": [
+                "boy",
+                "coin",
+                "join",
+                "toy",
+                "voice"
+            ],
+            "exampleWordHighlighted": "b**oy**",
+            "definition": "A diphthong starting with an open-mid back rounded vowel moving to a close front vowel.",
+            "exampleSentence": "The boy is playing with his new toy.",
+            "exampleSentenceIPA": "/ðə bɔɪ ɪz ˈpleɪɪŋ wɪð hɪz njuː tɔɪ/",
+            "exampleSentence_vn": "Cậu bé đang chơi với món đồ chơi mới của mình.",
+            "audio": "https://example.com/audio/ɔɪ.mp3",
+            "tips": "Bắt đầu với âm /ɔ/ tròn môi, chuyển sang âm /ɪ/ nhanh.",
+            "type": "diphthong",
+            "tags": [
+                "diphthong",
+                "common"
+            ],
+            "languageLevel": "A2",
+            "mnemonic": "Âm trong từ 'boy' và 'coin'."
+        },
+        {
+            "word": "/aʊ/",
+            "exampleWords": [
+                "now",
+                "out",
+                "house",
+                "mouth",
+                "down"
+            ],
+            "exampleWordHighlighted": "n**ow**",
+            "definition": "A diphthong starting with an open front vowel moving to a close back rounded vowel.",
+            "exampleSentence": "I am going out now.",
+            "exampleSentenceIPA": "/aɪ æm ˈɡəʊɪŋ aʊt naʊ/",
+            "exampleSentence_vn": "Tôi đang ra ngoài ngay bây giờ.",
+            "audio": "https://example.com/audio/aʊ.mp3",
+            "tips": "Bắt đầu mở miệng rộng rồi chuyển sang môi tròn khi lên cao.",
+            "type": "diphthong",
+            "tags": [
+                "diphthong",
+                "common"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm trong từ 'now' và 'house'."
+        },
+        {
+            "word": "/əʊ/",
+            "exampleWords": [
+                "go",
+                "no",
+                "so",
+                "home",
+                "hope"
+            ],
+            "exampleWordHighlighted": "g**o**",
+            "definition": "A diphthong starting with a mid-central vowel moving to a close back rounded vowel.",
+            "exampleSentence": "I want to go home now.",
+            "exampleSentenceIPA": "/aɪ wɒnt tuː gəʊ həʊm naʊ/",
+            "exampleSentence_vn": "Tôi muốn về nhà ngay bây giờ.",
+            "audio": "https://example.com/audio/əʊ.mp3",
+            "tips": "Bắt đầu nhẹ với âm trung tính rồi lên môi tròn ở cuối.",
+            "type": "diphthong",
+            "tags": [
+                "diphthong",
+                "common"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm trong từ 'go' và 'home'."
+        },
+        {
+            "word": "/ɪə/",
+            "exampleWords": [
+                "ear",
+                "here",
+                "idea",
+                "clear",
+                "near"
+            ],
+            "exampleWordHighlighted": "**ea**r",
+            "definition": "A centering diphthong starting with a close front vowel moving to a mid-central vowel.",
+            "exampleSentence": "I can hear you clearly here.",
+            "exampleSentenceIPA": "/aɪ kæn hɪə juː ˈklɪəli hɪə/",
+            "exampleSentence_vn": "Tôi có thể nghe bạn rõ ràng ở đây.",
+            "audio": "https://example.com/audio/ɪə.mp3",
+            "tips": "Âm bắt đầu cao ở phía trước rồi chuyển dần về trung tâm.",
+            "type": "diphthong",
+            "tags": [
+                "diphthong",
+                "centering",
+                "common"
+            ],
+            "languageLevel": "B1",
+            "mnemonic": "Âm trong từ 'ear' và 'idea'."
+        },
+        {
+            "word": "/eə/",
+            "exampleWords": [
+                "air",
+                "care",
+                "share",
+                "fair",
+                "there"
+            ],
+            "exampleWordHighlighted": "**ai**r",
+            "definition": "A centering diphthong starting with a mid-front vowel moving to a mid-central vowel.",
+            "exampleSentence": "The air is fresh today.",
+            "exampleSentenceIPA": "/ðə eə ɪz frɛʃ təˈdeɪ/",
+            "exampleSentence_vn": "Không khí hôm nay rất trong lành.",
+            "audio": "https://example.com/audio/eə.mp3",
+            "tips": "Bắt đầu âm trung bình phía trước rồi dần hạ xuống âm trung tâm.",
+            "type": "diphthong",
+            "tags": [
+                "diphthong",
+                "centering",
+                "common"
+            ],
+            "languageLevel": "B1",
+            "mnemonic": "Âm trong từ 'air' và 'care'."
+        },
+        {
+            "word": "/ʊə/",
+            "exampleWords": [
+                "poor",
+                "tour",
+                "sure",
+                "cure",
+                "secure"
+            ],
+            "exampleWordHighlighted": "p**oo**r",
+            "definition": "A centering diphthong starting with a close back rounded vowel moving to a mid-central vowel.",
+            "exampleSentence": "They took a tour of the old castle.",
+            "exampleSentenceIPA": "/ðeɪ tʊk ə tʊə əv ði əʊld ˈkɑːsl/",
+            "exampleSentence_vn": "Họ đã đi tham quan lâu đài cũ.",
+            "audio": "https://example.com/audio/ʊə.mp3",
+            "tips": "Môi tròn rồi dần thả lỏng về âm trung tâm.",
+            "type": "diphthong",
+            "tags": [
+                "diphthong",
+                "centering",
+                "common"
+            ],
+            "languageLevel": "B1",
+            "mnemonic": "Âm trong từ 'poor' và 'tour'."
+        },
+        {
+            "word": "/p/",
+            "exampleWords": [
+                "pen",
+                "map",
+                "paper",
+                "stop",
+                "cup"
+            ],
+            "exampleWordHighlighted": "**p**en",
+            "definition": "A voiceless bilabial plosive, produced by blocking airflow with both lips and releasing it suddenly without vocal cord vibration.",
+            "exampleSentence": "She wrote with a blue pen.",
+            "exampleSentenceIPA": "/ʃi roʊt wɪð ə bluː pɛn/",
+            "exampleSentence_vn": "Cô ấy viết bằng cây bút màu xanh dương.",
+            "audio": "https://example.com/audio/p.mp3",
+            "tips": "Đôi môi đóng chặt rồi bật ra nhanh, không rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiceless",
+                "bilabial",
+                "plosive"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm bật môi, không rung thanh quản."
+        },
+        {
+            "word": "/b/",
+            "exampleWords": [
+                "bat",
+                "baby",
+                "cab",
+                "ball",
+                "job"
+            ],
+            "exampleWordHighlighted": "**b**at",
+            "definition": "A voiced bilabial plosive, produced by blocking airflow with both lips and releasing it with vocal cord vibration.",
+            "exampleSentence": "The baby is sleeping peacefully.",
+            "exampleSentenceIPA": "/ðə ˈbeɪbi ɪz ˈsliːpɪŋ ˈpiːsfəli/",
+            "exampleSentence_vn": "Đứa bé đang ngủ yên bình.",
+            "audio": "https://example.com/audio/b.mp3",
+            "tips": "Đôi môi đóng chặt rồi bật ra nhanh, có rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiced",
+                "bilabial",
+                "plosive"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm bật môi có rung thanh quản."
+        },
+        {
+            "word": "/t/",
+            "exampleWords": [
+                "time",
+                "cat",
+                "top",
+                "butter",
+                "street"
+            ],
+            "exampleWordHighlighted": "**t**ime",
+            "definition": "A voiceless alveolar plosive, produced by blocking airflow with the tongue tip against the alveolar ridge and releasing it suddenly without vocal cord vibration.",
+            "exampleSentence": "Time flies quickly.",
+            "exampleSentenceIPA": "/taɪm flaɪz ˈkwɪkli/",
+            "exampleSentence_vn": "Thời gian trôi rất nhanh.",
+            "audio": "https://example.com/audio/t.mp3",
+            "tips": "Đầu lưỡi chạm vòm cứng rồi bật ra, không rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiceless",
+                "alveolar",
+                "plosive"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm bật đầu lưỡi, không rung thanh quản."
+        },
+        {
+            "word": "/d/",
+            "exampleWords": [
+                "dog",
+                "day",
+                "bed",
+                "door",
+                "friend"
+            ],
+            "exampleWordHighlighted": "**d**og",
+            "definition": "A voiced alveolar plosive, produced by blocking airflow with the tongue tip against the alveolar ridge and releasing it with vocal cord vibration.",
+            "exampleSentence": "The dog is barking loudly.",
+            "exampleSentenceIPA": "/ðə dɒɡ ɪz ˈbɑːrkɪŋ ˈlaʊdli/",
+            "exampleSentence_vn": "Con chó đang sủa rất to.",
+            "audio": "https://example.com/audio/d.mp3",
+            "tips": "Đầu lưỡi chạm vòm cứng rồi bật ra, có rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiced",
+                "alveolar",
+                "plosive"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm bật đầu lưỡi có rung thanh quản."
+        },
+        {
+            "word": "/k/",
+            "exampleWords": [
+                "cat",
+                "key",
+                "back",
+                "cake",
+                "lock"
+            ],
+            "exampleWordHighlighted": "**k**ey",
+            "definition": "A voiceless velar plosive, produced by blocking airflow with the back of the tongue against the soft palate and releasing it suddenly without vocal cord vibration.",
+            "exampleSentence": "He lost his key yesterday.",
+            "exampleSentenceIPA": "/hi lɒst hɪz kiː ˈjestərdeɪ/",
+            "exampleSentence_vn": "Anh ấy đã làm mất chìa khóa ngày hôm qua.",
+            "audio": "https://example.com/audio/k.mp3",
+            "tips": "Phần sau lưỡi chạm vòm mềm rồi bật ra, không rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiceless",
+                "velar",
+                "plosive"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm bật phần sau lưỡi, không rung thanh quản."
+        },
+        {
+            "word": "/g/",
+            "exampleWords": [
+                "go",
+                "get",
+                "give",
+                "garden",
+                "bag"
+            ],
+            "exampleWordHighlighted": "**g**o",
+            "definition": "A voiced velar plosive, produced by blocking airflow with the back of the tongue against the soft palate and releasing it with vocal cord vibration.",
+            "exampleSentence": "They go to the park every Sunday.",
+            "exampleSentenceIPA": "/ðeɪ ɡoʊ tu ðə pɑːrk ˈɛvri ˈsʌndeɪ/",
+            "exampleSentence_vn": "Họ đi công viên mỗi Chủ nhật.",
+            "audio": "https://example.com/audio/g.mp3",
+            "tips": "Phần sau lưỡi chạm vòm mềm rồi bật ra, có rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiced",
+                "velar",
+                "plosive"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm bật phần sau lưỡi có rung thanh quản."
+        },
+        {
+            "word": "/f/",
+            "exampleWords": [
+                "fan",
+                "fish",
+                "coffee",
+                "leaf",
+                "life"
+            ],
+            "exampleWordHighlighted": "**f**an",
+            "definition": "A voiceless labiodental fricative, produced by forcing air through a narrow gap between the bottom lip and upper teeth without vocal cord vibration.",
+            "exampleSentence": "She turned on the fan because it was hot.",
+            "exampleSentenceIPA": "/ʃi tɜrnd ɒn ðə fæn bɪˈkəz ɪt wəz hɒt/",
+            "exampleSentence_vn": "Cô ấy bật quạt vì trời nóng.",
+            "audio": "https://example.com/audio/f.mp3",
+            "tips": "Môi dưới chạm nhẹ vào răng trên, thổi khí ra ngoài, không rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiceless",
+                "labiodental",
+                "fricative"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm thổi khí qua môi dưới và răng trên, không rung thanh quản."
+        },
+        {
+            "word": "/v/",
+            "exampleWords": [
+                "van",
+                "voice",
+                "love",
+                "give",
+                "have"
+            ],
+            "exampleWordHighlighted": "**v**an",
+            "definition": "A voiced labiodental fricative, produced by forcing air through a narrow gap between the bottom lip and upper teeth with vocal cord vibration.",
+            "exampleSentence": "His voice is very clear.",
+            "exampleSentenceIPA": "/hɪz vɔɪs ɪz ˈvɛri klɪər/",
+            "exampleSentence_vn": "Giọng nói của anh ấy rất rõ ràng.",
+            "audio": "https://example.com/audio/v.mp3",
+            "tips": "Môi dưới chạm nhẹ vào răng trên, thổi khí ra ngoài, có rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiced",
+                "labiodental",
+                "fricative"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm thổi khí qua môi dưới và răng trên, có rung thanh quản."
+        },
+        {
+            "word": "/θ/",
+            "exampleWords": [
+                "think",
+                "thanks",
+                "both",
+                "bath",
+                "month"
+            ],
+            "exampleWordHighlighted": "**th**ink",
+            "definition": "A voiceless dental fricative, produced by forcing air through a narrow gap between the tongue tip and upper front teeth without vocal cord vibration.",
+            "exampleSentence": "I think this is a good idea.",
+            "exampleSentenceIPA": "/aɪ θɪŋk ðɪs ɪz ə ɡʊd aɪˈdɪə/",
+            "exampleSentence_vn": "Tôi nghĩ đây là một ý tưởng hay.",
+            "audio": "https://example.com/audio/θ.mp3",
+            "tips": "Đặt đầu lưỡi nhẹ vào giữa hai hàm răng rồi thổi khí ra, không rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiceless",
+                "dental",
+                "fricative"
+            ],
+            "languageLevel": "A2",
+            "mnemonic": "Âm thổi khí qua đầu lưỡi và răng, không rung thanh quản."
+        },
+        {
+            "word": "/ð/",
+            "exampleWords": [
+                "this",
+                "that",
+                "the",
+                "mother",
+                "breathe"
+            ],
+            "exampleWordHighlighted": "**th**is",
+            "definition": "A voiced dental fricative, produced by forcing air through a narrow gap between the tongue tip and upper front teeth with vocal cord vibration.",
+            "exampleSentence": "This is my favorite book.",
+            "exampleSentenceIPA": "/ðɪs ɪz maɪ ˈfeɪvərɪt bʊk/",
+            "exampleSentence_vn": "Đây là cuốn sách yêu thích của tôi.",
+            "audio": "https://example.com/audio/ð.mp3",
+            "tips": "Đặt đầu lưỡi nhẹ vào giữa hai hàm răng rồi thổi khí ra, có rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiced",
+                "dental",
+                "fricative"
+            ],
+            "languageLevel": "A2",
+            "mnemonic": "Âm thổi khí qua đầu lưỡi và răng, có rung thanh quản."
+        },
+        {
+            "word": "/s/",
+            "exampleWords": [
+                "see",
+                "sun",
+                "pass",
+                "bus",
+                "glass"
+            ],
+            "exampleWordHighlighted": "**s**ee",
+            "definition": "A voiceless alveolar fricative, produced by forcing air through a narrow channel formed by the tongue tip and the alveolar ridge without vocal cord vibration.",
+            "exampleSentence": "I see the sun shining.",
+            "exampleSentenceIPA": "/aɪ siː ðə sʌn ˈʃaɪnɪŋ/",
+            "exampleSentence_vn": "Tôi nhìn thấy mặt trời đang chiếu sáng.",
+            "audio": "https://example.com/audio/s.mp3",
+            "tips": "Đầu lưỡi gần vòm cứng, thổi khí ra ngoài, không rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiceless",
+                "alveolar",
+                "fricative"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm thổi khí qua đầu lưỡi, không rung thanh quản."
+        },
+        {
+            "word": "/z/",
+            "exampleWords": [
+                "zoo",
+                "buzz",
+                "lazy",
+                "rose",
+                "nose"
+            ],
+            "exampleWordHighlighted": "**z**oo",
+            "definition": "A voiced alveolar fricative, produced by forcing air through a narrow channel formed by the tongue tip and the alveolar ridge with vocal cord vibration.",
+            "exampleSentence": "The zoo is open today.",
+            "exampleSentenceIPA": "/ðə zuː ɪz ˈoʊpən təˈdeɪ/",
+            "exampleSentence_vn": "Sở thú hôm nay mở cửa.",
+            "audio": "https://example.com/audio/z.mp3",
+            "tips": "Đầu lưỡi gần vòm cứng, thổi khí ra ngoài, có rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiced",
+                "alveolar",
+                "fricative"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm thổi khí qua đầu lưỡi, có rung thanh quản."
+        },
+        {
+            "word": "/ʃ/",
+            "exampleWords": [
+                "she",
+                "shoe",
+                "wash",
+                "fish",
+                "push"
+            ],
+            "exampleWordHighlighted": "**sh**e",
+            "definition": "A voiceless postalveolar fricative, produced by forcing air through a narrow channel formed by the tongue near the postalveolar region without vocal cord vibration.",
+            "exampleSentence": "She wears new shoes.",
+            "exampleSentenceIPA": "/ʃi wɛərz nuː ʃuːz/",
+            "exampleSentence_vn": "Cô ấy mang giày mới.",
+            "audio": "https://example.com/audio/ʃ.mp3",
+            "tips": "Lưỡi nâng cao gần vòm cứng phía sau, thổi khí ra ngoài, không rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiceless",
+                "postalveolar",
+                "fricative"
+            ],
+            "languageLevel": "A2",
+            "mnemonic": "Âm thổi khí gần vòm cứng phía sau, không rung thanh quản."
+        },
+        {
+            "word": "/ʒ/",
+            "exampleWords": [
+                "measure",
+                "vision",
+                "beige",
+                "leisure",
+                "garage"
+            ],
+            "exampleWordHighlighted": "mea**s**ure",
+            "definition": "A voiced postalveolar fricative, produced by forcing air through a narrow channel formed by the tongue near the postalveolar region with vocal cord vibration.",
+            "exampleSentence": "I enjoy watching leisure activities.",
+            "exampleSentenceIPA": "/aɪ ɛnˈʤɔɪ ˈwɒʧɪŋ ˈlɛʒər ækˈtɪvɪtiz/",
+            "exampleSentence_vn": "Tôi thích xem các hoạt động giải trí.",
+            "audio": "https://example.com/audio/ʒ.mp3",
+            "tips": "Lưỡi nâng cao gần vòm cứng phía sau, thổi khí ra ngoài, có rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiced",
+                "postalveolar",
+                "fricative"
+            ],
+            "languageLevel": "B1",
+            "mnemonic": "Âm thổi khí gần vòm cứng phía sau, có rung thanh quản."
+        },
+        {
+            "word": "/h/",
+            "exampleWords": [
+                "hat",
+                "house",
+                "hello",
+                "help",
+                "happy"
+            ],
+            "exampleWordHighlighted": "**h**at",
+            "definition": "A voiceless glottal fricative, produced by forcing air through the open glottis without vocal cord vibration.",
+            "exampleSentence": "He wears a hat every day.",
+            "exampleSentenceIPA": "/hi wɛərz ə hæt ˈɛvri deɪ/",
+            "exampleSentence_vn": "Anh ấy đội mũ mỗi ngày.",
+            "audio": "https://example.com/audio/h.mp3",
+            "tips": "Thở nhẹ qua thanh quản mở, không rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiceless",
+                "glottal",
+                "fricative"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm thở nhẹ qua thanh quản, không rung."
+        },
+        {
+            "word": "/tʃ/",
+            "exampleWords": [
+                "check",
+                "chair",
+                "chocolate",
+                "watch",
+                "choose"
+            ],
+            "exampleWordHighlighted": "**ch**eck",
+            "definition": "A voiceless postalveolar affricate, produced by first blocking airflow with the tongue near the postalveolar region and then releasing it with friction without vocal cord vibration.",
+            "exampleSentence": "Please check your answers carefully.",
+            "exampleSentenceIPA": "/pliːz ʧɛk jɔːr ˈænsərz ˈkɛrfəli/",
+            "exampleSentence_vn": "Vui lòng kiểm tra câu trả lời của bạn cẩn thận.",
+            "audio": "https://example.com/audio/tʃ.mp3",
+            "tips": "Đầu lưỡi chặn vòm cứng phía sau rồi bật ra kèm theo tiếng xát, không rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiceless",
+                "postalveolar",
+                "affricate"
+            ],
+            "languageLevel": "A2",
+            "mnemonic": "Âm bật có tiếng xát, không rung thanh quản."
+        },
+        {
+            "word": "/dʒ/",
+            "exampleWords": [
+                "job",
+                "judge",
+                "giant",
+                "bridge",
+                "adjust"
+            ],
+            "exampleWordHighlighted": "**j**ob",
+            "definition": "A voiced postalveolar affricate, produced by first blocking airflow with the tongue near the postalveolar region and then releasing it with friction with vocal cord vibration.",
+            "exampleSentence": "The judge made a fair decision.",
+            "exampleSentenceIPA": "/ðə ʤʌʤ meɪd ə fɛər dɪˈsɪʒən/",
+            "exampleSentence_vn": "Thẩm phán đã đưa ra quyết định công bằng.",
+            "audio": "https://example.com/audio/dʒ.mp3",
+            "tips": "Đầu lưỡi chặn vòm cứng phía sau rồi bật ra kèm theo tiếng xát, có rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiced",
+                "postalveolar",
+                "affricate"
+            ],
+            "languageLevel": "A2",
+            "mnemonic": "Âm bật có tiếng xát, có rung thanh quản."
+        },
+        {
+            "word": "/m/",
+            "exampleWords": [
+                "man",
+                "mother",
+                "milk",
+                "room",
+                "some"
+            ],
+            "exampleWordHighlighted": "**m**an",
+            "definition": "A voiced bilabial nasal, produced by closing both lips and allowing air to pass through the nose with vocal cord vibration.",
+            "exampleSentence": "The man is very tall.",
+            "exampleSentenceIPA": "/ðə mæn ɪz ˈvɛri tɔːl/",
+            "exampleSentence_vn": "Người đàn ông rất cao.",
+            "audio": "https://example.com/audio/m.mp3",
+            "tips": "Đóng môi lại và để khí thoát ra qua mũi, có rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiced",
+                "bilabial",
+                "nasal"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm mũi bằng môi có rung thanh quản."
+        },
+        {
+            "word": "/n/",
+            "exampleWords": [
+                "no",
+                "night",
+                "nine",
+                "sun",
+                "run"
+            ],
+            "exampleWordHighlighted": "**n**o",
+            "definition": "A voiced alveolar nasal, produced by placing the tongue tip against the alveolar ridge and allowing air to pass through the nose with vocal cord vibration.",
+            "exampleSentence": "No one is here.",
+            "exampleSentenceIPA": "/noʊ wʌn ɪz hɪər/",
+            "exampleSentence_vn": "Không có ai ở đây.",
+            "audio": "https://example.com/audio/n.mp3",
+            "tips": "Đầu lưỡi chạm vòm cứng, khí thoát ra qua mũi, có rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiced",
+                "alveolar",
+                "nasal"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm mũi bằng đầu lưỡi có rung thanh quản."
+        },
+        {
+            "word": "/ŋ/",
+            "exampleWords": [
+                "sing",
+                "ring",
+                "long",
+                "king",
+                "song"
+            ],
+            "exampleWordHighlighted": "si**ng**",
+            "definition": "A voiced velar nasal, produced by placing the back of the tongue against the soft palate and allowing air to pass through the nose with vocal cord vibration.",
+            "exampleSentence": "She loves to sing songs.",
+            "exampleSentenceIPA": "/ʃi lʌvz tu sɪŋ sɒŋz/",
+            "exampleSentence_vn": "Cô ấy thích hát các bài hát.",
+            "audio": "https://example.com/audio/ŋ.mp3",
+            "tips": "Phần sau lưỡi chạm vòm mềm, khí thoát ra qua mũi, có rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiced",
+                "velar",
+                "nasal"
+            ],
+            "languageLevel": "A2",
+            "mnemonic": "Âm mũi phần sau lưỡi có rung thanh quản."
+        },
+        {
+            "word": "/l/",
+            "exampleWords": [
+                "like",
+                "love",
+                "light",
+                "ball",
+                "little"
+            ],
+            "exampleWordHighlighted": "**l**ike",
+            "definition": "A voiced alveolar lateral approximant, produced by placing the tongue tip against the alveolar ridge and allowing air to flow around the sides of the tongue with vocal cord vibration.",
+            "exampleSentence": "I like to read books.",
+            "exampleSentenceIPA": "/aɪ laɪk tu riːd bʊks/",
+            "exampleSentence_vn": "Tôi thích đọc sách.",
+            "audio": "https://example.com/audio/l.mp3",
+            "tips": "Đầu lưỡi chạm vòm cứng, khí thoát ra hai bên lưỡi, có rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiced",
+                "alveolar",
+                "lateral approximant"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm lưỡi chạm vòm, khí thoát hai bên, có rung thanh quản."
+        },
+        {
+            "word": "/r/",
+            "exampleWords": [
+                "red",
+                "run",
+                "right",
+                "road",
+                "car"
+            ],
+            "exampleWordHighlighted": "**r**ed",
+            "definition": "A voiced alveolar approximant, produced by raising the tongue near the alveolar ridge without touching it, with vocal cord vibration.",
+            "exampleSentence": "The red car is fast.",
+            "exampleSentenceIPA": "/ðə rɛd kɑːr ɪz fæst/",
+            "exampleSentence_vn": "Chiếc xe đỏ rất nhanh.",
+            "audio": "https://example.com/audio/r.mp3",
+            "tips": "Lưỡi nâng gần vòm cứng nhưng không chạm, có rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiced",
+                "alveolar",
+                "approximant"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm lưỡi nâng gần vòm, có rung thanh quản."
+        },
+        {
+            "word": "/j/",
+            "exampleWords": [
+                "yes",
+                "yellow",
+                "you",
+                "young",
+                "beyond"
+            ],
+            "exampleWordHighlighted": "**y**es",
+            "definition": "A voiced palatal approximant, produced by raising the body of the tongue close to the hard palate with vocal cord vibration.",
+            "exampleSentence": "Yes, I will come tomorrow.",
+            "exampleSentenceIPA": "/jɛs aɪ wɪl kʌm təˈmɒroʊ/",
+            "exampleSentence_vn": "Vâng, tôi sẽ đến vào ngày mai.",
+            "audio": "https://example.com/audio/j.mp3",
+            "tips": "Phần giữa lưỡi nâng gần vòm cứng, có rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiced",
+                "palatal",
+                "approximant"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm lưỡi nâng gần vòm cứng, có rung thanh quản."
+        },
+        {
+            "word": "/w/",
+            "exampleWords": [
+                "we",
+                "water",
+                "win",
+                "window",
+                "away"
+            ],
+            "exampleWordHighlighted": "**w**e",
+            "definition": "A voiced labio-velar approximant, produced by rounding the lips and raising the back of the tongue toward the soft palate with vocal cord vibration.",
+            "exampleSentence": "We like to drink water.",
+            "exampleSentenceIPA": "/wi laɪk tu drɪŋk ˈwɔːtər/",
+            "exampleSentence_vn": "Chúng tôi thích uống nước.",
+            "audio": "https://example.com/audio/w.mp3",
+            "tips": "Môi tròn và nâng lưỡi gần vòm mềm, có rung thanh quản.",
+            "type": "consonant",
+            "tags": [
+                "voiced",
+                "labio-velar",
+                "approximant"
+            ],
+            "languageLevel": "A1",
+            "mnemonic": "Âm môi tròn, lưỡi nâng gần vòm mềm, có rung thanh quản."
+        }
+    ]
+}
