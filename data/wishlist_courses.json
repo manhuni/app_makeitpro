@@ -1,0 +1,71 @@
+[
+    {
+        "id": "1",
+        "group": "0",
+        "title": "Khóa học Tiếng Anh Căn Bản",
+        "shortTitle": "Tiếng Anh cơ bản",
+        "description": "Khóa học giúp bạn xây dựng nền tảng vững chắc trong tiếng Anh từ cơ bản đến nâng cao. Bao gồm các bài học về từ vựng, ngữ pháp, và giao tiếp.",
+        "shortDescription": "Học tiếng Anh từ cơ bản đến nâng cao.",
+        "imageUrl": "https://example.com/english-course.jpg",
+        "thumbnailUrl": "https://example.com/english-thumb.jpg",
+        "instructor": "Lê Minh T",
+        "level": "beginner",
+        "duration": "6 tháng",
+        "price": 600000,
+        "rating": 4.7,
+        "students": 120,
+        "lastUpdated": "2023-05-12",
+        "isFeatured": true,
+        "tags": [
+            "english",
+            "vocabulary",
+            "grammar"
+        ]
+    },
+    {
+        "id": "2",
+        "group": "0",
+        "title": "Khóa học Tiếng Anh Thông Dụng",
+        "shortTitle": "Tiếng Anh cơ bản",
+        "description": "Khóa học này cung cấp các bài học về tiếng Anh thông dụng, giúp bạn cải thiện khả năng giao tiếp trong các tình huống hàng ngày. Từ vựng, ngữ pháp, và cách sử dụng trong thực tế sẽ được giải thích chi tiết.",
+        "shortDescription": "Học tiếng Anh từ cơ bản đến nâng cao.",
+        "imageUrl": "https://example.com/english-course.jpg",
+        "thumbnailUrl": "https://example.com/english-thumb.jpg",
+        "instructor": "Lê Minh T",
+        "level": "beginner",
+        "duration": "6 tháng",
+        "price": 600000,
+        "rating": 4.7,
+        "students": 120,
+        "lastUpdated": "2023-05-12",
+        "isFeatured": true,
+        "tags": [
+            "english",
+            "vocabulary",
+            "grammar"
+        ]
+    },
+    {
+        "id": "3",
+        "group": "0",
+        "title": "Khóa học Ngữ pháp Tiếng Anh Căn bản",
+        "shortTitle": "Tiếng Anh cơ bản",
+        "description": "Khóa học này giúp bạn nắm vững những điểm ngữ pháp quan trọng và thường gặp nhất trong tiếng Anh, từ đó cải thiện khả năng viết, nói và làm bài thi IELTS.",
+        "shortDescription": "Học tiếng Anh từ cơ bản đến nâng cao.",
+        "imageUrl": "https://example.com/english-course.jpg",
+        "thumbnailUrl": "https://example.com/english-thumb.jpg",
+        "instructor": "Lê Minh T",
+        "level": "beginner",
+        "duration": "6 tháng",
+        "price": 600000,
+        "rating": 4.7,
+        "students": 120,
+        "lastUpdated": "2023-05-12",
+        "isFeatured": true,
+        "tags": [
+            "english",
+            "vocabulary",
+            "grammar"
+        ]
+    }
+]

@@ -1,0 +1,20 @@
+{
+    "courseId": "7",
+    "reviews": [
+        {
+            "user": "Phạm Văn C",
+            "rating": 5,
+            "comment": "Giáo trình chi tiết, giảng viên tận tâm."
+        },
+        {
+            "user": "Lê Thảo D",
+            "rating": 4,
+            "comment": "Phần luyện tập khá hay, tuy nhiên cần thêm video minh họa."
+        },
+        {
+            "user": "Ngô Hữu E",
+            "rating": 5,
+            "comment": "Cực kỳ hài lòng, đã áp dụng được nhiều kiến thức vào công việc."
+        }
+    ]
+}

@@ -1,0 +1,524 @@
+{
+    "id": "2",
+    "title": "Khóa học Tiếng Anh Thông Dụng",
+    "description": "Khóa học này cung cấp các bài học về tiếng Anh thông dụng, giúp bạn cải thiện khả năng giao tiếp trong các tình huống hàng ngày. Từ vựng, ngữ pháp, và cách sử dụng trong thực tế sẽ được giải thích chi tiết.",
+    "level": "Beginner",
+    "language": "Vietnamese",
+    "instructor": "Cô Nguyễn Lan",
+    "lessons": [
+        {
+            "id": "lesson_family",
+            "title": "Bài 1: Gia đình và Trong nhà",
+            "description": "Các từ vựng về thành viên gia đình, sinh hoạt trong nhà, và mô tả nơi ở.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "family_intro",
+                    "title": "Giới thiệu chủ đề Gia đình",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/31e5a92a631085e8281bd8a8f30e4e2a/raw/family_intro.md",
+                    "description": "Từ ngữ về gia đình, nhà cửa và cuộc sống hằng ngày."
+                },
+                {
+                    "id": "intro_video",
+                    "title": "Video chủ đề Tiếng Anh Thông Dụng",
+                    "type": "gist_video",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/1fe719030235736f87923cca75650601/raw/makeitpro_list_video_course_2.json",
+                    "description": "Video minh họa chủ đề Tiếng Anh Thông Dụng."
+                },
+                {
+                    "id": "intro_md",
+                    "title": "Markdown chủ đề Tiếng Anh Thông Dụng",
+                    "type": "markdown_list",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/8139f553b035cce44d191825754f089f/raw/makeitpro_list_md_course_2.json",
+                    "description": "Markdown minh họa chủ đề Tiếng Anh Thông Dụng."
+                },
+                {
+                    "id": "family_vocab",
+                    "title": "Từ vựng & Mẫu câu",
+                    "type": "detail",
+                    "description": "Từ mô tả thành viên trong gia đình và vật dụng trong nhà.",
+                    "detail": {
+                        "objectives": [
+                            "Mô tả các thành viên trong gia đình",
+                            "Hiểu các đồ vật trong nhà"
+                        ],
+                        "explanation": {
+                            "text": "Từ như: mother, father, sister, kitchen, bedroom, sofa...",
+                            "image": null,
+                            "description": "Từ vựng cơ bản và mẫu câu sử dụng hằng ngày."
+                        },
+                        "examples": [
+                            {
+                                "en": "My brother is 10 years old.",
+                                "vi": "Em trai tôi 10 tuổi."
+                            },
+                            {
+                                "en": "There is a big TV in the living room.",
+                                "vi": "Có một chiếc TV lớn trong phòng khách."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/family_vocab.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_greetings",
+            "title": "Bài 2: Chào hỏi và Giới thiệu bản thân",
+            "description": "Học cách chào hỏi, giới thiệu bản thân, hỏi thăm người khác trong các tình huống giao tiếp hàng ngày.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "greetings_intro",
+                    "title": "Giới thiệu chủ đề",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/6338d66afff1086ed2f0bfe9f7300dd8/raw/greetings_intro.md",
+                    "description": "Giới thiệu khái quát về các tình huống chào hỏi và giới thiệu bản thân."
+                },
+                {
+                    "id": "greetings_vocab",
+                    "title": "Từ vựng & Mẫu câu",
+                    "type": "detail",
+                    "description": "Danh sách các từ và mẫu câu thường dùng.",
+                    "detail": {
+                        "objectives": [
+                            "Biết cách chào hỏi trong nhiều tình huống",
+                            "Giới thiệu bản thân một cách tự nhiên"
+                        ],
+                        "explanation": {
+                            "text": "Ví dụ: Hello, How are you?, I’m from Vietnam, Nice to meet you.",
+                            "image": null,
+                            "description": "Các từ vựng và mẫu câu hay dùng kèm nghĩa tiếng Việt."
+                        },
+                        "examples": [
+                            {
+                                "en": "Hi, my name is Anna.",
+                                "vi": "Chào, tôi tên là Anna."
+                            },
+                            {
+                                "en": "Nice to meet you!",
+                                "vi": "Rất vui được gặp bạn!"
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/greetings_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_health",
+            "title": "Bài 3: Sức khỏe và Y tế",
+            "description": "Từ vựng và mẫu câu thường dùng khi đi khám bệnh, mua thuốc, hoặc mô tả triệu chứng.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "health_intro",
+                    "title": "Giới thiệu chủ đề Sức khỏe",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/a85aa71337ed048bf4198325717f78d8/raw/health_intro.md",
+                    "description": "Tình huống thường gặp khi cần chăm sóc sức khỏe hoặc gặp bác sĩ."
+                },
+                {
+                    "id": "health_vocab",
+                    "title": "Từ vựng & Mẫu câu",
+                    "type": "detail",
+                    "description": "Từ vựng mô tả triệu chứng và cách hỏi thông tin y tế.",
+                    "detail": {
+                        "objectives": [
+                            "Biết cách mô tả triệu chứng",
+                            "Hiểu từ vựng liên quan đến sức khỏe"
+                        ],
+                        "explanation": {
+                            "text": "Từ như: headache, fever, doctor, medicine, clinic, pain...",
+                            "image": null,
+                            "description": "Từ vựng cơ bản và câu nói khi khám bệnh."
+                        },
+                        "examples": [
+                            {
+                                "en": "I have a headache.",
+                                "vi": "Tôi bị đau đầu."
+                            },
+                            {
+                                "en": "Where is the nearest pharmacy?",
+                                "vi": "Hiệu thuốc gần nhất ở đâu?"
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/health_vocab.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_restaurant",
+            "title": "Bài 4: Tại Nhà hàng",
+            "description": "Học từ vựng và mẫu câu khi đi ăn tại nhà hàng, gọi món, hỏi giá, và phản hồi với nhân viên phục vụ.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "restaurant_intro",
+                    "title": "Giới thiệu chủ đề Nhà hàng",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/da7cfcb6f4b1d087cc8b79fe2bf7d9e3/raw/restaurant_intro.md",
+                    "description": "Tổng quan các tình huống giao tiếp trong nhà hàng."
+                },
+                {
+                    "id": "restaurant_vocab",
+                    "title": "Từ vựng & Mẫu câu",
+                    "type": "detail",
+                    "description": "Các mẫu câu và từ vựng khi đi ăn.",
+                    "detail": {
+                        "objectives": [
+                            "Gọi món ăn bằng tiếng Anh",
+                            "Hiểu menu và hỏi thông tin về món ăn"
+                        ],
+                        "explanation": {
+                            "text": "Từ như: menu, order, waiter/waitress, bill, delicious, recommend...",
+                            "image": null,
+                            "description": "Nghĩa tiếng Việt, ví dụ thực tế."
+                        },
+                        "examples": [
+                            {
+                                "en": "Can I see the menu, please?",
+                                "vi": "Tôi có thể xem thực đơn không?"
+                            },
+                            {
+                                "en": "I’d like the chicken soup.",
+                                "vi": "Tôi muốn món súp gà."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/restaurant_vocab.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_school",
+            "title": "Bài 5: Trường học và lớp học",
+            "description": "Các từ ngữ, mẫu câu thường dùng trong môi trường học đường.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "school_intro",
+                    "title": "Giới thiệu chủ đề Trường học",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/14c59308039219c337a5b52af13c8d11/raw/school_intro.md",
+                    "description": "Tình huống đi học, trong lớp học hoặc giao tiếp với giáo viên."
+                },
+                {
+                    "id": "school_vocab",
+                    "title": "Từ vựng & Mẫu câu",
+                    "type": "detail",
+                    "description": "Từ vựng và mẫu câu dùng trong trường học.",
+                    "detail": {
+                        "objectives": [
+                            "Giao tiếp cơ bản tại trường",
+                            "Mô tả đồ dùng và hoạt động học tập"
+                        ],
+                        "explanation": {
+                            "text": "Từ như: teacher, student, homework, blackboard, classroom, exam...",
+                            "image": null,
+                            "description": "Danh sách từ phổ biến và mẫu câu tương ứng."
+                        },
+                        "examples": [
+                            {
+                                "en": "Please open your books.",
+                                "vi": "Hãy mở sách của các em."
+                            },
+                            {
+                                "en": "I forgot my homework.",
+                                "vi": "Tôi quên bài tập về nhà rồi."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/school_vocab.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_shopping",
+            "title": "Bài 6: Từ vựng về Mua sắm",
+            "description": "Các từ vựng, mẫu câu khi đi siêu thị, cửa hàng, hoặc mua sắm online.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "shopping_intro",
+                    "title": "Giới thiệu chủ đề Mua sắm",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/79daea98f5f1f688d2fc1e8d54959332/raw/shopping_intro.md",
+                    "description": "Tổng quan về các tình huống mua sắm thường gặp."
+                },
+                {
+                    "id": "shopping_vocab",
+                    "title": "Từ vựng & Mẫu câu",
+                    "type": "detail",
+                    "description": "Học các từ vựng hay gặp khi mua sắm.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu và sử dụng các từ liên quan đến mua sắm",
+                            "Giao tiếp cơ bản với nhân viên bán hàng"
+                        ],
+                        "explanation": {
+                            "text": "Từ như: price, cashier, receipt, size, cheap, expensive, change...",
+                            "image": null,
+                            "description": "Nghĩa tiếng Việt, ví dụ minh họa."
+                        },
+                        "examples": [
+                            {
+                                "en": "How much is this?",
+                                "vi": "Cái này giá bao nhiêu?"
+                            },
+                            {
+                                "en": "Can I try it on?",
+                                "vi": "Tôi có thể thử nó không?"
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/shopping_vocab.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_time",
+            "title": "Bài 7: Ngày tháng và Thời gian",
+            "description": "Học cách nói và hỏi về thời gian, ngày tháng, lịch hẹn.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "time_intro",
+                    "title": "Giới thiệu chủ đề Thời gian",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/00c7e4b38686cf396adffbb58c93fc2b/raw/time_intro.md",
+                    "description": "Thời gian, ngày trong tuần, tháng và cách nói giờ giấc."
+                },
+                {
+                    "id": "time_vocab",
+                    "title": "Từ vựng & Mẫu câu",
+                    "type": "detail",
+                    "description": "Hỏi giờ, lên lịch, và mô tả thời gian.",
+                    "detail": {
+                        "objectives": [
+                            "Biết cách hỏi và trả lời thời gian",
+                            "Sử dụng ngày tháng và giờ giấc"
+                        ],
+                        "explanation": {
+                            "text": "Từ như: Monday, January, o’clock, minute, calendar, late, early...",
+                            "image": null,
+                            "description": "Từ vựng và mẫu câu liên quan đến thời gian."
+                        },
+                        "examples": [
+                            {
+                                "en": "What time is it?",
+                                "vi": "Bây giờ là mấy giờ?"
+                            },
+                            {
+                                "en": "Today is Tuesday.",
+                                "vi": "Hôm nay là thứ Ba."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/time_vocab.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_transportation",
+            "title": "Bài 8: Giao thông và Hỏi đường",
+            "description": "Từ vựng, mẫu câu liên quan đến di chuyển, hỏi đường, đi taxi, xe buýt.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "transport_intro",
+                    "title": "Giới thiệu chủ đề Giao thông",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/56c4f73c20bb1d4cc0158d90d89aba2a/raw/transport_intro.md",
+                    "description": "Tình huống thường gặp khi di chuyển ngoài đường."
+                },
+                {
+                    "id": "transport_vocab",
+                    "title": "Từ vựng & Mẫu câu",
+                    "type": "detail",
+                    "description": "Các câu hỏi và từ ngữ liên quan đến phương tiện và chỉ đường.",
+                    "detail": {
+                        "objectives": [
+                            "Hỏi đường, bắt xe, hỏi thông tin di chuyển",
+                            "Phân biệt từ ngữ giao thông thường dùng"
+                        ],
+                        "explanation": {
+                            "text": "Từ như: turn left, go straight, bus stop, subway, taxi, station...",
+                            "image": null,
+                            "description": "Từ vựng kèm ví dụ và hướng dẫn sử dụng."
+                        },
+                        "examples": [
+                            {
+                                "en": "How can I get to the station?",
+                                "vi": "Làm sao để đến nhà ga?"
+                            },
+                            {
+                                "en": "Take the second street on the left.",
+                                "vi": "Rẽ vào con đường thứ hai bên trái."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/transport_vocab.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_weather",
+            "title": "Bài 9: Thời tiết và Mùa",
+            "description": "Học cách mô tả thời tiết, hỏi và trả lời về điều kiện thời tiết.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "weather_intro",
+                    "title": "Giới thiệu chủ đề Thời tiết",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/933a8a221fedf5736f6796435b770b69/raw/weather_intro.md",
+                    "description": "Tình huống nói về thời tiết và mùa trong năm."
+                },
+                {
+                    "id": "weather_vocab",
+                    "title": "Từ vựng & Mẫu câu",
+                    "type": "detail",
+                    "description": "Từ và cụm từ mô tả điều kiện thời tiết.",
+                    "detail": {
+                        "objectives": [
+                            "Nói và hỏi về thời tiết",
+                            "Mô tả các mùa trong năm"
+                        ],
+                        "explanation": {
+                            "text": "Từ như: sunny, rainy, cold, hot, storm, spring, autumn...",
+                            "image": null,
+                            "description": "Danh sách từ phổ biến và mẫu câu tương ứng."
+                        },
+                        "examples": [
+                            {
+                                "en": "It’s raining today.",
+                                "vi": "Hôm nay trời đang mưa."
+                            },
+                            {
+                                "en": "What’s the weather like?",
+                                "vi": "Thời tiết như thế nào?"
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/weather_vocab.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_work",
+            "title": "Bài 10: Công việc và Văn phòng",
+            "description": "Các từ ngữ và mẫu câu dùng trong môi trường làm việc, họp hành, và giao tiếp công sở.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "work_intro",
+                    "title": "Giới thiệu chủ đề Công việc",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f7245b9ac191129f210f8f52a5084989/raw/work_intro.md",
+                    "description": "Giao tiếp và thuật ngữ hay dùng trong văn phòng."
+                },
+                {
+                    "id": "work_vocab",
+                    "title": "Từ vựng & Mẫu câu",
+                    "type": "detail",
+                    "description": "Học từ vựng liên quan đến công việc và các tình huống họp.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu và dùng từ ngữ công sở",
+                            "Giao tiếp trong họp và gửi email"
+                        ],
+                        "explanation": {
+                            "text": "Từ như: meeting, report, boss, deadline, email, task...",
+                            "image": null,
+                            "description": "Từ vựng và ví dụ giao tiếp công việc."
+                        },
+                        "examples": [
+                            {
+                                "en": "I have a meeting at 10 a.m.",
+                                "vi": "Tôi có cuộc họp lúc 10 giờ sáng."
+                            },
+                            {
+                                "en": "Please send me the report.",
+                                "vi": "Làm ơn gửi cho tôi bản báo cáo."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/work_vocab.pdf"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

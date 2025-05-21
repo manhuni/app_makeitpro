@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Thông báo quan trọng về cập nhật hệ thống",
+    "message": "# Thông báo quan trọng về cập nhật hệ thống\n\nChúng tôi xin thông báo về một số thay đổi quan trọng trong hệ thống. Cập nhật lần này sẽ mang đến một số cải tiến mới và sửa lỗi quan trọng.\n\n### Nội dung cập nhật:\n\n1. Cải thiện hiệu suất: Các cải tiến trong việc xử lý dữ liệu giúp hệ thống chạy nhanh hơn.\n2. Sửa lỗi: Đã khắc phục các lỗi xảy ra khi tải trang chính.\n3. Thêm tính năng mới: Người dùng có thể chia sẻ nội dung dễ dàng hơn với tính năng mới.\n\n### Cải thiện chi tiết:\n\n- Hệ thống bây giờ có thể xử lý hàng nghìn yêu cầu mỗi giây mà không gặp sự cố. Điều này sẽ giúp cho trải nghiệm của bạn trở nên mượt mà hơn bao giờ hết.\n- Các lỗi trước đó, như việc không thể tải một số trang khi có lỗi mạng, đã được khắc phục. Bạn có thể yên tâm sử dụng ứng dụng mà không gặp sự cố như trước.\n\n### Liên kết quan trọng:\n\n- [Xem chi tiết về cập nhật](https://example.com/update)\n- [Hướng dẫn sử dụng tính năng mới](https://example.com/new-features)\n\n### Cập nhật hệ thống\n\n![Cập nhật hệ thống](https://example.com/update-image.jpg)\n\n## Mã ví dụ cho các lập trình viên\n\n```dart\nvoid main() {\n  print('Chào mừng bạn đến với hệ thống mới!');\n}\n```\n\nHãy chắc chắn rằng bạn đã tải bản cập nhật mới nhất để không bỏ lỡ những tính năng tuyệt vời này!\n\nNếu bạn gặp vấn đề hoặc cần hỗ trợ, vui lòng liên hệ với chúng tôi qua [email hỗ trợ](mailto:support@example.com).\n\nCảm ơn bạn đã sử dụng dịch vụ của chúng tôi!",
+    "icon": "update",
+    "type": "update",
+    "tab": 0,
+    "imageUrl": "https://example.com/update-image.jpg",
+    "linkUrl": "https://example.com",
+    "timestamp": "2025-04-15T12:30:00Z"
+  },
+  {
+    "title": "Thông báo 2",
+    "message": "# 🚀 Cập nhật phiên bản mới\n\n**TopGzit** đã cập nhật phiên bản mới với nhiều cải tiến:\n\n- Giao diện hiện đại\n- Tốc độ nhanh hơn\n- Sửa lỗi từ phản hồi của người dùng\n\n![Ảnh cập nhật](https://example.com/update-image.jpg)\n\n👉 [Cập nhật ngay](https://example.com/update)",
+    "icon": "update",
+    "type": "update",
+    "tab": 1,
+    "imageUrl": "https://example.com/update-image.jpg",
+    "linkUrl": "https://example.com/update",
+    "timestamp": "2025-04-14T08:00:00Z"
+  }
+]

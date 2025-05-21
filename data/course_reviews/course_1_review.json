@@ -1,0 +1,15 @@
+{
+    "courseId": "1",
+    "reviews": [
+        {
+            "user": "Nguyễn Văn A",
+            "rating": 5,
+            "comment": "Khóa học rất hữu ích, dễ hiểu!"
+        },
+        {
+            "user": "Trần Thị B",
+            "rating": 4,
+            "comment": "Nội dung ổn, mong có thêm ví dụ thực tế."
+        }
+    ]
+}

@@ -1,0 +1,2132 @@
+{
+    "id": "6",
+    "title": "Tiếng Anh cho Phát Triển Bản Thân & Tư Duy Hệ Thống",
+    "description": "Khóa học giúp bạn nâng cao tiếng Anh thông qua các chủ đề phát triển bản thân, tư duy phản biện và tư duy hệ thống, với các bài học gắn liền thực tế và ứng dụng đời sống.",
+    "instructor": "Cô Trần Hồng Nhung",
+    "duration": "3 tháng",
+    "level": "Pre-Intermediate to Intermediate",
+    "language": "Vietnamese",
+    "lessons": [
+        {
+            "id": "lesson_personal_dev_intro",
+            "title": "Bài 1: Giới thiệu về phát triển bản thân (Introduction to Personal Development)",
+            "description": "Khám phá khái niệm phát triển bản thân qua tiếng Anh và học từ vựng nền tảng giúp bạn bắt đầu hành trình thay đổi tích cực.",
+            "duration": "15-25 phút",
+            "sections": [
+                {
+                    "id": "personal_dev_intro_md",
+                    "title": "Phát triển bản thân là gì?",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/7346f4e2771e1612ad9b013831f210b1/raw/personal_dev_intro.md",
+                    "description": "Giới thiệu khái niệm 'personal development', tại sao nó quan trọng và bạn có thể bắt đầu từ đâu."
+                },
+                {
+                    "id": "intro_video",
+                    "title": "Video chủ đề Tiếng Anh cho Phát Triển Bản Thân & Tư Duy Hệ Thống",
+                    "type": "gist_video",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/46c59bafd56b6ae3aef85064439e50c3/raw/makeitpro_list_video_course_6.json",
+                    "description": "Video minh họa chủ đề Tiếng Anh cho Phát Triển Bản Thân & Tư Duy Hệ Thống."
+                },
+                {
+                    "id": "intro_md",
+                    "title": "Markdown chủ đề Tiếng Anh cho Phát Triển Bản Thân & Tư Duy Hệ Thống",
+                    "type": "markdown_list",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/dc8d7953f424461129e8b4b611c8a5df/raw/makeitpro_list_md_course_6.json",
+                    "description": "Markdown minh họa chủ đề Tiếng Anh cho Phát Triển Bản Thân & Tư Duy Hệ Thống."
+                },
+                
+                {
+                    "id": "personal_dev_language",
+                    "title": "Ngôn ngữ tiếng Anh cho phát triển bản thân",
+                    "type": "detail",
+                    "description": "Học các từ vựng và mẫu câu tiếng Anh thường gặp trong chủ đề phát triển bản thân.",
+                    "detail": {
+                        "objectives": [
+                            "Biết các khái niệm tiếng Anh như growth mindset, self-awareness, motivation",
+                            "Thực hành mẫu câu để đặt mục tiêu và phản ánh bản thân bằng tiếng Anh"
+                        ],
+                        "explanation": {
+                            "text": "Personal development includes activities that improve awareness, identity, talents, and potential. Terms like 'self-improvement', 'growth mindset', and 'goal setting' are common in English discussions about personal growth.",
+                            "image": null,
+                            "description": "Các khái niệm nền tảng: self-awareness (tự nhận thức), motivation (động lực), goal setting (đặt mục tiêu), reflection (sự phản chiếu bản thân)."
+                        },
+                        "examples": [
+                            {
+                                "en": "I’m working on improving my time management skills.",
+                                "vi": "Tôi đang rèn luyện kỹ năng quản lý thời gian của mình."
+                            },
+                            {
+                                "en": "Developing a growth mindset helps you embrace challenges.",
+                                "vi": "Phát triển tư duy cầu tiến giúp bạn đón nhận thử thách."
+                            },
+                            {
+                                "en": "Self-awareness is the first step to personal development.",
+                                "vi": "Tự nhận thức là bước đầu tiên để phát triển bản thân."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "personal_dev_intro_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_systems_thinking_intro",
+            "title": "Bài 2: Giới thiệu tư duy hệ thống (Introduction to Systems Thinking)",
+            "description": "Hiểu cách nhìn nhận vấn đề một cách tổng thể thông qua tư duy hệ thống và học các thuật ngữ tiếng Anh cơ bản trong lĩnh vực này.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "systems_thinking_intro_md",
+                    "title": "Tư duy hệ thống là gì?",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/4e064ec733473204801c79b80422c7d7/raw/systems_thinking_intro.md",
+                    "description": "Giới thiệu tư duy hệ thống (systems thinking) – cách tiếp cận giúp nhìn thấy bức tranh toàn cảnh thay vì chỉ tập trung vào từng phần riêng lẻ."
+                },
+                {
+                    "id": "systems_thinking_terms",
+                    "title": "Từ vựng tiếng Anh cho tư duy hệ thống",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và khái niệm nền tảng bằng tiếng Anh liên quan đến tư duy hệ thống.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu và ghi nhớ các từ khóa như system, feedback loop, cause and effect",
+                            "Sử dụng mẫu câu mô tả mối liên hệ giữa các yếu tố trong một hệ thống"
+                        ],
+                        "explanation": {
+                            "text": "Systems thinking involves seeing interconnections, patterns, and feedback loops instead of isolated events. It's used to solve complex problems by understanding the structure that produces behavior.",
+                            "image": null,
+                            "description": "Các khái niệm như feedback loop (vòng phản hồi), leverage point (điểm tác động), causal relationship (quan hệ nhân quả) thường xuyên xuất hiện trong các tài liệu tư duy hệ thống bằng tiếng Anh."
+                        },
+                        "examples": [
+                            {
+                                "en": "A system consists of elements, interconnections, and a function or purpose.",
+                                "vi": "Một hệ thống bao gồm các yếu tố, mối liên kết giữa chúng và mục đích chung."
+                            },
+                            {
+                                "en": "This is a reinforcing feedback loop that accelerates the process.",
+                                "vi": "Đây là một vòng phản hồi khuếch đại, làm tăng tốc quá trình."
+                            },
+                            {
+                                "en": "Delays in the system often cause unexpected behavior.",
+                                "vi": "Độ trễ trong hệ thống thường gây ra những hành vi không lường trước."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "systems_thinking_intro_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_feedback_loops_impact",
+            "title": "Bài 3: Vòng phản hồi và tác động dài hạn (Feedback Loops and Long-Term Impact)",
+            "description": "Khám phá cách các vòng phản hồi tác động đến hệ thống và cách hiểu và ứng dụng khái niệm này trong dài hạn.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "feedback_loops_intro_md",
+                    "title": "Vòng phản hồi trong hệ thống",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/c0f8ca8beaa0c38c3ad673da1c61bd3b/raw/feedback_loops_intro.md",
+                    "description": "Giới thiệu về các vòng phản hồi trong tư duy hệ thống và cách chúng ảnh hưởng đến sự thay đổi và phát triển của hệ thống theo thời gian."
+                },
+                {
+                    "id": "feedback_loops_types",
+                    "title": "Các loại vòng phản hồi: Reinforcing và Balancing",
+                    "type": "detail",
+                    "description": "Tìm hiểu về các loại vòng phản hồi trong hệ thống và cách chúng hoạt động theo cách thức khác nhau.",
+                    "detail": {
+                        "objectives": [
+                            "Phân biệt giữa reinforcing feedback loop (vòng phản hồi khuếch đại) và balancing feedback loop (vòng phản hồi điều hòa)",
+                            "Áp dụng từ vựng và mẫu câu tiếng Anh để mô tả vòng phản hồi trong các hệ thống phức tạp"
+                        ],
+                        "explanation": {
+                            "text": "A reinforcing feedback loop amplifies changes in the system, leading to exponential growth or decline. A balancing feedback loop counteracts changes to maintain equilibrium.",
+                            "image": null,
+                            "description": "Các vòng phản hồi khuếch đại (reinforcing) làm tăng tốc quá trình, trong khi các vòng phản hồi điều hòa (balancing) giúp duy trì sự cân bằng trong hệ thống."
+                        },
+                        "examples": [
+                            {
+                                "en": "The growth of social media is a reinforcing feedback loop, as more users lead to more content and more engagement.",
+                                "vi": "Sự phát triển của mạng xã hội là một vòng phản hồi khuếch đại, khi càng có nhiều người dùng, càng có nhiều nội dung và sự tương tác."
+                            },
+                            {
+                                "en": "A thermostat is an example of a balancing feedback loop that maintains room temperature.",
+                                "vi": "Một bộ điều nhiệt là ví dụ về vòng phản hồi điều hòa, giúp duy trì nhiệt độ phòng."
+                            },
+                            {
+                                "en": "Overpopulation can create a reinforcing feedback loop, leading to resource depletion.",
+                                "vi": "Dân số quá đông có thể tạo ra vòng phản hồi khuếch đại, dẫn đến cạn kiệt tài nguyên."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "feedback_loops_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_mental_models",
+            "title": "Bài 4: Mental Models và cách áp dụng vào tư duy hệ thống (Mental Models and Their Application in Systems Thinking)",
+            "description": "Khám phá các mô hình tư duy phổ biến và cách áp dụng chúng để hiểu rõ hơn về hệ thống và giải quyết vấn đề phức tạp.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "mental_models_intro_md",
+                    "title": "Mô hình tư duy là gì?",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f0c4c2cafe5f24e739ece70d25741a86/raw/mental_models_intro.md",
+                    "description": "Giới thiệu về mô hình tư duy (mental models) và cách chúng giúp chúng ta hiểu và giải quyết các vấn đề phức tạp trong tư duy hệ thống."
+                },
+                {
+                    "id": "mental_models_types",
+                    "title": "Các loại mô hình tư duy phổ biến",
+                    "type": "detail",
+                    "description": "Tìm hiểu các mô hình tư duy phổ biến như mô hình cause-and-effect (nhân quả), feedback loops (vòng phản hồi), và các mô hình khác trong tư duy hệ thống.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các mô hình tư duy cơ bản như cause-and-effect, feedback loops, và leverage points",
+                            "Sử dụng từ vựng và mẫu câu để mô tả cách áp dụng các mô hình tư duy vào các tình huống thực tế"
+                        ],
+                        "explanation": {
+                            "text": "Mental models are frameworks or representations of how we understand the world. In systems thinking, mental models help us make sense of complex systems by simplifying and highlighting key relationships and behaviors.",
+                            "image": null,
+                            "description": "Các mô hình tư duy như mô hình nhân quả (cause-and-effect) giúp hiểu mối quan hệ giữa nguyên nhân và kết quả trong hệ thống, hay mô hình leverage points giúp xác định điểm tác động mạnh mẽ trong hệ thống."
+                        },
+                        "examples": [
+                            {
+                                "en": "The cause-and-effect model explains how one action can trigger a series of reactions in a system.",
+                                "vi": "Mô hình nhân quả giải thích cách một hành động có thể kích hoạt một chuỗi phản ứng trong hệ thống."
+                            },
+                            {
+                                "en": "In a feedback loop, the output of a process becomes an input, influencing the system's behavior.",
+                                "vi": "Trong một vòng phản hồi, đầu ra của quá trình trở thành đầu vào, ảnh hưởng đến hành vi của hệ thống."
+                            },
+                            {
+                                "en": "Leverage points are areas where a small change can create a significant impact in the system.",
+                                "vi": "Các điểm tác động (leverage points) là những điểm trong hệ thống mà một thay đổi nhỏ có thể tạo ra tác động lớn."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "mental_models_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_critical_thinking_problem_solving",
+            "title": "Bài 5: Tư duy phản biện và giải quyết vấn đề (Critical Thinking and Problem Solving)",
+            "description": "Khám phá cách sử dụng tư duy phản biện để phân tích vấn đề và tìm ra các giải pháp hiệu quả trong các tình huống phức tạp.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "critical_thinking_intro_md",
+                    "title": "Tư duy phản biện là gì?",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/53e20762657bd245a392e44912eb7610/raw/critical_thinking_intro.md",
+                    "description": "Giới thiệu về tư duy phản biện và cách áp dụng tư duy này để đánh giá thông tin, lập luận và đưa ra quyết định chính xác."
+                },
+                {
+                    "id": "problem_solving_skills",
+                    "title": "Kỹ năng giải quyết vấn đề",
+                    "type": "detail",
+                    "description": "Tìm hiểu các kỹ năng cơ bản để giải quyết vấn đề, từ việc nhận diện vấn đề đến việc đưa ra giải pháp hiệu quả.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các bước cơ bản trong quy trình giải quyết vấn đề",
+                            "Sử dụng các mẫu câu tiếng Anh để mô tả và giải thích quá trình giải quyết vấn đề"
+                        ],
+                        "explanation": {
+                            "text": "Critical thinking involves analyzing information, identifying biases, and considering different perspectives. Problem solving is a structured approach to finding solutions, often using tools like root cause analysis, brainstorming, and decision trees.",
+                            "image": null,
+                            "description": "Các bước giải quyết vấn đề bao gồm: xác định vấn đề, phân tích nguyên nhân, phát triển các giải pháp, đánh giá các phương án và đưa ra quyết định cuối cùng."
+                        },
+                        "examples": [
+                            {
+                                "en": "To solve the problem, we need to break it down into smaller, manageable parts.",
+                                "vi": "Để giải quyết vấn đề, chúng ta cần chia nhỏ nó thành các phần có thể quản lý được."
+                            },
+                            {
+                                "en": "Critical thinking helps identify assumptions that may lead to flawed solutions.",
+                                "vi": "Tư duy phản biện giúp nhận diện các giả định có thể dẫn đến các giải pháp sai lầm."
+                            },
+                            {
+                                "en": "After brainstorming, we identified three potential solutions to the issue.",
+                                "vi": "Sau khi động não, chúng tôi đã nhận diện được ba giải pháp tiềm năng cho vấn đề."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "critical_thinking_problem_solving_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_setting_goals_success",
+            "title": "Bài 6: Thiết lập mục tiêu và đo lường thành công (Setting Goals and Measuring Success)",
+            "description": "Khám phá các kỹ thuật thiết lập mục tiêu thông minh và các chỉ số hiệu quả để đo lường thành công trong các dự án và hệ thống.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "goal_setting_intro_md",
+                    "title": "Thiết lập mục tiêu thông minh (SMART Goals)",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f5d60afbbb1b7914881897401b7d5d7f/raw/goal_setting_intro.md",
+                    "description": "Giới thiệu về phương pháp thiết lập mục tiêu SMART (Cụ thể, Đo lường được, Có thể đạt được, Liên quan, Thời gian cụ thể)."
+                },
+                {
+                    "id": "measuring_success_criteria",
+                    "title": "Đo lường thành công: Các chỉ số hiệu quả (KPIs)",
+                    "type": "detail",
+                    "description": "Học cách sử dụng các chỉ số hiệu suất chủ chốt (KPIs) để đánh giá tiến độ và thành công của các mục tiêu đã đề ra.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu và áp dụng phương pháp SMART trong việc thiết lập mục tiêu",
+                            "Biết cách lựa chọn và sử dụng các KPIs để theo dõi sự tiến bộ và đo lường thành công"
+                        ],
+                        "explanation": {
+                            "text": "SMART goals are a framework to help ensure that goals are clear, achievable, and measurable. KPIs (Key Performance Indicators) are metrics that track the success of an organization or project based on specific goals.",
+                            "image": null,
+                            "description": "Ví dụ về mục tiêu SMART có thể bao gồm việc tăng trưởng doanh thu 10% trong 6 tháng tới. Các KPIs có thể là số lượng khách hàng mới, tỷ lệ chuyển đổi, hay doanh thu hàng tháng."
+                        },
+                        "examples": [
+                            {
+                                "en": "A SMART goal for improving customer service could be: 'Increase customer satisfaction ratings by 20% within 6 months.'",
+                                "vi": "Một mục tiêu SMART để cải thiện dịch vụ khách hàng có thể là: 'Tăng điểm hài lòng của khách hàng lên 20% trong 6 tháng.'"
+                            },
+                            {
+                                "en": "KPIs like customer retention rate and average response time can help measure the success of a customer service improvement initiative.",
+                                "vi": "Các KPIs như tỷ lệ giữ chân khách hàng và thời gian phản hồi trung bình có thể giúp đo lường thành công của sáng kiến cải thiện dịch vụ khách hàng."
+                            },
+                            {
+                                "en": "Measuring success is not only about achieving a goal, but also about tracking progress over time.",
+                                "vi": "Đo lường thành công không chỉ là đạt được mục tiêu, mà còn là theo dõi sự tiến bộ theo thời gian."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "setting_goals_success_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_time_management_efficiency",
+            "title": "Bài 7: Quản lý thời gian và tối ưu hóa hiệu quả công việc (Time Management and Optimizing Work Efficiency)",
+            "description": "Khám phá các phương pháp quản lý thời gian hiệu quả và tối ưu hóa quy trình làm việc để đạt được năng suất cao nhất trong các hệ thống và dự án.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "time_management_intro_md",
+                    "title": "Quản lý thời gian hiệu quả",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/ab7147f5613aaf1782987044b19a72fb/raw/time_management_intro.md",
+                    "description": "Giới thiệu về các kỹ thuật quản lý thời gian như phương pháp Pomodoro và nguyên tắc Eisenhower, giúp người học cải thiện khả năng quản lý công việc hiệu quả."
+                },
+                {
+                    "id": "work_efficiency_optimization",
+                    "title": "Tối ưu hóa hiệu quả công việc",
+                    "type": "detail",
+                    "description": "Học các phương pháp tối ưu hóa quy trình làm việc, từ việc giảm thiểu sự gián đoạn đến việc ưu tiên các nhiệm vụ quan trọng.",
+                    "detail": {
+                        "objectives": [
+                            "Áp dụng các phương pháp quản lý thời gian vào công việc hàng ngày",
+                            "Tìm ra các kỹ thuật tối ưu hóa hiệu suất công việc và cải thiện quy trình làm việc"
+                        ],
+                        "explanation": {
+                            "text": "Time management is about allocating time efficiently to maximize productivity. Methods like Pomodoro (working in short, focused intervals) and the Eisenhower Matrix (prioritizing tasks based on urgency and importance) can help manage time better. Optimizing work efficiency involves streamlining processes, reducing waste, and continuously improving workflows.",
+                            "image": null,
+                            "description": "Các phương pháp như Pomodoro giúp duy trì sự tập trung trong thời gian ngắn, trong khi Eisenhower Matrix giúp ưu tiên các nhiệm vụ quan trọng và khẩn cấp."
+                        },
+                        "examples": [
+                            {
+                                "en": "Using the Pomodoro technique, you work for 25 minutes and then take a 5-minute break to refresh.",
+                                "vi": "Sử dụng kỹ thuật Pomodoro, bạn làm việc trong 25 phút và sau đó nghỉ 5 phút để thư giãn."
+                            },
+                            {
+                                "en": "The Eisenhower Matrix helps you decide what to focus on first by classifying tasks based on urgency and importance.",
+                                "vi": "Ma trận Eisenhower giúp bạn quyết định nên tập trung vào nhiệm vụ nào trước bằng cách phân loại các nhiệm vụ dựa trên độ khẩn cấp và quan trọng."
+                            },
+                            {
+                                "en": "By optimizing work processes, teams can reduce downtime and improve overall efficiency.",
+                                "vi": "Bằng cách tối ưu hóa các quy trình làm việc, các nhóm có thể giảm thiểu thời gian chết và cải thiện hiệu quả tổng thể."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "time_management_efficiency_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_innovation_divergent_thinking",
+            "title": "Bài 8: Đổi mới sáng tạo và tư duy khác biệt (Innovation and Divergent Thinking)",
+            "description": "Khám phá các kỹ thuật đổi mới sáng tạo và tư duy khác biệt để giải quyết vấn đề và tìm kiếm các giải pháp sáng tạo trong môi trường kinh doanh và hệ thống phức tạp.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "innovation_intro_md",
+                    "title": "Đổi mới sáng tạo là gì?",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/5892d452f9988e8d7e8fb01d0afb8089/raw/innovation_intro.md",
+                    "description": "Giới thiệu về đổi mới sáng tạo, các phương pháp và kỹ thuật kích thích sáng tạo trong tư duy hệ thống và môi trường làm việc."
+                },
+                {
+                    "id": "divergent_thinking_techniques",
+                    "title": "Kỹ thuật tư duy khác biệt (Divergent Thinking)",
+                    "type": "detail",
+                    "description": "Tìm hiểu các kỹ thuật tư duy khác biệt để phát triển ý tưởng sáng tạo và đưa ra giải pháp ngoài lối mòn.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu và áp dụng tư duy khác biệt vào giải quyết vấn đề",
+                            "Khám phá các kỹ thuật sáng tạo giúp thúc đẩy đổi mới và giải quyết vấn đề hiệu quả"
+                        ],
+                        "explanation": {
+                            "text": "Innovation involves generating new ideas, improving processes, and applying creative solutions to existing challenges. Divergent thinking is a cognitive process that allows individuals to think broadly and explore multiple solutions or possibilities. It encourages creativity and flexibility in problem-solving.",
+                            "image": null,
+                            "description": "Các kỹ thuật tư duy khác biệt bao gồm brainstorming, mind mapping, và các phương pháp thúc đẩy sự sáng tạo không giới hạn trong quá trình giải quyết vấn đề."
+                        },
+                        "examples": [
+                            {
+                                "en": "During a brainstorming session, we explored several unconventional ideas to improve customer engagement.",
+                                "vi": "Trong một buổi brainstorming, chúng tôi đã khám phá một số ý tưởng không chính thống để cải thiện sự tương tác với khách hàng."
+                            },
+                            {
+                                "en": "Divergent thinking encourages us to look at problems from different angles, finding solutions that others may overlook.",
+                                "vi": "Tư duy khác biệt khuyến khích chúng ta nhìn nhận vấn đề từ nhiều góc độ khác nhau, tìm ra giải pháp mà người khác có thể bỏ qua."
+                            },
+                            {
+                                "en": "Innovation often arises from applying divergent thinking, where the focus is on exploring a wide range of possibilities.",
+                                "vi": "Đổi mới sáng tạo thường xuất phát từ việc áp dụng tư duy khác biệt, nơi tập trung vào việc khám phá một loạt các khả năng."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "innovation_divergent_thinking_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_continuous_improvement_change_management",
+            "title": "Bài 9: Cải tiến liên tục và quản lý sự thay đổi (Continuous Improvement and Change Management)",
+            "description": "Khám phá các phương pháp cải tiến liên tục và quản lý sự thay đổi trong các hệ thống để tối ưu hóa hiệu suất và đối phó với các thách thức trong môi trường thay đổi.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "continuous_improvement_intro_md",
+                    "title": "Cải tiến liên tục là gì?",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f724b6cc8030bc1544f3941ec79a53e1/raw/continuous_improvement_intro.md",
+                    "description": "Giới thiệu về nguyên lý cải tiến liên tục, các phương pháp và công cụ giúp tối ưu hóa hiệu suất trong các hệ thống và tổ chức."
+                },
+                {
+                    "id": "change_management_process",
+                    "title": "Quản lý sự thay đổi trong hệ thống",
+                    "type": "detail",
+                    "description": "Tìm hiểu quy trình quản lý sự thay đổi để giúp tổ chức và hệ thống thích nghi với môi trường thay đổi nhanh chóng và hiệu quả.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các nguyên tắc cơ bản của cải tiến liên tục và quản lý sự thay đổi",
+                            "Áp dụng các phương pháp cải tiến và quản lý thay đổi trong môi trường làm việc"
+                        ],
+                        "explanation": {
+                            "text": "Continuous improvement focuses on making incremental changes that lead to long-term improvements in performance. Change management is the process of preparing, supporting, and helping individuals, teams, and organizations navigate change effectively.",
+                            "image": null,
+                            "description": "Cải tiến liên tục có thể được thực hiện qua các phương pháp như Kaizen, Lean, và Six Sigma. Quản lý sự thay đổi bao gồm các bước như nhận diện sự thay đổi, lập kế hoạch, và triển khai kế hoạch thay đổi trong tổ chức."
+                        },
+                        "examples": [
+                            {
+                                "en": "By implementing continuous improvement methods, we were able to increase production efficiency by 15% in just three months.",
+                                "vi": "Bằng cách áp dụng các phương pháp cải tiến liên tục, chúng tôi đã tăng hiệu quả sản xuất lên 15% chỉ trong ba tháng."
+                            },
+                            {
+                                "en": "Change management involves preparing employees for change, providing the necessary support, and ensuring that the change is implemented smoothly.",
+                                "vi": "Quản lý sự thay đổi bao gồm việc chuẩn bị nhân viên cho sự thay đổi, cung cấp sự hỗ trợ cần thiết và đảm bảo sự thay đổi được triển khai suôn sẻ."
+                            },
+                            {
+                                "en": "Effective change management ensures that changes are embraced by the organization and lead to positive outcomes.",
+                                "vi": "Quản lý sự thay đổi hiệu quả đảm bảo rằng sự thay đổi được chấp nhận trong tổ chức và dẫn đến kết quả tích cực."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "continuous_improvement_change_management_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_leadership_team_building",
+            "title": "Bài 10: Lãnh đạo và xây dựng đội nhóm (Leadership and Team Building)",
+            "description": "Khám phá các kỹ năng lãnh đạo và xây dựng đội nhóm hiệu quả để tạo ra môi trường làm việc hợp tác và tối ưu hóa hiệu suất trong các hệ thống phức tạp.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "leadership_intro_md",
+                    "title": "Lãnh đạo là gì?",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/50f4784869778d61e803dadcb8c1f7e9/raw/leadership_intro.md",
+                    "description": "Giới thiệu về các khái niệm lãnh đạo, các phong cách lãnh đạo khác nhau và tầm quan trọng của lãnh đạo trong hệ thống làm việc hiện đại."
+                },
+                {
+                    "id": "team_building_process",
+                    "title": "Xây dựng đội nhóm hiệu quả",
+                    "type": "detail",
+                    "description": "Tìm hiểu các phương pháp xây dựng đội nhóm mạnh mẽ, từ việc chọn lựa thành viên phù hợp đến việc thúc đẩy sự hợp tác và phát triển nhóm.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các phong cách lãnh đạo và cách áp dụng chúng trong công việc",
+                            "Tìm ra các phương pháp xây dựng đội nhóm hiệu quả và quản lý các nhóm làm việc"
+                        ],
+                        "explanation": {
+                            "text": "Leadership involves guiding and inspiring individuals or teams to achieve their goals. Different leadership styles, such as transformational, transactional, and servant leadership, can be used depending on the situation and the team's needs. Team building focuses on creating a collaborative, supportive environment that fosters trust, communication, and productivity.",
+                            "image": null,
+                            "description": "Lãnh đạo có thể áp dụng qua các phong cách khác nhau như lãnh đạo chuyển đổi, lãnh đạo giao dịch, và lãnh đạo phục vụ. Xây dựng đội nhóm là quá trình phát triển một đội nhóm hợp tác, hiệu quả và đạt được mục tiêu chung."
+                        },
+                        "examples": [
+                            {
+                                "en": "As a transformational leader, she encouraged her team to innovate and think creatively to solve complex problems.",
+                                "vi": "Là một nhà lãnh đạo chuyển đổi, cô ấy khuyến khích đội nhóm của mình sáng tạo và suy nghĩ mới mẻ để giải quyết các vấn đề phức tạp."
+                            },
+                            {
+                                "en": "Building a successful team requires creating an atmosphere of trust, clear communication, and shared goals.",
+                                "vi": "Xây dựng một đội nhóm thành công đòi hỏi tạo ra bầu không khí tin tưởng, giao tiếp rõ ràng và mục tiêu chung."
+                            },
+                            {
+                                "en": "Effective leadership can increase team morale and drive better performance across the organization.",
+                                "vi": "Lãnh đạo hiệu quả có thể nâng cao tinh thần đội nhóm và thúc đẩy hiệu suất làm việc trong toàn bộ tổ chức."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "leadership_team_building_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_conflict_management_problem_solving",
+            "title": "Bài 11: Quản lý xung đột và giải quyết vấn đề (Conflict Management and Problem Solving)",
+            "description": "Khám phá các chiến lược quản lý xung đột và giải quyết vấn đề hiệu quả để cải thiện sự hợp tác và duy trì một môi trường làm việc hòa hợp và năng suất.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "conflict_management_intro_md",
+                    "title": "Quản lý xung đột là gì?",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/e1499ccf044f0db31c642a6929626a6b/raw/conflict_management_intro.md",
+                    "description": "Giới thiệu về xung đột trong môi trường làm việc, cách nhận diện và xử lý các xung đột để duy trì mối quan hệ làm việc tốt đẹp."
+                },
+                {
+                    "id": "problem_solving_approaches",
+                    "title": "Các phương pháp giải quyết vấn đề hiệu quả",
+                    "type": "detail",
+                    "description": "Tìm hiểu các phương pháp giải quyết vấn đề có cấu trúc để tìm ra các giải pháp sáng tạo và thực tế cho các tình huống xung đột.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các chiến lược quản lý xung đột và khi nào áp dụng chúng",
+                            "Áp dụng các phương pháp giải quyết vấn đề để đưa ra các quyết định tốt nhất trong các tình huống phức tạp"
+                        ],
+                        "explanation": {
+                            "text": "Conflict management involves understanding the causes of conflicts, resolving them constructively, and maintaining positive working relationships. Problem-solving techniques include identifying the root cause of an issue, brainstorming potential solutions, and evaluating the best course of action.",
+                            "image": null,
+                            "description": "Các phương pháp giải quyết xung đột bao gồm việc sử dụng các kỹ thuật đàm phán và giao tiếp hiệu quả. Giải quyết vấn đề yêu cầu người tham gia xác định nguyên nhân gốc rễ, tìm kiếm giải pháp và đưa ra quyết định dựa trên phân tích kỹ lưỡng."
+                        },
+                        "examples": [
+                            {
+                                "en": "The team successfully resolved the conflict by having an open discussion about the issue and finding a mutually acceptable solution.",
+                                "vi": "Đội nhóm đã giải quyết thành công xung đột bằng cách có một cuộc thảo luận cởi mở về vấn đề và tìm ra giải pháp chấp nhận được cho tất cả các bên."
+                            },
+                            {
+                                "en": "Using a structured problem-solving approach, we were able to reduce the time it took to resolve customer complaints by 30%.",
+                                "vi": "Sử dụng phương pháp giải quyết vấn đề có cấu trúc, chúng tôi đã giảm thời gian giải quyết khiếu nại của khách hàng xuống 30%."
+                            },
+                            {
+                                "en": "Conflict management strategies such as mediation and negotiation helped the team work together more effectively.",
+                                "vi": "Các chiến lược quản lý xung đột như hòa giải và đàm phán đã giúp đội nhóm làm việc hiệu quả hơn."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "conflict_management_problem_solving_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_performance_evaluation_personal_development",
+            "title": "Bài 12: Đánh giá hiệu suất và phát triển cá nhân (Performance Evaluation and Personal Development)",
+            "description": "Tìm hiểu về quy trình đánh giá hiệu suất và cách phát triển cá nhân để nâng cao hiệu quả công việc và hướng tới các mục tiêu nghề nghiệp dài hạn.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "performance_evaluation_intro_md",
+                    "title": "Đánh giá hiệu suất là gì?",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/11088b85689071ec8b74f55e8ae32cac/raw/performance_evaluation_intro.md",
+                    "description": "Giới thiệu về khái niệm đánh giá hiệu suất, các tiêu chí và công cụ đánh giá giúp xác định hiệu quả công việc của cá nhân và đội nhóm."
+                },
+                {
+                    "id": "personal_development_strategies",
+                    "title": "Phát triển cá nhân và nghề nghiệp",
+                    "type": "detail",
+                    "description": "Khám phá các chiến lược phát triển cá nhân để cải thiện kỹ năng và khả năng làm việc, đồng thời thúc đẩy sự nghiệp của bạn trong môi trường làm việc hiện đại.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các phương pháp đánh giá hiệu suất và cách áp dụng chúng trong công việc",
+                            "Xây dựng kế hoạch phát triển cá nhân để cải thiện kỹ năng và đạt được mục tiêu nghề nghiệp"
+                        ],
+                        "explanation": {
+                            "text": "Performance evaluation is the process of assessing an individual's work performance based on predefined criteria and providing feedback to improve future performance. Personal development refers to the ongoing process of self-improvement through learning, skill development, and goal setting to enhance career prospects.",
+                            "image": null,
+                            "description": "Đánh giá hiệu suất bao gồm việc sử dụng các công cụ như phỏng vấn đánh giá, KPI (Key Performance Indicators) và phản hồi từ đồng nghiệp để xác định mức độ hoàn thành công việc. Phát triển cá nhân bao gồm các hoạt động như học hỏi kỹ năng mới, tham gia đào tạo và lập kế hoạch nghề nghiệp dài hạn."
+                        },
+                        "examples": [
+                            {
+                                "en": "The performance evaluation process helped the team leader identify areas where employees needed additional training to improve their skills.",
+                                "vi": "Quá trình đánh giá hiệu suất đã giúp trưởng nhóm xác định các lĩnh vực mà nhân viên cần thêm đào tạo để nâng cao kỹ năng."
+                            },
+                            {
+                                "en": "Personal development plans should include specific goals, timelines, and methods to track progress toward achieving career objectives.",
+                                "vi": "Kế hoạch phát triển cá nhân nên bao gồm các mục tiêu cụ thể, thời gian biểu và phương pháp theo dõi tiến độ để đạt được các mục tiêu nghề nghiệp."
+                            },
+                            {
+                                "en": "Through regular performance evaluations, employees can receive constructive feedback that helps them grow and develop in their roles.",
+                                "vi": "Thông qua các đánh giá hiệu suất định kỳ, nhân viên có thể nhận được phản hồi mang tính xây dựng giúp họ phát triển và trưởng thành trong công việc."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "performance_evaluation_personal_development_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_critical_thinking_decision_making",
+            "title": "Bài 13: Tư duy phản biện và ra quyết định (Critical Thinking and Decision Making)",
+            "description": "Khám phá các kỹ năng tư duy phản biện và quy trình ra quyết định để giải quyết các vấn đề phức tạp và đưa ra những lựa chọn sáng suốt trong công việc và cuộc sống.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "critical_thinking_intro_md",
+                    "title": "Tư duy phản biện là gì?",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b234a921b4df9caf26cb05bca34c8e4a/raw/critical_thinking_intro.md",
+                    "description": "Giới thiệu về tư duy phản biện, những kỹ năng và phương pháp giúp cải thiện khả năng phân tích và đánh giá thông tin một cách logic và hiệu quả."
+                },
+                {
+                    "id": "decision_making_process",
+                    "title": "Quy trình ra quyết định hiệu quả",
+                    "type": "detail",
+                    "description": "Tìm hiểu các bước trong quy trình ra quyết định, từ việc thu thập thông tin đến đánh giá các lựa chọn và đưa ra quyết định cuối cùng.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các nguyên tắc của tư duy phản biện và cách áp dụng chúng trong việc giải quyết vấn đề",
+                            "Áp dụng quy trình ra quyết định để đưa ra lựa chọn hợp lý và hiệu quả trong các tình huống khó khăn"
+                        ],
+                        "explanation": {
+                            "text": "Critical thinking involves analyzing information, evaluating different perspectives, and applying logic to form well-reasoned judgments. Decision making is the process of choosing the best option from a set of alternatives, considering the potential risks, benefits, and consequences of each choice.",
+                            "image": null,
+                            "description": "Tư duy phản biện yêu cầu người tham gia phải phân tích, đánh giá và đưa ra những quyết định dựa trên thông tin khách quan và logic. Quy trình ra quyết định bao gồm việc xác định vấn đề, thu thập thông tin, phân tích các lựa chọn và đưa ra quyết định cuối cùng."
+                        },
+                        "examples": [
+                            {
+                                "en": "Using critical thinking, she was able to identify flaws in the proposed plan and suggest more effective alternatives.",
+                                "vi": "Sử dụng tư duy phản biện, cô ấy đã nhận diện được những sai sót trong kế hoạch đề xuất và gợi ý những phương án thay thế hiệu quả hơn."
+                            },
+                            {
+                                "en": "The decision-making process involved gathering input from the team, considering potential outcomes, and selecting the best course of action.",
+                                "vi": "Quy trình ra quyết định đã bao gồm việc thu thập ý kiến từ đội nhóm, cân nhắc các kết quả có thể xảy ra và lựa chọn phương án tốt nhất."
+                            },
+                            {
+                                "en": "When faced with a difficult decision, it's important to weigh the pros and cons of each option before making a final choice.",
+                                "vi": "Khi đối mặt với một quyết định khó khăn, việc cân nhắc ưu điểm và nhược điểm của mỗi lựa chọn trước khi đưa ra quyết định cuối cùng là rất quan trọng."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "critical_thinking_decision_making_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_communication_presentation_skills",
+            "title": "Bài 14: Kỹ năng giao tiếp và thuyết trình (Communication and Presentation Skills)",
+            "description": "Tìm hiểu các kỹ năng giao tiếp và thuyết trình hiệu quả, từ việc truyền đạt thông tin rõ ràng đến việc tạo ấn tượng mạnh mẽ trong các buổi thuyết trình và cuộc họp.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "communication_intro_md",
+                    "title": "Kỹ năng giao tiếp cơ bản",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f2d4c9cfb9febf6a01771f04acd927a1/raw/communication_intro.md",
+                    "description": "Giới thiệu về các yếu tố cơ bản trong giao tiếp, từ việc lắng nghe chủ động đến việc truyền đạt thông điệp một cách rõ ràng và dễ hiểu."
+                },
+                {
+                    "id": "presentation_effective_communication",
+                    "title": "Kỹ năng thuyết trình hiệu quả",
+                    "type": "detail",
+                    "description": "Khám phá các chiến lược thuyết trình thành công, bao gồm cách tạo dựng sự tự tin, thiết kế bài thuyết trình, và tương tác với người nghe.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các nguyên lý cơ bản của giao tiếp và thuyết trình hiệu quả",
+                            "Nâng cao khả năng tự tin khi nói trước công chúng và tạo sự kết nối với người nghe"
+                        ],
+                        "explanation": {
+                            "text": "Effective communication involves expressing ideas clearly, listening actively, and using non-verbal cues to enhance understanding. Presentation skills include organizing content logically, engaging the audience, and delivering the message with confidence.",
+                            "image": null,
+                            "description": "Kỹ năng giao tiếp hiệu quả đòi hỏi khả năng truyền đạt ý tưởng một cách rõ ràng, lắng nghe chủ động và sử dụng ngôn ngữ cơ thể để tăng cường sự hiểu biết. Kỹ năng thuyết trình bao gồm việc tổ chức nội dung một cách hợp lý, thu hút sự chú ý của người nghe và trình bày thông điệp một cách tự tin."
+                        },
+                        "examples": [
+                            {
+                                "en": "During her presentation, she maintained eye contact with the audience and used visual aids to support her points.",
+                                "vi": "Trong buổi thuyết trình của cô ấy, cô giữ giao tiếp mắt với khán giả và sử dụng các công cụ trực quan để hỗ trợ quan điểm của mình."
+                            },
+                            {
+                                "en": "He used effective communication skills to listen to feedback from his colleagues and adjust his presentation accordingly.",
+                                "vi": "Anh ấy đã sử dụng kỹ năng giao tiếp hiệu quả để lắng nghe phản hồi từ đồng nghiệp và điều chỉnh bài thuyết trình của mình phù hợp."
+                            },
+                            {
+                                "en": "A successful presentation requires clear structure, engaging content, and a confident delivery.",
+                                "vi": "Một buổi thuyết trình thành công đòi hỏi một cấu trúc rõ ràng, nội dung hấp dẫn và cách trình bày tự tin."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "communication_presentation_skills_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_leadership_team_management",
+            "title": "Bài 15: Lãnh đạo và quản lý nhóm (Leadership and Team Management)",
+            "description": "Tìm hiểu các nguyên tắc lãnh đạo và kỹ năng quản lý nhóm để thúc đẩy sự hợp tác, tăng cường hiệu quả làm việc và đạt được mục tiêu chung.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "leadership_intro_md",
+                    "title": "Lãnh đạo là gì?",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/2402c1cf86c2ee63763a21f64b1b15ec/raw/leadership_intro.md",
+                    "description": "Giới thiệu về khái niệm lãnh đạo, các kiểu lãnh đạo khác nhau và vai trò của người lãnh đạo trong việc dẫn dắt đội nhóm."
+                },
+                {
+                    "id": "team_management_skills",
+                    "title": "Kỹ năng quản lý nhóm hiệu quả",
+                    "type": "detail",
+                    "description": "Khám phá các kỹ năng và chiến lược quản lý nhóm để xây dựng môi trường làm việc hợp tác, động viên nhân viên và đạt được mục tiêu chung.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các kiểu lãnh đạo và cách áp dụng chúng trong các tình huống khác nhau",
+                            "Nâng cao kỹ năng quản lý nhóm để tối ưu hóa sự hợp tác và đạt được hiệu quả công việc"
+                        ],
+                        "explanation": {
+                            "text": "Leadership involves guiding, motivating, and supporting a team to achieve a common goal. Effective team management requires understanding group dynamics, delegating tasks, resolving conflicts, and fostering an environment of trust and collaboration.",
+                            "image": null,
+                            "description": "Lãnh đạo là khả năng dẫn dắt và khích lệ đội nhóm để đạt được mục tiêu chung. Quản lý nhóm hiệu quả bao gồm việc hiểu các động lực nhóm, phân công công việc hợp lý, giải quyết xung đột và tạo dựng môi trường làm việc tin cậy và hợp tác."
+                        },
+                        "examples": [
+                            {
+                                "en": "The team leader used a democratic leadership style to involve everyone in the decision-making process and encourage open discussions.",
+                                "vi": "Trưởng nhóm đã sử dụng phong cách lãnh đạo dân chủ để tham gia mọi người vào quá trình ra quyết định và khuyến khích các cuộc thảo luận cởi mở."
+                            },
+                            {
+                                "en": "Good leaders know how to delegate tasks effectively and ensure that every team member understands their role.",
+                                "vi": "Những nhà lãnh đạo giỏi biết cách phân công công việc hiệu quả và đảm bảo mỗi thành viên trong nhóm hiểu rõ vai trò của mình."
+                            },
+                            {
+                                "en": "Effective team management involves resolving conflicts quickly, fostering a positive work environment, and supporting individual growth within the team.",
+                                "vi": "Quản lý nhóm hiệu quả bao gồm việc giải quyết xung đột nhanh chóng, tạo dựng môi trường làm việc tích cực và hỗ trợ sự phát triển cá nhân trong nhóm."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "leadership_team_management_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_time_management_productivity",
+            "title": "Bài 16: Quản lý thời gian và hiệu quả công việc (Time Management and Productivity)",
+            "description": "Tìm hiểu các kỹ năng quản lý thời gian và chiến lược tăng năng suất để hoàn thành công việc đúng hạn, giảm căng thẳng và đạt được các mục tiêu cá nhân và công việc.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "time_management_intro_md",
+                    "title": "Quản lý thời gian hiệu quả",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/2f77911aacb164c8cd43128c27f20b94/raw/time_management_intro.md",
+                    "description": "Giới thiệu về quản lý thời gian, tầm quan trọng của việc lên kế hoạch và cách sắp xếp các ưu tiên để đạt được hiệu quả công việc cao nhất."
+                },
+                {
+                    "id": "productivity_strategies",
+                    "title": "Chiến lược tăng cường năng suất",
+                    "type": "detail",
+                    "description": "Khám phá các chiến lược giúp tăng năng suất làm việc, từ việc sử dụng các công cụ quản lý thời gian đến việc duy trì sự tập trung và động lực làm việc.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các nguyên tắc cơ bản của quản lý thời gian và cách sắp xếp ưu tiên công việc",
+                            "Áp dụng các chiến lược để tối ưu hóa năng suất và hiệu quả công việc"
+                        ],
+                        "explanation": {
+                            "text": "Effective time management involves setting priorities, organizing tasks, and allocating time efficiently. Productivity strategies include minimizing distractions, breaking tasks into smaller steps, and using tools like calendars or task management apps.",
+                            "image": null,
+                            "description": "Quản lý thời gian hiệu quả yêu cầu việc thiết lập ưu tiên, tổ chức công việc và phân bổ thời gian một cách hợp lý. Các chiến lược tăng năng suất bao gồm việc giảm thiểu sự phân tâm, chia nhỏ công việc và sử dụng các công cụ như lịch làm việc hay ứng dụng quản lý công việc."
+                        },
+                        "examples": [
+                            {
+                                "en": "She used time-blocking to ensure she focused on one task at a time and completed it without interruptions.",
+                                "vi": "Cô ấy sử dụng phương pháp chia thời gian theo khối để đảm bảo mình tập trung vào một công việc tại một thời điểm và hoàn thành nó mà không bị gián đoạn."
+                            },
+                            {
+                                "en": "By setting clear goals and breaking them into smaller tasks, he was able to complete the project on time.",
+                                "vi": "Bằng cách đặt ra mục tiêu rõ ràng và chia nhỏ chúng thành các công việc cụ thể, anh ấy đã hoàn thành dự án đúng hạn."
+                            },
+                            {
+                                "en": "Using productivity tools like task lists and reminders helped her stay organized and efficient throughout the day.",
+                                "vi": "Sử dụng các công cụ tăng năng suất như danh sách công việc và nhắc nhở giúp cô ấy duy trì tổ chức và hiệu quả trong suốt cả ngày."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "time_management_productivity_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_stress_management_self_care",
+            "title": "Bài 17: Quản lý căng thẳng và chăm sóc sức khỏe (Stress Management and Self-care)",
+            "description": "Tìm hiểu các chiến lược quản lý căng thẳng hiệu quả và cách chăm sóc sức khỏe bản thân để duy trì sự năng động, sáng tạo và bền bỉ trong công việc và cuộc sống.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "stress_management_intro_md",
+                    "title": "Quản lý căng thẳng hiệu quả",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/7770b329922bfd23dddf3227343a6fcc/raw/stress_management_intro.md",
+                    "description": "Giới thiệu về các phương pháp quản lý căng thẳng, bao gồm kỹ thuật thở, thiền và cách thức làm việc trong môi trường ít căng thẳng hơn."
+                },
+                {
+                    "id": "self_care_techniques",
+                    "title": "Kỹ thuật chăm sóc sức khỏe bản thân",
+                    "type": "detail",
+                    "description": "Khám phá các chiến lược chăm sóc sức khỏe thể chất và tinh thần, giúp nâng cao khả năng phục hồi và duy trì hiệu suất làm việc cao trong thời gian dài.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các nguyên tắc cơ bản của quản lý căng thẳng và cách ứng dụng chúng trong công việc",
+                            "Áp dụng các kỹ thuật chăm sóc sức khỏe bản thân để duy trì sức khỏe thể chất và tinh thần"
+                        ],
+                        "explanation": {
+                            "text": "Stress management techniques include deep breathing exercises, mindfulness, and taking breaks to prevent burnout. Self-care practices involve maintaining physical health through regular exercise, proper nutrition, and sleep, as well as nurturing emotional and mental well-being.",
+                            "image": null,
+                            "description": "Các kỹ thuật quản lý căng thẳng bao gồm bài tập thở sâu, thiền và nghỉ giải lao để tránh kiệt sức. Thực hành chăm sóc sức khỏe bản thân bao gồm duy trì sức khỏe thể chất thông qua việc tập thể dục thường xuyên, ăn uống hợp lý và ngủ đủ giấc, đồng thời chăm sóc sức khỏe tinh thần và cảm xúc."
+                        },
+                        "examples": [
+                            {
+                                "en": "He practices mindfulness every morning to reduce stress and improve his focus throughout the day.",
+                                "vi": "Anh ấy thực hành thiền chánh niệm mỗi sáng để giảm căng thẳng và cải thiện khả năng tập trung trong suốt cả ngày."
+                            },
+                            {
+                                "en": "Taking regular breaks during work helps to clear his mind and avoid feeling overwhelmed.",
+                                "vi": "Việc nghỉ ngơi thường xuyên trong công việc giúp anh ấy giải tỏa tâm trí và tránh cảm giác quá tải."
+                            },
+                            {
+                                "en": "Maintaining a balanced diet and getting enough sleep are crucial for managing stress and staying productive.",
+                                "vi": "Duy trì một chế độ ăn uống cân bằng và ngủ đủ giấc là rất quan trọng để quản lý căng thẳng và duy trì năng suất làm việc."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "stress_management_self_care_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_decision_making_problem_solving",
+            "title": "Bài 18: Kỹ năng ra quyết định và giải quyết vấn đề (Decision Making and Problem Solving)",
+            "description": "Tìm hiểu các phương pháp và chiến lược để ra quyết định đúng đắn và giải quyết các vấn đề trong công việc và cuộc sống một cách hiệu quả.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "decision_making_intro_md",
+                    "title": "Ra quyết định hiệu quả",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/6e66de1959e2b5fd74a54eafba44037d/raw/decision_making_intro.md",
+                    "description": "Giới thiệu về các chiến lược ra quyết định, bao gồm việc phân tích thông tin, đánh giá các lựa chọn và đưa ra quyết định dựa trên thông tin có sẵn."
+                },
+                {
+                    "id": "problem_solving_techniques",
+                    "title": "Kỹ thuật giải quyết vấn đề",
+                    "type": "detail",
+                    "description": "Khám phá các kỹ thuật giải quyết vấn đề hiệu quả, từ việc nhận diện vấn đề cho đến việc tìm kiếm giải pháp và thực hiện chúng.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các chiến lược ra quyết định và cách áp dụng chúng trong các tình huống khác nhau",
+                            "Áp dụng các phương pháp giải quyết vấn đề để xử lý các tình huống khó khăn trong công việc và cuộc sống"
+                        ],
+                        "explanation": {
+                            "text": "Decision making involves analyzing the situation, considering alternatives, and choosing the best option. Problem solving requires identifying the problem, brainstorming potential solutions, and implementing a solution to resolve the issue effectively.",
+                            "image": null,
+                            "description": "Ra quyết định bao gồm việc phân tích tình huống, xem xét các phương án thay thế và chọn lựa giải pháp tốt nhất. Giải quyết vấn đề đòi hỏi phải nhận diện vấn đề, đưa ra các giải pháp tiềm năng và triển khai giải pháp để giải quyết vấn đề một cách hiệu quả."
+                        },
+                        "examples": [
+                            {
+                                "en": "After weighing all the options, she made the decision to invest in a long-term project that aligned with her company's values.",
+                                "vi": "Sau khi xem xét tất cả các phương án, cô ấy đã quyết định đầu tư vào một dự án dài hạn phù hợp với giá trị của công ty."
+                            },
+                            {
+                                "en": "He used the 'root cause analysis' method to identify the underlying issue and resolve it permanently.",
+                                "vi": "Anh ấy đã sử dụng phương pháp 'phân tích nguyên nhân gốc rễ' để nhận diện vấn đề cơ bản và giải quyết nó một cách vĩnh viễn."
+                            },
+                            {
+                                "en": "When faced with a difficult decision, it helps to consult with colleagues or mentors to get a different perspective.",
+                                "vi": "Khi đối mặt với một quyết định khó khăn, việc tham khảo ý kiến của đồng nghiệp hoặc người cố vấn sẽ giúp có cái nhìn từ một góc độ khác."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "decision_making_problem_solving_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_communication_skills_workplace",
+            "title": "Bài 19: Kỹ năng giao tiếp trong môi trường làm việc (Communication Skills in the Workplace)",
+            "description": "Tìm hiểu các kỹ năng giao tiếp quan trọng trong môi trường làm việc, bao gồm giao tiếp trong nhóm, trình bày ý tưởng và giao tiếp với cấp trên và đồng nghiệp.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "communication_intro_md",
+                    "title": "Giới thiệu về kỹ năng giao tiếp",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/4e2b55e9db6231e3368c4e47c93d0521/raw/communication_intro.md",
+                    "description": "Giới thiệu về tầm quan trọng của kỹ năng giao tiếp trong môi trường làm việc và cách thức phát triển kỹ năng này để đạt được hiệu quả công việc tốt hơn."
+                },
+                {
+                    "id": "team_communication_techniques",
+                    "title": "Kỹ thuật giao tiếp trong nhóm",
+                    "type": "detail",
+                    "description": "Khám phá các kỹ thuật giao tiếp hiệu quả khi làm việc trong nhóm, từ việc trình bày ý tưởng rõ ràng đến việc lắng nghe và hỗ trợ đồng nghiệp.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu được vai trò của giao tiếp trong nhóm và tại sao nó lại quan trọng",
+                            "Áp dụng các kỹ thuật giao tiếp để xây dựng môi trường làm việc hợp tác và hiệu quả"
+                        ],
+                        "explanation": {
+                            "text": "Effective communication within a team involves clear and concise messaging, active listening, and collaboration. It helps to resolve misunderstandings, foster a positive work culture, and achieve team goals.",
+                            "image": null,
+                            "description": "Giao tiếp hiệu quả trong một nhóm bao gồm việc truyền đạt thông điệp rõ ràng, lắng nghe chủ động và hợp tác. Điều này giúp giải quyết những hiểu lầm, thúc đẩy văn hóa làm việc tích cực và đạt được các mục tiêu chung của nhóm."
+                        },
+                        "examples": [
+                            {
+                                "en": "In the team meeting, she clearly communicated the project goals and ensured everyone understood their responsibilities.",
+                                "vi": "Trong cuộc họp nhóm, cô ấy đã truyền đạt rõ ràng các mục tiêu dự án và đảm bảo rằng mọi người đều hiểu trách nhiệm của mình."
+                            },
+                            {
+                                "en": "Active listening helps avoid misunderstandings and shows respect for other people's opinions.",
+                                "vi": "Lắng nghe chủ động giúp tránh hiểu lầm và thể hiện sự tôn trọng đối với ý kiến của người khác."
+                            },
+                            {
+                                "en": "Collaborating on tasks and discussing challenges openly fosters a better work environment.",
+                                "vi": "Hợp tác trong công việc và thảo luận về các thử thách một cách mở rộng sẽ tạo ra một môi trường làm việc tốt hơn."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "communication_skills_workplace_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_relationship_management_networking",
+            "title": "Bài 20: Quản lý mối quan hệ và phát triển mạng lưới (Relationship Management and Networking)",
+            "description": "Tìm hiểu cách quản lý mối quan hệ cá nhân và chuyên nghiệp, đồng thời xây dựng và duy trì một mạng lưới kết nối mạnh mẽ trong sự nghiệp.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "relationship_management_intro_md",
+                    "title": "Giới thiệu về quản lý mối quan hệ",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/92508358c23c6d94c413fba18051b38f/raw/relationship_management_intro.md",
+                    "description": "Giới thiệu về tầm quan trọng của việc quản lý mối quan hệ và các yếu tố cần có để xây dựng và duy trì các mối quan hệ hiệu quả trong công việc và cuộc sống."
+                },
+                {
+                    "id": "networking_strategies",
+                    "title": "Chiến lược phát triển mạng lưới",
+                    "type": "detail",
+                    "description": "Khám phá các chiến lược xây dựng và phát triển mạng lưới chuyên nghiệp, từ việc tham gia các sự kiện đến việc duy trì liên lạc với các mối quan hệ quan trọng.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu tầm quan trọng của quản lý mối quan hệ trong sự nghiệp và cuộc sống",
+                            "Áp dụng các chiến lược để xây dựng và duy trì mạng lưới kết nối mạnh mẽ"
+                        ],
+                        "explanation": {
+                            "text": "Relationship management involves understanding the needs of others, maintaining open communication, and offering support where needed. Networking is about establishing connections with people who can help in personal and professional growth. Both are vital for career success.",
+                            "image": null,
+                            "description": "Quản lý mối quan hệ bao gồm việc hiểu nhu cầu của người khác, duy trì giao tiếp mở và hỗ trợ khi cần thiết. Phát triển mạng lưới liên quan đến việc thiết lập kết nối với những người có thể giúp đỡ trong sự phát triển cá nhân và nghề nghiệp. Cả hai đều rất quan trọng đối với thành công trong sự nghiệp."
+                        },
+                        "examples": [
+                            {
+                                "en": "He made an effort to stay in touch with his colleagues after the conference, which helped him secure new business opportunities.",
+                                "vi": "Anh ấy đã cố gắng giữ liên lạc với các đồng nghiệp sau hội nghị, điều này giúp anh có được những cơ hội kinh doanh mới."
+                            },
+                            {
+                                "en": "Building a strong network requires consistent effort, such as attending industry events and offering value to others.",
+                                "vi": "Xây dựng một mạng lưới mạnh mẽ đòi hỏi sự nỗ lực liên tục, chẳng hạn như tham gia các sự kiện ngành nghề và cung cấp giá trị cho người khác."
+                            },
+                            {
+                                "en": "Maintaining relationships with mentors and peers can provide valuable advice and open doors to new career opportunities.",
+                                "vi": "Duy trì các mối quan hệ với người cố vấn và đồng nghiệp có thể mang lại lời khuyên quý giá và mở ra cơ hội nghề nghiệp mới."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "relationship_management_networking_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_leadership_influence",
+            "title": "Bài 21: Lãnh đạo và ảnh hưởng (Leadership and Influence)",
+            "description": "Khám phá các kỹ năng lãnh đạo hiệu quả và cách bạn có thể tạo ra ảnh hưởng tích cực đối với những người xung quanh trong công việc và cuộc sống.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "leadership_intro_md",
+                    "title": "Giới thiệu về lãnh đạo và ảnh hưởng",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/eb34fb91bb65ac477f0a5ae997b47610/raw/leadership_intro.md",
+                    "description": "Giới thiệu về khái niệm lãnh đạo và ảnh hưởng trong công việc và cuộc sống, cùng với các yếu tố quan trọng để trở thành một nhà lãnh đạo hiệu quả."
+                },
+                {
+                    "id": "influence_skills",
+                    "title": "Kỹ năng tạo ảnh hưởng",
+                    "type": "detail",
+                    "description": "Tìm hiểu các kỹ thuật và chiến lược để phát triển khả năng lãnh đạo và tạo ảnh hưởng tích cực đối với nhóm và tổ chức.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu được vai trò của lãnh đạo và ảnh hưởng trong công việc và cuộc sống",
+                            "Áp dụng các chiến lược lãnh đạo và kỹ năng ảnh hưởng để xây dựng môi trường làm việc tích cực và hiệu quả"
+                        ],
+                        "explanation": {
+                            "text": "Leadership involves guiding others towards achieving goals and inspiring them to perform at their best. Influence is about inspiring trust and motivating others to act in alignment with your vision, even when you do not have formal authority.",
+                            "image": null,
+                            "description": "Lãnh đạo là khả năng hướng dẫn người khác đạt được mục tiêu và truyền cảm hứng để họ thể hiện năng lực tốt nhất. Ảnh hưởng là khả năng tạo dựng lòng tin và động viên người khác hành động theo tầm nhìn của bạn, ngay cả khi bạn không có quyền lực chính thức."
+                        },
+                        "examples": [
+                            {
+                                "en": "The CEO’s leadership style encourages open communication and collaboration, which fosters a positive and productive work environment.",
+                                "vi": "Phong cách lãnh đạo của giám đốc điều hành khuyến khích giao tiếp cởi mở và hợp tác, điều này thúc đẩy một môi trường làm việc tích cực và hiệu quả."
+                            },
+                            {
+                                "en": "She used her influence to rally the team around a new project, ensuring that everyone was motivated and committed to its success.",
+                                "vi": "Cô ấy đã sử dụng ảnh hưởng của mình để tập hợp đội ngũ xung quanh một dự án mới, đảm bảo rằng mọi người đều có động lực và cam kết với sự thành công của nó."
+                            },
+                            {
+                                "en": "Effective leaders know how to inspire trust and motivate their team even in difficult situations.",
+                                "vi": "Các nhà lãnh đạo hiệu quả biết cách tạo dựng lòng tin và động viên đội ngũ ngay cả trong những tình huống khó khăn."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "leadership_influence_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_creative_thinking_innovation",
+            "title": "Bài 22: Tư duy sáng tạo và đổi mới (Creative Thinking and Innovation)",
+            "description": "Tìm hiểu các kỹ thuật tư duy sáng tạo và cách áp dụng chúng vào công việc để thúc đẩy sự đổi mới và giải quyết các vấn đề hiệu quả.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "creative_thinking_intro_md",
+                    "title": "Giới thiệu về tư duy sáng tạo và đổi mới",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/ffc0efb39fa727990ead57578590ba5f/raw/creative_thinking_intro.md",
+                    "description": "Khám phá khái niệm tư duy sáng tạo và đổi mới, cùng với các yếu tố cần thiết để thúc đẩy sự sáng tạo và giải quyết vấn đề hiệu quả."
+                },
+                {
+                    "id": "innovation_techniques",
+                    "title": "Kỹ thuật thúc đẩy đổi mới",
+                    "type": "detail",
+                    "description": "Khám phá các chiến lược và kỹ thuật để kích thích tư duy sáng tạo và áp dụng các giải pháp sáng tạo trong công việc và cuộc sống.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu tầm quan trọng của tư duy sáng tạo và đổi mới trong công việc và cuộc sống",
+                            "Áp dụng các kỹ thuật để phát triển khả năng sáng tạo và tìm kiếm các giải pháp đổi mới"
+                        ],
+                        "explanation": {
+                            "text": "Creative thinking involves looking at problems and situations from different perspectives, generating new ideas, and finding innovative solutions. Innovation is about implementing these ideas in a practical and effective way to improve processes or create new opportunities.",
+                            "image": null,
+                            "description": "Tư duy sáng tạo liên quan đến việc nhìn nhận các vấn đề và tình huống từ nhiều góc độ khác nhau, tạo ra các ý tưởng mới và tìm kiếm các giải pháp sáng tạo. Đổi mới là việc áp dụng những ý tưởng này một cách thực tế và hiệu quả để cải thiện quy trình hoặc tạo ra cơ hội mới."
+                        },
+                        "examples": [
+                            {
+                                "en": "The company’s innovation team used design thinking techniques to develop a new product that solved a major customer pain point.",
+                                "vi": "Nhóm đổi mới của công ty đã sử dụng kỹ thuật tư duy thiết kế để phát triển một sản phẩm mới giải quyết được một vấn đề lớn của khách hàng."
+                            },
+                            {
+                                "en": "By encouraging employees to think creatively, the company was able to come up with new ideas for improving customer service.",
+                                "vi": "Bằng cách khuyến khích nhân viên tư duy sáng tạo, công ty đã có thể đưa ra những ý tưởng mới để cải thiện dịch vụ khách hàng."
+                            },
+                            {
+                                "en": "Innovation is not just about new technology, but also about finding smarter ways to do things and improving existing processes.",
+                                "vi": "Đổi mới không chỉ liên quan đến công nghệ mới mà còn về việc tìm ra những cách làm thông minh hơn và cải thiện các quy trình hiện tại."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "creative_thinking_innovation_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_time_management_productivity",
+            "title": "Bài 23: Quản lý thời gian và hiệu suất (Time Management and Productivity)",
+            "description": "Tìm hiểu cách quản lý thời gian hiệu quả và các chiến lược nâng cao năng suất trong công việc và cuộc sống.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "time_management_intro_md",
+                    "title": "Giới thiệu về quản lý thời gian và hiệu suất",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/a937c489938b461ec23e070f00c97ca0/raw/time_management_intro.md",
+                    "description": "Giới thiệu về tầm quan trọng của việc quản lý thời gian và các yếu tố ảnh hưởng đến năng suất làm việc trong môi trường công sở."
+                },
+                {
+                    "id": "productivity_techniques",
+                    "title": "Các kỹ thuật nâng cao năng suất",
+                    "type": "detail",
+                    "description": "Khám phá các chiến lược và kỹ thuật để cải thiện quản lý thời gian và nâng cao năng suất công việc.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu được các yếu tố ảnh hưởng đến năng suất làm việc và cách tối ưu hóa thời gian",
+                            "Áp dụng các kỹ thuật quản lý thời gian để cải thiện hiệu suất công việc và cá nhân"
+                        ],
+                        "explanation": {
+                            "text": "Time management involves planning and organizing how to divide your time between various activities to maximize productivity. Productivity is about working smarter, not harder, by focusing on the most important tasks and eliminating distractions.",
+                            "image": null,
+                            "description": "Quản lý thời gian liên quan đến việc lên kế hoạch và tổ chức cách chia sẻ thời gian giữa các hoạt động để tối đa hóa năng suất. Năng suất là làm việc thông minh hơn, không phải làm việc nhiều hơn, bằng cách tập trung vào các nhiệm vụ quan trọng nhất và loại bỏ sự xao nhãng."
+                        },
+                        "examples": [
+                            {
+                                "en": "By using the Pomodoro technique, he was able to stay focused and complete his tasks on time without feeling overwhelmed.",
+                                "vi": "Bằng cách sử dụng kỹ thuật Pomodoro, anh ấy đã có thể giữ sự tập trung và hoàn thành công việc đúng hạn mà không cảm thấy bị áp lực."
+                            },
+                            {
+                                "en": "She prioritized her tasks using the Eisenhower Matrix, ensuring that she focused on the most important and urgent activities first.",
+                                "vi": "Cô ấy đã ưu tiên các nhiệm vụ của mình bằng cách sử dụng Ma trận Eisenhower, đảm bảo rằng cô ấy tập trung vào các công việc quan trọng và khẩn cấp nhất."
+                            },
+                            {
+                                "en": "Effective time management can lead to increased productivity, allowing you to accomplish more in less time.",
+                                "vi": "Quản lý thời gian hiệu quả có thể dẫn đến năng suất cao hơn, giúp bạn hoàn thành nhiều công việc hơn trong thời gian ngắn hơn."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "time_management_productivity_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_negotiation_persuasion",
+            "title": "Bài 24: Đàm phán và thuyết phục (Negotiation and Persuasion)",
+            "description": "Khám phá các chiến lược và kỹ thuật đàm phán hiệu quả và cách sử dụng kỹ năng thuyết phục để đạt được mục tiêu trong công việc và cuộc sống.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "negotiation_intro_md",
+                    "title": "Giới thiệu về đàm phán và thuyết phục",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/af1d9e2ddcc0b89b195a284514796a2d/raw/negotiation_intro.md",
+                    "description": "Giới thiệu về khái niệm đàm phán và thuyết phục, tầm quan trọng của chúng trong môi trường làm việc và cách áp dụng các chiến lược phù hợp."
+                },
+                {
+                    "id": "persuasion_strategies",
+                    "title": "Chiến lược thuyết phục hiệu quả",
+                    "type": "detail",
+                    "description": "Tìm hiểu các chiến lược và kỹ thuật để thuyết phục người khác và đạt được thỏa thuận trong các tình huống đàm phán.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu được các kỹ thuật đàm phán và thuyết phục hiệu quả",
+                            "Áp dụng các chiến lược thuyết phục trong công việc và giao tiếp hàng ngày"
+                        ],
+                        "explanation": {
+                            "text": "Negotiation is a process where two or more parties discuss and come to an agreement on a particular issue, while persuasion involves influencing someone's thoughts, actions, or decisions through reasoning, argument, or appeal.",
+                            "image": null,
+                            "description": "Đàm phán là một quá trình trong đó hai hoặc nhiều bên thảo luận và đạt được thỏa thuận về một vấn đề cụ thể, trong khi thuyết phục là việc ảnh hưởng đến suy nghĩ, hành động hoặc quyết định của ai đó thông qua lý luận, lập luận hoặc lời kêu gọi."
+                        },
+                        "examples": [
+                            {
+                                "en": "In the negotiation, she used active listening and clear communication to ensure both parties reached a mutually beneficial agreement.",
+                                "vi": "Trong cuộc đàm phán, cô ấy đã sử dụng kỹ năng lắng nghe chủ động và giao tiếp rõ ràng để đảm bảo cả hai bên đạt được thỏa thuận có lợi cho cả hai."
+                            },
+                            {
+                                "en": "He used persuasive language and logical arguments to convince the client to invest in the project.",
+                                "vi": "Anh ấy đã sử dụng ngôn ngữ thuyết phục và các lập luận logic để thuyết phục khách hàng đầu tư vào dự án."
+                            },
+                            {
+                                "en": "Successful negotiators focus on creating win-win situations where both sides benefit from the agreement.",
+                                "vi": "Những người đàm phán thành công tập trung vào việc tạo ra các tình huống đôi bên cùng có lợi từ thỏa thuận."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "negotiation_persuasion_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_personal_development_lifelong_learning",
+            "title": "Bài 25: Phát triển cá nhân và học hỏi suốt đời (Personal Development and Lifelong Learning)",
+            "description": "Tìm hiểu về quá trình phát triển bản thân và tầm quan trọng của việc học hỏi suốt đời để duy trì sự phát triển trong công việc và cuộc sống.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "personal_development_intro_md",
+                    "title": "Giới thiệu về phát triển cá nhân và học hỏi suốt đời",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/2f200150dae218c3d57e534aef3a3dd4/raw/personal_development_intro.md",
+                    "description": "Giới thiệu về khái niệm phát triển cá nhân và học hỏi suốt đời, cùng với các lợi ích của việc duy trì quá trình học hỏi liên tục trong suốt sự nghiệp và cuộc sống."
+                },
+                {
+                    "id": "lifelong_learning_strategies",
+                    "title": "Chiến lược học hỏi suốt đời",
+                    "type": "detail",
+                    "description": "Tìm hiểu các chiến lược và phương pháp để phát triển bản thân và duy trì việc học hỏi suốt đời, từ đó không ngừng nâng cao kỹ năng và kiến thức.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu tầm quan trọng của phát triển cá nhân và học hỏi suốt đời",
+                            "Áp dụng các chiến lược để duy trì sự phát triển và học hỏi liên tục"
+                        ],
+                        "explanation": {
+                            "text": "Personal development involves a conscious choice to improve and grow through continuous learning and self-awareness. Lifelong learning is the ongoing, voluntary, and self-motivated pursuit of knowledge for personal or professional development.",
+                            "image": null,
+                            "description": "Phát triển cá nhân liên quan đến việc lựa chọn một cách có ý thức để cải thiện và phát triển qua việc học hỏi liên tục và nhận thức bản thân. Học hỏi suốt đời là việc theo đuổi kiến thức một cách liên tục, tự nguyện và tự thúc đẩy vì sự phát triển cá nhân hoặc nghề nghiệp."
+                        },
+                        "examples": [
+                            {
+                                "en": "She regularly attends online courses to enhance her skills and keep up with the latest industry trends.",
+                                "vi": "Cô ấy thường xuyên tham gia các khóa học trực tuyến để nâng cao kỹ năng và theo kịp các xu hướng ngành nghề mới nhất."
+                            },
+                            {
+                                "en": "By reading books, listening to podcasts, and attending seminars, he continues to learn new things every day.",
+                                "vi": "Bằng cách đọc sách, nghe podcast và tham gia các hội thảo, anh ấy tiếp tục học hỏi những điều mới mỗi ngày."
+                            },
+                            {
+                                "en": "Lifelong learning enables individuals to stay adaptable and innovative in their careers, no matter the challenges.",
+                                "vi": "Học hỏi suốt đời giúp các cá nhân duy trì khả năng thích nghi và sáng tạo trong sự nghiệp của họ, bất kể thử thách."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "personal_development_lifelong_learning_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_teamwork_skills",
+            "title": "Bài 26: Kỹ năng làm việc nhóm (Teamwork Skills)",
+            "description": "Khám phá các kỹ năng và chiến lược làm việc nhóm hiệu quả để tối ưu hóa sự hợp tác và đạt được mục tiêu chung trong môi trường công việc.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "teamwork_intro_md",
+                    "title": "Giới thiệu về kỹ năng làm việc nhóm",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/3fc4fd2816fbaf9dc62cdd3963f0fc62/raw/teamwork_intro.md",
+                    "description": "Giới thiệu về tầm quan trọng của làm việc nhóm và các yếu tố cơ bản giúp xây dựng một nhóm làm việc hiệu quả."
+                },
+                {
+                    "id": "effective_teamwork_strategies",
+                    "title": "Chiến lược làm việc nhóm hiệu quả",
+                    "type": "detail",
+                    "description": "Tìm hiểu các chiến lược và phương pháp giúp nhóm làm việc hiệu quả hơn, tối ưu hóa sự hợp tác và phát huy sức mạnh tập thể.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu được các yếu tố làm việc nhóm hiệu quả và tầm quan trọng của sự hợp tác",
+                            "Áp dụng các chiến lược làm việc nhóm để đạt được mục tiêu chung"
+                        ],
+                        "explanation": {
+                            "text": "Teamwork is the combined effort of a group of individuals working together to achieve a common goal. Effective teamwork involves communication, trust, shared responsibility, and the ability to adapt to different situations and team dynamics.",
+                            "image": null,
+                            "description": "Làm việc nhóm là nỗ lực chung của một nhóm cá nhân làm việc cùng nhau để đạt được mục tiêu chung. Làm việc nhóm hiệu quả bao gồm giao tiếp, tin tưởng, chia sẻ trách nhiệm và khả năng thích nghi với các tình huống và động lực nhóm khác nhau."
+                        },
+                        "examples": [
+                            {
+                                "en": "In a successful team, each member plays their part and works together to achieve the team's objectives.",
+                                "vi": "Trong một nhóm thành công, mỗi thành viên đóng góp phần của mình và cùng nhau làm việc để đạt được mục tiêu chung của nhóm."
+                            },
+                            {
+                                "en": "Good communication and active listening are essential skills for effective teamwork.",
+                                "vi": "Giao tiếp tốt và lắng nghe tích cực là những kỹ năng thiết yếu cho làm việc nhóm hiệu quả."
+                            },
+                            {
+                                "en": "The team overcame obstacles by working collaboratively and supporting each other.",
+                                "vi": "Nhóm đã vượt qua các thử thách bằng cách làm việc cùng nhau và hỗ trợ lẫn nhau."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "teamwork_skills_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_problem_solving_skills",
+            "title": "Bài 27: Kỹ năng giải quyết vấn đề (Problem-Solving Skills)",
+            "description": "Tìm hiểu các phương pháp và chiến lược giúp bạn giải quyết vấn đề hiệu quả, đưa ra quyết định chính xác và phát triển khả năng tư duy sáng tạo.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "problem_solving_intro_md",
+                    "title": "Giới thiệu về kỹ năng giải quyết vấn đề",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/653cbc892273e371a092e1f88968bff4/raw/problem_solving_intro.md",
+                    "description": "Giới thiệu về khái niệm và tầm quan trọng của kỹ năng giải quyết vấn đề trong các tình huống công việc và cuộc sống thường ngày."
+                },
+                {
+                    "id": "problem_solving_techniques",
+                    "title": "Các kỹ thuật giải quyết vấn đề",
+                    "type": "detail",
+                    "description": "Tìm hiểu các kỹ thuật và phương pháp giải quyết vấn đề hiệu quả giúp bạn đưa ra quyết định đúng đắn và tìm kiếm giải pháp sáng tạo.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu rõ các bước trong quy trình giải quyết vấn đề",
+                            "Áp dụng các kỹ thuật và chiến lược để giải quyết vấn đề trong môi trường làm việc và đời sống"
+                        ],
+                        "explanation": {
+                            "text": "Problem-solving involves identifying a problem, generating possible solutions, evaluating those solutions, and selecting the best course of action. Effective problem-solvers approach problems with a structured mindset and the ability to think creatively and critically.",
+                            "image": null,
+                            "description": "Giải quyết vấn đề bao gồm việc xác định vấn đề, tạo ra các giải pháp có thể có, đánh giá những giải pháp đó và chọn lựa hành động tốt nhất. Những người giải quyết vấn đề hiệu quả tiếp cận vấn đề bằng một tư duy có cấu trúc và khả năng tư duy sáng tạo, phản biện."
+                        },
+                        "examples": [
+                            {
+                                "en": "To solve the problem, we first identified the root cause and then brainstormed several possible solutions.",
+                                "vi": "Để giải quyết vấn đề, chúng tôi đầu tiên xác định nguyên nhân gốc rễ và sau đó đưa ra nhiều giải pháp khả thi."
+                            },
+                            {
+                                "en": "The team applied the '5 Whys' technique to understand the problem more deeply and identify the best solution.",
+                                "vi": "Nhóm đã áp dụng kỹ thuật '5 Whys' để hiểu sâu hơn về vấn đề và xác định giải pháp tốt nhất."
+                            },
+                            {
+                                "en": "Creative problem-solving allows you to explore new possibilities and find innovative solutions.",
+                                "vi": "Giải quyết vấn đề sáng tạo cho phép bạn khám phá các khả năng mới và tìm ra giải pháp sáng tạo."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "problem_solving_skills_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_leadership_skills",
+            "title": "Bài 28: Kỹ năng lãnh đạo (Leadership Skills)",
+            "description": "Khám phá các yếu tố cần thiết để trở thành một nhà lãnh đạo hiệu quả, bao gồm giao tiếp, đưa ra quyết định, và phát triển đội nhóm.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "leadership_intro_md",
+                    "title": "Giới thiệu về kỹ năng lãnh đạo",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f1e1bbe07faee231f9b4d1ddbc5fb2f5/raw/leadership_intro.md",
+                    "description": "Giới thiệu về vai trò của lãnh đạo và những yếu tố cơ bản cần thiết để phát triển kỹ năng lãnh đạo trong công việc và cuộc sống."
+                },
+                {
+                    "id": "leadership_qualities",
+                    "title": "Các phẩm chất của một nhà lãnh đạo hiệu quả",
+                    "type": "detail",
+                    "description": "Tìm hiểu các phẩm chất và kỹ năng cần thiết của một nhà lãnh đạo để thúc đẩy đội ngũ và đạt được mục tiêu chung.",
+                    "detail": {
+                        "objectives": [
+                            "Nhận diện các phẩm chất cần có của một nhà lãnh đạo hiệu quả",
+                            "Học cách phát triển và áp dụng những phẩm chất này vào công việc và cuộc sống"
+                        ],
+                        "explanation": {
+                            "text": "Leadership involves guiding and motivating a team to achieve common goals. Effective leaders possess qualities such as vision, integrity, empathy, and the ability to communicate clearly. They inspire trust and empower others to perform at their best.",
+                            "image": null,
+                            "description": "Lãnh đạo bao gồm việc hướng dẫn và động viên một đội ngũ để đạt được mục tiêu chung. Những nhà lãnh đạo hiệu quả có các phẩm chất như tầm nhìn, tính chính trực, lòng thông cảm, và khả năng giao tiếp rõ ràng. Họ truyền cảm hứng cho sự tin tưởng và trao quyền cho người khác để thực hiện tốt nhất công việc của họ."
+                        },
+                        "examples": [
+                            {
+                                "en": "A good leader is someone who inspires others to reach their potential and work together towards a shared vision.",
+                                "vi": "Một nhà lãnh đạo giỏi là người truyền cảm hứng cho người khác đạt được tiềm năng của họ và làm việc cùng nhau hướng tới một tầm nhìn chung."
+                            },
+                            {
+                                "en": "Effective communication is one of the most important skills a leader must possess to guide their team.",
+                                "vi": "Giao tiếp hiệu quả là một trong những kỹ năng quan trọng nhất mà một nhà lãnh đạo phải có để dẫn dắt đội nhóm."
+                            },
+                            {
+                                "en": "Leaders with empathy understand their team members' needs and help them overcome challenges.",
+                                "vi": "Những nhà lãnh đạo có lòng thông cảm hiểu được nhu cầu của các thành viên trong đội và giúp họ vượt qua thử thách."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "leadership_skills_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_time_management_skills",
+            "title": "Bài 29: Kỹ năng quản lý thời gian (Time Management Skills)",
+            "description": "Tìm hiểu các kỹ thuật và chiến lược quản lý thời gian hiệu quả giúp bạn tổ chức công việc, giảm căng thẳng và tăng năng suất.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "time_management_intro_md",
+                    "title": "Giới thiệu về kỹ năng quản lý thời gian",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/6e3c2850a11555415c3250a69f64b7a9/raw/time_management_intro.md",
+                    "description": "Giới thiệu về tầm quan trọng của quản lý thời gian và cách các kỹ thuật này có thể giúp bạn làm việc hiệu quả và giảm bớt căng thẳng."
+                },
+                {
+                    "id": "time_management_techniques",
+                    "title": "Các kỹ thuật quản lý thời gian",
+                    "type": "detail",
+                    "description": "Khám phá các kỹ thuật giúp bạn lập kế hoạch, ưu tiên công việc và giảm thiểu sự lãng phí thời gian để đạt được mục tiêu.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các chiến lược quản lý thời gian hiệu quả",
+                            "Áp dụng các phương pháp để tổ chức công việc và cải thiện năng suất cá nhân"
+                        ],
+                        "explanation": {
+                            "text": "Time management is the process of planning and controlling how much time to spend on specific activities. Effective time management allows you to work smarter, not harder, by prioritizing tasks and minimizing distractions.",
+                            "image": null,
+                            "description": "Quản lý thời gian là quá trình lập kế hoạch và kiểm soát thời gian dành cho các hoạt động cụ thể. Quản lý thời gian hiệu quả giúp bạn làm việc thông minh hơn, không phải vất vả hơn, bằng cách ưu tiên công việc và giảm thiểu sự phân tâm."
+                        },
+                        "examples": [
+                            {
+                                "en": "By using a daily planner, you can organize your tasks and allocate time for each one effectively.",
+                                "vi": "Bằng cách sử dụng một lịch trình hàng ngày, bạn có thể tổ chức các nhiệm vụ và phân bổ thời gian cho từng nhiệm vụ một cách hiệu quả."
+                            },
+                            {
+                                "en": "The Pomodoro Technique encourages you to work in focused intervals, followed by short breaks.",
+                                "vi": "Kỹ thuật Pomodoro khuyến khích bạn làm việc trong các khoảng thời gian tập trung, sau đó nghỉ ngơi ngắn."
+                            },
+                            {
+                                "en": "Setting clear goals and deadlines is essential for managing your time effectively.",
+                                "vi": "Đặt mục tiêu rõ ràng và thời hạn là yếu tố thiết yếu để quản lý thời gian hiệu quả."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "time_management_skills_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_communication_skills",
+            "title": "Bài 30: Kỹ năng giao tiếp (Communication Skills)",
+            "description": "Tìm hiểu các kỹ thuật giao tiếp hiệu quả giúp bạn truyền đạt thông tin rõ ràng, hiểu ý người khác và xây dựng các mối quan hệ thành công.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "communication_intro_md",
+                    "title": "Giới thiệu về kỹ năng giao tiếp",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/19154d3108aa547d0485968eb1d97e39/raw/communication_intro.md",
+                    "description": "Giới thiệu về vai trò quan trọng của kỹ năng giao tiếp trong cuộc sống và công việc, giúp bạn tương tác hiệu quả với người khác."
+                },
+                {
+                    "id": "communication_techniques",
+                    "title": "Các kỹ thuật giao tiếp hiệu quả",
+                    "type": "detail",
+                    "description": "Khám phá các kỹ thuật giao tiếp giúp bạn truyền đạt ý tưởng rõ ràng, lắng nghe tốt hơn và xây dựng mối quan hệ tốt với người khác.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu rõ các kỹ thuật giao tiếp hiệu quả",
+                            "Áp dụng những kỹ thuật này trong công việc và cuộc sống để cải thiện các mối quan hệ"
+                        ],
+                        "explanation": {
+                            "text": "Communication skills are the ability to convey information effectively, listen actively, and build strong relationships with others. Effective communicators are able to express themselves clearly, understand others' viewpoints, and foster positive interactions.",
+                            "image": null,
+                            "description": "Kỹ năng giao tiếp là khả năng truyền đạt thông tin hiệu quả, lắng nghe chủ động và xây dựng các mối quan hệ tốt đẹp với người khác. Những người giao tiếp hiệu quả có khả năng diễn đạt rõ ràng, hiểu được quan điểm của người khác và tạo ra những tương tác tích cực."
+                        },
+                        "examples": [
+                            {
+                                "en": "When presenting an idea, it's important to keep your message clear and concise.",
+                                "vi": "Khi trình bày một ý tưởng, việc giữ thông điệp của bạn rõ ràng và súc tích là rất quan trọng."
+                            },
+                            {
+                                "en": "Active listening involves fully concentrating on what the speaker is saying and responding thoughtfully.",
+                                "vi": "Lắng nghe chủ động bao gồm việc tập trung hoàn toàn vào những gì người nói đang nói và phản hồi một cách suy nghĩ."
+                            },
+                            {
+                                "en": "Building rapport with others can help improve communication and create stronger working relationships.",
+                                "vi": "Xây dựng sự kết nối với người khác có thể giúp cải thiện giao tiếp và tạo ra mối quan hệ công việc vững chắc hơn."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "communication_skills_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_conflict_resolution_skills",
+            "title": "Bài 31: Kỹ năng giải quyết xung đột (Conflict Resolution Skills)",
+            "description": "Tìm hiểu các kỹ thuật và chiến lược để giải quyết xung đột một cách hòa bình, giúp xây dựng mối quan hệ tích cực và hiệu quả trong môi trường làm việc.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "conflict_resolution_intro_md",
+                    "title": "Giới thiệu về kỹ năng giải quyết xung đột",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/56ceb7d8ffb83e725b051ebd6d923440/raw/conflict_resolution_intro.md",
+                    "description": "Giới thiệu về tầm quan trọng của việc giải quyết xung đột và các chiến lược cần thiết để xử lý các tình huống xung đột trong môi trường công việc và cuộc sống."
+                },
+                {
+                    "id": "conflict_resolution_strategies",
+                    "title": "Các chiến lược giải quyết xung đột",
+                    "type": "detail",
+                    "description": "Khám phá các chiến lược và kỹ thuật giải quyết xung đột hiệu quả, giúp duy trì mối quan hệ tốt đẹp và đạt được sự đồng thuận trong công việc và cuộc sống.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu rõ các chiến lược giải quyết xung đột hiệu quả",
+                            "Áp dụng các phương pháp để giải quyết xung đột một cách hòa bình và xây dựng mối quan hệ bền vững"
+                        ],
+                        "explanation": {
+                            "text": "Conflict resolution involves addressing and resolving disagreements in a positive and constructive manner. Effective conflict resolution helps prevent misunderstandings and promotes collaboration. Strategies include active listening, finding common ground, and maintaining a calm and respectful attitude.",
+                            "image": null,
+                            "description": "Giải quyết xung đột là việc xử lý và giải quyết các bất đồng một cách tích cực và xây dựng. Giải quyết xung đột hiệu quả giúp ngăn ngừa hiểu lầm và thúc đẩy sự hợp tác. Các chiến lược bao gồm lắng nghe chủ động, tìm điểm chung và duy trì thái độ bình tĩnh, tôn trọng."
+                        },
+                        "examples": [
+                            {
+                                "en": "When faced with a conflict, it's important to listen to both sides before making a decision.",
+                                "vi": "Khi đối mặt với xung đột, điều quan trọng là lắng nghe cả hai bên trước khi đưa ra quyết định."
+                            },
+                            {
+                                "en": "Finding a compromise is often the best solution in resolving conflicts.",
+                                "vi": "Tìm một sự thỏa hiệp thường là giải pháp tốt nhất để giải quyết xung đột."
+                            },
+                            {
+                                "en": "Staying calm and respectful during a conflict helps to maintain a positive atmosphere.",
+                                "vi": "Giữ bình tĩnh và tôn trọng trong suốt xung đột giúp duy trì một bầu không khí tích cực."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "conflict_resolution_skills_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_decision_making_skills",
+            "title": "Bài 32: Kỹ năng ra quyết định (Decision Making Skills)",
+            "description": "Khám phá các phương pháp và chiến lược giúp bạn đưa ra quyết định đúng đắn và hiệu quả trong môi trường công việc và cuộc sống.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "decision_making_intro_md",
+                    "title": "Giới thiệu về kỹ năng ra quyết định",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/fbace20ec24e60c3a16d5b20563677ae/raw/decision_making_intro.md",
+                    "description": "Giới thiệu về tầm quan trọng của việc ra quyết định đúng đắn và các yếu tố cần thiết để đưa ra quyết định hiệu quả trong mọi tình huống."
+                },
+                {
+                    "id": "decision_making_strategies",
+                    "title": "Các chiến lược ra quyết định hiệu quả",
+                    "type": "detail",
+                    "description": "Khám phá các chiến lược và phương pháp giúp bạn đưa ra quyết định đúng đắn và tự tin trong công việc và cuộc sống.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các chiến lược ra quyết định hiệu quả",
+                            "Áp dụng các phương pháp để đưa ra quyết định sáng suốt và đạt được kết quả mong muốn"
+                        ],
+                        "explanation": {
+                            "text": "Decision making is the process of selecting the best possible option from a set of alternatives. Effective decision making involves gathering information, analyzing options, and considering the potential outcomes. Techniques like cost-benefit analysis, pros and cons lists, and prioritization can help guide your decisions.",
+                            "image": null,
+                            "description": "Ra quyết định là quá trình lựa chọn lựa chọn tốt nhất từ một tập hợp các phương án thay thế. Ra quyết định hiệu quả bao gồm việc thu thập thông tin, phân tích các lựa chọn và xem xét các kết quả tiềm năng. Các kỹ thuật như phân tích chi phí-lợi ích, danh sách ưu và nhược điểm, và ưu tiên có thể giúp định hướng quyết định của bạn."
+                        },
+                        "examples": [
+                            {
+                                "en": "When making a major decision, it’s important to weigh the pros and cons of each option.",
+                                "vi": "Khi đưa ra một quyết định quan trọng, việc cân nhắc các ưu và nhược điểm của từng lựa chọn là rất quan trọng."
+                            },
+                            {
+                                "en": "A cost-benefit analysis can help determine the best course of action for achieving your goals.",
+                                "vi": "Phân tích chi phí-lợi ích có thể giúp xác định hướng đi tốt nhất để đạt được mục tiêu của bạn."
+                            },
+                            {
+                                "en": "Prioritizing tasks based on urgency and importance can improve your decision-making process.",
+                                "vi": "Ưu tiên các công việc dựa trên mức độ khẩn cấp và quan trọng có thể cải thiện quy trình ra quyết định của bạn."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "decision_making_skills_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_leadership_skills",
+            "title": "Bài 33: Kỹ năng lãnh đạo (Leadership Skills)",
+            "description": "Khám phá các kỹ năng lãnh đạo giúp bạn dẫn dắt đội nhóm, truyền cảm hứng và đạt được mục tiêu chung trong môi trường làm việc.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "leadership_intro_md",
+                    "title": "Giới thiệu về kỹ năng lãnh đạo",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b504de375d52685ef25869c78c99923d/raw/leadership_intro.md",
+                    "description": "Giới thiệu về vai trò và tầm quan trọng của lãnh đạo trong việc hướng dẫn đội nhóm, tạo động lực và thúc đẩy thành công trong công việc."
+                },
+                {
+                    "id": "leadership_strategies",
+                    "title": "Các chiến lược lãnh đạo hiệu quả",
+                    "type": "detail",
+                    "description": "Khám phá các chiến lược và kỹ thuật lãnh đạo hiệu quả giúp bạn truyền cảm hứng, xây dựng đội nhóm mạnh mẽ và đạt được mục tiêu chung.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các chiến lược lãnh đạo hiệu quả",
+                            "Áp dụng các kỹ thuật lãnh đạo để tạo ra động lực và cải thiện hiệu suất làm việc của đội nhóm"
+                        ],
+                        "explanation": {
+                            "text": "Leadership involves guiding and motivating a group to achieve a common goal. Effective leaders are not only able to set clear goals, but also communicate those goals effectively, build trust, and inspire others to take action. Leadership styles may vary, but great leaders show empathy, flexibility, and resilience.",
+                            "image": null,
+                            "description": "Lãnh đạo là việc hướng dẫn và thúc đẩy một nhóm để đạt được mục tiêu chung. Các nhà lãnh đạo hiệu quả không chỉ có khả năng thiết lập mục tiêu rõ ràng, mà còn giao tiếp những mục tiêu đó một cách hiệu quả, xây dựng sự tin tưởng và truyền cảm hứng cho người khác hành động. Các phong cách lãnh đạo có thể khác nhau, nhưng những nhà lãnh đạo tuyệt vời thể hiện sự đồng cảm, linh hoạt và kiên cường."
+                        },
+                        "examples": [
+                            {
+                                "en": "A good leader listens to team members and values their input.",
+                                "vi": "Một nhà lãnh đạo giỏi lắng nghe các thành viên trong đội và trân trọng ý kiến của họ."
+                            },
+                            {
+                                "en": "Setting clear goals and expectations is essential for motivating your team.",
+                                "vi": "Đặt ra mục tiêu và kỳ vọng rõ ràng là rất quan trọng để tạo động lực cho đội nhóm."
+                            },
+                            {
+                                "en": "Great leaders inspire trust and lead by example, showing others how to achieve success.",
+                                "vi": "Những nhà lãnh đạo tuyệt vời truyền cảm hứng cho sự tin tưởng và dẫn dắt bằng gương mẫu, chỉ cho người khác cách đạt được thành công."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "leadership_skills_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_teamwork_skills",
+            "title": "Bài 34: Kỹ năng làm việc nhóm (Teamwork Skills)",
+            "description": "Khám phá các kỹ năng giúp bạn làm việc hiệu quả trong nhóm, tăng cường khả năng hợp tác và đạt được mục tiêu chung trong môi trường công việc.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "teamwork_intro_md",
+                    "title": "Giới thiệu về kỹ năng làm việc nhóm",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/429f3a9cd040c1dc02879cdc397e1fb5/raw/teamwork_intro.md",
+                    "description": "Giới thiệu về tầm quan trọng của kỹ năng làm việc nhóm và cách mà sự hợp tác trong một nhóm có thể giúp đạt được thành công lớn hơn trong công việc."
+                },
+                {
+                    "id": "teamwork_strategies",
+                    "title": "Các chiến lược làm việc nhóm hiệu quả",
+                    "type": "detail",
+                    "description": "Khám phá các chiến lược giúp tăng cường khả năng hợp tác và làm việc nhóm hiệu quả để đạt được mục tiêu chung.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các chiến lược làm việc nhóm hiệu quả",
+                            "Áp dụng các kỹ năng giao tiếp và hợp tác để đạt được thành công trong môi trường làm việc nhóm"
+                        ],
+                        "explanation": {
+                            "text": "Teamwork involves collaborating with others to achieve a common goal. Effective teamwork requires clear communication, mutual respect, and a willingness to compromise. Each team member should contribute their strengths while also supporting others in the group.",
+                            "image": null,
+                            "description": "Làm việc nhóm liên quan đến việc hợp tác với người khác để đạt được mục tiêu chung. Làm việc nhóm hiệu quả đòi hỏi giao tiếp rõ ràng, tôn trọng lẫn nhau và sự sẵn sàng thỏa hiệp. Mỗi thành viên trong nhóm nên đóng góp những điểm mạnh của mình và cũng hỗ trợ các thành viên khác trong nhóm."
+                        },
+                        "examples": [
+                            {
+                                "en": "A successful team communicates openly and resolves conflicts constructively.",
+                                "vi": "Một đội nhóm thành công giao tiếp mở và giải quyết xung đột một cách xây dựng."
+                            },
+                            {
+                                "en": "In a team, it’s important to acknowledge each person’s strengths and work together to achieve common goals.",
+                                "vi": "Trong một đội nhóm, việc công nhận điểm mạnh của mỗi người và làm việc cùng nhau để đạt được mục tiêu chung là rất quan trọng."
+                            },
+                            {
+                                "en": "Effective teamwork often involves delegation of tasks according to individual skills and expertise.",
+                                "vi": "Làm việc nhóm hiệu quả thường bao gồm việc phân công nhiệm vụ dựa trên kỹ năng và chuyên môn của từng cá nhân."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "teamwork_skills_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_time_management_skills",
+            "title": "Bài 35: Kỹ năng quản lý thời gian (Time Management Skills)",
+            "description": "Khám phá các kỹ năng giúp bạn quản lý thời gian hiệu quả, ưu tiên công việc và đạt được mục tiêu trong thời gian ngắn nhất.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "time_management_intro_md",
+                    "title": "Giới thiệu về kỹ năng quản lý thời gian",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/2b40961b855eabf410f2d43d0c39f15d/raw/time_management_intro.md",
+                    "description": "Giới thiệu về tầm quan trọng của việc quản lý thời gian trong cuộc sống và công việc, giúp bạn đạt được sự cân bằng và hiệu quả cao hơn."
+                },
+                {
+                    "id": "time_management_strategies",
+                    "title": "Các chiến lược quản lý thời gian hiệu quả",
+                    "type": "detail",
+                    "description": "Khám phá các chiến lược và phương pháp giúp bạn quản lý thời gian một cách hợp lý, ưu tiên công việc và đạt được mục tiêu đề ra.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các chiến lược quản lý thời gian hiệu quả",
+                            "Áp dụng các phương pháp ưu tiên công việc và tối ưu hóa thời gian trong công việc và cuộc sống"
+                        ],
+                        "explanation": {
+                            "text": "Time management is about organizing and planning how to divide your time between different activities. Good time management allows you to accomplish more in less time, reduce stress, and improve work-life balance. Strategies such as setting SMART goals, using to-do lists, and breaking tasks into manageable chunks can help you make the most of your time.",
+                            "image": null,
+                            "description": "Quản lý thời gian là việc tổ chức và lên kế hoạch về cách phân bổ thời gian của bạn cho các hoạt động khác nhau. Quản lý thời gian tốt giúp bạn hoàn thành nhiều việc hơn trong thời gian ngắn hơn, giảm căng thẳng và cải thiện sự cân bằng giữa công việc và cuộc sống. Các chiến lược như thiết lập mục tiêu SMART, sử dụng danh sách công việc và chia nhỏ nhiệm vụ thành các phần có thể quản lý giúp bạn tối đa hóa thời gian."
+                        },
+                        "examples": [
+                            {
+                                "en": "Setting clear goals and deadlines helps you stay focused and manage your time more effectively.",
+                                "vi": "Đặt ra mục tiêu và thời hạn rõ ràng giúp bạn tập trung và quản lý thời gian hiệu quả hơn."
+                            },
+                            {
+                                "en": "Using a to-do list can help you prioritize tasks and stay organized throughout the day.",
+                                "vi": "Sử dụng danh sách công việc giúp bạn ưu tiên các nhiệm vụ và giữ tổ chức trong suốt cả ngày."
+                            },
+                            {
+                                "en": "Breaking large tasks into smaller, manageable pieces makes it easier to get started and track progress.",
+                                "vi": "Chia các nhiệm vụ lớn thành các phần nhỏ hơn, dễ quản lý giúp bạn dễ dàng bắt đầu và theo dõi tiến độ."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "time_management_skills_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_negotiation_skills",
+            "title": "Bài 36: Kỹ năng đàm phán (Negotiation Skills)",
+            "description": "Khám phá các kỹ năng giúp bạn đàm phán hiệu quả, đạt được thỏa thuận có lợi và tạo dựng mối quan hệ hợp tác lâu dài.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "negotiation_intro_md",
+                    "title": "Giới thiệu về kỹ năng đàm phán",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/2293bc4b31bc2b1a4f82aff8c7b87f72/raw/negotiation_intro.md",
+                    "description": "Giới thiệu về tầm quan trọng của kỹ năng đàm phán và cách mà một cuộc đàm phán có thể ảnh hưởng đến các mối quan hệ và kết quả công việc."
+                },
+                {
+                    "id": "negotiation_strategies",
+                    "title": "Các chiến lược đàm phán hiệu quả",
+                    "type": "detail",
+                    "description": "Khám phá các chiến lược và kỹ thuật giúp bạn đàm phán hiệu quả, từ việc chuẩn bị trước cuộc đàm phán đến việc tìm ra các giải pháp win-win.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các chiến lược đàm phán hiệu quả",
+                            "Áp dụng các kỹ thuật đàm phán để đạt được thỏa thuận có lợi cho tất cả các bên liên quan"
+                        ],
+                        "explanation": {
+                            "text": "Negotiation is the process of discussing and reaching an agreement between two or more parties. Successful negotiators listen actively, understand the needs of others, and seek solutions that benefit all involved. Some key strategies include preparation, finding common ground, and using creative problem-solving techniques.",
+                            "image": null,
+                            "description": "Đàm phán là quá trình thảo luận và đạt được thỏa thuận giữa hai hoặc nhiều bên. Những người đàm phán thành công biết lắng nghe tích cực, hiểu nhu cầu của các bên và tìm kiếm các giải pháp có lợi cho tất cả các bên tham gia. Một số chiến lược quan trọng bao gồm chuẩn bị kỹ lưỡng, tìm kiếm điểm chung và sử dụng các kỹ thuật giải quyết vấn đề sáng tạo."
+                        },
+                        "examples": [
+                            {
+                                "en": "Before entering a negotiation, it’s crucial to research and understand the other party’s needs and goals.",
+                                "vi": "Trước khi tham gia một cuộc đàm phán, điều quan trọng là nghiên cứu và hiểu nhu cầu cũng như mục tiêu của bên kia."
+                            },
+                            {
+                                "en": "In a negotiation, focus on finding win-win solutions that satisfy both parties.",
+                                "vi": "Trong đàm phán, hãy tập trung vào việc tìm kiếm các giải pháp đôi bên cùng có lợi."
+                            },
+                            {
+                                "en": "A successful negotiation often involves flexibility and the willingness to compromise in order to achieve a mutually beneficial agreement.",
+                                "vi": "Một cuộc đàm phán thành công thường đòi hỏi sự linh hoạt và sẵn sàng thỏa hiệp để đạt được thỏa thuận có lợi cho cả hai bên."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "negotiation_skills_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_leadership_skills",
+            "title": "Bài 37: Kỹ năng lãnh đạo (Leadership Skills)",
+            "description": "Khám phá các kỹ năng lãnh đạo cần thiết để trở thành một nhà lãnh đạo hiệu quả, bao gồm khả năng tạo động lực, ra quyết định và phát triển đội nhóm.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "leadership_intro_md",
+                    "title": "Giới thiệu về kỹ năng lãnh đạo",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/8a6ebecbccb3bbfba27fc2344632fcc1/raw/leadership_intro.md",
+                    "description": "Giới thiệu về vai trò quan trọng của lãnh đạo trong tổ chức và cách lãnh đạo có thể ảnh hưởng đến hiệu quả công việc và phát triển cá nhân."
+                },
+                {
+                    "id": "leadership_styles",
+                    "title": "Các phong cách lãnh đạo",
+                    "type": "detail",
+                    "description": "Khám phá các phong cách lãnh đạo khác nhau và cách bạn có thể áp dụng chúng trong các tình huống khác nhau.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các phong cách lãnh đạo khác nhau và khi nào áp dụng mỗi phong cách",
+                            "Phát triển các kỹ năng lãnh đạo phù hợp với môi trường làm việc và đội nhóm của bạn"
+                        ],
+                        "explanation": {
+                            "text": "Leadership is the ability to influence and guide others toward achieving common goals. There are several leadership styles, including transformational, transactional, and servant leadership. Effective leaders adapt their style to the needs of the team and the situation. A transformational leader inspires and motivates, while a transactional leader focuses on structure and rewards. A servant leader emphasizes serving the team and fostering collaboration.",
+                            "image": null,
+                            "description": "Lãnh đạo là khả năng ảnh hưởng và dẫn dắt người khác đạt được mục tiêu chung. Có nhiều phong cách lãnh đạo khác nhau, bao gồm lãnh đạo biến đổi, lãnh đạo giao dịch và lãnh đạo phục vụ. Những nhà lãnh đạo hiệu quả sẽ điều chỉnh phong cách của họ phù hợp với nhu cầu của đội nhóm và tình huống cụ thể. Lãnh đạo biến đổi truyền cảm hứng và động viên, trong khi lãnh đạo giao dịch tập trung vào cấu trúc và phần thưởng. Lãnh đạo phục vụ nhấn mạnh việc phục vụ đội nhóm và thúc đẩy sự hợp tác."
+                        },
+                        "examples": [
+                            {
+                                "en": "A transformational leader motivates their team by providing a vision for the future and inspiring others to work toward that goal.",
+                                "vi": "Một nhà lãnh đạo biến đổi động viên đội nhóm của họ bằng cách cung cấp một tầm nhìn về tương lai và truyền cảm hứng để mọi người cùng hướng tới mục tiêu đó."
+                            },
+                            {
+                                "en": "A transactional leader focuses on setting clear goals and using rewards and penalties to motivate their team.",
+                                "vi": "Một nhà lãnh đạo giao dịch tập trung vào việc đặt ra mục tiêu rõ ràng và sử dụng phần thưởng và hình phạt để động viên đội nhóm của mình."
+                            },
+                            {
+                                "en": "A servant leader leads by example, serving the needs of their team and ensuring collaboration and trust.",
+                                "vi": "Một nhà lãnh đạo phục vụ lãnh đạo bằng cách làm gương, phục vụ nhu cầu của đội nhóm và đảm bảo sự hợp tác và tin tưởng."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "leadership_skills_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_teamwork_skills",
+            "title": "Bài 38: Kỹ năng làm việc nhóm (Teamwork Skills)",
+            "description": "Khám phá các kỹ năng làm việc nhóm giúp bạn tương tác hiệu quả, hợp tác và đạt được các mục tiêu chung trong môi trường làm việc tập thể.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "teamwork_intro_md",
+                    "title": "Giới thiệu về kỹ năng làm việc nhóm",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/238a371a3f7d5830ab5815794bbbe237/raw/teamwork_intro.md",
+                    "description": "Giới thiệu về tầm quan trọng của làm việc nhóm và cách các kỹ năng này ảnh hưởng đến hiệu quả công việc và sự phát triển của nhóm."
+                },
+                {
+                    "id": "teamwork_effective_collaboration",
+                    "title": "Làm việc nhóm hiệu quả",
+                    "type": "detail",
+                    "description": "Khám phá các kỹ thuật và chiến lược giúp bạn làm việc nhóm hiệu quả, từ giao tiếp rõ ràng đến việc phát triển sự hợp tác giữa các thành viên.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu tầm quan trọng của làm việc nhóm và các yếu tố cần thiết để hợp tác hiệu quả",
+                            "Phát triển các kỹ năng giao tiếp và giải quyết xung đột để làm việc nhóm tốt hơn"
+                        ],
+                        "explanation": {
+                            "text": "Teamwork is the process of working collaboratively with a group of people in order to achieve a common goal. Effective teamwork involves good communication, mutual respect, and the ability to resolve conflicts. Successful teams share responsibilities, support each other, and have a strong sense of trust and cooperation.",
+                            "image": null,
+                            "description": "Làm việc nhóm là quá trình hợp tác với một nhóm người để đạt được mục tiêu chung. Làm việc nhóm hiệu quả bao gồm giao tiếp tốt, sự tôn trọng lẫn nhau và khả năng giải quyết xung đột. Các nhóm thành công chia sẻ trách nhiệm, hỗ trợ lẫn nhau và có sự tin tưởng và hợp tác mạnh mẽ."
+                        },
+                        "examples": [
+                            {
+                                "en": "In a successful team, each member contributes their strengths and works together to overcome challenges.",
+                                "vi": "Trong một nhóm thành công, mỗi thành viên đóng góp điểm mạnh của mình và làm việc cùng nhau để vượt qua thử thách."
+                            },
+                            {
+                                "en": "Clear communication is key to effective teamwork, ensuring everyone is on the same page and working towards the same goal.",
+                                "vi": "Giao tiếp rõ ràng là yếu tố quan trọng để làm việc nhóm hiệu quả, đảm bảo mọi người đều hiểu rõ và hướng đến cùng một mục tiêu."
+                            },
+                            {
+                                "en": "When conflicts arise in a team, addressing them respectfully and openly is essential for maintaining cooperation.",
+                                "vi": "Khi xung đột xảy ra trong một nhóm, việc giải quyết chúng một cách tôn trọng và cởi mở là điều cần thiết để duy trì sự hợp tác."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "teamwork_skills_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_time_management_skills",
+            "title": "Bài 39: Kỹ năng tổ chức và quản lý thời gian (Time Management and Organizational Skills)",
+            "description": "Khám phá các kỹ năng tổ chức và quản lý thời gian giúp bạn làm việc hiệu quả, tối ưu hóa thời gian và đạt được mục tiêu một cách hiệu quả.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "time_management_intro_md",
+                    "title": "Giới thiệu về quản lý thời gian",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b5b69e256445a6b4408bff431eff2866/raw/time_management_intro.md",
+                    "description": "Giới thiệu về tầm quan trọng của việc quản lý thời gian và cách các kỹ năng này giúp bạn làm việc hiệu quả hơn trong công việc và cuộc sống."
+                },
+                {
+                    "id": "time_management_techniques",
+                    "title": "Các kỹ thuật quản lý thời gian hiệu quả",
+                    "type": "detail",
+                    "description": "Khám phá các kỹ thuật và chiến lược giúp bạn quản lý thời gian hiệu quả, từ việc xác định ưu tiên đến việc sử dụng công cụ hỗ trợ quản lý thời gian.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu cách quản lý thời gian để làm việc hiệu quả hơn",
+                            "Phát triển kỹ năng tổ chức công việc và sử dụng các công cụ hỗ trợ quản lý thời gian"
+                        ],
+                        "explanation": {
+                            "text": "Time management is the ability to plan and control how you spend the hours in your day to accomplish your goals. Effective time management allows you to complete more tasks in less time, reduces stress, and improves your overall productivity. Key strategies include setting priorities, using calendars and to-do lists, and avoiding procrastination.",
+                            "image": null,
+                            "description": "Quản lý thời gian là khả năng lập kế hoạch và kiểm soát cách bạn sử dụng thời gian trong ngày để hoàn thành các mục tiêu. Quản lý thời gian hiệu quả giúp bạn hoàn thành nhiều công việc hơn trong thời gian ngắn hơn, giảm bớt căng thẳng và nâng cao năng suất chung. Các chiến lược chính bao gồm xác định ưu tiên, sử dụng lịch và danh sách công việc, và tránh trì hoãn."
+                        },
+                        "examples": [
+                            {
+                                "en": "To manage your time effectively, start by identifying the most important tasks and tackle them first.",
+                                "vi": "Để quản lý thời gian hiệu quả, hãy bắt đầu bằng cách xác định các công việc quan trọng nhất và giải quyết chúng trước."
+                            },
+                            {
+                                "en": "Using a calendar to schedule your tasks can help you stay organized and ensure that nothing is forgotten.",
+                                "vi": "Sử dụng lịch để lên kế hoạch cho các công việc của bạn có thể giúp bạn duy trì sự tổ chức và đảm bảo không bỏ sót công việc nào."
+                            },
+                            {
+                                "en": "To avoid procrastination, break large tasks into smaller, manageable steps and focus on completing one step at a time.",
+                                "vi": "Để tránh trì hoãn, hãy chia các công việc lớn thành các bước nhỏ, có thể quản lý được và tập trung hoàn thành từng bước một."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "time_management_skills_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

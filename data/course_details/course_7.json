@@ -1,0 +1,37 @@
+{
+    "id": "7",
+    "title": "Tiếng Anh Thực Dụng Cho Cuộc Sống Hàng Ngày",
+    "description": "Khóa học này tập trung vào tiếng Anh sử dụng trong các tình huống thực tế như giao tiếp nơi công cộng, tại ngân hàng, bệnh viện, sân bay và trong công việc, giúp bạn ứng dụng ngôn ngữ một cách linh hoạt và hiệu quả.",
+    "instructor": "Thầy Phạm Minh Đức",
+    "duration": "2 tháng",
+    "level": "Beginner to Intermediate",
+    "price": 390000,
+    "originalPrice": 550000,
+    "rating": 4.8,
+    "students": 265,
+    "lastUpdated": "2024-04-28",
+    "tags": [
+      "practical english",
+      "functional english",
+      "real life",
+      "communication",
+      "beginner",
+      "daily situations"
+    ],
+    "isFeatured": true,
+    "benefits": [
+      "Chứng chỉ hoàn thành khóa học",
+      "Bài tập thực hành giao tiếp hàng ngày",
+      "Tài liệu video và bài đọc minh họa"
+    ],
+    "imageUrl": "https://example.com/practical-english-course.jpg",
+    "thumbnailUrl": "https://example.com/practical-english-thumb.jpg",
+    "overview": "Khóa học cung cấp các tình huống giao tiếp tiếng Anh thực tế trong đời sống hàng ngày, như tại các dịch vụ công cộng, bệnh viện, sân bay và trong công việc, giúp học viên tự tin giao tiếp trong mọi hoàn cảnh.",
+    "requirements": "Không yêu cầu trình độ đầu vào. Phù hợp cho người mới bắt đầu hoặc những ai muốn nâng cao kỹ năng giao tiếp thực tế.",
+    "objectives": [
+      "Học cách giao tiếp tiếng Anh trong các tình huống thực tế",
+      "Nâng cao khả năng hiểu và sử dụng các từ vựng chuyên dụng trong cuộc sống",
+      "Phát triển kỹ năng giao tiếp tự tin và linh hoạt trong môi trường thực tế"
+    ]
+  }
+  

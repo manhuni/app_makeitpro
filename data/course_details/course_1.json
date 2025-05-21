@@ -1,0 +1,33 @@
+{
+    "id": "1",
+    "title": "Khóa học Tiếng Anh Căn Bản",
+    "description": "Khóa học giúp bạn xây dựng nền tảng vững chắc trong tiếng Anh từ cơ bản đến nâng cao. Bao gồm các bài học về từ vựng, ngữ pháp, và giao tiếp.",
+    "instructor": "Lê Minh T",
+    "duration": "6 tháng",
+    "level": "beginner",
+    "price": 600000,
+    "originalPrice": 700000,
+    "rating": 4.7,
+    "students": 120,
+    "lastUpdated": "2023-05-12",
+    "tags": [
+        "english",
+        "vocabulary",
+        "grammar"
+    ],
+    "isFeatured": true,
+    "benefits": [
+        "Chứng chỉ hoàn thành khóa học",
+        "Cộng đồng học viên hỗ trợ",
+        "Tài liệu thực hành chi tiết"
+    ],
+    "imageUrl": "https://example.com/english-course.jpg",
+    "thumbnailUrl": "https://example.com/english-thumb.jpg",
+    "overview": "Khóa học sẽ giúp bạn phát triển các kỹ năng ngôn ngữ cơ bản, tập trung vào việc phát âm, từ vựng và ngữ pháp.",
+    "requirements": "Không yêu cầu kinh nghiệm trước, khóa học phù hợp với người mới bắt đầu.",
+    "objectives": [
+        "Học và sử dụng các từ vựng cơ bản",
+        "Hiểu và áp dụng các cấu trúc ngữ pháp cơ bản",
+        "Cải thiện khả năng giao tiếp tiếng Anh hàng ngày"
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "id": "4",
+    "title": "Tiếng Anh Giao Tiếp Cơ Bản Cho Người Mới Bắt Đầu",
+    "description": "Khóa học này tập trung vào các tình huống giao tiếp hàng ngày, giúp bạn tự tin hơn khi nói tiếng Anh với người bản xứ và trong các tình huống thực tế.",
+    "instructor": "Cô Nguyễn Phương Anh",
+    "duration": "2 tháng",
+    "level": "Beginner",
+    "price": 350000,
+    "originalPrice": 450000,
+    "rating": 4.6,
+    "students": 220,
+    "lastUpdated": "2024-05-01",
+    "tags": [
+        "communication",
+        "speaking",
+        "beginner",
+        "daily English",
+        "real-life English"
+    ],
+    "isFeatured": true,
+    "benefits": [
+        "Luyện tập các đoạn hội thoại thực tế.",
+        "Xây dựng sự tự tin khi giao tiếp.",
+        "Mở rộng vốn từ vựng và cụm từ thông dụng.",
+        "Cải thiện khả năng nghe hiểu trong giao tiếp.",
+        "Ứng dụng tiếng Anh vào các tình huống hàng ngày.",
+        "Nhận phản hồi và hướng dẫn từ giảng viên."
+    ],
+    "imageUrl": "https://example.com/basic-english-communication.jpg",
+    "thumbnailUrl": "https://example.com/basic-english-communication-thumb.jpg",
+    "overview": "Khóa học 'Tiếng Anh Giao Tiếp Cơ Bản Cho Người Mới Bắt Đầu' được thiết kế đặc biệt để giúp những người mới học tiếng Anh có thể tự tin giao tiếp trong các tình huống thường ngày. Nội dung khóa học tập trung vào các chủ đề quen thuộc như chào hỏi, giới thiệu, hỏi thông tin, nói về sở thích, mua sắm, ăn uống, đi lại và các tình huống xã giao cơ bản khác. Thông qua các bài học tương tác, video minh họa và các bài tập thực hành, bạn sẽ học được cách sử dụng tiếng Anh một cách tự nhiên và hiệu quả.",
+    "requirements": "Không yêu cầu kiến thức tiếng Anh trước. Hoàn toàn phù hợp cho người mới bắt đầu.",
+    "objectives": [
+        "Tự tin chào hỏi và giới thiệu bản thân trong nhiều tình huống.",
+        "Hiểu và tham gia vào các cuộc hội thoại ngắn về các chủ đề hàng ngày.",
+        "Sử dụng các câu hỏi và câu trả lời cơ bản để thu thập và cung cấp thông tin.",
+        "Diễn đạt nhu cầu và mong muốn trong các tình huống thực tế.",
+        "Cải thiện khả năng nghe hiểu các đoạn hội thoại đơn giản.",
+        "Ứng dụng các kiến thức đã học vào các tình huống giao tiếp thực tế."
+    ]
+}

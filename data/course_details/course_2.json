@@ -1,0 +1,33 @@
+{
+    "id": "2",
+    "title": "Khóa học Tiếng Anh Thông Dụng",
+    "description": "Khóa học này cung cấp các bài học về tiếng Anh thông dụng, giúp bạn cải thiện khả năng giao tiếp trong các tình huống hàng ngày. Từ vựng, ngữ pháp, và cách sử dụng trong thực tế sẽ được giải thích chi tiết.",
+    "instructor": "Cô Nguyễn Lan",
+    "duration": "4 tháng",
+    "level": "Beginner",
+    "price": 500000,
+    "originalPrice": 600000,
+    "rating": 4.6,
+    "students": 200,
+    "lastUpdated": "2024-04-15",
+    "tags": [
+        "english",
+        "communication",
+        "vocabulary"
+    ],
+    "isFeatured": true,
+    "benefits": [
+        "Chứng chỉ hoàn thành khóa học",
+        "Cộng đồng học viên hỗ trợ",
+        "Tài liệu thực hành chi tiết"
+    ],
+    "imageUrl": "https://example.com/english-basic-course.jpg",
+    "thumbnailUrl": "https://example.com/english-basic-thumb.jpg",
+    "overview": "Khóa học sẽ giúp bạn cải thiện kỹ năng giao tiếp tiếng Anh trong các tình huống hàng ngày, với các bài học về từ vựng và ngữ pháp cơ bản.",
+    "requirements": "Không yêu cầu kinh nghiệm trước, phù hợp với người mới bắt đầu.",
+    "objectives": [
+        "Nâng cao khả năng giao tiếp trong các tình huống thực tế",
+        "Hiểu và sử dụng từ vựng thông dụng trong cuộc sống hàng ngày",
+        "Cải thiện khả năng sử dụng các cấu trúc ngữ pháp cơ bản"
+    ]
+}

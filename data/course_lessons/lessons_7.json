@@ -1,0 +1,686 @@
+{
+    "id": "7",
+    "title": "Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc",
+    "description": "Khóa học giúp bạn sử dụng tiếng Anh trong các tình huống thường ngày như trò chuyện, hỏi đường, đặt món, hoặc xử lý các tình huống cơ bản nơi làm việc.",
+    "instructor": "Thầy Phạm Quốc Duy",
+    "duration": "2 tháng",
+    "level": "Beginner to Pre-Intermediate",
+    "language": "Vietnamese",
+    "lessons": [
+        {
+            "id": "lesson_practical_english_2",
+            "title": "Bài 1: Số đếm (Cardinal Numbers)",
+            "description": "Học cách đọc và sử dụng số đếm trong các tình huống thực tế.",
+            "duration": "15-20 phút",
+            "sections": [
+                {
+                    "id": "cardinal_intro",
+                    "title": "Giới thiệu về số đếm",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/a81b3f07408881abc85162538e20066b/raw/cardinal_intro.md",
+                    "description": "Tìm hiểu khái niệm số đếm và cách sử dụng chúng trong cuộc sống hàng ngày."
+                },
+                {
+                    "id": "intro_video",
+                    "title": "Video chủ đề Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc",
+                    "type": "gist_video",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/080b308cebd28fcc475a1a1a5d4fb18b/raw/makeitpro_list_video_course_7.json",
+                    "description": "Video minh họa Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc."
+                },
+                {
+                    "id": "intro_audio",
+                    "title": "Audio chủ đề Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc",
+                    "type": "gist_audio",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/8030cb7dcba7c3f76534882fd4f3ee6d/raw/makeitpro_list_audio_course_7.json",
+                    "description": "Audio minh họa Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc."
+                },
+                {
+                    "id": "intro_md",
+                    "title": "Markdown chủ đề Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc",
+                    "type": "markdown_list",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b3ac44367492f5fca1f69dd96c2916fa/raw/makeitpro_list_md_course_7.json",
+                    "description": "Markdown minh họa Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc."
+                },
+                {
+                    "id": "intro_pdf",
+                    "title": "Pdf chủ đề Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc",
+                    "type": "pdf_list",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/6ae528341f220f8c1a9efa156e2f773a/raw/makeitpro_list_pdf_course_7.json",
+                    "description": "Pdf minh họa Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc."
+                },
+                {
+                    "id": "intro_flashcard",
+                    "title": "Flashcard chủ đề Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc",
+                    "type": "flashcard_list",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/a3d209550400018531559de5fe56b2c8/raw/makeitpro_list_flashcard_course_7.json",
+                    "description": "Flashcard minh họa Tiếng Anh Thực Dụng cho Cuộc Sống & Công Việc."
+                },
+                {
+                    "id": "cardinal_usage",
+                    "title": "Cách dùng số đếm",
+                    "type": "detail",
+                    "description": "Hướng dẫn đọc và sử dụng số đếm từ 1 đến hàng triệu trong các ngữ cảnh khác nhau.",
+                    "detail": {
+                        "objectives": [
+                            "Nhận biết và đọc đúng số đếm cơ bản",
+                            "Áp dụng số đếm trong các tình huống như đếm đồ vật, tuổi, số phòng..."
+                        ],
+                        "explanation": {
+                            "text": "Số đếm là: one, two, three, four... ten, twenty, thirty... one hundred, one thousand, etc.",
+                            "image": null,
+                            "description": "Sử dụng số đếm để nói về số lượng, tuổi, giá cả và nhiều tình huống hàng ngày."
+                        },
+                        "examples": [
+                            {
+                                "en": "I have three books.",
+                                "vi": "Tôi có ba quyển sách."
+                            },
+                            {
+                                "en": "She is twenty years old.",
+                                "vi": "Cô ấy 20 tuổi."
+                            },
+                            {
+                                "en": "There are one hundred people in the hall.",
+                                "vi": "Có một trăm người trong hội trường."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "cardinal_numbers_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_practical_english_3",
+            "title": "Bài 2: Số thứ tự (Ordinal Numbers)",
+            "description": "Học cách đọc và sử dụng số thứ tự trong các tình huống như ngày tháng, thứ tự xếp hạng, địa chỉ.",
+            "duration": "15-20 phút",
+            "sections": [
+                {
+                    "id": "ordinal_intro",
+                    "title": "Giới thiệu về số thứ tự",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/8c012f85cd82d06ab0602396d01e6e8a/raw/ordinal_intro.md",
+                    "description": "Tìm hiểu sự khác biệt giữa số đếm và số thứ tự, và cách dùng số thứ tự trong đời sống hàng ngày."
+                },
+                {
+                    "id": "ordinal_usage",
+                    "title": "Cách dùng số thứ tự",
+                    "type": "detail",
+                    "description": "Hướng dẫn sử dụng số thứ tự từ 'first' đến 'hundredth' và các trường hợp sử dụng phổ biến.",
+                    "detail": {
+                        "objectives": [
+                            "Nhận biết và đọc đúng số thứ tự",
+                            "Sử dụng số thứ tự trong ngữ cảnh như ngày tháng, xếp hạng, thứ tự sự kiện"
+                        ],
+                        "explanation": {
+                            "text": "Số thứ tự bao gồm: first, second, third, fourth... twentieth, hundredth. Chúng thường dùng để mô tả vị trí hoặc thứ tự.",
+                            "image": null,
+                            "description": "Số thứ tự thường được dùng với 'the' và thường xuất hiện trong cách nói ngày tháng, địa chỉ, thứ tự."
+                        },
+                        "examples": [
+                            {
+                                "en": "Today is the first of May.",
+                                "vi": "Hôm nay là ngày mùng một tháng năm."
+                            },
+                            {
+                                "en": "He finished in second place.",
+                                "vi": "Anh ấy về nhì."
+                            },
+                            {
+                                "en": "My office is on the fifth floor.",
+                                "vi": "Văn phòng của tôi ở tầng năm."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "ordinal_numbers_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_practical_english_4",
+            "title": "Bài 3: Cách đọc năm (Years)",
+            "description": "Học cách đọc năm trong tiếng Anh theo từng giai đoạn khác nhau: thế kỷ 20, 21 và tương lai.",
+            "duration": "15-20 phút",
+            "sections": [
+                {
+                    "id": "years_intro",
+                    "title": "Giới thiệu về cách đọc năm",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b979ea28a9a550b65683cbcb324aef75/raw/years_intro.md",
+                    "description": "Tìm hiểu cách đọc năm trong tiếng Anh theo từng mốc thời gian và quy tắc biến đổi theo thời đại."
+                },
+                {
+                    "id": "years_usage",
+                    "title": "Cách dùng và đọc năm",
+                    "type": "detail",
+                    "description": "Giải thích cách đọc năm từ trước năm 2000, từ năm 2000 trở đi, và các cách đọc phổ biến khác.",
+                    "detail": {
+                        "objectives": [
+                            "Đọc đúng năm trong tiếng Anh theo từng thời kỳ",
+                            "Phân biệt giữa cách đọc truyền thống và hiện đại"
+                        ],
+                        "explanation": {
+                            "text": "Các năm trước 2000 thường được chia thành hai phần: 1980 = nineteen eighty. Các năm 2000–2009 thường đọc là 'two thousand and...', và từ 2010 trở đi có thể đọc 'twenty ten' hoặc 'two thousand and ten'.",
+                            "image": null,
+                            "description": "Hướng dẫn đọc năm theo bối cảnh lịch sử và hiện đại, áp dụng trong nói về ngày tháng, sự kiện, lịch sử..."
+                        },
+                        "examples": [
+                            {
+                                "en": "He was born in 1995.",
+                                "vi": "Anh ấy sinh năm 1995."
+                            },
+                            {
+                                "en": "The company was founded in 2008.",
+                                "vi": "Công ty được thành lập năm 2008."
+                            },
+                            {
+                                "en": "The event will happen in 2025.",
+                                "vi": "Sự kiện sẽ diễn ra vào năm 2025."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "years_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_practical_english_5",
+            "title": "Bài 4: Cách đọc tầng (Floors)",
+            "description": "Phân biệt cách đọc và hiểu số tầng trong tiếng Anh Anh và tiếng Anh Mỹ.",
+            "duration": "10-15 phút",
+            "sections": [
+                {
+                    "id": "floors_intro",
+                    "title": "Giới thiệu về cách đọc tầng",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/44577785f6dcf90f972cade8c7d1450c/raw/floors_intro.md",
+                    "description": "Tìm hiểu cách gọi các tầng của tòa nhà và sự khác biệt giữa Anh - Mỹ."
+                },
+                {
+                    "id": "floors_usage",
+                    "title": "Cách sử dụng và đọc tầng",
+                    "type": "detail",
+                    "description": "Hướng dẫn cách nói các tầng nhà bằng tiếng Anh theo hai hệ thống phổ biến.",
+                    "detail": {
+                        "objectives": [
+                            "Nhận biết và phân biệt cách gọi tầng trong tiếng Anh Anh và Anh Mỹ",
+                            "Dùng đúng số thứ tự để mô tả vị trí tầng"
+                        ],
+                        "explanation": {
+                            "text": "Trong tiếng Anh Anh: ground floor (tầng trệt), first floor (tầng 1). Trong tiếng Anh Mỹ: first floor là tầng trệt, second floor là tầng 1. Các tầng tiếp theo dùng số thứ tự: second, third, fourth, v.v.",
+                            "image": null,
+                            "description": "Việc phân biệt giúp bạn tránh nhầm lẫn khi đi lại trong tòa nhà hoặc đọc bản đồ."
+                        },
+                        "examples": [
+                            {
+                                "en": "Her apartment is on the second floor. (US)",
+                                "vi": "Căn hộ của cô ấy ở tầng hai (Mỹ)."
+                            },
+                            {
+                                "en": "My office is on the first floor. (UK)",
+                                "vi": "Văn phòng của tôi ở tầng một (Anh)."
+                            },
+                            {
+                                "en": "Take the elevator to the third floor.",
+                                "vi": "Đi thang máy lên tầng ba."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "floors_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_practical_english_6",
+            "title": "Bài 5: Cách nói ngày tháng (Dates)",
+            "description": "Học cách nói và viết ngày tháng đúng chuẩn trong tiếng Anh, bao gồm cả kiểu Anh và Mỹ.",
+            "duration": "15-20 phút",
+            "sections": [
+                {
+                    "id": "dates_intro",
+                    "title": "Giới thiệu về cách nói ngày tháng",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/08db63e6fbb5d9300a8dca0ceae35206/raw/dates_intro.md",
+                    "description": "Phân biệt cách nói ngày tháng theo chuẩn Anh - Mỹ và ứng dụng trong giao tiếp hàng ngày."
+                },
+                {
+                    "id": "dates_usage",
+                    "title": "Cách dùng và nói ngày tháng",
+                    "type": "detail",
+                    "description": "Hướng dẫn cách viết và đọc ngày tháng theo nhiều định dạng khác nhau.",
+                    "detail": {
+                        "objectives": [
+                            "Biết cách viết và nói ngày tháng bằng tiếng Anh",
+                            "Phân biệt thứ tự ngày – tháng – năm giữa Anh – Mỹ"
+                        ],
+                        "explanation": {
+                            "text": "Trong tiếng Anh Anh: the 5th of April, 2025. Trong tiếng Anh Mỹ: April 5th, 2025. Khi viết có thể dùng định dạng số như 05/04/2025 (UK) hoặc 04/05/2025 (US).",
+                            "image": null,
+                            "description": "Việc nói đúng ngày tháng giúp bạn giao tiếp chính xác khi đặt lịch, viết email, hoặc điền mẫu đơn."
+                        },
+                        "examples": [
+                            {
+                                "en": "My birthday is on the 1st of July. (UK)",
+                                "vi": "Sinh nhật tôi là ngày 1 tháng 7."
+                            },
+                            {
+                                "en": "Her flight is on October 10th. (US)",
+                                "vi": "Chuyến bay của cô ấy là vào ngày 10 tháng 10."
+                            },
+                            {
+                                "en": "Today is the 21st of March.",
+                                "vi": "Hôm nay là ngày 21 tháng 3."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "dates_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_practical_english_7",
+            "title": "Bài 6: Cách nói giờ (Time)",
+            "description": "Học cách nói giờ trong tiếng Anh, bao gồm cả cách nói giờ chính thức và không chính thức.",
+            "duration": "15-20 phút",
+            "sections": [
+                {
+                    "id": "time_intro",
+                    "title": "Giới thiệu về cách nói giờ",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/187d98995ca0c2c4beb67ead36e06079/raw/time_intro.md",
+                    "description": "Tìm hiểu cách nói giờ trong tiếng Anh, từ việc đọc giờ chính thức đến các cách nói thông dụng hơn trong cuộc sống hàng ngày."
+                },
+                {
+                    "id": "time_usage",
+                    "title": "Cách dùng và nói giờ",
+                    "type": "detail",
+                    "description": "Hướng dẫn cách nói giờ chính thức và không chính thức, bao gồm các cách diễn đạt như ‘quarter past’, ‘half past’, ‘o'clock’, v.v.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu cách đọc giờ trong tiếng Anh",
+                            "Biết cách phân biệt giữa giờ chính thức và không chính thức"
+                        ],
+                        "explanation": {
+                            "text": "Khi nói giờ, bạn có thể dùng ‘o'clock’ cho giờ chính thức (ví dụ: 3 o'clock), ‘quarter past’ (ví dụ: quarter past three), ‘half past’ (ví dụ: half past five), hoặc ‘quarter to’ (ví dụ: quarter to nine). Trong tiếng Anh Mỹ, có thể thêm ‘AM’ hoặc ‘PM’ để phân biệt sáng và chiều.",
+                            "image": null,
+                            "description": "Việc nói giờ đúng cách giúp bạn giao tiếp hiệu quả hơn trong các cuộc hẹn hoặc khi tham gia vào các cuộc họp."
+                        },
+                        "examples": [
+                            {
+                                "en": "It’s five o'clock.",
+                                "vi": "Bây giờ là năm giờ."
+                            },
+                            {
+                                "en": "The meeting is at quarter past three.",
+                                "vi": "Cuộc họp lúc ba giờ mười lăm."
+                            },
+                            {
+                                "en": "I wake up at six thirty.",
+                                "vi": "Tôi thức dậy lúc sáu rưỡi."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "time_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_practical_english_8",
+            "title": "Bài 7: Tiền tệ (Money)",
+            "description": "Học cách nói về tiền tệ trong tiếng Anh, bao gồm việc sử dụng số tiền và các đơn vị tiền tệ phổ biến.",
+            "duration": "15-20 phút",
+            "sections": [
+                {
+                    "id": "money_intro",
+                    "title": "Giới thiệu về tiền tệ",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/dbcb9099bb03235a9a5e986f483177b6/raw/money_intro.md",
+                    "description": "Tìm hiểu cách sử dụng tiền tệ trong giao tiếp hàng ngày, bao gồm các đơn vị tiền tệ phổ biến và cách diễn đạt số tiền trong tiếng Anh."
+                },
+                {
+                    "id": "money_usage",
+                    "title": "Cách dùng và nói tiền tệ",
+                    "type": "detail",
+                    "description": "Hướng dẫn cách đọc và nói số tiền, từ cách nói đồng đô la, bảng Anh đến các đơn vị tiền tệ khác, cũng như các quy tắc sử dụng trong các tình huống giao dịch.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu cách nói về số tiền và đơn vị tiền tệ trong tiếng Anh",
+                            "Phân biệt cách nói tiền tệ trong giao dịch và giao tiếp hàng ngày"
+                        ],
+                        "explanation": {
+                            "text": "Để nói số tiền, ta sẽ sử dụng cách đọc số như bình thường, ví dụ: $1.25 = one dollar twenty-five cents. Các đơn vị tiền tệ khác như euro (EUR), bảng Anh (GBP) cũng có cách nói tương tự, ví dụ: £10 = ten pounds.",
+                            "image": null,
+                            "description": "Việc sử dụng đúng các thuật ngữ tiền tệ sẽ giúp bạn dễ dàng giao tiếp trong các cửa hàng, ngân hàng hoặc các tình huống giao dịch."
+                        },
+                        "examples": [
+                            {
+                                "en": "It costs ten dollars.",
+                                "vi": "Nó giá mười đô la."
+                            },
+                            {
+                                "en": "I have twenty-five pounds.",
+                                "vi": "Tôi có hai mươi lăm bảng."
+                            },
+                            {
+                                "en": "The meal was thirty-five euros.",
+                                "vi": "Bữa ăn hết ba mươi lăm euro."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "money_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_practical_english_9",
+            "title": "Bài 8: Số điện thoại (Phone numbers)",
+            "description": "Học cách đọc và nói số điện thoại trong tiếng Anh, bao gồm các cách diễn đạt số điện thoại thông dụng.",
+            "duration": "15-20 phút",
+            "sections": [
+                {
+                    "id": "phone_numbers_intro",
+                    "title": "Giới thiệu về số điện thoại",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/c64683efc7d774066df216fcaad93b82/raw/phone_numbers_intro.md",
+                    "description": "Tìm hiểu cách gọi số điện thoại trong tiếng Anh và cách đọc số điện thoại chính xác."
+                },
+                {
+                    "id": "phone_numbers_usage",
+                    "title": "Cách dùng và nói số điện thoại",
+                    "type": "detail",
+                    "description": "Hướng dẫn cách đọc và ghi số điện thoại đúng trong tiếng Anh, bao gồm việc đọc từng chữ số và cách phát âm các số đặc biệt.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu cách nói số điện thoại trong tiếng Anh",
+                            "Biết cách phát âm và ghi số điện thoại chuẩn xác"
+                        ],
+                        "explanation": {
+                            "text": "Để đọc số điện thoại, bạn sẽ đọc từng chữ số một cách rõ ràng, ví dụ: 090-1234-567 = oh nine oh, one two three four, five six seven. Khi nói số 0, bạn có thể dùng 'oh' hoặc 'zero'.",
+                            "image": null,
+                            "description": "Việc đọc đúng số điện thoại giúp bạn dễ dàng giao tiếp khi trao đổi thông tin liên lạc với người khác."
+                        },
+                        "examples": [
+                            {
+                                "en": "My phone number is 090-1234-567.",
+                                "vi": "Số điện thoại của tôi là 090-1234-567."
+                            },
+                            {
+                                "en": "Please call me at 080-7654-321.",
+                                "vi": "Hãy gọi cho tôi theo số 080-7654-321."
+                            },
+                            {
+                                "en": "His number is 010-2345-678.",
+                                "vi": "Số của anh ấy là 010-2345-678."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "phone_numbers_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_practical_english_10",
+            "title": "Bài 9: Phân số, thập phân (Fractions, Decimals)",
+            "description": "Học cách đọc và nói phân số và thập phân trong tiếng Anh, bao gồm các cách diễn đạt phổ biến.",
+            "duration": "15-20 phút",
+            "sections": [
+                {
+                    "id": "fractions_decimals_intro",
+                    "title": "Giới thiệu về phân số và thập phân",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/92f7c583c5ac4a05d0aa73e31f8947cc/raw/fractions_decimals_intro.md",
+                    "description": "Tìm hiểu cách đọc và sử dụng phân số và thập phân trong tiếng Anh, đặc biệt là cách sử dụng các thuật ngữ khi giao tiếp về các giá trị này."
+                },
+                {
+                    "id": "fractions_decimals_usage",
+                    "title": "Cách dùng và nói phân số, thập phân",
+                    "type": "detail",
+                    "description": "Hướng dẫn cách đọc và sử dụng phân số và thập phân trong tiếng Anh, bao gồm các tình huống thực tế như trong các cuộc giao dịch hoặc báo cáo số liệu.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu cách đọc phân số và thập phân trong tiếng Anh",
+                            "Biết cách sử dụng phân số và thập phân trong các tình huống giao tiếp"
+                        ],
+                        "explanation": {
+                            "text": "Phân số được đọc theo cách như sau: 1/2 = one half, 3/4 = three quarters. Các thập phân được đọc là số nguyên cộng với phần thập phân, ví dụ: 0.75 = zero point seven five.",
+                            "image": null,
+                            "description": "Việc sử dụng đúng cách phân số và thập phân giúp bạn giao tiếp chính xác khi thảo luận về các vấn đề liên quan đến số liệu, tỷ lệ, hay giá cả."
+                        },
+                        "examples": [
+                            {
+                                "en": "I ate one half of the pizza.",
+                                "vi": "Tôi đã ăn một nửa chiếc pizza."
+                            },
+                            {
+                                "en": "The price is three quarters of a dollar.",
+                                "vi": "Giá là ba phần tư đô la."
+                            },
+                            {
+                                "en": "The discount is 0.25, which is twenty-five percent.",
+                                "vi": "Giảm giá là 0.25, tức là 25%."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "fractions_decimals_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_practical_english_11",
+            "title": "Bài 10: Các đơn vị đo lường (Units of Measurement)",
+            "description": "Học cách sử dụng các đơn vị đo lường trong tiếng Anh, bao gồm các đơn vị đo lường phổ biến như chiều dài, cân nặng, nhiệt độ, và thời gian.",
+            "duration": "15-20 phút",
+            "sections": [
+                {
+                    "id": "units_of_measurement_intro",
+                    "title": "Giới thiệu về các đơn vị đo lường",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/dee92d53d064f4ead10f8e95ee98e324/raw/units_of_measurement_intro.md",
+                    "description": "Tìm hiểu các đơn vị đo lường trong tiếng Anh và cách sử dụng chúng trong các tình huống giao tiếp hàng ngày hoặc trong công việc."
+                },
+                {
+                    "id": "units_of_measurement_usage",
+                    "title": "Cách dùng và nói các đơn vị đo lường",
+                    "type": "detail",
+                    "description": "Hướng dẫn cách sử dụng các đơn vị đo lường trong tiếng Anh, bao gồm cách nói về các đơn vị đo chiều dài, cân nặng, nhiệt độ, và thời gian.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu cách sử dụng các đơn vị đo lường trong tiếng Anh",
+                            "Biết cách nói về các đơn vị đo lường trong các tình huống thực tế"
+                        ],
+                        "explanation": {
+                            "text": "Khi nói về các đơn vị đo lường, bạn sẽ sử dụng các từ như meter (m), kilogram (kg), degree Celsius (°C), và hour (h). Ví dụ: 5 meters = five meters, 20 kilograms = twenty kilograms.",
+                            "image": null,
+                            "description": "Việc hiểu và sử dụng đúng các đơn vị đo lường trong tiếng Anh rất quan trọng trong giao tiếp, đặc biệt là trong các lĩnh vực kỹ thuật, khoa học và thương mại."
+                        },
+                        "examples": [
+                            {
+                                "en": "The table is two meters long.",
+                                "vi": "Chiếc bàn dài hai mét."
+                            },
+                            {
+                                "en": "The bag weighs ten kilograms.",
+                                "vi": "Cái túi nặng mười ký."
+                            },
+                            {
+                                "en": "The temperature is twenty degrees Celsius.",
+                                "vi": "Nhiệt độ là hai mươi độ C."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "units_of_measurement_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_practical_english_12",
+            "title": "Bài 11: Đo lường và kích thước (Measurement and Size)",
+            "description": "Học cách nói về kích thước và các đơn vị đo lường khác trong tiếng Anh, bao gồm chiều dài, chiều rộng và chiều cao.",
+            "duration": "15-20 phút",
+            "sections": [
+                {
+                    "id": "measurement_size_intro",
+                    "title": "Giới thiệu về đo lường và kích thước",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/2ee38e33eb2bbbe0483baab43ca37d32/raw/measurement_size_intro.md",
+                    "description": "Tìm hiểu cách sử dụng các đơn vị đo lường khi nói về kích thước và đo lường."
+                },
+                {
+                    "id": "measurement_size_usage",
+                    "title": "Cách dùng và nói về đo lường và kích thước",
+                    "type": "detail",
+                    "description": "Hướng dẫn cách nói về các kích thước và đo lường như chiều dài, chiều rộng và chiều cao trong tiếng Anh.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu cách nói về kích thước và đo lường trong tiếng Anh",
+                            "Sử dụng đúng các đơn vị đo lường khi nói về kích thước"
+                        ],
+                        "explanation": {
+                            "text": "Các đơn vị đo lường như meter (m), centimeter (cm) dùng để chỉ chiều dài, width (chiều rộng), height (chiều cao). Ví dụ: 2 meters long = two meters long, 5 centimeters wide = five centimeters wide.",
+                            "image": null,
+                            "description": "Đo lường và kích thước được sử dụng phổ biến trong các giao tiếp liên quan đến sản phẩm, đồ vật hoặc không gian."
+                        },
+                        "examples": [
+                            {
+                                "en": "The room is five meters wide.",
+                                "vi": "Căn phòng rộng năm mét."
+                            },
+                            {
+                                "en": "The box is two meters high.",
+                                "vi": "Cái hộp cao hai mét."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "measurement_size_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_practical_english_17",
+            "title": "Bài 12: Địa chỉ (Addresses)",
+            "description": "Học cách nói về địa chỉ trong tiếng Anh, bao gồm cách nói các phần như số nhà, tên đường, thành phố và mã bưu điện.",
+            "duration": "15-20 phút",
+            "sections": [
+                {
+                    "id": "addresses_intro",
+                    "title": "Giới thiệu về địa chỉ",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/7d8d216880fbdc29e0647b52d8ddfd08/raw/addresses_intro.md",
+                    "description": "Tìm hiểu cách nói về địa chỉ trong tiếng Anh, từ số nhà đến tên đường, thành phố và mã bưu điện."
+                },
+                {
+                    "id": "addresses_usage",
+                    "title": "Cách dùng và nói địa chỉ",
+                    "type": "detail",
+                    "description": "Hướng dẫn cách nói và viết địa chỉ trong tiếng Anh.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu cách nói và viết địa chỉ trong tiếng Anh",
+                            "Sử dụng đúng các phần trong địa chỉ"
+                        ],
+                        "explanation": {
+                            "text": "Ví dụ địa chỉ có thể như: 123 Main Street, New York, NY 10001. Các thành phần địa chỉ bao gồm số nhà, tên đường, thành phố, tiểu bang và mã bưu điện.",
+                            "image": null,
+                            "description": "Biết cách nói và viết địa chỉ giúp bạn giao tiếp dễ dàng hơn khi gửi thư từ, chỉ đường hoặc khi di chuyển đến địa điểm nào đó."
+                        },
+                        "examples": [
+                            {
+                                "en": "My address is 123 Main Street, New York.",
+                                "vi": "Địa chỉ của tôi là 123 Phố Chính, New York."
+                            },
+                            {
+                                "en": "I live at 56 Oak Avenue.",
+                                "vi": "Tôi sống ở 56 Đại lộ Oak."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "addresses_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

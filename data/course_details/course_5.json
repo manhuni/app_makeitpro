@@ -1,0 +1,33 @@
+{
+    "id": "5",
+    "title": "Tiếng Anh Chuyên Ngành Game",
+    "description": "Khóa học giúp bạn sử dụng thành thạo tiếng Anh trong lĩnh vực phát triển và chơi game, từ từ vựng chuyên ngành đến mẫu câu giao tiếp thông dụng trong cộng đồng game và môi trường làm việc quốc tế.",
+    "instructor": "Cô Lê Hoàng Mai",
+    "duration": "2.5 tháng",
+    "level": "Beginner to Intermediate",
+    "price": 450000,
+    "originalPrice": 600000,
+    "rating": 4.7,
+    "students": 180,
+    "lastUpdated": "2024-04-20",
+    "tags": [
+        "english for gamers",
+        "game vocabulary",
+        "communication"
+    ],
+    "isFeatured": true,
+    "benefits": [
+        "Chứng chỉ hoàn thành khóa học",
+        "Từ điển mini tiếng Anh ngành game",
+        "Tình huống giao tiếp mô phỏng thực tế"
+    ],
+    "imageUrl": "https://example.com/english-for-gamers-course.jpg",
+    "thumbnailUrl": "https://example.com/english-for-gamers-thumb.jpg",
+    "overview": "Khóa học này tập trung vào tiếng Anh được sử dụng trong ngành game, bao gồm các thuật ngữ game phổ biến, cách giao tiếp khi chơi game online, làm việc nhóm trong studio phát triển game, và kỹ năng viết email báo lỗi hoặc mô tả ý tưởng game.",
+    "requirements": "Trình độ tiếng Anh cơ bản. Biết sử dụng máy tính và có hứng thú với game.",
+    "objectives": [
+        "Hiểu và sử dụng thành thạo từ vựng tiếng Anh chuyên ngành game",
+        "Giao tiếp hiệu quả khi chơi game online hoặc làm việc trong nhóm phát triển",
+        "Viết mô tả game, hướng dẫn chơi và email chuyên nghiệp bằng tiếng Anh"
+    ]
+}

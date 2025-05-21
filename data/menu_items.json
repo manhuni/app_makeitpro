@@ -1,0 +1,59 @@
+[
+  {
+    "id": "profile",
+    "title": "Hồ sơ",
+    "icon": "profile",
+    "route": "/profile",
+    "description": "Thông tin cá nhân"
+  },
+  {
+    "id": "settings",
+    "title": "Cài đặt",
+    "icon": "settings",
+    "route": "/settings",
+    "description": "Tùy chỉnh ứng dụng"
+  },
+  {
+    "id": "history",
+    "title": "Lịch sử",
+    "icon": "history",
+    "route": "/history",
+    "description": "Lịch sử hoạt động"
+  },
+  {
+    "id": "payment",
+    "title": "Thanh toán",
+    "icon": "payment",
+    "route": "/payment",
+    "color": "#4CAF50",
+    "description": "Quản lý thanh toán"
+  },
+  {
+    "id": "dictionary",
+    "title": "Từ điển",
+    "icon": "book",
+    "route": "/dictionary",
+    "description": "Tra cứu từ điển online"
+  },
+  {
+    "id": "wiktionary",
+    "title": "Wiktionary",
+    "icon": "book",
+    "route": "/wiktionary",
+    "description": "Tra cứu wiki online"
+  },
+  {
+    "id": "news",
+    "title": "Tin tức",
+    "icon": "rss_feed",
+    "route": "/news",
+    "description": "Tổng hợp tin tức từ các nguồn RSS"
+  },
+  {
+    "id": "help",
+    "title": "Trợ giúp",
+    "icon": "help",
+    "route": "/help",
+    "description": "Hướng dẫn sử dụng"
+  }
+]

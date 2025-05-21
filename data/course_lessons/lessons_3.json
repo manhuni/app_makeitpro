@@ -1,0 +1,1278 @@
+{
+    "id": "3",
+    "title": "Khóa học Tiếng Anh Thông Dụng",
+    "description": "Khóa học này giúp bạn nắm vững những điểm ngữ pháp quan trọng và thường gặp nhất trong tiếng Anh, từ đó cải thiện khả năng viết, nói và làm bài thi IELTS.",
+    "level": "Beginner",
+    "language": "Vietnamese",
+    "instructor": "Thầy Trần Minh",
+    "lessons": [
+        {
+            "id": "lesson_articles",
+            "title": "Bài 1: Mạo từ A, An, The",
+            "description": "Hiểu và sử dụng đúng ba mạo từ phổ biến nhất trong tiếng Anh: a, an và the.",
+            "duration": "15-25 phút",
+            "sections": [
+                {
+                    "id": "articles_intro",
+                    "title": "Giới thiệu về mạo từ",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/9983c6b87417eca0af6181b13690cc1d/raw/articles_intro.md",
+                    "description": "Giải thích sự khác biệt giữa a, an, và the trong các tình huống cụ thể."
+                },
+                {
+                    "id": "intro_video",
+                    "title": "Video chủ đề Khóa học Tiếng Anh Thông Dụng",
+                    "type": "gist_video",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/edb18272a5155cd0581127f1df5905c2/raw/makeitpro_list_video_course_3.json",
+                    "description": "Video minh họa chủ đề Khóa học Tiếng Anh Thông Dụng."
+                },
+                {
+                    "id": "intro_md",
+                    "title": "Markdown chủ đề Khóa học Tiếng Anh Thông Dụng",
+                    "type": "markdown_list",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/8eb81cdfaaae6a2bab4fc5bba0d7c9db/raw/makeitpro_list_md_course_3.json",
+                    "description": "Markdown minh họa chủ đề Khóa học Tiếng Anh Thông Dụng."
+                },
+                {
+                    "id": "articles_grammar",
+                    "title": "Cách dùng mạo từ",
+                    "type": "detail",
+                    "description": "Học quy tắc cơ bản khi nào dùng a, an, the và khi không dùng.",
+                    "detail": {
+                        "objectives": [
+                            "Biết cách chọn mạo từ phù hợp với danh từ",
+                            "Hiểu khi nào không dùng mạo từ"
+                        ],
+                        "explanation": {
+                            "text": "‘A’ dùng trước danh từ đếm được bắt đầu bằng phụ âm. ‘An’ dùng trước nguyên âm. ‘The’ dùng khi người nghe và nói đều biết danh từ đó.",
+                            "image": null,
+                            "description": "Tóm tắt cách sử dụng mạo từ có và không xác định."
+                        },
+                        "examples": [
+                            {
+                                "en": "I saw a dog.",
+                                "vi": "Tôi thấy một con chó."
+                            },
+                            {
+                                "en": "She has an umbrella.",
+                                "vi": "Cô ấy có một cái ô."
+                            },
+                            {
+                                "en": "The sun is bright.",
+                                "vi": "Mặt trời rất sáng."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/articles_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_plural_nouns",
+            "title": "Bài 2: Danh từ Số ít và Số nhiều",
+            "description": "Phân biệt danh từ số ít và số nhiều, cùng với quy tắc chuyển đổi.",
+            "duration": "15-20 phút",
+            "sections": [
+                {
+                    "id": "plural_intro",
+                    "title": "Giới thiệu danh từ số nhiều",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/97256adc2d1cd62836a5c4050952ba5e/raw/plural_intro.md",
+                    "description": "Danh từ thay đổi như thế nào khi chuyển từ số ít sang số nhiều?"
+                },
+                {
+                    "id": "plural_rules",
+                    "title": "Quy tắc chuyển đổi số nhiều",
+                    "type": "detail",
+                    "description": "Học các quy tắc thêm ‘-s’, ‘-es’, và các trường hợp bất quy tắc.",
+                    "detail": {
+                        "objectives": [
+                            "Nhận biết danh từ số ít và số nhiều",
+                            "Biết cách chuyển đổi đúng"
+                        ],
+                        "explanation": {
+                            "text": "cat → cats, bus → buses, child → children...",
+                            "image": null,
+                            "description": "Các quy tắc phổ biến và ngoại lệ khi chuyển số nhiều."
+                        },
+                        "examples": [
+                            {
+                                "en": "One apple, two apples.",
+                                "vi": "Một quả táo, hai quả táo."
+                            },
+                            {
+                                "en": "A child → children.",
+                                "vi": "Một đứa trẻ → nhiều đứa trẻ."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/plural_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_present_simple",
+            "title": "Bài 3: Thì Hiện tại đơn",
+            "description": "Dùng để nói về thói quen, sự thật, và hành động lặp đi lặp lại.",
+            "duration": "20 phút",
+            "sections": [
+                {
+                    "id": "present_simple_intro",
+                    "title": "Giới thiệu thì hiện tại đơn",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/cac0bd84b8f50d0cfc1da3783b474999/raw/present_simple_intro.md",
+                    "description": "Cấu trúc và cách sử dụng thì hiện tại đơn."
+                },
+                {
+                    "id": "present_simple_rules",
+                    "title": "Cách dùng và ví dụ",
+                    "type": "detail",
+                    "description": "Dạng khẳng định, phủ định và nghi vấn với động từ thường.",
+                    "detail": {
+                        "objectives": [
+                            "Biết cấu trúc và cách chia động từ đúng",
+                            "Thực hành viết và nói đúng ngữ pháp"
+                        ],
+                        "explanation": {
+                            "text": "S + V(s/es) với he/she/it, không chia với I/you/we/they.",
+                            "image": null,
+                            "description": "Thì hiện tại đơn thường dùng với từ như: always, usually, every day..."
+                        },
+                        "examples": [
+                            {
+                                "en": "She goes to school every day.",
+                                "vi": "Cô ấy đi học mỗi ngày."
+                            },
+                            {
+                                "en": "I don’t like coffee.",
+                                "vi": "Tôi không thích cà phê."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/present_simple.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_past_simple",
+            "title": "Bài 4: Thì Quá khứ đơn",
+            "description": "Dùng để kể về một hành động đã xảy ra và kết thúc trong quá khứ.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "past_simple_intro",
+                    "title": "Giới thiệu thì quá khứ đơn",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/e72b533cc5e12bc0847b0f7e037823e4/raw/past_simple_intro.md",
+                    "description": "Cách chia động từ và dấu hiệu nhận biết thì quá khứ."
+                },
+                {
+                    "id": "past_simple_rules",
+                    "title": "Cách dùng và ví dụ",
+                    "type": "detail",
+                    "description": "Học cách dùng với động từ có quy tắc và bất quy tắc.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu cấu trúc thì quá khứ",
+                            "Phân biệt động từ thường và bất quy tắc"
+                        ],
+                        "explanation": {
+                            "text": "S + V2 hoặc S + did + V1",
+                            "image": null,
+                            "description": "Dùng cho các hành động đã kết thúc, thường đi với: yesterday, last week..."
+                        },
+                        "examples": [
+                            {
+                                "en": "I watched a movie last night.",
+                                "vi": "Tôi đã xem một bộ phim tối qua."
+                            },
+                            {
+                                "en": "She went to Paris in 2020.",
+                                "vi": "Cô ấy đã đến Paris vào năm 2020."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/past_simple.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_pronouns",
+            "title": "Bài 5: Đại từ nhân xưng & Tính từ sở hữu",
+            "description": "Giúp người học phân biệt và sử dụng đúng các đại từ như I, me, my, mine...",
+            "duration": "15 phút",
+            "sections": [
+                {
+                    "id": "pronouns_intro",
+                    "title": "Giới thiệu đại từ và tính từ sở hữu",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/5e545091030da0d1e1f6471856612e98/raw/pronouns_intro.md",
+                    "description": "Đại từ và tính từ sở hữu – dễ nhầm lẫn nếu không luyện tập kỹ."
+                },
+                {
+                    "id": "pronouns_grammar",
+                    "title": "Bảng tổng hợp và ví dụ",
+                    "type": "detail",
+                    "description": "Học bảng so sánh I/me/my/mine và các từ tương tự.",
+                    "detail": {
+                        "objectives": [
+                            "Phân biệt các dạng đại từ",
+                            "Sử dụng đúng trong ngữ cảnh"
+                        ],
+                        "explanation": {
+                            "text": "I (tôi), me (tôi – tân ngữ), my (của tôi), mine (cái của tôi)...",
+                            "image": null,
+                            "description": "Bảng so sánh đầy đủ và ví dụ rõ ràng."
+                        },
+                        "examples": [
+                            {
+                                "en": "This is my book.",
+                                "vi": "Đây là sách của tôi."
+                            },
+                            {
+                                "en": "That pen is mine.",
+                                "vi": "Cái bút đó là của tôi."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/pronouns.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_present_continuous",
+            "title": "Bài 6: Thì Hiện tại tiếp diễn",
+            "description": "Dùng để diễn tả hành động đang xảy ra tại thời điểm nói hoặc xung quanh thời điểm nói.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "present_continuous_intro",
+                    "title": "Giới thiệu thì hiện tại tiếp diễn",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f8670aa44214139916ec28d0328dd316/raw/present_continuous_intro.md",
+                    "description": "Cách chia động từ với 'to be' và 'V-ing'."
+                },
+                {
+                    "id": "present_continuous_rules",
+                    "title": "Cách dùng và ví dụ",
+                    "type": "detail",
+                    "description": "Tìm hiểu cách sử dụng và dấu hiệu nhận biết thì hiện tại tiếp diễn.",
+                    "detail": {
+                        "objectives": [
+                            "Biết cấu trúc và cách dùng thì hiện tại tiếp diễn",
+                            "Hiểu được các dấu hiệu nhận biết phổ biến"
+                        ],
+                        "explanation": {
+                            "text": "S + am/is/are + V-ing",
+                            "image": null,
+                            "description": "Dùng cho hành động đang diễn ra. Thường đi với: now, at the moment, currently..."
+                        },
+                        "examples": [
+                            {
+                                "en": "She is studying English now.",
+                                "vi": "Cô ấy đang học tiếng Anh bây giờ."
+                            },
+                            {
+                                "en": "I am writing an email.",
+                                "vi": "Tôi đang viết một email."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/present_continuous.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_future_simple",
+            "title": "Bài 7: Thì Tương lai đơn",
+            "description": "Diễn tả hành động sẽ xảy ra trong tương lai, thường đi với will hoặc shall.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "future_simple_intro",
+                    "title": "Giới thiệu thì tương lai đơn",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/016b92ffd903d6994bd57ede2d5db236/raw/future_simple_intro.md",
+                    "description": "Dùng will/shall với động từ nguyên thể."
+                },
+                {
+                    "id": "future_simple_rules",
+                    "title": "Cách dùng và ví dụ",
+                    "type": "detail",
+                    "description": "Học cấu trúc và cách áp dụng thì tương lai đơn trong thực tế.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu cấu trúc thì tương lai đơn",
+                            "Biết khi nào dùng 'will' hay 'shall'"
+                        ],
+                        "explanation": {
+                            "text": "S + will/shall + V1",
+                            "image": null,
+                            "description": "Thường đi với: tomorrow, next week, in the future..."
+                        },
+                        "examples": [
+                            {
+                                "en": "I will call you tomorrow.",
+                                "vi": "Tôi sẽ gọi cho bạn vào ngày mai."
+                            },
+                            {
+                                "en": "They will travel to Japan next year.",
+                                "vi": "Họ sẽ đi Nhật vào năm sau."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/future_simple.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_present_perfect",
+            "title": "Bài 8: Thì Hiện tại hoàn thành",
+            "description": "Dùng để diễn tả hành động đã hoàn thành tại một thời điểm không xác định trong quá khứ và vẫn liên quan đến hiện tại.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "present_perfect_intro",
+                    "title": "Giới thiệu thì hiện tại hoàn thành",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/26005a867af1ff3988042410a57557ad/raw/present_perfect_intro.md",
+                    "description": "Dấu hiệu nhận biết và cách dùng thì hiện tại hoàn thành."
+                },
+                {
+                    "id": "present_perfect_rules",
+                    "title": "Cách dùng và ví dụ",
+                    "type": "detail",
+                    "description": "Cấu trúc và các ví dụ minh họa sinh động.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu cấu trúc thì hiện tại hoàn thành",
+                            "Biết phân biệt với thì quá khứ đơn"
+                        ],
+                        "explanation": {
+                            "text": "S + have/has + V3",
+                            "image": null,
+                            "description": "Thường đi với: already, just, yet, ever, never, for, since..."
+                        },
+                        "examples": [
+                            {
+                                "en": "I have finished my homework.",
+                                "vi": "Tôi đã làm xong bài tập về nhà."
+                            },
+                            {
+                                "en": "She has visited London twice.",
+                                "vi": "Cô ấy đã đến London hai lần."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/present_perfect.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_present_perfect_continuous",
+            "title": "Bài 9: Thì Hiện tại hoàn thành tiếp diễn",
+            "description": "Nhấn mạnh hành động bắt đầu trong quá khứ và vẫn đang tiếp diễn đến hiện tại.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "present_perfect_continuous_intro",
+                    "title": "Giới thiệu thì hiện tại hoàn thành tiếp diễn",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/6106533f935b820303929b80041c4af9/raw/present_perfect_continuous_intro.md",
+                    "description": "Giới thiệu cách dùng và cấu trúc của thì hiện tại hoàn thành tiếp diễn."
+                },
+                {
+                    "id": "present_perfect_continuous_rules",
+                    "title": "Cách dùng và ví dụ",
+                    "type": "detail",
+                    "description": "Học cách dùng và dấu hiệu nhận biết.",
+                    "detail": {
+                        "objectives": [
+                            "Diễn tả hành động kéo dài",
+                            "Kết hợp được for, since và hành động tiếp diễn"
+                        ],
+                        "explanation": {
+                            "text": "S + have/has been + V-ing",
+                            "image": null,
+                            "description": "Thường đi với: for, since, all day, recently, lately..."
+                        },
+                        "examples": [
+                            {
+                                "en": "I have been studying for 3 hours.",
+                                "vi": "Tôi đã học được 3 tiếng rồi."
+                            },
+                            {
+                                "en": "They have been working since morning.",
+                                "vi": "Họ đã làm việc từ sáng."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/present_perfect_continuous.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_past_continuous",
+            "title": "Bài 10: Thì Quá khứ tiếp diễn",
+            "description": "Dùng để diễn tả hành động đang diễn ra tại một thời điểm xác định trong quá khứ.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "past_continuous_intro",
+                    "title": "Giới thiệu thì quá khứ tiếp diễn",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/1b01c986c95cb4cdfe3cceefcef8baed/raw/past_continuous_intro.md",
+                    "description": "Cách chia động từ với was/were và V-ing."
+                },
+                {
+                    "id": "past_continuous_rules",
+                    "title": "Cách dùng và ví dụ",
+                    "type": "detail",
+                    "description": "Cấu trúc, mục đích sử dụng và dấu hiệu nhận biết.",
+                    "detail": {
+                        "objectives": [
+                            "Diễn tả hành động đang xảy ra tại thời điểm quá khứ",
+                            "Biết kết hợp với quá khứ đơn"
+                        ],
+                        "explanation": {
+                            "text": "S + was/were + V-ing",
+                            "image": null,
+                            "description": "Thường dùng với: while, when, at 7 p.m., at that moment..."
+                        },
+                        "examples": [
+                            {
+                                "en": "I was watching TV when she called.",
+                                "vi": "Tôi đang xem TV thì cô ấy gọi."
+                            },
+                            {
+                                "en": "They were sleeping at 10 o'clock.",
+                                "vi": "Họ đang ngủ lúc 10 giờ."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/past_continuous.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_past_perfect",
+            "title": "Bài 11: Thì Quá khứ hoàn thành",
+            "description": "Diễn tả một hành động xảy ra trước một hành động khác trong quá khứ.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "past_perfect_intro",
+                    "title": "Giới thiệu thì quá khứ hoàn thành",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/1463a9344c78d54b86579e39de560488/raw/past_perfect_intro.md",
+                    "description": "Cấu trúc và dấu hiệu nhận biết thì quá khứ hoàn thành."
+                },
+                {
+                    "id": "past_perfect_rules",
+                    "title": "Cách dùng và ví dụ",
+                    "type": "detail",
+                    "description": "Cách phân biệt quá khứ đơn và quá khứ hoàn thành.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu rõ cách dùng thì quá khứ hoàn thành",
+                            "Sử dụng đúng trong văn cảnh kể chuyện"
+                        ],
+                        "explanation": {
+                            "text": "S + had + V3",
+                            "image": null,
+                            "description": "Thường dùng với: before, after, by the time, already..."
+                        },
+                        "examples": [
+                            {
+                                "en": "I had eaten before they arrived.",
+                                "vi": "Tôi đã ăn trước khi họ đến."
+                            },
+                            {
+                                "en": "She had left when I called her.",
+                                "vi": "Cô ấy đã rời đi khi tôi gọi."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/past_perfect.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_passive_voice",
+            "title": "Bài 12: Câu Bị Động",
+            "description": "Dùng để nhấn mạnh hành động hoặc đối tượng bị tác động thay vì người thực hiện hành động.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "passive_voice_intro",
+                    "title": "Giới thiệu câu bị động",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/342273b0e0a5f32287de479e48e625bd/raw/passive_voice_intro.md",
+                    "description": "Giới thiệu tổng quan về thể bị động và khi nào dùng."
+                },
+                {
+                    "id": "passive_voice_rules",
+                    "title": "Cấu trúc và ví dụ",
+                    "type": "detail",
+                    "description": "Chuyển đổi từ câu chủ động sang bị động.",
+                    "detail": {
+                        "objectives": [
+                            "Biết khi nào dùng câu bị động",
+                            "Chuyển đổi linh hoạt giữa các thì"
+                        ],
+                        "explanation": {
+                            "text": "S + be + V3/ed",
+                            "image": null,
+                            "description": "Ví dụ: The book was written by him."
+                        },
+                        "examples": [
+                            {
+                                "en": "The report was finished yesterday.",
+                                "vi": "Bản báo cáo đã được hoàn thành hôm qua."
+                            },
+                            {
+                                "en": "The house is cleaned every day.",
+                                "vi": "Ngôi nhà được dọn dẹp mỗi ngày."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/passive_voice.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_common_errors_articles",
+            "title": "Bài 13: Lỗi dùng mạo từ",
+            "description": "Những lỗi phổ biến khi sử dụng a, an, the – đặc biệt người Việt thường bỏ qua hoặc dùng sai.",
+            "duration": "15-20 phút",
+            "sections": [
+                {
+                    "id": "error_articles_intro",
+                    "title": "Giới thiệu lỗi về mạo từ",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/0260ce213b8c99aa8fd636f39831b493/raw/error_articles_intro.md",
+                    "description": "Giải thích vì sao người Việt dễ sai khi dùng mạo từ."
+                },
+                {
+                    "id": "error_articles_examples",
+                    "title": "Ví dụ và cách sửa lỗi",
+                    "type": "detail",
+                    "description": "So sánh các câu sai và đúng, cách ghi nhớ nhanh.",
+                    "detail": {
+                        "objectives": [
+                            "Phân biệt khi nào dùng a, an, the",
+                            "Tránh lỗi bỏ mạo từ trong danh từ đếm được"
+                        ],
+                        "explanation": {
+                            "text": "Dùng 'a/an' cho danh từ đếm được số ít; dùng 'the' khi đã xác định",
+                            "image": null,
+                            "description": "Tránh bỏ qua mạo từ hoặc dùng 'the' tùy tiện."
+                        },
+                        "examples": [
+                            {
+                                "en": "❌ I saw cat. → ✅ I saw **a** cat.",
+                                "vi": "Tôi thấy **một** con mèo."
+                            },
+                            {
+                                "en": "❌ She went to hospital. → ✅ She went to **the** hospital.",
+                                "vi": "Cô ấy đã đến bệnh viện (đã biết trước)."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/error_articles.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_common_errors_tense",
+            "title": "Bài 14: Lỗi chia thì sai",
+            "description": "Người Việt hay dùng sai thì khi nói hoặc viết – đặc biệt là hiện tại đơn, hiện tại hoàn thành và quá khứ đơn.",
+            "duration": "20 phút",
+            "sections": [
+                {
+                    "id": "error_tense_intro",
+                    "title": "Giới thiệu lỗi chia thì",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/47e0b0fad8c5f8829e0b10ddaca202e2/raw/error_tense_intro.md",
+                    "description": "Các lỗi điển hình về thì, do ảnh hưởng từ tiếng Việt không chia thì rõ ràng."
+                },
+                {
+                    "id": "error_tense_examples",
+                    "title": "Ví dụ sai và cách sửa",
+                    "type": "detail",
+                    "description": "So sánh các cách dùng thì đúng và sai trong thực tế.",
+                    "detail": {
+                        "objectives": [
+                            "Nhận biết và sửa lỗi chia thì sai",
+                            "Phân biệt quá khứ đơn và hiện tại hoàn thành"
+                        ],
+                        "explanation": {
+                            "text": "Chọn đúng thì dựa vào thời gian được đề cập trong câu.",
+                            "image": null,
+                            "description": "Tránh dùng thì hiện tại đơn cho hành động quá khứ, hoặc dùng quá khứ đơn thay vì hiện tại hoàn thành."
+                        },
+                        "examples": [
+                            {
+                                "en": "❌ I go to the market yesterday. → ✅ I **went** to the market yesterday.",
+                                "vi": "Tôi **đã** đi chợ hôm qua."
+                            },
+                            {
+                                "en": "❌ I have seen him last week. → ✅ I **saw** him last week.",
+                                "vi": "Tôi đã gặp anh ấy tuần trước."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/error_tense.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_common_errors_subject_verb",
+            "title": "Bài 15: Lỗi thiếu chủ ngữ hoặc động từ",
+            "description": "Một lỗi cơ bản nhưng phổ biến: viết câu mà thiếu chủ ngữ hoặc động từ – không đúng cú pháp tiếng Anh.",
+            "duration": "10-15 phút",
+            "sections": [
+                {
+                    "id": "error_subject_verb_intro",
+                    "title": "Giới thiệu lỗi thiếu chủ ngữ/động từ",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/0be4492b20c8512bab12ed13153ffe72/raw/error_subject_verb_intro.md",
+                    "description": "Người học thường dịch từng từ từ tiếng Việt sang mà quên mất cấu trúc câu cần có chủ ngữ và động từ rõ ràng."
+                },
+                {
+                    "id": "error_subject_verb_examples",
+                    "title": "Ví dụ và sửa lỗi",
+                    "type": "detail",
+                    "description": "Câu tiếng Anh luôn cần có S (chủ ngữ) và V (động từ).",
+                    "detail": {
+                        "objectives": [
+                            "Biết nhận diện câu thiếu thành phần",
+                            "Sửa lỗi phổ biến khi viết/speaking"
+                        ],
+                        "explanation": {
+                            "text": "Câu cơ bản: S + V + (O)",
+                            "image": null,
+                            "description": "Tiếng Việt có thể bỏ chủ ngữ nhưng tiếng Anh thì không."
+                        },
+                        "examples": [
+                            {
+                                "en": "❌ Is raining. → ✅ **It is** raining.",
+                                "vi": "Trời đang mưa."
+                            },
+                            {
+                                "en": "❌ Very hungry. → ✅ **I am** very hungry.",
+                                "vi": "Tôi rất đói."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/error_subject_verb.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_common_errors_much_many",
+            "title": "Bài 16: Lỗi dùng 'much' và 'many'",
+            "description": "Những lỗi phổ biến khi dùng 'much' (cho danh từ không đếm được) và 'many' (cho danh từ đếm được).",
+            "duration": "15-20 phút",
+            "sections": [
+                {
+                    "id": "error_much_many_intro",
+                    "title": "Giới thiệu lỗi dùng much và many",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/65458bb08f4d258215fbc4a505eb83a9/raw/error_much_many_intro.md",
+                    "description": "Giới thiệu về sự khác biệt giữa 'much' và 'many', và cách dùng đúng trong câu."
+                },
+                {
+                    "id": "error_much_many_examples",
+                    "title": "Ví dụ và sửa lỗi",
+                    "type": "detail",
+                    "description": "Cách dùng 'much' với danh từ không đếm được và 'many' với danh từ đếm được.",
+                    "detail": {
+                        "objectives": [
+                            "Phân biệt giữa much và many",
+                            "Dùng đúng với danh từ đếm được và không đếm được"
+                        ],
+                        "explanation": {
+                            "text": "'Much' cho danh từ không đếm được; 'Many' cho danh từ đếm được.",
+                            "image": null,
+                            "description": "Tránh dùng 'much' với danh từ đếm được và 'many' với danh từ không đếm được."
+                        },
+                        "examples": [
+                            {
+                                "en": "❌ I don't have much books. → ✅ I don't have **many** books.",
+                                "vi": "Tôi không có nhiều sách."
+                            },
+                            {
+                                "en": "❌ There is many water in the glass. → ✅ There is **much** water in the glass.",
+                                "vi": "Có nhiều nước trong ly."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/error_much_many.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_common_errors_prepositions",
+            "title": "Bài 17: Lỗi dùng giới từ sai",
+            "description": "Những lỗi phổ biến khi dùng giới từ trong tiếng Anh – đặc biệt người Việt hay dùng giới từ không chính xác.",
+            "duration": "20 phút",
+            "sections": [
+                {
+                    "id": "error_prepositions_intro",
+                    "title": "Giới thiệu lỗi giới từ",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/4c8c7a7b25da5c3dc4fb147defe484ff/raw/error_prepositions_intro.md",
+                    "description": "Giới thiệu cách dùng giới từ trong tiếng Anh và các lỗi người Việt hay gặp phải."
+                },
+                {
+                    "id": "error_prepositions_examples",
+                    "title": "Ví dụ và sửa lỗi",
+                    "type": "detail",
+                    "description": "Các lỗi phổ biến với giới từ: at, in, on, to, for,...",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu cách sử dụng giới từ trong câu",
+                            "Phân biệt khi nào dùng 'at', 'in', 'on' đúng"
+                        ],
+                        "explanation": {
+                            "text": "'In' cho địa điểm lớn; 'On' cho mặt phẳng; 'At' cho điểm cụ thể.",
+                            "image": null,
+                            "description": "Tránh sử dụng 'at' khi nên dùng 'in' hoặc 'on'."
+                        },
+                        "examples": [
+                            {
+                                "en": "❌ I will arrive at 3 p.m. in the afternoon. → ✅ I will arrive **at** 3 p.m. **in** the afternoon.",
+                                "vi": "Tôi sẽ đến lúc 3 giờ chiều vào buổi chiều."
+                            },
+                            {
+                                "en": "❌ She lives in the hotel. → ✅ She lives **at** the hotel.",
+                                "vi": "Cô ấy sống ở khách sạn."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/error_prepositions.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_common_errors_conditional",
+            "title": "Bài 18: Lỗi câu điều kiện",
+            "description": "Những lỗi phổ biến khi sử dụng các câu điều kiện trong tiếng Anh, đặc biệt là ở người học tiếng Việt.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "error_conditional_intro",
+                    "title": "Giới thiệu lỗi câu điều kiện",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/210d94ed9f1eabe7da919052c6d034c4/raw/error_conditional_intro.md",
+                    "description": "Lỗi thường gặp khi người Việt dùng câu điều kiện, chẳng hạn như sai thì, thiếu thành phần trong câu."
+                },
+                {
+                    "id": "error_conditional_examples",
+                    "title": "Ví dụ và cách sửa",
+                    "type": "detail",
+                    "description": "Hướng dẫn sửa các lỗi sai trong câu điều kiện: câu điều kiện loại 1, 2 và 3.",
+                    "detail": {
+                        "objectives": [
+                            "Sử dụng đúng cấu trúc câu điều kiện",
+                            "Hiểu và phân biệt giữa các loại câu điều kiện"
+                        ],
+                        "explanation": {
+                            "text": "Câu điều kiện loại 1: If + S + V (hiện tại), S + will + V. Câu điều kiện loại 2: If + S + V2, S + would + V.",
+                            "image": null,
+                            "description": "Tránh nhầm lẫn giữa các loại câu điều kiện."
+                        },
+                        "examples": [
+                            {
+                                "en": "❌ If I will go to the market, I will buy fruit. → ✅ If I **go** to the market, I will buy fruit.",
+                                "vi": "Nếu tôi đi chợ, tôi sẽ mua trái cây."
+                            },
+                            {
+                                "en": "❌ If I had known, I will help you. → ✅ If I had known, I **would** help you.",
+                                "vi": "Nếu tôi đã biết, tôi đã giúp bạn."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/error_conditional.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_common_errors_some_any",
+            "title": "Bài 19: Lỗi với 'some' và 'any'",
+            "description": "Dùng 'some' và 'any' đúng cách trong câu khẳng định, phủ định và câu hỏi.",
+            "duration": "15 phút",
+            "sections": [
+                {
+                    "id": "error_some_any_intro",
+                    "title": "Giới thiệu lỗi với 'some' và 'any'",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/b0795b0624a4c3b2a68d05e007f04bfc/raw/error_some_any_intro.md",
+                    "description": "'Some' và 'any' thường bị dùng sai, đặc biệt trong câu hỏi hoặc phủ định."
+                },
+                {
+                    "id": "error_some_any_examples",
+                    "title": "Ví dụ và sửa lỗi",
+                    "type": "detail",
+                    "description": "Phân biệt cách dùng 'some' và 'any' trong các tình huống khác nhau.",
+                    "detail": {
+                        "objectives": [
+                            "Phân biệt cách dùng 'some' và 'any'",
+                            "Sử dụng đúng trong câu khẳng định và phủ định"
+                        ],
+                        "explanation": {
+                            "text": "'Some' thường dùng trong câu khẳng định và câu hỏi yêu cầu sự đồng ý, 'any' dùng trong câu phủ định hoặc câu hỏi thông thường.",
+                            "image": null,
+                            "description": "'Some' mang tính xác định, còn 'any' mang tính phủ định hoặc không xác định."
+                        },
+                        "examples": [
+                            {
+                                "en": "❌ I don't have some apples. → ✅ I don't have **any** apples.",
+                                "vi": "Tôi không có quả táo nào."
+                            },
+                            {
+                                "en": "❌ Do you want some milk? → ✅ Do you want **any** milk?",
+                                "vi": "Bạn có muốn sữa không?"
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/error_some_any.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_common_errors_be",
+            "title": "Bài 20: Lỗi với động từ 'to be' trong câu hỏi và phủ định",
+            "description": "Cách sử dụng động từ 'to be' trong câu hỏi và câu phủ định một cách chính xác.",
+            "duration": "20 phút",
+            "sections": [
+                {
+                    "id": "error_be_intro",
+                    "title": "Giới thiệu lỗi với động từ 'to be'",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/31f46b0067c836b0eb0f8563a3a9e482/raw/error_be_intro.md",
+                    "description": "Giới thiệu các lỗi thường gặp khi dùng động từ 'to be' trong câu hỏi và phủ định."
+                },
+                {
+                    "id": "error_be_examples",
+                    "title": "Ví dụ và sửa lỗi",
+                    "type": "detail",
+                    "description": "Hướng dẫn sử dụng đúng động từ 'to be' trong câu hỏi và câu phủ định.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu và sử dụng đúng động từ 'to be' trong câu hỏi và phủ định",
+                            "Tránh lỗi khi dùng động từ 'to be' trong các tình huống giao tiếp"
+                        ],
+                        "explanation": {
+                            "text": "Câu phủ định với 'to be' sử dụng 'not' (was not, were not, am not, is not), và câu hỏi sử dụng 'to be' ở đầu câu.",
+                            "image": null,
+                            "description": "Tránh việc lặp lại động từ hoặc không thêm 'not' trong câu phủ định."
+                        },
+                        "examples": [
+                            {
+                                "en": "❌ She not is my friend. → ✅ She **is not** my friend.",
+                                "vi": "Cô ấy không phải là bạn của tôi."
+                            },
+                            {
+                                "en": "❌ Are she coming to the party? → ✅ **Is** she coming to the party?",
+                                "vi": "Cô ấy có đến bữa tiệc không?"
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/error_be.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_common_errors_too_very",
+            "title": "Bài 21: Lỗi với 'too' và 'very'",
+            "description": "Sự khác biệt giữa 'too' và 'very' trong câu khẳng định và câu phủ định.",
+            "duration": "15 phút",
+            "sections": [
+                {
+                    "id": "error_too_very_intro",
+                    "title": "Giới thiệu lỗi với 'too' và 'very'",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/bc48447cd06bce3731dc2370db7d5389/raw/error_too_very_intro.md",
+                    "description": "'Too' và 'very' đều chỉ mức độ, nhưng có sự khác biệt quan trọng trong cách sử dụng."
+                },
+                {
+                    "id": "error_too_very_examples",
+                    "title": "Ví dụ và sửa lỗi",
+                    "type": "detail",
+                    "description": "Hướng dẫn sử dụng đúng 'too' và 'very' trong các câu diễn đạt mức độ.",
+                    "detail": {
+                        "objectives": [
+                            "Phân biệt và sử dụng đúng 'too' và 'very'",
+                            "Tránh dùng sai trong các câu mô tả mức độ"
+                        ],
+                        "explanation": {
+                            "text": "'Too' có nghĩa là quá mức và mang tính phủ định, trong khi 'very' chỉ sự mạnh mẽ nhưng không phủ định.",
+                            "image": null,
+                            "description": "'Too' dùng trong các câu phủ định hoặc khi có sự tiêu cực, còn 'very' dùng trong câu khẳng định."
+                        },
+                        "examples": [
+                            {
+                                "en": "❌ She is too tired very work. → ✅ She is **too** tired **to** work.",
+                                "vi": "Cô ấy quá mệt để làm việc."
+                            },
+                            {
+                                "en": "❌ The movie is very interesting too. → ✅ The movie is **very** interesting.",
+                                "vi": "Bộ phim rất thú vị."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/error_too_very.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_common_errors_few_a_few",
+            "title": "Bài 22: Lỗi với 'few' và 'a few'",
+            "description": "Sự khác biệt giữa 'few' (vài, ít) và 'a few' (một vài) trong câu mô tả số lượng.",
+            "duration": "15 phút",
+            "sections": [
+                {
+                    "id": "error_few_a_few_intro",
+                    "title": "Giới thiệu lỗi với 'few' và 'a few'",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/11133674dcd4c5fc561b700a1ea0b251/raw/error_few_a_few_intro.md",
+                    "description": "'Few' và 'a few' đều ám chỉ số lượng ít, nhưng cách sử dụng chúng lại khác nhau."
+                },
+                {
+                    "id": "error_few_a_few_examples",
+                    "title": "Ví dụ và sửa lỗi",
+                    "type": "detail",
+                    "description": "Phân biệt khi nào dùng 'few' và 'a few' trong câu nói về số lượng.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu cách sử dụng 'few' và 'a few'",
+                            "Tránh nhầm lẫn giữa 'few' và 'a few'"
+                        ],
+                        "explanation": {
+                            "text": "'Few' chỉ sự thiếu hụt, trong khi 'a few' thể hiện số lượng vừa đủ.",
+                            "image": null,
+                            "description": "'Few' mang nghĩa tiêu cực, 'a few' mang tính tích cực hơn."
+                        },
+                        "examples": [
+                            {
+                                "en": "❌ I have a few money. → ✅ I have **a little** money.",
+                                "vi": "Tôi có ít tiền."
+                            },
+                            {
+                                "en": "❌ I have few friends at school. → ✅ I have **a few** friends at school.",
+                                "vi": "Tôi có một vài người bạn ở trường."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/error_few_a_few.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_common_errors_because_because_of",
+            "title": "Bài 23: Lỗi với 'because' và 'because of'",
+            "description": "Sự khác biệt giữa 'because' (vì) và 'because of' (bởi vì) trong các câu giải thích.",
+            "duration": "15 phút",
+            "sections": [
+                {
+                    "id": "error_because_intro",
+                    "title": "Giới thiệu lỗi với 'because' và 'because of'",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/d767f5f4b3fc4e454877e760802219f0/raw/error_because_intro.md",
+                    "description": "Phân biệt và sử dụng đúng 'because' và 'because of' trong các câu giải thích lý do."
+                },
+                {
+                    "id": "error_because_examples",
+                    "title": "Ví dụ và sửa lỗi",
+                    "type": "detail",
+                    "description": "Sử dụng 'because' cho câu hoàn chỉnh, 'because of' cho danh từ hoặc cụm danh từ.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu sự khác biệt giữa 'because' và 'because of'",
+                            "Sử dụng đúng trong câu giải thích lý do"
+                        ],
+                        "explanation": {
+                            "text": "'Because' dùng với mệnh đề, còn 'because of' dùng với danh từ hoặc cụm danh từ.",
+                            "image": null,
+                            "description": "Tránh nhầm lẫn giữa hai cấu trúc này."
+                        },
+                        "examples": [
+                            {
+                                "en": "❌ I stayed home because of I was sick. → ✅ I stayed home **because** I was sick.",
+                                "vi": "Tôi ở nhà vì tôi bị ốm."
+                            },
+                            {
+                                "en": "❌ Because of the weather, I couldn't go outside. → ✅ **Because of** the weather, I couldn't go outside.",
+                                "vi": "Vì thời tiết, tôi không thể ra ngoài."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/error_because_because_of.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_common_errors_in_at",
+            "title": "Bài 24: Lỗi với 'in' và 'at'",
+            "description": "Cách sử dụng 'in' và 'at' để chỉ nơi chốn và thời gian.",
+            "duration": "15 phút",
+            "sections": [
+                {
+                    "id": "error_in_at_intro",
+                    "title": "Giới thiệu lỗi với 'in' và 'at'",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/65155ba179a595d9bf4eb636445ef6d1/raw/error_in_at_intro.md",
+                    "description": "'In' và 'at' đều có nghĩa là 'ở', nhưng cách sử dụng chúng trong các ngữ cảnh khác nhau là khác nhau."
+                },
+                {
+                    "id": "error_in_at_examples",
+                    "title": "Ví dụ và sửa lỗi",
+                    "type": "detail",
+                    "description": "Hướng dẫn cách dùng 'in' và 'at' chỉ nơi chốn và thời gian.",
+                    "detail": {
+                        "objectives": [
+                            "Phân biệt cách dùng 'in' và 'at' trong ngữ cảnh chỉ nơi chốn và thời gian",
+                            "Tránh sử dụng sai 'in' và 'at' trong các câu diễn đạt"
+                        ],
+                        "explanation": {
+                            "text": "'In' dùng cho các khu vực rộng lớn, thành phố, đất nước, hoặc năm/tháng; 'at' dùng cho các điểm cụ thể như địa chỉ, giờ cụ thể.",
+                            "image": null,
+                            "description": "Cần chú ý sự khác biệt giữa các phạm vi không gian và thời gian khi sử dụng 'in' và 'at'."
+                        },
+                        "examples": [
+                            {
+                                "en": "❌ I am at Paris. → ✅ I am **in** Paris.",
+                                "vi": "Tôi ở Paris."
+                            },
+                            {
+                                "en": "❌ I will meet you in 3 p.m. → ✅ I will meet you **at** 3 p.m.",
+                                "vi": "Tôi sẽ gặp bạn lúc 3 giờ chiều."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/error_in_at.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_common_errors_have_has",
+            "title": "Bài 25: Lỗi với 'have' và 'has'",
+            "description": "Sự khác biệt trong việc sử dụng 'have' và 'has' với các chủ ngữ khác nhau.",
+            "duration": "15 phút",
+            "sections": [
+                {
+                    "id": "error_have_has_intro",
+                    "title": "Giới thiệu lỗi với 'have' và 'has'",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/d0f86165d62a8fe55f2909712d33a104/raw/error_have_has_intro.md",
+                    "description": "'Have' và 'has' đều là động từ 'có', nhưng cách sử dụng của chúng phụ thuộc vào chủ ngữ trong câu."
+                },
+                {
+                    "id": "error_have_has_examples",
+                    "title": "Ví dụ và sửa lỗi",
+                    "type": "detail",
+                    "description": "Hướng dẫn sử dụng 'have' và 'has' đúng với các chủ ngữ khác nhau.",
+                    "detail": {
+                        "objectives": [
+                            "Sử dụng đúng 'have' và 'has' với các chủ ngữ",
+                            "Tránh lỗi trong việc chia động từ 'have' và 'has'"
+                        ],
+                        "explanation": {
+                            "text": "'Have' dùng với I, you, we, they; còn 'has' dùng với he, she, it.",
+                            "image": null,
+                            "description": "Lưu ý sử dụng 'have' cho chủ ngữ số nhiều và 'has' cho chủ ngữ số ít."
+                        },
+                        "examples": [
+                            {
+                                "en": "❌ He have a car. → ✅ He **has** a car.",
+                                "vi": "Anh ấy có một chiếc xe hơi."
+                            },
+                            {
+                                "en": "❌ They has a lot of books. → ✅ They **have** a lot of books.",
+                                "vi": "Họ có rất nhiều sách."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "https://example.com/error_have_has.pdf"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

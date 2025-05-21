@@ -1,0 +1,33 @@
+{
+    "id": "3",
+    "title": "Khóa học Ngữ pháp Tiếng Anh Căn bản",
+    "description": "Khóa học này giúp bạn nắm vững những điểm ngữ pháp quan trọng và thường gặp nhất trong tiếng Anh, từ đó cải thiện khả năng viết, nói và làm bài thi IELTS.",
+    "instructor": "Thầy Trần Minh",
+    "duration": "3 tháng",
+    "level": "Beginner to Intermediate",
+    "price": 400000,
+    "originalPrice": 550000,
+    "rating": 4.8,
+    "students": 150,
+    "lastUpdated": "2024-04-10",
+    "tags": [
+        "grammar",
+        "ielts",
+        "basic"
+    ],
+    "isFeatured": true,
+    "benefits": [
+        "Chứng chỉ hoàn thành khóa học",
+        "Bài tập luyện tập có đáp án",
+        "Tài liệu PDF và video minh họa"
+    ],
+    "imageUrl": "https://example.com/english-grammar-course.jpg",
+    "thumbnailUrl": "https://example.com/english-grammar-thumb.jpg",
+    "overview": "Khóa học tập trung vào các chủ điểm ngữ pháp nền tảng như mạo từ, thì động từ, danh từ số nhiều, đại từ và các cấu trúc câu thường gặp. Phù hợp với người mới bắt đầu hoặc đang ôn luyện cho IELTS.",
+    "requirements": "Biết đọc hiểu tiếng Anh cơ bản. Không cần trình độ đầu vào.",
+    "objectives": [
+        "Sử dụng chính xác các thì trong tiếng Anh",
+        "Phân biệt và sử dụng đúng mạo từ, đại từ, danh từ",
+        "Tự tin viết và nói đúng cấu trúc ngữ pháp căn bản"
+    ]
+}

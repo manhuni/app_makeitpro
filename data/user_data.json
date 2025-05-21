@@ -1,0 +1,13 @@
+{
+    "user_info": {
+        "name": "Nguyễn Văn A",
+        "email": "nguyenvana@example.com",
+        "wishlist_courses": [
+            "1",
+            "2"
+        ],
+        "purchased_courses": [
+            "1"
+        ]
+    }
+}

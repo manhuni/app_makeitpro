@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Thông báo 1",
+        "message": "# 🔔 Bạn có một thông báo mới\n\nChào bạn! Cảm ơn đã sử dụng ứng dụng của chúng tôi.\n\n👉 [Xem chi tiết](https://example.com)",
+        "icon": "notifications",
+        "type": "generic",
+        "tab": 0,
+        "imageUrl": "https://example.com/image.jpg",
+        "linkUrl": "https://example.com",
+        "timestamp": "2025-04-15T12:30:00Z"
+    },
+    {
+        "title": "Thông báo 2",
+        "message": "# 🚀 Cập nhật phiên bản mới\n\n**TopGzit** đã cập nhật phiên bản mới với nhiều cải tiến:\n\n- Giao diện hiện đại\n- Tốc độ nhanh hơn\n- Sửa lỗi từ phản hồi của người dùng\n\n![Ảnh cập nhật](https://example.com/update-image.jpg)\n\n👉 [Cập nhật ngay](https://example.com/update)",
+        "icon": "update",
+        "type": "update",
+        "tab": 1,
+        "imageUrl": "https://example.com/update-image.jpg",
+        "linkUrl": "https://example.com/update",
+        "timestamp": "2025-04-14T08:00:00Z"
+    }
+]

@@ -1,0 +1,2185 @@
+{
+    "id": "5",
+    "title": "Tiếng Anh Chuyên Ngành Game",
+    "description": "Khóa học giúp bạn sử dụng thành thạo tiếng Anh trong lĩnh vực phát triển và chơi game, từ từ vựng chuyên ngành đến mẫu câu giao tiếp thông dụng trong cộng đồng game và môi trường làm việc quốc tế.",
+    "instructor": "Cô Lê Hoàng Mai",
+    "duration": "2.5 tháng",
+    "level": "Beginner to Intermediate",
+    "language": "Vietnamese",
+    "lessons": [
+        {
+            "id": "lesson_game_industry_intro",
+            "title": "Bài 1: Giới thiệu về ngành game và thuật ngữ cơ bản (Introduction to the Gaming Industry and Basic Terminology)",
+            "description": "Tìm hiểu về ngành công nghiệp game và các thuật ngữ cơ bản cần biết để giao tiếp và làm việc trong ngành game quốc tế.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_industry_intro",
+                    "title": "Giới thiệu về ngành game và các lĩnh vực trong ngành",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/df0ddae65658e5f9d0f914f74a80408d/raw/game_industry_intro.md",
+                    "description": "Tổng quan về ngành công nghiệp game, các lĩnh vực phát triển và các công ty game nổi bật."
+                },
+                {
+                    "id": "intro_video",
+                    "title": "Video chủ đề Tiếng Anh Chuyên Ngành Game",
+                    "type": "gist_video",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/4b1e740017339115d0dcbc259f923b62/raw/makeitpro_list_video_course_5.json",
+                    "description": "Video minh họa chủ đề Tiếng Anh Chuyên Ngành Game."
+                },
+                {
+                    "id": "intro_md",
+                    "title": "Markdown chủ đề Tiếng Anh Chuyên Ngành Game",
+                    "type": "markdown_list",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/618e1680e2f81cba0bdd9e44c9aab7a5/raw/makeitpro_list_md_course_5.json",
+                    "description": "Markdown minh họa chủ đề Tiếng Anh Chuyên Ngành Game."
+                },
+                {
+                    "id": "game_industry_vocabulary",
+                    "title": "Từ vựng cơ bản trong ngành game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và cụm từ cơ bản trong ngành game, giúp bạn giao tiếp hiệu quả với cộng đồng game và trong môi trường làm việc quốc tế.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các thuật ngữ cơ bản trong ngành công nghiệp game",
+                            "Sử dụng từ vựng chuyên ngành để giao tiếp hiệu quả trong môi trường game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ cơ bản bao gồm: game developer (nhà phát triển game), player (người chơi), gameplay (lối chơi), graphic (đồ họa), level (cấp độ), NPC (nhân vật không người chơi), multiplayer (chơi nhiều người), server (máy chủ).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ cơ bản giúp bạn làm quen với các khái niệm trong ngành game."
+                        },
+                        "examples": [
+                            {
+                                "en": "The game developer is working on improving the graphics.",
+                                "vi": "Nhà phát triển game đang làm việc để cải thiện đồ họa."
+                            },
+                            {
+                                "en": "The player can choose between single-player and multiplayer modes.",
+                                "vi": "Người chơi có thể chọn giữa chế độ chơi đơn và chơi nhiều người."
+                            },
+                            {
+                                "en": "An NPC is a character controlled by the game, not a player.",
+                                "vi": "NPC là nhân vật được điều khiển bởi trò chơi, không phải người chơi."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_industry_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_genres",
+            "title": "Bài 2: Các thể loại game và cách phân loại (Game Genres and Classification)",
+            "description": "Tìm hiểu về các thể loại game phổ biến và cách phân loại game trong ngành công nghiệp game, từ đó làm quen với từ vựng chuyên ngành trong lĩnh vực này.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_genres_intro",
+                    "title": "Giới thiệu về các thể loại game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/2daf183966854d37f3936dcb4b2aa2f2/raw/game_genres_intro.md",
+                    "description": "Tổng quan về các thể loại game phổ biến, đặc điểm của từng thể loại và cách chúng được phân loại trong ngành công nghiệp game."
+                },
+                {
+                    "id": "game_genres_vocabulary",
+                    "title": "Từ vựng về các thể loại game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng liên quan đến các thể loại game, giúp bạn phân biệt và giao tiếp về các game trong ngành.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các thể loại game và đặc điểm của chúng",
+                            "Biết cách sử dụng từ vựng chuyên ngành để mô tả các thể loại game"
+                        ],
+                        "explanation": {
+                            "text": "Một số thể loại game phổ biến bao gồm: action (hành động), adventure (phiêu lưu), RPG (game nhập vai), simulation (mô phỏng), strategy (chiến lược), sports (thể thao), FPS (game bắn súng góc nhìn thứ nhất), MOBA (game đấu trường trực tuyến nhiều người chơi).",
+                            "image": null,
+                            "description": "Tóm lược các thể loại game và từ vựng liên quan để mô tả các thể loại game trong ngành."
+                        },
+                        "examples": [
+                            {
+                                "en": "The action genre is known for fast-paced gameplay and physical challenges.",
+                                "vi": "Thể loại hành động nổi bật với lối chơi nhanh và các thử thách thể chất."
+                            },
+                            {
+                                "en": "RPG games often involve character development and storytelling.",
+                                "vi": "Game nhập vai thường liên quan đến việc phát triển nhân vật và kể chuyện."
+                            },
+                            {
+                                "en": "In a MOBA game, players work in teams to destroy the enemy's base.",
+                                "vi": "Trong game MOBA, người chơi làm việc nhóm để phá hủy căn cứ của đối thủ."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_genres_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_development_process",
+            "title": "Bài 3: Quy trình phát triển game (Game Development Process)",
+            "description": "Tìm hiểu về các bước trong quy trình phát triển game, từ khâu lên ý tưởng đến khi game được phát hành, và các thuật ngữ chuyên ngành liên quan.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_development_process_intro",
+                    "title": "Giới thiệu về quy trình phát triển game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/d509414fa6d936d78251ce91c181adbb/raw/game_development_process_intro.md",
+                    "description": "Tổng quan về các bước trong quy trình phát triển game, bao gồm lên ý tưởng, thiết kế, lập trình, thử nghiệm, và phát hành game."
+                },
+                {
+                    "id": "game_development_vocabulary",
+                    "title": "Từ vựng trong quy trình phát triển game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành liên quan đến quy trình phát triển game, giúp bạn hiểu rõ hơn về các giai đoạn trong việc tạo ra một trò chơi.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các bước trong quy trình phát triển game",
+                            "Biết cách sử dụng từ vựng chuyên ngành trong mỗi giai đoạn phát triển game"
+                        ],
+                        "explanation": {
+                            "text": "Một số thuật ngữ quan trọng trong quy trình phát triển game: concept (khái niệm), prototype (nguyên mẫu), coding (lập trình), debugging (sửa lỗi), beta testing (kiểm tra beta), release (phát hành), patch (bản vá).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ trong các giai đoạn phát triển game, từ khâu ý tưởng đến phát hành."
+                        },
+                        "examples": [
+                            {
+                                "en": "The game development team is currently working on the prototype.",
+                                "vi": "Nhóm phát triển game hiện đang làm việc với nguyên mẫu."
+                            },
+                            {
+                                "en": "The coding phase involves writing the program logic for the game.",
+                                "vi": "Giai đoạn lập trình bao gồm việc viết logic chương trình cho trò chơi."
+                            },
+                            {
+                                "en": "Beta testing is done to find and fix any bugs before the release.",
+                                "vi": "Kiểm tra beta được thực hiện để tìm và sửa lỗi trước khi phát hành."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_development_process_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_development_tools",
+            "title": "Bài 4: Công cụ phát triển game (Game Development Tools)",
+            "description": "Tìm hiểu về các công cụ phát triển game phổ biến, bao gồm phần mềm lập trình, engine, và các công cụ hỗ trợ thiết kế và đồ họa trong ngành công nghiệp game.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_development_tools_intro",
+                    "title": "Giới thiệu về các công cụ phát triển game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/c998053d58c8d521b45d2d6b0acd9c4a/raw/game_development_tools_intro.md",
+                    "description": "Tổng quan về các công cụ phát triển game phổ biến và vai trò của chúng trong quá trình phát triển game, bao gồm phần mềm lập trình, game engines và công cụ thiết kế."
+                },
+                {
+                    "id": "game_development_tools_vocabulary",
+                    "title": "Từ vựng về các công cụ phát triển game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành liên quan đến các công cụ phát triển game, từ game engines đến phần mềm thiết kế đồ họa.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các công cụ phát triển game và vai trò của chúng",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi nói về công cụ phát triển game"
+                        ],
+                        "explanation": {
+                            "text": "Một số công cụ phổ biến bao gồm: game engine (công cụ phát triển game), Unity (engine phát triển game), Unreal Engine (engine phát triển game), Blender (phần mềm thiết kế 3D), Visual Studio (phần mềm lập trình), Photoshop (phần mềm thiết kế đồ họa).",
+                            "image": null,
+                            "description": "Tóm lược các công cụ và phần mềm cần thiết để phát triển game và thiết kế đồ họa trong ngành công nghiệp game."
+                        },
+                        "examples": [
+                            {
+                                "en": "Unity is a powerful game engine that supports both 2D and 3D games.",
+                                "vi": "Unity là một engine phát triển game mạnh mẽ hỗ trợ cả game 2D và 3D."
+                            },
+                            {
+                                "en": "Blender is widely used for creating 3D models and animations.",
+                                "vi": "Blender được sử dụng rộng rãi để tạo ra các mô hình 3D và hoạt hình."
+                            },
+                            {
+                                "en": "Visual Studio is a popular IDE for coding and debugging game scripts.",
+                                "vi": "Visual Studio là một IDE phổ biến dùng để lập trình và sửa lỗi mã nguồn game."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_development_tools_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_design_player_experience",
+            "title": "Bài 5: Thiết kế game và trải nghiệm người chơi (Game Design and Player Experience)",
+            "description": "Tìm hiểu về quá trình thiết kế game và cách tạo ra một trải nghiệm người chơi tuyệt vời thông qua các yếu tố thiết kế như cơ chế chơi, đồ họa, âm thanh và giao diện người dùng.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_design_intro",
+                    "title": "Giới thiệu về thiết kế game và vai trò của trải nghiệm người chơi",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/fac82198c3ee406b3782080027a866b6/raw/game_design_intro.md",
+                    "description": "Tổng quan về thiết kế game và các yếu tố ảnh hưởng đến trải nghiệm người chơi, từ cơ chế chơi đến giao diện người dùng."
+                },
+                {
+                    "id": "game_design_vocabulary",
+                    "title": "Từ vựng về thiết kế game và trải nghiệm người chơi",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành liên quan đến thiết kế game và trải nghiệm người chơi, giúp bạn hiểu rõ hơn về quy trình tạo ra một game hấp dẫn.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các yếu tố quan trọng trong thiết kế game",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi nói về thiết kế và trải nghiệm người chơi"
+                        ],
+                        "explanation": {
+                            "text": "Các yếu tố quan trọng trong thiết kế game bao gồm: gameplay mechanics (cơ chế chơi), level design (thiết kế cấp độ), user interface (giao diện người dùng), sound design (thiết kế âm thanh), visual design (thiết kế đồ họa), player engagement (sự tham gia của người chơi).",
+                            "image": null,
+                            "description": "Tóm lược các yếu tố tạo nên một trò chơi hấp dẫn và thú vị cho người chơi."
+                        },
+                        "examples": [
+                            {
+                                "en": "The level design in the game ensures a smooth progression for players.",
+                                "vi": "Thiết kế cấp độ trong game đảm bảo một quá trình chơi mượt mà cho người chơi."
+                            },
+                            {
+                                "en": "The user interface is intuitive and easy to navigate.",
+                                "vi": "Giao diện người dùng rất dễ sử dụng và điều hướng."
+                            },
+                            {
+                                "en": "Good sound design enhances the overall experience and immersion of the game.",
+                                "vi": "Thiết kế âm thanh tốt nâng cao trải nghiệm tổng thể và sự nhập vai của người chơi."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_design_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_testing_debugging",
+            "title": "Bài 6: Kiểm tra và sửa lỗi game (Game Testing and Debugging)",
+            "description": "Tìm hiểu về quy trình kiểm tra và sửa lỗi trong phát triển game, các phương pháp kiểm thử và cách sử dụng các công cụ để tìm và sửa lỗi trong game.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_testing_intro",
+                    "title": "Giới thiệu về kiểm tra và sửa lỗi game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/fe662610d0198be8763f36848903c984/raw/game_testing_intro.md",
+                    "description": "Tổng quan về quy trình kiểm tra game, cách kiểm tra hiệu suất, tìm kiếm lỗi và sửa chúng trước khi game được phát hành."
+                },
+                {
+                    "id": "game_testing_vocabulary",
+                    "title": "Từ vựng về kiểm tra và sửa lỗi game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành liên quan đến kiểm tra và sửa lỗi game, giúp bạn hiểu rõ quy trình kiểm thử và sửa lỗi trong phát triển game.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các bước trong quy trình kiểm tra và sửa lỗi game",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi nói về kiểm thử và sửa lỗi trong game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong kiểm tra game bao gồm: bug (lỗi), bug fix (sửa lỗi), testing (kiểm thử), quality assurance (đảm bảo chất lượng), beta testing (kiểm tra beta), crash (sập game), stress testing (kiểm tra độ bền), performance testing (kiểm tra hiệu suất).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ và quy trình kiểm tra game, từ tìm lỗi đến sửa chữa các vấn đề phát sinh."
+                        },
+                        "examples": [
+                            {
+                                "en": "The team is working on fixing bugs identified during the beta testing phase.",
+                                "vi": "Nhóm đang làm việc để sửa các lỗi đã được phát hiện trong giai đoạn kiểm tra beta."
+                            },
+                            {
+                                "en": "Stress testing ensures the game can handle a large number of players simultaneously.",
+                                "vi": "Kiểm tra độ bền đảm bảo game có thể xử lý một số lượng lớn người chơi cùng lúc."
+                            },
+                            {
+                                "en": "Performance testing helps ensure the game runs smoothly on different devices.",
+                                "vi": "Kiểm tra hiệu suất giúp đảm bảo game chạy mượt mà trên các thiết bị khác nhau."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_testing_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_launch_marketing",
+            "title": "Bài 7: Phát hành game và tiếp thị (Game Launch and Marketing)",
+            "description": "Tìm hiểu về quy trình phát hành game và các chiến lược tiếp thị giúp game thu hút người chơi và đạt được thành công trong thị trường game cạnh tranh.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_launch_intro",
+                    "title": "Giới thiệu về phát hành game và tiếp thị",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/9f6f2694598716f57adcdb7f0fce1b48/raw/game_launch_intro.md",
+                    "description": "Tổng quan về các bước trong quá trình phát hành game, từ việc chuẩn bị cho ngày ra mắt đến việc sử dụng các chiến lược tiếp thị hiệu quả để thu hút người chơi."
+                },
+                {
+                    "id": "game_marketing_vocabulary",
+                    "title": "Từ vựng về phát hành game và tiếp thị",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành liên quan đến phát hành và tiếp thị game, giúp bạn hiểu rõ hơn về quy trình tiếp thị và các chiến lược quảng bá game.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu quy trình phát hành game và các chiến lược tiếp thị",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi nói về marketing game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong marketing game bao gồm: launch (phát hành), marketing campaign (chiến dịch tiếp thị), viral marketing (tiếp thị lan truyền), target audience (đối tượng mục tiêu), influencer (người có ảnh hưởng), trailer (video giới thiệu), press release (thông cáo báo chí).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ trong phát hành game và chiến lược tiếp thị game."
+                        },
+                        "examples": [
+                            {
+                                "en": "The game launch was a success, thanks to a well-executed marketing campaign.",
+                                "vi": "Việc phát hành game đã thành công nhờ vào một chiến dịch tiếp thị hiệu quả."
+                            },
+                            {
+                                "en": "Viral marketing played a key role in attracting millions of players.",
+                                "vi": "Tiếp thị lan truyền đóng vai trò quan trọng trong việc thu hút hàng triệu người chơi."
+                            },
+                            {
+                                "en": "The press release about the game generated a lot of buzz on social media.",
+                                "vi": "Thông cáo báo chí về game đã tạo ra rất nhiều sự chú ý trên mạng xã hội."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_launch_marketing_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_feedback_improvement",
+            "title": "Bài 8: Phản hồi và cải tiến game (Feedback and Game Improvement)",
+            "description": "Tìm hiểu cách thu thập phản hồi từ người chơi và sử dụng thông tin này để cải tiến game, nâng cao trải nghiệm người chơi và duy trì sự hấp dẫn của game trong thời gian dài.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_feedback_intro",
+                    "title": "Giới thiệu về phản hồi và cải tiến game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f1402737d401e6834876146c6e466bb6/raw/game_feedback_intro.md",
+                    "description": "Tổng quan về cách thu thập phản hồi từ người chơi và sử dụng dữ liệu đó để cải tiến game, từ việc sửa lỗi đến việc cải thiện các tính năng và nội dung."
+                },
+                {
+                    "id": "game_feedback_vocabulary",
+                    "title": "Từ vựng về phản hồi và cải tiến game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành liên quan đến phản hồi người chơi và cải tiến game, giúp bạn giao tiếp hiệu quả với người chơi và cải thiện chất lượng game.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các phương pháp thu thập và phân tích phản hồi từ người chơi",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi nói về cải tiến game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong phản hồi và cải tiến game bao gồm: feedback (phản hồi), bug report (báo cáo lỗi), user reviews (đánh giá người dùng), patch (bản vá), update (cập nhật), new features (tính năng mới), quality improvement (cải tiến chất lượng), iteration (lặp lại/cải tiến theo chu kỳ).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ trong việc thu thập và xử lý phản hồi người chơi để cải tiến game."
+                        },
+                        "examples": [
+                            {
+                                "en": "The team is analyzing user feedback to improve the game's user interface.",
+                                "vi": "Nhóm đang phân tích phản hồi của người chơi để cải thiện giao diện người dùng của game."
+                            },
+                            {
+                                "en": "A patch was released to fix the bugs reported by players.",
+                                "vi": "Một bản vá đã được phát hành để sửa các lỗi được người chơi báo cáo."
+                            },
+                            {
+                                "en": "The latest update includes new features based on player requests.",
+                                "vi": "Bản cập nhật mới nhất bao gồm các tính năng mới dựa trên yêu cầu của người chơi."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_feedback_improvement_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_performance_optimization",
+            "title": "Bài 9: Tối ưu hóa hiệu suất game (Game Performance Optimization)",
+            "description": "Tìm hiểu các kỹ thuật và công cụ tối ưu hóa hiệu suất game, giúp game chạy mượt mà trên nhiều nền tảng và giảm thiểu các vấn đề về độ trễ, tải lâu và tiêu tốn tài nguyên.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_performance_intro",
+                    "title": "Giới thiệu về tối ưu hóa hiệu suất game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/968ba796bb7230ea381419225cecb60f/raw/game_performance_intro.md",
+                    "description": "Tổng quan về tầm quan trọng của tối ưu hóa hiệu suất game và các yếu tố cần chú ý để giảm độ trễ, cải thiện tốc độ tải và sử dụng tài nguyên hiệu quả trong game."
+                },
+                {
+                    "id": "game_performance_vocabulary",
+                    "title": "Từ vựng về tối ưu hóa hiệu suất game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành liên quan đến tối ưu hóa hiệu suất game, giúp bạn hiểu rõ các kỹ thuật tối ưu hóa và giao tiếp hiệu quả khi làm việc với nhóm phát triển.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các khái niệm và kỹ thuật tối ưu hóa hiệu suất game",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi nói về tối ưu hóa hiệu suất game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong tối ưu hóa hiệu suất game bao gồm: frame rate (tốc độ khung hình), lag (độ trễ), load time (thời gian tải), resource management (quản lý tài nguyên), memory leak (rò rỉ bộ nhớ), GPU optimization (tối ưu hóa GPU), CPU usage (sử dụng CPU).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ và kỹ thuật sử dụng để tối ưu hóa hiệu suất game và giảm thiểu các vấn đề về tài nguyên và độ trễ."
+                        },
+                        "examples": [
+                            {
+                                "en": "Improving the frame rate ensures a smoother gameplay experience.",
+                                "vi": "Cải thiện tốc độ khung hình giúp mang đến trải nghiệm chơi game mượt mà hơn."
+                            },
+                            {
+                                "en": "Reducing the load time of levels is crucial for maintaining player engagement.",
+                                "vi": "Giảm thời gian tải các cấp độ là điều quan trọng để duy trì sự tham gia của người chơi."
+                            },
+                            {
+                                "en": "Managing GPU usage effectively prevents the game from lagging on high-performance devices.",
+                                "vi": "Quản lý việc sử dụng GPU một cách hiệu quả giúp ngăn ngừa tình trạng độ trễ trên các thiết bị hiệu năng cao."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_performance_optimization_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_security_protection",
+            "title": "Bài 10: An ninh game và bảo mật (Game Security and Protection)",
+            "description": "Tìm hiểu các vấn đề về an ninh và bảo mật trong game, từ việc ngăn chặn gian lận, bảo vệ dữ liệu người chơi đến các phương pháp bảo mật mạng và hệ thống trong game.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_security_intro",
+                    "title": "Giới thiệu về an ninh game và bảo mật",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/c7a23359138532305f635fe008168874/raw/game_security_intro.md",
+                    "description": "Tổng quan về các vấn đề an ninh và bảo mật trong game, từ việc bảo vệ dữ liệu người chơi đến ngăn chặn các cuộc tấn công mạng và gian lận trong game."
+                },
+                {
+                    "id": "game_security_vocabulary",
+                    "title": "Từ vựng về an ninh game và bảo mật",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành liên quan đến an ninh game và bảo mật, giúp bạn hiểu các vấn đề bảo mật trong game và giao tiếp hiệu quả trong ngành này.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các vấn đề an ninh và bảo mật trong game",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi nói về bảo mật game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong bảo mật game bao gồm: hacking (tấn công), cheating (gian lận), encryption (mã hóa), firewall (tường lửa), vulnerability (lỗ hổng bảo mật), DDoS attack (tấn công từ chối dịch vụ), anti-cheat system (hệ thống chống gian lận), data protection (bảo vệ dữ liệu).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ liên quan đến bảo mật trong game, từ việc bảo vệ người chơi đến ngăn ngừa các cuộc tấn công mạng."
+                        },
+                        "examples": [
+                            {
+                                "en": "The game uses encryption to protect players' personal data.",
+                                "vi": "Game sử dụng mã hóa để bảo vệ dữ liệu cá nhân của người chơi."
+                            },
+                            {
+                                "en": "A firewall is set up to prevent unauthorized access to the game server.",
+                                "vi": "Tường lửa được thiết lập để ngăn chặn truy cập trái phép vào máy chủ game."
+                            },
+                            {
+                                "en": "The anti-cheat system detects and blocks players who attempt to hack the game.",
+                                "vi": "Hệ thống chống gian lận phát hiện và chặn những người chơi cố gắng hack game."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_security_protection_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_graphics",
+            "title": "Bài 11: Đồ họa game (Game Graphics)",
+            "description": "Tìm hiểu về các khái niệm cơ bản trong đồ họa game, từ việc thiết kế nhân vật, môi trường cho đến cách tối ưu hóa đồ họa để đạt được hiệu suất tốt nhất.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_graphics_intro",
+                    "title": "Giới thiệu về đồ họa game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/4c3bf9b7abdf1f9902b2adc9b70fc54f/raw/game_graphics_intro.md",
+                    "description": "Tổng quan về các yếu tố đồ họa trong game, từ các kỹ thuật cơ bản trong thiết kế nhân vật và môi trường đến tối ưu hóa hiệu suất đồ họa cho game."
+                },
+                {
+                    "id": "game_graphics_vocabulary",
+                    "title": "Từ vựng về đồ họa game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành liên quan đến đồ họa game, giúp bạn hiểu các khái niệm cơ bản và giao tiếp hiệu quả khi làm việc với đội ngũ đồ họa.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các yếu tố cơ bản của đồ họa game",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi nói về thiết kế đồ họa trong game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong đồ họa game bao gồm: texture (vật liệu bề mặt), polygon (đa giác), shading (chiếu sáng), rendering (kết xuất), 3D modeling (mô hình hóa 3D), sprite (sprite), lighting (chiếu sáng), environment design (thiết kế môi trường), asset (tài sản đồ họa), rigging (dựng khung xương).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ và khái niệm cơ bản liên quan đến đồ họa trong game."
+                        },
+                        "examples": [
+                            {
+                                "en": "The game features highly detailed textures and realistic lighting effects.",
+                                "vi": "Game có các texture chi tiết cao và hiệu ứng chiếu sáng thực tế."
+                            },
+                            {
+                                "en": "The environment design incorporates various landscapes, from forests to mountains.",
+                                "vi": "Thiết kế môi trường kết hợp nhiều cảnh quan, từ rừng đến núi."
+                            },
+                            {
+                                "en": "3D modeling plays a crucial role in creating lifelike characters and objects.",
+                                "vi": "Mô hình hóa 3D đóng vai trò quan trọng trong việc tạo ra các nhân vật và vật thể sống động."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_graphics_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_programming",
+            "title": "Bài 12: Lập trình game (Game Programming)",
+            "description": "Tìm hiểu về các nguyên tắc cơ bản trong lập trình game, từ việc xây dựng cơ sở hạ tầng game đến phát triển các tính năng tương tác, logic và điều khiển trong game.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_programming_intro",
+                    "title": "Giới thiệu về lập trình game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f5044e03df70a8d07a16be099b89750f/raw/game_programming_intro.md",
+                    "description": "Tổng quan về các nguyên tắc cơ bản trong lập trình game, bao gồm các khái niệm cơ bản về cấu trúc game, phát triển tính năng và lập trình logic trong game."
+                },
+                {
+                    "id": "game_programming_vocabulary",
+                    "title": "Từ vựng về lập trình game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành trong lập trình game, giúp bạn hiểu các khái niệm cơ bản và giao tiếp hiệu quả khi làm việc với các nhà lập trình khác.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các khái niệm cơ bản về lập trình game",
+                            "Biết cách sử dụng từ vựng chuyên ngành trong lập trình game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong lập trình game bao gồm: game engine (công cụ phát triển game), scripting (lập trình kịch bản), physics engine (công cụ vật lý), AI programming (lập trình trí tuệ nhân tạo), event handling (xử lý sự kiện), collision detection (phát hiện va chạm), frame rate (tốc độ khung hình), multiplayer programming (lập trình nhiều người chơi).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ quan trọng trong lập trình game và các kỹ thuật giúp phát triển các tính năng trong game."
+                        },
+                        "examples": [
+                            {
+                                "en": "The game engine used for this project supports advanced physics simulations.",
+                                "vi": "Công cụ phát triển game được sử dụng cho dự án này hỗ trợ mô phỏng vật lý tiên tiến."
+                            },
+                            {
+                                "en": "Collision detection is crucial for preventing objects from passing through each other in the game world.",
+                                "vi": "Phát hiện va chạm rất quan trọng để ngăn các vật thể đi xuyên qua nhau trong thế giới game."
+                            },
+                            {
+                                "en": "AI programming is essential for creating intelligent behaviors for NPCs (non-playable characters).",
+                                "vi": "Lập trình trí tuệ nhân tạo là điều cần thiết để tạo ra các hành vi thông minh cho các nhân vật không thể điều khiển."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_programming_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_testing",
+            "title": "Bài 13: Kiểm thử game (Game Testing)",
+            "description": "Tìm hiểu về quy trình kiểm thử game, từ việc phát hiện lỗi đến đảm bảo chất lượng game. Bài học sẽ giúp bạn hiểu các phương pháp kiểm thử, từ kiểm thử chức năng đến kiểm thử hiệu suất và bảo mật.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_testing_intro",
+                    "title": "Giới thiệu về kiểm thử game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/d26a72af41f83a0314a0ef318520fb77/raw/game_testing_intro.md",
+                    "description": "Tổng quan về các bước và phương pháp kiểm thử game, bao gồm việc phát hiện lỗi, kiểm tra các tính năng và đánh giá hiệu suất của game."
+                },
+                {
+                    "id": "game_testing_vocabulary",
+                    "title": "Từ vựng về kiểm thử game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành trong kiểm thử game, giúp bạn hiểu các phương pháp kiểm thử và giao tiếp hiệu quả khi làm việc với nhóm kiểm thử.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các phương pháp kiểm thử game cơ bản",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi nói về kiểm thử game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong kiểm thử game bao gồm: bug (lỗi), test case (trường hợp kiểm thử), QA (Quality Assurance - Đảm bảo chất lượng), regression testing (kiểm thử hồi quy), load testing (kiểm thử tải), functional testing (kiểm thử chức năng), performance testing (kiểm thử hiệu suất), security testing (kiểm thử bảo mật), user acceptance testing (kiểm thử chấp nhận người dùng).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ quan trọng trong kiểm thử game, giúp hiểu rõ quy trình kiểm thử và các phương pháp phát hiện lỗi."
+                        },
+                        "examples": [
+                            {
+                                "en": "The QA team ran several test cases to find bugs before the final release.",
+                                "vi": "Nhóm QA đã chạy nhiều trường hợp kiểm thử để tìm lỗi trước khi phát hành chính thức."
+                            },
+                            {
+                                "en": "Load testing is used to determine how the game performs under heavy traffic.",
+                                "vi": "Kiểm thử tải được sử dụng để xác định cách game hoạt động dưới tải trọng cao."
+                            },
+                            {
+                                "en": "Regression testing ensures that new updates do not break existing features.",
+                                "vi": "Kiểm thử hồi quy đảm bảo rằng các bản cập nhật mới không làm hỏng các tính năng hiện có."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_testing_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_project_management",
+            "title": "Bài 14: Quản lý dự án game (Game Project Management)",
+            "description": "Tìm hiểu về các phương pháp và quy trình quản lý dự án game, từ lập kế hoạch, phân bổ tài nguyên, đến quản lý tiến độ và rủi ro trong quá trình phát triển game.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_project_management_intro",
+                    "title": "Giới thiệu về quản lý dự án game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/25e03592dbf0907a72be0d85c44bb4e3/raw/game_project_management_intro.md",
+                    "description": "Tổng quan về các phương pháp quản lý dự án game, bao gồm lập kế hoạch, phân bổ tài nguyên và quản lý tiến độ để đảm bảo dự án phát triển game được hoàn thành đúng hạn và đạt chất lượng cao."
+                },
+                {
+                    "id": "game_project_management_vocabulary",
+                    "title": "Từ vựng về quản lý dự án game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành trong quản lý dự án game, giúp bạn hiểu các khái niệm cơ bản và giao tiếp hiệu quả trong công việc quản lý dự án.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các khái niệm quản lý dự án game cơ bản",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi nói về quản lý dự án trong phát triển game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong quản lý dự án game bao gồm: project scope (phạm vi dự án), timeline (thời gian dự án), resource allocation (phân bổ tài nguyên), milestone (cột mốc), risk management (quản lý rủi ro), sprint (sprint trong phương pháp Agile), deliverable (sản phẩm bàn giao), Gantt chart (biểu đồ Gantt), project manager (quản lý dự án).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ trong quản lý dự án game, từ việc lập kế hoạch đến theo dõi tiến độ và quản lý rủi ro."
+                        },
+                        "examples": [
+                            {
+                                "en": "The project manager is responsible for defining the project scope and ensuring all milestones are met.",
+                                "vi": "Quản lý dự án chịu trách nhiệm xác định phạm vi dự án và đảm bảo tất cả các cột mốc được hoàn thành."
+                            },
+                            {
+                                "en": "A Gantt chart is used to track the timeline of the game development process.",
+                                "vi": "Biểu đồ Gantt được sử dụng để theo dõi thời gian của quá trình phát triển game."
+                            },
+                            {
+                                "en": "Effective resource allocation ensures that the game development process runs smoothly without delays.",
+                                "vi": "Phân bổ tài nguyên hiệu quả giúp quá trình phát triển game diễn ra suôn sẻ mà không bị trì hoãn."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_project_management_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_cross_platform_game_development",
+            "title": "Bài 15: Phát triển game đa nền tảng (Cross-Platform Game Development)",
+            "description": "Khám phá quy trình phát triển game đa nền tảng, từ việc xây dựng game cho nhiều hệ điều hành và thiết bị khác nhau đến việc tối ưu hóa mã nguồn để đảm bảo hiệu suất và tính tương thích cao.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "cross_platform_game_development_intro",
+                    "title": "Giới thiệu về phát triển game đa nền tảng",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/eb2a9474776405ffc01d24880fd4b2bd/raw/cross_platform_game_development_intro.md",
+                    "description": "Tổng quan về các nguyên tắc và phương pháp phát triển game đa nền tảng, từ việc xây dựng game cho nhiều hệ điều hành khác nhau đến tối ưu hóa hiệu suất và tương thích của game."
+                },
+                {
+                    "id": "cross_platform_game_development_vocabulary",
+                    "title": "Từ vựng về phát triển game đa nền tảng",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành trong phát triển game đa nền tảng, giúp bạn hiểu các khái niệm và công nghệ liên quan đến việc xây dựng game cho nhiều nền tảng.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các khái niệm cơ bản về phát triển game đa nền tảng",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi phát triển game cho các hệ điều hành và thiết bị khác nhau"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong phát triển game đa nền tảng bao gồm: cross-platform (đa nền tảng), platform-independent (độc lập nền tảng), framework (khuôn khổ), Unity (công cụ phát triển game), Unreal Engine (công cụ phát triển game), compatibility (tính tương thích), portability (khả năng chuyển đổi), SDK (Software Development Kit), API (Application Programming Interface).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ quan trọng trong phát triển game đa nền tảng và cách tối ưu hóa game cho nhiều hệ điều hành."
+                        },
+                        "examples": [
+                            {
+                                "en": "Unity is one of the most popular game development engines for cross-platform development.",
+                                "vi": "Unity là một trong những công cụ phát triển game phổ biến nhất cho phát triển game đa nền tảng."
+                            },
+                            {
+                                "en": "Ensuring platform compatibility is crucial when developing games for both iOS and Android.",
+                                "vi": "Đảm bảo tính tương thích giữa các nền tảng là rất quan trọng khi phát triển game cho cả iOS và Android."
+                            },
+                            {
+                                "en": "Using a cross-platform framework like Xamarin can help streamline the development process for mobile games.",
+                                "vi": "Sử dụng một khuôn khổ đa nền tảng như Xamarin có thể giúp tối ưu hóa quá trình phát triển game di động."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "cross_platform_game_development_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_ui_ux_design_for_games",
+            "title": "Bài 16: Thiết kế giao diện người dùng trong game (UI/UX Design for Games)",
+            "description": "Khám phá quy trình thiết kế giao diện người dùng (UI) và trải nghiệm người dùng (UX) trong game, từ việc tạo ra các yếu tố giao diện đẹp mắt đến việc tối ưu hóa trải nghiệm người chơi.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "ui_ux_design_intro",
+                    "title": "Giới thiệu về thiết kế UI/UX trong game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/7e7d4855d4492799c9c38254c96c9bba/raw/ui_ux_design_intro.md",
+                    "description": "Tổng quan về thiết kế giao diện người dùng (UI) và trải nghiệm người dùng (UX) trong game, bao gồm việc tạo ra các yếu tố giao diện và tối ưu hóa các chức năng để người chơi có trải nghiệm tốt nhất."
+                },
+                {
+                    "id": "ui_ux_design_vocabulary",
+                    "title": "Từ vựng về thiết kế UI/UX trong game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành trong thiết kế UI/UX, giúp bạn hiểu các yếu tố quan trọng trong thiết kế giao diện người dùng và tạo ra trải nghiệm người chơi hiệu quả.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các khái niệm cơ bản về thiết kế UI/UX trong game",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi thiết kế giao diện và trải nghiệm người dùng"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong thiết kế UI/UX bao gồm: UI (User Interface - Giao diện người dùng), UX (User Experience - Trải nghiệm người dùng), wireframe (khung giao diện), mockup (mẫu thiết kế), user flow (luồng người dùng), navigation (dẫn hướng), feedback (phản hồi), usability (tính sử dụng), accessibility (tính khả dụng).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ quan trọng trong thiết kế UI/UX và các kỹ thuật tạo ra giao diện đẹp mắt và dễ sử dụng."
+                        },
+                        "examples": [
+                            {
+                                "en": "A good user interface design ensures that players can easily navigate through the game’s menus and settings.",
+                                "vi": "Một thiết kế giao diện người dùng tốt đảm bảo rằng người chơi có thể dễ dàng điều hướng qua các menu và cài đặt của game."
+                            },
+                            {
+                                "en": "UX design focuses on enhancing the overall experience of the player by making the game intuitive and engaging.",
+                                "vi": "Thiết kế UX tập trung vào việc nâng cao trải nghiệm tổng thể của người chơi bằng cách làm cho game trở nên trực quan và thú vị."
+                            },
+                            {
+                                "en": "Wireframes are often used to plan the structure and layout of the game’s UI before starting the design process.",
+                                "vi": "Wireframe thường được sử dụng để lập kế hoạch cấu trúc và bố cục giao diện người dùng của game trước khi bắt đầu quá trình thiết kế."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "ui_ux_design_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_performance_optimization",
+            "title": "Bài 17: Tối ưu hóa hiệu suất game (Game Performance Optimization)",
+            "description": "Tìm hiểu về các kỹ thuật tối ưu hóa hiệu suất game, từ việc giảm độ trễ (latency) đến cải thiện tốc độ khung hình (frame rate), đảm bảo game chạy mượt mà và hiệu quả trên nhiều thiết bị.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_performance_optimization_intro",
+                    "title": "Giới thiệu về tối ưu hóa hiệu suất game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/cff56983ba5716e29f2c30b09d70f23f/raw/game_performance_optimization_intro.md",
+                    "description": "Tổng quan về các chiến lược và kỹ thuật tối ưu hóa hiệu suất trong game, giúp game hoạt động mượt mà và giảm thiểu các vấn đề về độ trễ và tốc độ khung hình thấp."
+                },
+                {
+                    "id": "game_performance_optimization_vocabulary",
+                    "title": "Từ vựng về tối ưu hóa hiệu suất game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành liên quan đến tối ưu hóa hiệu suất game, giúp bạn hiểu các khái niệm như độ trễ, tốc độ khung hình, và các chiến lược tối ưu hóa tài nguyên hệ thống.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các chiến lược tối ưu hóa hiệu suất game cơ bản",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi nói về hiệu suất game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong tối ưu hóa hiệu suất game bao gồm: frame rate (tốc độ khung hình), latency (độ trễ), bottleneck (nút thắt cổ chai), load balancing (cân bằng tải), GPU (Graphics Processing Unit - Bộ xử lý đồ họa), CPU (Central Processing Unit - Bộ xử lý trung tâm), memory management (quản lý bộ nhớ), asset compression (nén tài nguyên).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ quan trọng trong tối ưu hóa hiệu suất game và các chiến lược để giảm độ trễ và cải thiện tốc độ khung hình."
+                        },
+                        "examples": [
+                            {
+                                "en": "To improve game performance, developers often use asset compression to reduce the size of textures and models.",
+                                "vi": "Để cải thiện hiệu suất game, các nhà phát triển thường sử dụng nén tài nguyên để giảm kích thước của các kết cấu và mô hình."
+                            },
+                            {
+                                "en": "Increasing the frame rate helps make the game feel smoother and more responsive.",
+                                "vi": "Tăng tốc độ khung hình giúp game trở nên mượt mà hơn và phản hồi nhanh hơn."
+                            },
+                            {
+                                "en": "A bottleneck in the GPU can cause frame drops, resulting in a choppy gaming experience.",
+                                "vi": "Một nút thắt cổ chai ở GPU có thể gây giảm khung hình, dẫn đến trải nghiệm chơi game giật lag."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_performance_optimization_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_testing",
+            "title": "Bài 18: Kiểm thử game (Game Testing)",
+            "description": "Tìm hiểu quy trình kiểm thử game, từ việc phát hiện lỗi (bug) đến kiểm tra tính năng và tối ưu hóa chất lượng game trước khi phát hành.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_testing_intro",
+                    "title": "Giới thiệu về kiểm thử game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/908f9baff300f15fd52e9f5a855916bc/raw/game_testing_intro.md",
+                    "description": "Tổng quan về các phương pháp kiểm thử game, bao gồm kiểm tra lỗi, kiểm tra tính năng và kiểm tra hiệu suất, nhằm đảm bảo game hoạt động ổn định và không có lỗi trước khi phát hành."
+                },
+                {
+                    "id": "game_testing_vocabulary",
+                    "title": "Từ vựng về kiểm thử game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành trong kiểm thử game, giúp bạn hiểu các khái niệm như bug (lỗi), regression testing (kiểm thử hồi quy), QA (Quality Assurance - Đảm bảo chất lượng), và testing framework (khuôn khổ kiểm thử).",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các khái niệm cơ bản trong kiểm thử game",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi kiểm thử game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong kiểm thử game bao gồm: bug (lỗi), QA (Quality Assurance), testing environment (môi trường kiểm thử), test case (trường hợp kiểm thử), regression testing (kiểm thử hồi quy), user acceptance testing (kiểm thử chấp nhận người dùng), performance testing (kiểm thử hiệu suất), crash (sự cố), testing framework (khuôn khổ kiểm thử).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ quan trọng trong kiểm thử game và các phương pháp giúp đảm bảo chất lượng sản phẩm."
+                        },
+                        "examples": [
+                            {
+                                "en": "QA testers are responsible for identifying bugs and reporting them to the development team.",
+                                "vi": "Những người kiểm thử QA chịu trách nhiệm phát hiện lỗi và báo cáo chúng cho đội phát triển."
+                            },
+                            {
+                                "en": "Regression testing ensures that new updates do not introduce new bugs in previously tested parts of the game.",
+                                "vi": "Kiểm thử hồi quy đảm bảo rằng các bản cập nhật mới không gây ra lỗi mới trong các phần đã được kiểm thử trước đó của game."
+                            },
+                            {
+                                "en": "User acceptance testing is performed to ensure the game meets the expectations and needs of players.",
+                                "vi": "Kiểm thử chấp nhận người dùng được thực hiện để đảm bảo game đáp ứng kỳ vọng và nhu cầu của người chơi."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_testing_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_development_project_management",
+            "title": "Bài 19: Quản lý dự án phát triển game (Game Development Project Management)",
+            "description": "Tìm hiểu cách quản lý một dự án phát triển game, bao gồm lập kế hoạch, phân bổ tài nguyên, quản lý thời gian và các yếu tố quan trọng giúp dự án phát triển game thành công.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_development_project_management_intro",
+                    "title": "Giới thiệu về quản lý dự án phát triển game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/4fbc819d04f244eb2b17860860893125/raw/game_development_project_management_intro.md",
+                    "description": "Tổng quan về quy trình quản lý dự án phát triển game, bao gồm lập kế hoạch, phân bổ tài nguyên, và theo dõi tiến độ để đảm bảo dự án được thực hiện đúng thời gian và trong ngân sách."
+                },
+                {
+                    "id": "game_development_project_management_vocabulary",
+                    "title": "Từ vựng về quản lý dự án phát triển game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành trong quản lý dự án phát triển game, bao gồm các khái niệm như sprint (chu kỳ làm việc ngắn), milestone (cột mốc quan trọng), deliverables (sản phẩm giao nhận), và backlog (danh sách công việc).",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các khái niệm cơ bản trong quản lý dự án phát triển game",
+                            "Biết cách sử dụng từ vựng chuyên ngành trong quản lý dự án game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong quản lý dự án game bao gồm: project management (quản lý dự án), sprint (chu kỳ làm việc ngắn), backlog (danh sách công việc), milestone (cột mốc), deliverables (sản phẩm giao nhận), resource allocation (phân bổ tài nguyên), Gantt chart (biểu đồ Gantt), scrum (quy trình scrum), kanban (hệ thống quản lý công việc).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ quan trọng trong quản lý dự án và cách áp dụng chúng trong quá trình phát triển game."
+                        },
+                        "examples": [
+                            {
+                                "en": "The development team follows a Scrum methodology, which involves working in sprints to achieve project milestones.",
+                                "vi": "Đội phát triển sử dụng phương pháp Scrum, trong đó làm việc theo các chu kỳ ngắn (sprint) để đạt được các cột mốc dự án."
+                            },
+                            {
+                                "en": "The project manager is responsible for allocating resources and ensuring that all deliverables are completed on time.",
+                                "vi": "Quản lý dự án chịu trách nhiệm phân bổ tài nguyên và đảm bảo rằng tất cả các sản phẩm giao nhận được hoàn thành đúng hạn."
+                            },
+                            {
+                                "en": "The backlog contains all the tasks that need to be completed before the project is finished.",
+                                "vi": "Danh sách công việc (backlog) chứa tất cả các nhiệm vụ cần hoàn thành trước khi dự án kết thúc."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_development_project_management_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_content_creation_management",
+            "title": "Bài 20: Tạo và quản lý nội dung game (Game Content Creation and Management)",
+            "description": "Khám phá quy trình tạo ra và quản lý nội dung game, từ thiết kế nhân vật, cảnh vật, đồ họa, cho đến quản lý các tài nguyên và nội dung liên quan để đảm bảo trò chơi luôn mới mẻ và thú vị.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_content_creation_management_intro",
+                    "title": "Giới thiệu về tạo và quản lý nội dung game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/9a632b7cc9af8c763f81372282eeb049/raw/game_content_creation_management_intro.md",
+                    "description": "Tổng quan về quy trình tạo ra nội dung game, từ việc phát triển ý tưởng ban đầu cho đến quản lý các tài nguyên và nội dung sau khi trò chơi ra mắt."
+                },
+                {
+                    "id": "game_content_creation_management_vocabulary",
+                    "title": "Từ vựng về tạo và quản lý nội dung game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành trong việc tạo và quản lý nội dung game, bao gồm các khái niệm như asset (tài nguyên), character design (thiết kế nhân vật), environment art (nghệ thuật cảnh vật), và content pipeline (dây chuyền sản xuất nội dung).",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các khái niệm cơ bản trong tạo và quản lý nội dung game",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi tạo và quản lý nội dung game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong tạo và quản lý nội dung game bao gồm: asset (tài nguyên), character design (thiết kế nhân vật), environment art (nghệ thuật cảnh vật), texture (kết cấu), model (mô hình), content pipeline (dây chuyền sản xuất nội dung), asset management (quản lý tài nguyên), level design (thiết kế cấp độ), animation (hoạt hình).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ quan trọng trong quá trình tạo và quản lý nội dung game, giúp hiểu rõ hơn về các yếu tố tạo nên game."
+                        },
+                        "examples": [
+                            {
+                                "en": "Character design involves creating unique and memorable characters that fit the story and world of the game.",
+                                "vi": "Thiết kế nhân vật liên quan đến việc tạo ra các nhân vật độc đáo và dễ nhớ, phù hợp với cốt truyện và thế giới của game."
+                            },
+                            {
+                                "en": "Environment art is crucial for setting the tone and atmosphere of the game, influencing how players experience the game world.",
+                                "vi": "Nghệ thuật cảnh vật rất quan trọng trong việc tạo ra không khí và bầu không khí của game, ảnh hưởng đến cách người chơi trải nghiệm thế giới game."
+                            },
+                            {
+                                "en": "The content pipeline is the process of managing all the assets from creation to integration into the game engine.",
+                                "vi": "Dây chuyền sản xuất nội dung là quá trình quản lý tất cả tài nguyên từ khi tạo ra cho đến khi tích hợp vào công cụ phát triển game."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_content_creation_management_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_sound_design",
+            "title": "Bài 21: Thiết kế âm thanh trong game (Game Sound Design)",
+            "description": "Khám phá vai trò của âm thanh trong game, từ việc tạo ra âm nhạc nền, hiệu ứng âm thanh đến việc tối ưu hóa âm thanh cho trải nghiệm người chơi, giúp nâng cao cảm xúc và tính tương tác của game.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_sound_design_intro",
+                    "title": "Giới thiệu về thiết kế âm thanh trong game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/6a08f9de186ca751d6c4ab65b6cba2b5/raw/game_sound_design_intro.md",
+                    "description": "Tổng quan về vai trò của âm thanh trong game, từ âm nhạc nền đến các hiệu ứng âm thanh và cách âm thanh được sử dụng để nâng cao trải nghiệm người chơi và tạo ra không khí đặc trưng cho trò chơi."
+                },
+                {
+                    "id": "game_sound_design_vocabulary",
+                    "title": "Từ vựng về thiết kế âm thanh trong game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành trong thiết kế âm thanh game, bao gồm các khái niệm như sound effect (hiệu ứng âm thanh), ambient sound (âm thanh môi trường), voice acting (lồng tiếng), music composition (soạn nhạc), và sound mixing (trộn âm thanh).",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu vai trò của âm thanh trong việc thiết kế game",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi nói về âm thanh trong game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong thiết kế âm thanh game bao gồm: sound effect (hiệu ứng âm thanh), background music (nhạc nền), ambient sound (âm thanh môi trường), voice acting (lồng tiếng), foley (hiệu ứng âm thanh đặc biệt), sound mixing (trộn âm thanh), sound design (thiết kế âm thanh), spatial audio (âm thanh không gian).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ quan trọng trong thiết kế âm thanh game và vai trò của âm thanh đối với cảm xúc và sự tương tác của người chơi."
+                        },
+                        "examples": [
+                            {
+                                "en": "Sound effects are used to enhance the realism of actions, such as footsteps, gunshots, or doors opening.",
+                                "vi": "Hiệu ứng âm thanh được sử dụng để tăng cường tính thực tế của các hành động, như tiếng bước chân, tiếng súng, hay cửa mở."
+                            },
+                            {
+                                "en": "Ambient sound creates an immersive environment, such as the sound of wind or water in the background.",
+                                "vi": "Âm thanh môi trường tạo ra một không gian sống động, như tiếng gió hoặc tiếng nước ở nền."
+                            },
+                            {
+                                "en": "Voice acting is an essential part of storytelling in games, bringing characters to life with dialogue and emotions.",
+                                "vi": "Lồng tiếng là một phần thiết yếu trong việc kể chuyện trong game, mang đến sự sống cho các nhân vật qua lời thoại và cảm xúc."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_sound_design_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_optimization",
+            "title": "Bài 22: Tối ưu hóa game (Game Optimization)",
+            "description": "Khám phá các kỹ thuật tối ưu hóa game để đảm bảo game chạy mượt mà, cải thiện hiệu suất và trải nghiệm người chơi, từ tối ưu hóa đồ họa đến tối ưu hóa mã nguồn.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_optimization_intro",
+                    "title": "Giới thiệu về tối ưu hóa game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/f4eee60a15e5e0aec3ea7c4fe7e4dedc/raw/game_optimization_intro.md",
+                    "description": "Tổng quan về quy trình tối ưu hóa game, từ việc tối ưu hóa đồ họa và hiệu suất đến việc tối ưu hóa mã nguồn và cải thiện tốc độ tải game, giúp game chạy mượt mà trên các thiết bị khác nhau."
+                },
+                {
+                    "id": "game_optimization_vocabulary",
+                    "title": "Từ vựng về tối ưu hóa game",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành trong tối ưu hóa game, bao gồm các khái niệm như frame rate (tốc độ khung hình), rendering (kết xuất), asset compression (nén tài nguyên), memory management (quản lý bộ nhớ), và load time (thời gian tải).",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các khái niệm cơ bản trong tối ưu hóa game",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi tối ưu hóa game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong tối ưu hóa game bao gồm: frame rate (tốc độ khung hình), rendering (kết xuất), asset compression (nén tài nguyên), memory management (quản lý bộ nhớ), load time (thời gian tải), performance bottleneck (thắt cổ chai hiệu suất), GPU (Graphics Processing Unit - Bộ xử lý đồ họa), CPU (Central Processing Unit - Bộ xử lý trung tâm).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ quan trọng trong tối ưu hóa game và cách chúng ảnh hưởng đến hiệu suất của game."
+                        },
+                        "examples": [
+                            {
+                                "en": "To improve the frame rate, developers often reduce the complexity of models and textures in the game.",
+                                "vi": "Để cải thiện tốc độ khung hình, các nhà phát triển thường giảm độ phức tạp của các mô hình và kết cấu trong game."
+                            },
+                            {
+                                "en": "Rendering optimization is crucial for reducing the load on the GPU and ensuring a smooth gaming experience.",
+                                "vi": "Tối ưu hóa kết xuất rất quan trọng để giảm tải cho GPU và đảm bảo trải nghiệm game mượt mà."
+                            },
+                            {
+                                "en": "Asset compression techniques are used to reduce the size of game files, improving load time and saving storage space.",
+                                "vi": "Kỹ thuật nén tài nguyên được sử dụng để giảm kích thước của các tệp game, cải thiện thời gian tải và tiết kiệm dung lượng lưu trữ."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_optimization_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_mobile_game_development",
+            "title": "Bài 23: Phát triển trò chơi di động (Mobile Game Development)",
+            "description": "Khám phá các kỹ thuật và công cụ phát triển game dành cho thiết bị di động, từ thiết kế game, tối ưu hóa hiệu suất, đến việc phát hành và duy trì game trên các nền tảng di động như iOS và Android.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "mobile_game_development_intro",
+                    "title": "Giới thiệu về phát triển trò chơi di động",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/9cd8ae526e4c97fc2306b78ad3e05276/raw/mobile_game_development_intro.md",
+                    "description": "Tổng quan về quy trình phát triển game di động, từ việc lên ý tưởng đến phát triển, tối ưu hóa và phát hành game trên các nền tảng như iOS và Android."
+                },
+                {
+                    "id": "mobile_game_development_vocabulary",
+                    "title": "Từ vựng về phát triển trò chơi di động",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng chuyên ngành trong phát triển game di động, bao gồm các khái niệm như mobile game engine (công cụ phát triển game di động), UI/UX (giao diện người dùng / trải nghiệm người dùng), app store (cửa hàng ứng dụng), và in-app purchases (mua hàng trong ứng dụng).",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các khái niệm cơ bản trong phát triển trò chơi di động",
+                            "Biết cách sử dụng từ vựng chuyên ngành khi phát triển game cho thiết bị di động"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong phát triển game di động bao gồm: mobile game engine (công cụ phát triển game di động), in-app purchases (mua hàng trong ứng dụng), push notifications (thông báo đẩy), cross-platform compatibility (tính tương thích đa nền tảng), app store optimization (tối ưu hóa cửa hàng ứng dụng), UI/UX (giao diện người dùng / trải nghiệm người dùng).",
+                            "image": null,
+                            "description": "Tóm lược các thuật ngữ quan trọng trong phát triển game di động và cách các yếu tố này ảnh hưởng đến sự thành công của game trên các nền tảng di động."
+                        },
+                        "examples": [
+                            {
+                                "en": "Mobile game engines like Unity and Unreal Engine are popular choices for developing games on both iOS and Android.",
+                                "vi": "Công cụ phát triển game di động như Unity và Unreal Engine là những lựa chọn phổ biến để phát triển game trên cả iOS và Android."
+                            },
+                            {
+                                "en": "In-app purchases allow players to buy virtual items, enhancing their gaming experience and supporting monetization.",
+                                "vi": "Mua hàng trong ứng dụng cho phép người chơi mua các vật phẩm ảo, nâng cao trải nghiệm chơi game và hỗ trợ việc kiếm tiền từ game."
+                            },
+                            {
+                                "en": "App Store Optimization (ASO) is crucial for increasing the visibility of your game in app stores and attracting more players.",
+                                "vi": "Tối ưu hóa cửa hàng ứng dụng (ASO) rất quan trọng để tăng khả năng hiển thị của game trên các cửa hàng ứng dụng và thu hút nhiều người chơi hơn."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "mobile_game_development_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_mobile_game_design",
+            "title": "Bài 24: Thiết kế trò chơi di động (Mobile Game Design)",
+            "description": "Khám phá các nguyên tắc và kỹ thuật thiết kế trò chơi di động, từ xây dựng cơ chế game đến thiết kế giao diện người dùng (UI) và trải nghiệm người chơi (UX) để tạo ra một game hấp dẫn và dễ sử dụng.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "mobile_game_design_intro",
+                    "title": "Giới thiệu về thiết kế trò chơi di động",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/d5d391dc7ec26fe8b8f9180570363295/raw/mobile_game_design_intro.md",
+                    "description": "Tổng quan về quy trình thiết kế game di động, từ việc lên ý tưởng, thiết kế gameplay đến tạo dựng giao diện và trải nghiệm người chơi."
+                },
+                {
+                    "id": "mobile_game_design_vocabulary",
+                    "title": "Từ vựng về thiết kế trò chơi di động",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng quan trọng trong thiết kế game di động, bao gồm các khái niệm như gameplay mechanics (cơ chế chơi), user interface (giao diện người dùng), user experience (trải nghiệm người dùng), và mobile first design (thiết kế ưu tiên di động).",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các khái niệm cơ bản trong thiết kế game di động",
+                            "Biết cách áp dụng các nguyên tắc thiết kế để tạo ra một trò chơi dễ chơi và hấp dẫn trên thiết bị di động"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong thiết kế trò chơi di động bao gồm: gameplay mechanics (cơ chế chơi), UI/UX (giao diện người dùng/trải nghiệm người dùng), responsive design (thiết kế đáp ứng), mobile first design (thiết kế ưu tiên di động), touch controls (điều khiển cảm ứng), virtual joystick (joystick ảo), swipe (vuốt màn hình), tap (chạm màn hình).",
+                            "image": null,
+                            "description": "Tóm lược các yếu tố quan trọng trong thiết kế game di động và cách chúng ảnh hưởng đến trải nghiệm người chơi."
+                        },
+                        "examples": [
+                            {
+                                "en": "Gameplay mechanics for mobile games often include touch controls like swiping, tapping, and pinching to zoom.",
+                                "vi": "Cơ chế chơi trong game di động thường bao gồm các điều khiển cảm ứng như vuốt, chạm, và kéo để phóng to."
+                            },
+                            {
+                                "en": "A mobile-first design ensures that the game performs well and looks good on mobile devices, focusing on touch interactions.",
+                                "vi": "Thiết kế ưu tiên di động đảm bảo game hoạt động tốt và trông đẹp trên các thiết bị di động, chú trọng vào các tương tác cảm ứng."
+                            },
+                            {
+                                "en": "User experience (UX) design in mobile games involves creating an intuitive interface and smooth interactions for the player.",
+                                "vi": "Thiết kế trải nghiệm người dùng (UX) trong game di động bao gồm việc tạo ra giao diện trực quan và các tương tác mượt mà cho người chơi."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "mobile_game_design_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_mobile_game_performance_optimization",
+            "title": "Bài 25: Tối ưu hóa hiệu suất trò chơi di động (Mobile Game Performance Optimization)",
+            "description": "Tìm hiểu các chiến lược và kỹ thuật tối ưu hóa hiệu suất game trên thiết bị di động, từ cải thiện thời gian tải game đến tối ưu hóa đồ họa và tối ưu hóa bộ nhớ, giúp game hoạt động mượt mà trên các thiết bị di động khác nhau.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "mobile_game_performance_optimization_intro",
+                    "title": "Giới thiệu về tối ưu hóa hiệu suất trò chơi di động",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/e013440665ce8f6b3093831d033aef6e/raw/mobile_game_performance_optimization_intro.md",
+                    "description": "Tổng quan về các kỹ thuật và chiến lược tối ưu hóa hiệu suất cho game di động, bao gồm việc giảm thời gian tải, tối ưu hóa đồ họa, và quản lý bộ nhớ hiệu quả."
+                },
+                {
+                    "id": "mobile_game_performance_optimization_vocabulary",
+                    "title": "Từ vựng về tối ưu hóa hiệu suất game di động",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng liên quan đến tối ưu hóa hiệu suất game di động, bao gồm các khái niệm như frame rate (tốc độ khung hình), asset compression (nén tài nguyên), memory management (quản lý bộ nhớ), và load times (thời gian tải).",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các khái niệm cơ bản trong tối ưu hóa hiệu suất game di động",
+                            "Biết cách áp dụng các kỹ thuật tối ưu hóa để tăng cường hiệu suất và giảm thiểu độ trễ"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong tối ưu hóa hiệu suất game di động bao gồm: frame rate (tốc độ khung hình), asset compression (nén tài nguyên), memory management (quản lý bộ nhớ), load times (thời gian tải), performance profiling (hồ sơ hiệu suất), and bottleneck (nút thắt cổ chai).",
+                            "image": null,
+                            "description": "Tóm lược các yếu tố quan trọng trong tối ưu hóa hiệu suất game di động và cách chúng ảnh hưởng đến trải nghiệm người chơi."
+                        },
+                        "examples": [
+                            {
+                                "en": "Reducing load times by optimizing asset compression helps in faster game startup and smoother gameplay.",
+                                "vi": "Giảm thời gian tải bằng cách tối ưu hóa nén tài nguyên giúp game khởi động nhanh hơn và chơi mượt mà hơn."
+                            },
+                            {
+                                "en": "Managing memory efficiently ensures that the game runs smoothly on devices with lower RAM or limited processing power.",
+                                "vi": "Quản lý bộ nhớ hiệu quả đảm bảo game chạy mượt mà trên các thiết bị có RAM thấp hoặc công suất xử lý hạn chế."
+                            },
+                            {
+                                "en": "A higher frame rate (60 fps) is essential for providing a smooth and responsive gaming experience.",
+                                "vi": "Tốc độ khung hình cao hơn (60 fps) rất quan trọng để mang lại trải nghiệm chơi game mượt mà và phản hồi nhanh chóng."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "mobile_game_performance_optimization_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_mobile_game_testing_debugging",
+            "title": "Bài 26: Kiểm thử và gỡ lỗi trong phát triển trò chơi di động (Mobile Game Testing and Debugging)",
+            "description": "Khám phá các phương pháp kiểm thử và gỡ lỗi trong phát triển trò chơi di động, từ việc kiểm tra tính năng game, tối ưu hóa lỗi đến việc sử dụng công cụ gỡ lỗi hiệu quả trên các nền tảng di động như iOS và Android.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "mobile_game_testing_debugging_intro",
+                    "title": "Giới thiệu về kiểm thử và gỡ lỗi trò chơi di động",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/45dcf1b631e5ae8c82450e6de9a99e6e/raw/mobile_game_testing_debugging_intro.md",
+                    "description": "Tổng quan về quy trình kiểm thử và gỡ lỗi trong phát triển trò chơi di động, bao gồm các loại kiểm thử, công cụ gỡ lỗi, và cách tối ưu hóa hiệu suất game trong quá trình phát triển."
+                },
+                {
+                    "id": "mobile_game_testing_debugging_vocabulary",
+                    "title": "Từ vựng về kiểm thử và gỡ lỗi game di động",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng liên quan đến kiểm thử và gỡ lỗi game di động, bao gồm các khái niệm như bug (lỗi), unit testing (kiểm thử đơn vị), integration testing (kiểm thử tích hợp), crash log (nhật ký lỗi), và debugging (gỡ lỗi).",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các khái niệm cơ bản trong kiểm thử và gỡ lỗi game di động",
+                            "Biết cách sử dụng các công cụ và phương pháp kiểm thử hiệu quả trong quá trình phát triển game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong kiểm thử và gỡ lỗi game di động bao gồm: bug (lỗi), unit testing (kiểm thử đơn vị), integration testing (kiểm thử tích hợp), crash log (nhật ký lỗi), debugging (gỡ lỗi), stress testing (kiểm thử tải), và test automation (tự động hóa kiểm thử).",
+                            "image": null,
+                            "description": "Tóm lược các yếu tố quan trọng trong kiểm thử và gỡ lỗi game di động, cùng với các công cụ và phương pháp hiệu quả."
+                        },
+                        "examples": [
+                            {
+                                "en": "Unit testing helps identify and fix small bugs early in the development process, ensuring individual components work as expected.",
+                                "vi": "Kiểm thử đơn vị giúp phát hiện và sửa lỗi nhỏ ngay từ đầu quá trình phát triển, đảm bảo các thành phần riêng biệt hoạt động như mong muốn."
+                            },
+                            {
+                                "en": "Crash logs provide valuable information for debugging and fixing errors that cause the game to crash unexpectedly.",
+                                "vi": "Nhật ký lỗi cung cấp thông tin quý giá để gỡ lỗi và sửa chữa các lỗi gây ra sự cố ngoài ý muốn trong game."
+                            },
+                            {
+                                "en": "Debugging tools like Android Studio or Xcode help developers trace errors, examine variables, and analyze performance in real-time.",
+                                "vi": "Các công cụ gỡ lỗi như Android Studio hoặc Xcode giúp các nhà phát triển theo dõi lỗi, kiểm tra biến và phân tích hiệu suất trong thời gian thực."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "mobile_game_testing_debugging_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_mobile_game_launch",
+            "title": "Bài 27: Phát hành trò chơi di động (Mobile Game Launch)",
+            "description": "Khám phá quy trình phát hành trò chơi di động, từ việc chuẩn bị cho việc ra mắt, tối ưu hóa cho các cửa hàng ứng dụng (App Stores), đến việc marketing và nhận phản hồi từ người chơi để cải thiện trò chơi sau khi phát hành.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "mobile_game_launch_intro",
+                    "title": "Giới thiệu về phát hành trò chơi di động",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/204784eff202121a2d1ca3bb3d767317/raw/mobile_game_launch_intro.md",
+                    "description": "Tổng quan về các bước cần thiết để phát hành trò chơi di động thành công, bao gồm việc chuẩn bị ứng dụng, đăng tải lên App Store và Google Play, và chiến lược tiếp thị để thu hút người chơi."
+                },
+                {
+                    "id": "mobile_game_launch_vocabulary",
+                    "title": "Từ vựng về phát hành trò chơi di động",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng liên quan đến phát hành trò chơi di động, bao gồm các khái niệm như app store optimization (ASO), app submission (nộp ứng dụng), launch campaign (chiến dịch ra mắt), và user acquisition (thu hút người dùng).",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu quy trình phát hành trò chơi di động từ chuẩn bị đến quảng bá",
+                            "Nắm vững các chiến lược tối ưu hóa và marketing game để đạt được lượng người chơi tối ưu"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong phát hành trò chơi di động bao gồm: ASO (tối ưu hóa cửa hàng ứng dụng), app submission (nộp ứng dụng), launch campaign (chiến dịch ra mắt), user acquisition (thu hút người dùng), marketing funnel (phễu marketing), retention (giữ chân người chơi), và monetization (kiếm tiền từ game).",
+                            "image": null,
+                            "description": "Tóm lược các yếu tố quan trọng trong quá trình phát hành trò chơi di động và marketing sau khi ra mắt."
+                        },
+                        "examples": [
+                            {
+                                "en": "App Store Optimization (ASO) helps your game rank higher in the app store, making it easier for players to discover your game.",
+                                "vi": "Tối ưu hóa cửa hàng ứng dụng (ASO) giúp game của bạn xếp hạng cao hơn trong cửa hàng ứng dụng, giúp người chơi dễ dàng phát hiện game của bạn."
+                            },
+                            {
+                                "en": "A launch campaign includes promotions, social media activities, and influencer collaborations to attract new users.",
+                                "vi": "Chiến dịch ra mắt bao gồm các hoạt động quảng bá, truyền thông xã hội và hợp tác với người có ảnh hưởng để thu hút người chơi mới."
+                            },
+                            {
+                                "en": "Retention strategies focus on keeping players engaged with your game after the initial download, through updates, events, and rewards.",
+                                "vi": "Chiến lược giữ chân người chơi tập trung vào việc giữ người chơi tham gia vào game của bạn sau khi tải về, thông qua các bản cập nhật, sự kiện và phần thưởng."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "mobile_game_launch_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_mobile_game_marketing",
+            "title": "Bài 28: Tiếp thị trò chơi di động (Mobile Game Marketing)",
+            "description": "Khám phá các chiến lược và kỹ thuật tiếp thị game di động, từ việc xác định đối tượng mục tiêu, tạo chiến dịch quảng bá, đến việc sử dụng các công cụ marketing digital để tăng lượng người chơi và cải thiện doanh thu từ trò chơi.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "mobile_game_marketing_intro",
+                    "title": "Giới thiệu về tiếp thị trò chơi di động",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/0d537b6ffb9b2438031e8116bec66923/raw/mobile_game_marketing_intro.md",
+                    "description": "Tổng quan về các chiến lược tiếp thị trò chơi di động, từ việc tìm kiếm đối tượng mục tiêu, chiến lược quảng bá, đến việc sử dụng các kênh tiếp thị số để tăng trưởng người chơi và doanh thu."
+                },
+                {
+                    "id": "mobile_game_marketing_vocabulary",
+                    "title": "Từ vựng về tiếp thị trò chơi di động",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng liên quan đến tiếp thị game di động, bao gồm các khái niệm như Customer Acquisition Cost (CAC), Retention Rate (tỷ lệ giữ chân người chơi), In-App Advertising (quảng cáo trong ứng dụng), và Conversion Rate (tỷ lệ chuyển đổi).",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các chiến lược tiếp thị cơ bản cho game di động",
+                            "Nắm vững các thuật ngữ tiếp thị quan trọng để áp dụng trong các chiến dịch quảng bá game di động"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong tiếp thị game di động bao gồm: Customer Acquisition Cost (CAC - Chi phí thu hút khách hàng), Retention Rate (Tỷ lệ giữ chân người chơi), In-App Advertising (Quảng cáo trong ứng dụng), Conversion Rate (Tỷ lệ chuyển đổi), Social Media Marketing (Tiếp thị qua mạng xã hội), Influencer Marketing (Tiếp thị qua người có ảnh hưởng), và ASO (App Store Optimization - Tối ưu hóa cửa hàng ứng dụng).",
+                            "image": null,
+                            "description": "Tóm lược các yếu tố quan trọng trong chiến lược tiếp thị game di động và cách chúng giúp tăng trưởng người chơi và doanh thu."
+                        },
+                        "examples": [
+                            {
+                                "en": "Customer Acquisition Cost (CAC) is the amount of money spent to acquire one paying user for your game.",
+                                "vi": "Chi phí thu hút khách hàng (CAC) là số tiền chi ra để thu hút một người chơi trả tiền cho game của bạn."
+                            },
+                            {
+                                "en": "Retention Rate refers to the percentage of players who continue playing your game after a specific time period.",
+                                "vi": "Tỷ lệ giữ chân người chơi (Retention Rate) là tỷ lệ phần trăm người chơi tiếp tục chơi game của bạn sau một khoảng thời gian cụ thể."
+                            },
+                            {
+                                "en": "In-App Advertising involves displaying ads within the game to generate additional revenue without disrupting the player's experience.",
+                                "vi": "Quảng cáo trong ứng dụng là việc hiển thị quảng cáo trong game để tạo ra doanh thu bổ sung mà không làm gián đoạn trải nghiệm của người chơi."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "mobile_game_marketing_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_mobile_game_performance_analysis_optimization",
+            "title": "Bài 29: Phân tích và tối ưu hóa hiệu suất trò chơi di động (Mobile Game Performance Analysis and Optimization)",
+            "description": "Khám phá cách phân tích và tối ưu hóa hiệu suất của trò chơi di động, từ việc theo dõi và cải thiện tốc độ, bộ nhớ, đến việc tối ưu hóa đồ họa và trải nghiệm người chơi để đảm bảo game chạy mượt mà trên các thiết bị khác nhau.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "mobile_game_performance_intro",
+                    "title": "Giới thiệu về phân tích và tối ưu hóa hiệu suất trò chơi di động",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/744d7e0a4406e734f4368529dd6f03a5/raw/mobile_game_performance_intro.md",
+                    "description": "Tổng quan về các kỹ thuật và công cụ phân tích và tối ưu hóa hiệu suất trò chơi di động. Bài học sẽ đề cập đến việc cải thiện tốc độ, tối ưu hóa bộ nhớ và đồ họa để trò chơi hoạt động mượt mà trên nhiều nền tảng và thiết bị."
+                },
+                {
+                    "id": "mobile_game_performance_vocabulary",
+                    "title": "Từ vựng về phân tích và tối ưu hóa hiệu suất trò chơi di động",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng liên quan đến tối ưu hóa hiệu suất game di động, bao gồm các khái niệm như frame rate (tốc độ khung hình), latency (độ trễ), memory leak (rò rỉ bộ nhớ), và rendering (vẽ đồ họa).",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các yếu tố ảnh hưởng đến hiệu suất trò chơi di động",
+                            "Biết cách sử dụng các công cụ và kỹ thuật để tối ưu hóa hiệu suất game"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong phân tích và tối ưu hóa hiệu suất trò chơi di động bao gồm: frame rate (tốc độ khung hình), latency (độ trễ), memory leak (rò rỉ bộ nhớ), rendering (vẽ đồ họa), optimization (tối ưu hóa), và load testing (kiểm tra tải).",
+                            "image": null,
+                            "description": "Tóm lược các yếu tố quan trọng ảnh hưởng đến hiệu suất của game và cách tối ưu hóa các yếu tố này để đạt hiệu quả tốt nhất."
+                        },
+                        "examples": [
+                            {
+                                "en": "A high frame rate ensures that the game runs smoothly and without stuttering, providing a better experience for the player.",
+                                "vi": "Tốc độ khung hình cao đảm bảo game chạy mượt mà và không bị giật, mang lại trải nghiệm tốt hơn cho người chơi."
+                            },
+                            {
+                                "en": "Memory leaks occur when the game fails to release unused memory, leading to performance issues over time.",
+                                "vi": "Rò rỉ bộ nhớ xảy ra khi game không giải phóng bộ nhớ không sử dụng, dẫn đến vấn đề hiệu suất theo thời gian."
+                            },
+                            {
+                                "en": "Rendering optimization involves reducing the complexity of the game's graphics to improve performance without sacrificing visual quality.",
+                                "vi": "Tối ưu hóa vẽ đồ họa bao gồm giảm độ phức tạp của đồ họa game để cải thiện hiệu suất mà không hy sinh chất lượng hình ảnh."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "mobile_game_performance_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_mobile_game_user_experience_optimization",
+            "title": "Bài 30: Tối ưu hóa trải nghiệm người chơi trong trò chơi di động (Mobile Game User Experience Optimization)",
+            "description": "Khám phá cách tối ưu hóa trải nghiệm người chơi trong trò chơi di động, từ giao diện người dùng (UI) đến trải nghiệm người dùng (UX), giúp người chơi cảm thấy thoải mái và dễ dàng trong suốt quá trình chơi, từ đó tăng cường sự hài lòng và giữ chân người chơi lâu dài.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "mobile_game_user_experience_intro",
+                    "title": "Giới thiệu về tối ưu hóa trải nghiệm người chơi",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/8dece2bfaa94817bd08d7e66255c78c8/raw/mobile_game_user_experience_intro.md",
+                    "description": "Tổng quan về các yếu tố quan trọng trong tối ưu hóa trải nghiệm người chơi, bao gồm giao diện người dùng (UI), trải nghiệm người dùng (UX), thiết kế game dễ tiếp cận và chiến lược để giữ người chơi quay lại với trò chơi."
+                },
+                {
+                    "id": "mobile_game_user_experience_vocabulary",
+                    "title": "Từ vựng về tối ưu hóa trải nghiệm người chơi",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng liên quan đến trải nghiệm người chơi trong trò chơi di động, bao gồm UI (User Interface), UX (User Experience), onboarding (hướng dẫn người dùng), và engagement (sự tham gia của người chơi).",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu rõ các yếu tố ảnh hưởng đến trải nghiệm người chơi trong trò chơi di động",
+                            "Biết cách cải thiện UI và UX để tạo ra trải nghiệm mượt mà và thú vị cho người chơi"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong tối ưu hóa trải nghiệm người chơi bao gồm UI (giao diện người dùng), UX (trải nghiệm người dùng), onboarding (hướng dẫn người dùng), engagement (sự tham gia), và retention (giữ chân người chơi).",
+                            "image": null,
+                            "description": "Tóm lược các yếu tố ảnh hưởng đến trải nghiệm người chơi trong trò chơi di động và cách tối ưu hóa chúng để thu hút và giữ chân người chơi."
+                        },
+                        "examples": [
+                            {
+                                "en": "User Interface (UI) refers to the visual elements of the game, such as buttons, menus, and icons, that users interact with.",
+                                "vi": "Giao diện người dùng (UI) là các yếu tố hình ảnh của game, như nút bấm, menu và biểu tượng, mà người dùng tương tác."
+                            },
+                            {
+                                "en": "User Experience (UX) is the overall experience of the player, including ease of use, navigation, and enjoyment.",
+                                "vi": "Trải nghiệm người dùng (UX) là trải nghiệm tổng thể của người chơi, bao gồm sự dễ dàng sử dụng, điều hướng và sự thích thú."
+                            },
+                            {
+                                "en": "Onboarding is the process of guiding new players through the basic features of the game to help them understand how to play.",
+                                "vi": "Onboarding là quá trình hướng dẫn người chơi mới qua các tính năng cơ bản của game để giúp họ hiểu cách chơi."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "mobile_game_user_experience_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_sound_design_mobile_games",
+            "title": "Bài 31: Thiết kế âm thanh và nhạc nền trong trò chơi di động (Sound Design and Music in Mobile Games)",
+            "description": "Khám phá vai trò của âm thanh và nhạc nền trong trò chơi di động, từ việc sử dụng âm thanh để tăng cường trải nghiệm chơi game đến cách chọn lựa nhạc nền phù hợp để nâng cao cảm giác và sự tham gia của người chơi.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "sound_design_intro",
+                    "title": "Giới thiệu về thiết kế âm thanh và nhạc nền trong trò chơi di động",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/0d356e5808f722adf516021f21122a48/raw/sound_design_intro.md",
+                    "description": "Tổng quan về các yếu tố âm thanh trong trò chơi di động, bao gồm hiệu ứng âm thanh, nhạc nền, và sự kết hợp của chúng để tạo ra một trải nghiệm chơi game sống động và hấp dẫn."
+                },
+                {
+                    "id": "sound_design_vocabulary",
+                    "title": "Từ vựng về thiết kế âm thanh và nhạc nền",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ và từ vựng liên quan đến thiết kế âm thanh trong trò chơi di động, bao gồm các khái niệm như sound effects (hiệu ứng âm thanh), background music (nhạc nền), voice acting (lồng tiếng), và dynamic audio (âm thanh động).",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu rõ các khái niệm âm thanh trong game và vai trò của chúng đối với trải nghiệm người chơi",
+                            "Nắm vững các thuật ngữ âm thanh cơ bản trong phát triển trò chơi di động"
+                        ],
+                        "explanation": {
+                            "text": "Các thuật ngữ quan trọng trong thiết kế âm thanh bao gồm: sound effects (hiệu ứng âm thanh), background music (nhạc nền), voice acting (lồng tiếng), và dynamic audio (âm thanh động). Các yếu tố này góp phần nâng cao sự hấp dẫn và tương tác trong trò chơi di động.",
+                            "image": null,
+                            "description": "Tóm lược các yếu tố âm thanh quan trọng trong thiết kế trò chơi di động và cách chúng cải thiện trải nghiệm người chơi."
+                        },
+                        "examples": [
+                            {
+                                "en": "Sound effects are used to provide feedback and enhance player immersion, such as the sound of footsteps or a character jumping.",
+                                "vi": "Hiệu ứng âm thanh được sử dụng để cung cấp phản hồi và tăng cường sự nhập vai của người chơi, như âm thanh bước chân hoặc nhân vật nhảy."
+                            },
+                            {
+                                "en": "Background music helps set the mood of the game, making it more immersive and emotionally engaging.",
+                                "vi": "Nhạc nền giúp tạo bầu không khí cho game, làm cho người chơi cảm thấy nhập tâm và tham gia cảm xúc hơn."
+                            },
+                            {
+                                "en": "Voice acting adds personality to the characters, making them feel more alive and relatable to the player.",
+                                "vi": "Lồng tiếng tạo thêm tính cách cho các nhân vật, giúp họ trở nên sống động và dễ gần gũi hơn với người chơi."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "sound_design_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_mobile_game_size_loading_optimization",
+            "title": "Bài 32: Tối ưu hóa kích thước và hiệu suất tải game di động (Mobile Game Size and Loading Optimization)",
+            "description": "Tìm hiểu cách giảm kích thước game và tối ưu hóa thời gian tải để cải thiện trải nghiệm người chơi và tăng khả năng cài đặt trên nhiều thiết bị di động.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "mobile_game_size_intro",
+                    "title": "Giới thiệu về tối ưu hóa kích thước và hiệu suất tải",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/eda84e636cd671d444c88c0f3c7f789d/raw/mobile_game_size_intro.md",
+                    "description": "Tổng quan về các chiến lược giảm kích thước trò chơi và tăng tốc độ tải để cải thiện trải nghiệm người chơi và hỗ trợ nhiều loại thiết bị di động khác nhau."
+                },
+                {
+                    "id": "mobile_game_size_vocabulary",
+                    "title": "Từ vựng về tối ưu hóa kích thước và hiệu suất tải",
+                    "type": "detail",
+                    "description": "Học các thuật ngữ liên quan đến nén dữ liệu, phân chia tài nguyên, và kỹ thuật tải thông minh trong phát triển game di động.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các yếu tố ảnh hưởng đến kích thước và tốc độ tải của game",
+                            "Biết cách tối ưu hóa dữ liệu và tài nguyên để giảm tải trọng lượng game"
+                        ],
+                        "explanation": {
+                            "text": "Tối ưu hóa game bao gồm giảm kích thước tập tin, nén ảnh và âm thanh, sử dụng asset bundles (gói tài nguyên), và áp dụng kỹ thuật lazy loading (tải lười).",
+                            "image": null,
+                            "description": "Tóm tắt các phương pháp giảm dung lượng trò chơi và cải thiện hiệu suất tải trên thiết bị di động."
+                        },
+                        "examples": [
+                            {
+                                "en": "Using asset bundles allows developers to load only necessary game assets when needed, reducing initial load times.",
+                                "vi": "Sử dụng gói tài nguyên (asset bundles) cho phép lập trình viên chỉ tải các tài nguyên cần thiết khi cần, giảm thời gian tải ban đầu."
+                            },
+                            {
+                                "en": "Compressing images and audio files can significantly reduce the game’s total size without sacrificing quality.",
+                                "vi": "Nén hình ảnh và tệp âm thanh có thể giảm đáng kể tổng kích thước của game mà không ảnh hưởng nhiều đến chất lượng."
+                            },
+                            {
+                                "en": "Lazy loading delays the loading of non-critical assets until they are needed, speeding up game startup.",
+                                "vi": "Tải lười (lazy loading) hoãn việc tải các tài nguyên không quan trọng cho đến khi cần, giúp khởi động game nhanh hơn."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "mobile_game_size_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_mobile_game_player_analytics",
+            "title": "Bài 33: Phân tích dữ liệu người chơi trong game di động (Mobile Game Player Analytics)",
+            "description": "Tìm hiểu cách thu thập và phân tích dữ liệu người chơi để tối ưu hóa trò chơi di động, tăng cường tương tác và giữ chân người chơi lâu dài.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "mobile_game_analytics_intro",
+                    "title": "Giới thiệu về phân tích dữ liệu người chơi",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/0f7f7aba7a589c0bbcf533ce962f6aee/raw/mobile_game_analytics_intro.md",
+                    "description": "Giới thiệu vai trò của phân tích dữ liệu trong phát triển game – giúp theo dõi hành vi người chơi, phát hiện vấn đề và cải thiện gameplay."
+                },
+                {
+                    "id": "mobile_game_analytics_vocabulary",
+                    "title": "Từ vựng về phân tích dữ liệu người chơi",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ phổ biến như DAU (Daily Active Users), retention rate, churn rate, heatmap, v.v.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu các chỉ số quan trọng trong phân tích dữ liệu người chơi",
+                            "Biết cách áp dụng dữ liệu để cải thiện thiết kế và hiệu suất game"
+                        ],
+                        "explanation": {
+                            "text": "Phân tích dữ liệu game giúp nhà phát triển hiểu rõ cách người chơi tương tác với trò chơi. Các chỉ số phổ biến bao gồm DAU (người dùng hoạt động hàng ngày), retention rate (tỷ lệ giữ chân), churn rate (tỷ lệ rời bỏ), session length (thời lượng chơi), và conversion rate (tỷ lệ chuyển đổi).",
+                            "image": null,
+                            "description": "Tóm lược các chỉ số và kỹ thuật thu thập dữ liệu trong game di động để phục vụ tối ưu hóa."
+                        },
+                        "examples": [
+                            {
+                                "en": "DAU measures how many unique players open the game each day.",
+                                "vi": "DAU đo lường số lượng người chơi duy nhất mở game mỗi ngày."
+                            },
+                            {
+                                "en": "Retention rate shows how many players return after their first session.",
+                                "vi": "Tỷ lệ giữ chân thể hiện có bao nhiêu người chơi quay lại sau phiên chơi đầu tiên."
+                            },
+                            {
+                                "en": "A heatmap can reveal where most players are quitting in a level.",
+                                "vi": "Bản đồ nhiệt có thể cho thấy vị trí mà nhiều người chơi rời game nhất trong một màn chơi."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "mobile_game_analytics_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_player_retention_optimization",
+            "title": "Bài 34: Tối ưu hóa tỷ lệ giữ chân người chơi (Player Retention Optimization)",
+            "description": "Tìm hiểu các chiến lược giúp người chơi quay lại trò chơi thường xuyên, từ thiết kế nội dung hấp dẫn đến hệ thống phần thưởng và nhắc nhở thông minh.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "retention_optimization_intro",
+                    "title": "Giới thiệu về tối ưu hóa tỷ lệ giữ chân",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/a26dec901a074533bedcbcf9dad3ed4d/raw/retention_optimization_intro.md",
+                    "description": "Giải thích tại sao tỷ lệ giữ chân người chơi là chỉ số then chốt cho sự thành công lâu dài của game di động và các yếu tố ảnh hưởng đến nó."
+                },
+                {
+                    "id": "retention_optimization_vocabulary",
+                    "title": "Từ vựng và chiến lược giữ chân người chơi",
+                    "type": "detail",
+                    "description": "Khám phá các thuật ngữ như onboarding, engagement loop, daily reward, và push notification cùng với chiến lược cụ thể để tăng tỷ lệ giữ chân.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu rõ các yếu tố khiến người chơi quay lại game",
+                            "Biết cách áp dụng chiến lược nội dung, thưởng, và thông báo để tăng retention"
+                        ],
+                        "explanation": {
+                            "text": "Để tối ưu hóa retention, nhà phát triển cần tập trung vào trải nghiệm khởi đầu (onboarding), vòng lặp tương tác (engagement loop), phần thưởng hàng ngày, và thông báo push thông minh. Những yếu tố này giữ cho người chơi cảm thấy hứng thú và có lý do quay lại mỗi ngày.",
+                            "image": null,
+                            "description": "Tóm tắt các chiến lược then chốt trong việc tăng tỷ lệ giữ chân người chơi."
+                        },
+                        "examples": [
+                            {
+                                "en": "A clear and rewarding onboarding helps players understand the game quickly and feel motivated to continue.",
+                                "vi": "Một quá trình khởi đầu rõ ràng và hấp dẫn giúp người chơi hiểu game nhanh và có động lực tiếp tục."
+                            },
+                            {
+                                "en": "Daily login rewards give players a reason to come back every day.",
+                                "vi": "Phần thưởng đăng nhập hàng ngày tạo lý do để người chơi quay lại mỗi ngày."
+                            },
+                            {
+                                "en": "Smart push notifications remind players about events or rewards, increasing re-engagement.",
+                                "vi": "Thông báo đẩy thông minh nhắc người chơi về sự kiện hoặc phần thưởng, tăng khả năng quay lại game."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "retention_optimization_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_mobile_game_monetization",
+            "title": "Bài 35: Chiến lược kiếm tiền trong game di động (Mobile Game Monetization Strategies)",
+            "description": "Khám phá các mô hình kiếm tiền phổ biến như quảng cáo, mua hàng trong ứng dụng và thuê bao, đồng thời học cách tích hợp hiệu quả vào trải nghiệm người chơi.",
+            "duration": "25-35 phút",
+            "sections": [
+                {
+                    "id": "monetization_intro",
+                    "title": "Giới thiệu về kiếm tiền từ game di động",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/9b853c8f159b2533c5d13e12640bb367/raw/monetization_intro.md",
+                    "description": "Tổng quan các hình thức kiếm tiền chính và những yếu tố cần cân nhắc khi xây dựng chiến lược doanh thu cho game di động."
+                },
+                {
+                    "id": "monetization_models",
+                    "title": "Các mô hình kiếm tiền phổ biến",
+                    "type": "detail",
+                    "description": "Tìm hiểu ưu và nhược điểm của từng mô hình như quảng cáo, IAP (in-app purchases), thuê bao, và kết hợp nhiều hình thức.",
+                    "detail": {
+                        "objectives": [
+                            "Biết được các hình thức kiếm tiền phổ biến trong game di động",
+                            "Hiểu cách áp dụng phù hợp với loại game và hành vi người chơi"
+                        ],
+                        "explanation": {
+                            "text": "Các chiến lược kiếm tiền chính trong game di động gồm: hiển thị quảng cáo (rewarded ads, banner, interstitial), bán vật phẩm hoặc chức năng trong game (in-app purchases), và mô hình đăng ký theo tháng (subscription). Việc lựa chọn mô hình phù hợp cần dựa trên thể loại game, tệp người dùng và mục tiêu doanh thu.",
+                            "image": null,
+                            "description": "Tóm tắt các phương pháp kiếm tiền trong game di động kèm ví dụ thực tế."
+                        },
+                        "examples": [
+                            {
+                                "en": "Rewarded ads offer players optional videos in exchange for in-game bonuses.",
+                                "vi": "Quảng cáo thưởng cho phép người chơi xem video để nhận phần thưởng trong game."
+                            },
+                            {
+                                "en": "In-app purchases let players buy skins, power-ups, or extra lives.",
+                                "vi": "Mua hàng trong ứng dụng giúp người chơi mua skin, tăng sức mạnh hoặc thêm lượt chơi."
+                            },
+                            {
+                                "en": "Subscription models provide ongoing content or benefits for a monthly fee.",
+                                "vi": "Mô hình thuê bao cung cấp nội dung hoặc lợi ích liên tục với một khoản phí hàng tháng."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "monetization_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_gaming_community_player_management",
+            "title": "Bài 36: Cộng đồng game thủ và quản lý người chơi (Gaming Community & Player Management)",
+            "description": "Tìm hiểu vai trò của cộng đồng game thủ trong sự phát triển lâu dài của game, cùng các phương pháp tương tác và quản lý người chơi hiệu quả.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "gaming_community_intro",
+                    "title": "Giới thiệu về cộng đồng game và người chơi",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/dec006ab90a5746c6c2133c98f0a8903/raw/gaming_community_intro.md",
+                    "description": "Tổng quan vai trò của cộng đồng trong việc giữ chân người chơi, lan tỏa game và thu hút người dùng mới."
+                },
+                {
+                    "id": "player_management_strategies",
+                    "title": "Chiến lược xây dựng cộng đồng và quản lý người chơi",
+                    "type": "detail",
+                    "description": "Khám phá cách xây dựng cộng đồng bền vững, xử lý phản hồi, kiểm soát hành vi tiêu cực và tạo sân chơi tích cực.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu tầm quan trọng của cộng đồng game trong việc duy trì độ phổ biến và sức sống của trò chơi",
+                            "Nắm vững các phương pháp giao tiếp, hỗ trợ và quản lý hành vi người chơi"
+                        ],
+                        "explanation": {
+                            "text": "Một cộng đồng tích cực giúp trò chơi phát triển bền vững. Quản lý cộng đồng bao gồm việc cung cấp kênh liên lạc, tổ chức sự kiện, giải quyết xung đột, và thu thập phản hồi người chơi để cải thiện game.",
+                            "image": null,
+                            "description": "Tóm tắt những chiến lược quan trọng giúp xây dựng cộng đồng mạnh mẽ và duy trì sự tương tác tích cực giữa người chơi và đội phát triển."
+                        },
+                        "examples": [
+                            {
+                                "en": "Creating an official Discord server helps developers communicate directly with players.",
+                                "vi": "Tạo máy chủ Discord chính thức giúp nhà phát triển giao tiếp trực tiếp với người chơi."
+                            },
+                            {
+                                "en": "Moderating toxic behavior keeps the community welcoming for new players.",
+                                "vi": "Kiểm soát hành vi độc hại giúp cộng đồng thân thiện hơn với người chơi mới."
+                            },
+                            {
+                                "en": "Organizing in-game events or contests can boost community engagement.",
+                                "vi": "Tổ chức sự kiện hoặc cuộc thi trong game giúp tăng sự gắn kết cộng đồng."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "gaming_community_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_team_communication_game_dev",
+            "title": "Bài 37: Giao tiếp nhóm trong phát triển game (Team Communication in Game Development)",
+            "description": "Khám phá cách giao tiếp hiệu quả trong nhóm phát triển game bao gồm nhà thiết kế, lập trình viên, nghệ sĩ, và quản lý dự án để đảm bảo tiến độ và chất lượng sản phẩm.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "team_communication_intro",
+                    "title": "Giới thiệu về giao tiếp nhóm",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/21e5eae896a2262de59fc1b98e3a2920/raw/team_communication_intro.md",
+                    "description": "Tại sao giao tiếp hiệu quả là yếu tố then chốt trong hợp tác phát triển game, đặc biệt là trong môi trường nhóm đa chức năng."
+                },
+                {
+                    "id": "team_communication_strategies",
+                    "title": "Chiến lược và từ vựng giao tiếp nhóm",
+                    "type": "detail",
+                    "description": "Học các cụm từ, biểu thức và quy tắc giao tiếp rõ ràng, lịch sự trong môi trường phát triển game chuyên nghiệp.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu vai trò của giao tiếp trong hiệu quả làm việc nhóm",
+                            "Sử dụng đúng ngôn ngữ khi họp nhóm, báo cáo tiến độ, hoặc xử lý xung đột"
+                        ],
+                        "explanation": {
+                            "text": "Giao tiếp nhóm hiệu quả cần sự rõ ràng, tôn trọng và cập nhật thường xuyên. Các công cụ phổ biến như Slack, Trello hoặc Jira hỗ trợ quản lý công việc và trao đổi ý tưởng nhanh chóng. Việc sử dụng ngôn ngữ phù hợp giúp tăng sự tin tưởng và phối hợp giữa các thành viên.",
+                            "image": null,
+                            "description": "Tóm tắt vai trò của giao tiếp trong quy trình phát triển game hiện đại, cùng các kỹ thuật để làm việc nhóm tốt hơn."
+                        },
+                        "examples": [
+                            {
+                                "en": "Let's have a quick stand-up meeting to check progress.",
+                                "vi": "Hãy họp nhanh để kiểm tra tiến độ nhé."
+                            },
+                            {
+                                "en": "Could you please update the task status in Jira?",
+                                "vi": "Bạn có thể cập nhật trạng thái công việc trên Jira không?"
+                            },
+                            {
+                                "en": "I disagree with this approach, but I'm open to suggestions.",
+                                "vi": "Tôi không đồng ý với hướng đi này, nhưng tôi sẵn sàng lắng nghe đề xuất khác."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "team_communication_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_design_documents",
+            "title": "Bài 38: Viết tài liệu thiết kế game (Writing Game Design Documents)",
+            "description": "Tìm hiểu cách viết tài liệu thiết kế game (GDD) rõ ràng, logic và chuyên nghiệp để truyền đạt ý tưởng hiệu quả đến toàn bộ nhóm phát triển.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "gdd_intro",
+                    "title": "Giới thiệu về tài liệu thiết kế game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/50ade7aa964d363ef8011c7e864686b0/raw/gdd_intro.md",
+                    "description": "Khái niệm và vai trò của Game Design Document trong quy trình phát triển game."
+                },
+                {
+                    "id": "gdd_components",
+                    "title": "Cấu trúc và ngôn ngữ của GDD",
+                    "type": "detail",
+                    "description": "Hướng dẫn viết các phần chính trong tài liệu như gameplay, nhân vật, cốt truyện, UI, cùng các mẫu câu tiếng Anh chuyên dùng.",
+                    "detail": {
+                        "objectives": [
+                            "Hiểu được cấu trúc chuẩn của một GDD",
+                            "Sử dụng được từ vựng và mẫu câu tiếng Anh phù hợp khi viết tài liệu thiết kế"
+                        ],
+                        "explanation": {
+                            "text": "Một GDD thường bao gồm: mô tả gameplay, luật chơi, nhân vật, level design, hệ thống UI, và nội dung âm thanh. GDD cần súc tích, dễ hiểu, sử dụng ngôn ngữ chính xác để tránh hiểu lầm giữa các bộ phận.",
+                            "image": null,
+                            "description": "Tóm tắt các thành phần cần có và cách sử dụng tiếng Anh rõ ràng trong tài liệu thiết kế game."
+                        },
+                        "examples": [
+                            {
+                                "en": "Players must collect five keys to unlock the final gate.",
+                                "vi": "Người chơi phải thu thập 5 chìa khóa để mở cánh cổng cuối."
+                            },
+                            {
+                                "en": "The main character is a time-traveling detective.",
+                                "vi": "Nhân vật chính là một thám tử du hành thời gian."
+                            },
+                            {
+                                "en": "Each level introduces a new enemy type and mechanic.",
+                                "vi": "Mỗi màn chơi sẽ giới thiệu một loại kẻ thù và cơ chế mới."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "gdd_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_testing_english",
+            "title": "Bài 39: Tiếng Anh cho kiểm thử game (English for Game Testing)",
+            "description": "Học từ vựng, mẫu câu và kỹ năng tiếng Anh cần thiết để viết báo cáo lỗi, mô tả tình huống test, và giao tiếp hiệu quả trong nhóm QA.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_testing_intro",
+                    "title": "Giới thiệu về kiểm thử game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/77c0957ed00276917dc7a8462c4ce883/raw/game_testing_intro.md",
+                    "description": "Tầm quan trọng của kiểm thử game trong phát triển sản phẩm chất lượng và trải nghiệm người dùng tốt."
+                },
+                {
+                    "id": "bug_reporting_language",
+                    "title": "Ngôn ngữ và cấu trúc báo cáo lỗi",
+                    "type": "detail",
+                    "description": "Tìm hiểu cách mô tả lỗi rõ ràng bằng tiếng Anh, cách dùng các thuật ngữ QA phổ biến và cấu trúc viết bug report chuyên nghiệp.",
+                    "detail": {
+                        "objectives": [
+                            "Biết cách viết và mô tả lỗi một cách chính xác và dễ hiểu",
+                            "Sử dụng đúng từ vựng và cấu trúc tiếng Anh chuyên ngành QA/game testing"
+                        ],
+                        "explanation": {
+                            "text": "Một báo cáo lỗi nên bao gồm: tiêu đề, bước tái hiện lỗi (reproduction steps), kết quả mong đợi vs. thực tế, và mức độ nghiêm trọng. Việc sử dụng từ ngữ rõ ràng giúp nhà phát triển hiểu và sửa lỗi nhanh hơn.",
+                            "image": null,
+                            "description": "Tóm tắt cấu trúc báo cáo lỗi và những thuật ngữ phổ biến như bug, glitch, crash, soft lock, repro rate, expected/actual result."
+                        },
+                        "examples": [
+                            {
+                                "en": "Bug: Game crashes when opening the inventory menu after pausing.",
+                                "vi": "Lỗi: Game bị crash khi mở menu hành trang sau khi tạm dừng."
+                            },
+                            {
+                                "en": "Expected result: The player returns to the main menu. Actual result: The game freezes.",
+                                "vi": "Kết quả mong đợi: Người chơi trở về menu chính. Kết quả thực tế: Game bị đơ."
+                            },
+                            {
+                                "en": "Repro steps: 1. Pause the game. 2. Open inventory. 3. Resume game.",
+                                "vi": "Các bước tái hiện: 1. Tạm dừng game. 2. Mở hành trang. 3. Tiếp tục game."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_testing_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": "lesson_game_roles",
+            "title": "Bài 40: Vai trò và cấp bậc trong ngành phát triển game (Roles and Hierarchies in Game Development)",
+            "description": "Tìm hiểu từ vựng và mẫu câu tiếng Anh mô tả các chức danh, vai trò và cấp bậc phổ biến trong đội ngũ phát triển game.",
+            "duration": "20-30 phút",
+            "sections": [
+                {
+                    "id": "game_roles_intro",
+                    "title": "Giới thiệu các vai trò trong team phát triển game",
+                    "type": "markdown",
+                    "fileUrl": "https://gist.githubusercontent.com/manhuni/ff5af7a87ea13783458a3a5da41e248e/raw/game_roles_intro.md",
+                    "description": "Tổng quan về tổ chức nhân sự trong một studio game hiện đại: từ lập trình đến nghệ thuật, từ thiết kế đến phân tích kinh doanh."
+                },
+                {
+                    "id": "game_roles_details",
+                    "title": "Chức danh, cấp bậc và mô tả công việc",
+                    "type": "detail",
+                    "description": "Học cách giới thiệu chức vụ, mô tả nhiệm vụ và hiểu sự phân cấp trong đội ngũ phát triển game bằng tiếng Anh.",
+                    "detail": {
+                        "objectives": [
+                            "Ghi nhớ các chức danh phổ biến trong phát triển game",
+                            "Sử dụng đúng từ vựng và mẫu câu để giới thiệu vai trò cá nhân hoặc đồng nghiệp bằng tiếng Anh"
+                        ],
+                        "explanation": {
+                            "text": "Mỗi bộ phận trong studio game có các vai trò riêng biệt: Artist tạo hình ảnh; Developer viết code; Game Designer xây dựng gameplay; QA kiểm thử; Producer quản lý tiến độ; BA phân tích nhu cầu người dùng; mỗi vai trò có nhiều cấp bậc như Junior, Mid-level, Senior, Lead.",
+                            "image": null,
+                            "description": "Phân biệt rõ các chức danh như 'Junior Environment Artist', 'Senior Gameplay Engineer', 'Lead Game Designer', 'QA Analyst', 'Product Owner', v.v."
+                        },
+                        "examples": [
+                            {
+                                "en": "She is a Lead 2D Artist responsible for character design.",
+                                "vi": "Cô ấy là Họa sĩ 2D trưởng, phụ trách thiết kế nhân vật."
+                            },
+                            {
+                                "en": "I'm working as a Junior Backend Developer in the multiplayer team.",
+                                "vi": "Tôi đang làm lập trình viên backend cấp junior trong nhóm multiplayer."
+                            },
+                            {
+                                "en": "Our Game Producer ensures that all milestones are delivered on time.",
+                                "vi": "Nhà sản xuất game của chúng tôi đảm bảo các mốc tiến độ được hoàn thành đúng hạn."
+                            }
+                        ],
+                        "practice": {
+                            "audioPractice": [],
+                            "quiz": []
+                        },
+                        "resources": {
+                            "videoUrl": null,
+                            "pdfNotes": "game_roles_notes.pdf"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
