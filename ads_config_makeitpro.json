@@ -1,0 +1,35 @@
+{
+  "isAdsEnabled": false,
+  "ads": [
+    {
+      "name": "Quảng cáo 1",
+      "contact": "0901234567",
+      "imageUrl": "https://youradimage1.com",
+      "link": "https://youradlink1.com"
+    },
+    {
+      "name": "Quảng cáo 2",
+      "contact": "0902345678",
+      "imageUrl": "https://youradimage2.com",
+      "link": "https://youradlink2.com"
+    },
+    {
+      "name": "Quảng cáo 3",
+      "contact": "0902345678",
+      "imageUrl": "https://youradimage2.com",
+      "link": "https://youradlink2.com"
+    },
+    {
+      "name": "Quảng cáo 4",
+      "contact": "0902345678",
+      "imageUrl": "https://youradimage2.com",
+      "link": "https://youradlink2.com"
+    },
+    {
+      "name": "Quảng cáo 5",
+      "contact": "0902345678",
+      "imageUrl": "https://youradimage2.com",
+      "link": "https://youradlink2.com"
+    }
+  ]
+}
