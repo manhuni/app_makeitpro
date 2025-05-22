@@ -1,44 +1,69 @@
 {
-  "intro_pdf": [
-          {
-              "type": "github",
-              "description": "Grammar: Using Prepositions",
-              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/Prepositions%20Final.pdf"
-          },
-          {
-              "type": "github",
-              "description": "Grammar Cheatsheet",
-              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/Grammar%20Cheatsheet.pdf"
-          },
-          {
-              "type": "github",
-              "description": "Sentence Types and Functions",
-              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/Sentence%20Types%20and%20Functions.pdf"
-          },
-          {
-              "type": "github",
-              "description": "Academic Writing Cheat Sheet English",
-              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/pdf/data/Academic-Writing-Cheat-Sheet-English.pdf"
-          },
-          {
-              "type": "github",
-              "description": "Commas Cheat Sheet",
-              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/commas.pdf"
-          },
-          {
-              "type": "github",
-              "description": "Complete Phrasal Verbs List",
-              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/Complete-PV-list.pdf"
-          },
-          {
-              "type": "github",
-              "description": "TỰ HỌC PHÁT ÂM TIẾNG ANH CHUẨN CÙNG IEC",
-              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/IEC-Tai-lieu-phat-am-Tieng-Anh.pdf"
-          },
-          {
-              "type": "github",
-              "description": "CHUYÊN ĐỀ NGỮ ÂM ÔN THI THPT QG PHÁT ÂM - PRONUNCIATION",
-              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/CHUYEN%20DE%20NGU%20AM%20ON%20THI%20THPT%20QG.pdf"
-          }
-      ]
+    "intro_pdf": [
+        {
+            "type": "github",
+            "description": "Grammar: Using Prepositions",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/Prepositions%20Final.pdf"
+        },
+        {
+            "type": "github",
+            "description": "Grammar Cheatsheet",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/Grammar%20Cheatsheet.pdf"
+        },
+        {
+            "type": "github",
+            "description": "Sentence Types and Functions",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/Sentence%20Types%20and%20Functions.pdf"
+        },
+        {
+            "type": "github",
+            "description": "Academic Writing Cheat Sheet English",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/pdf/data/Academic-Writing-Cheat-Sheet-English.pdf"
+        },
+        {
+            "type": "github",
+            "description": "Commas Cheat Sheet",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/commas.pdf"
+        },
+        {
+            "type": "github",
+            "description": "Complete Phrasal Verbs List",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/Complete-PV-list.pdf"
+        },
+        {
+            "type": "github",
+            "description": "TỰ HỌC PHÁT ÂM TIẾNG ANH CHUẨN CÙNG IEC",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/IEC-Tai-lieu-phat-am-Tieng-Anh.pdf"
+        },
+        {
+            "type": "github",
+            "description": "CHUYÊN ĐỀ NGỮ ÂM ÔN THI THPT QG PHÁT ÂM - PRONUNCIATION",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/CHUYEN%20DE%20NGU%20AM%20ON%20THI%20THPT%20QG.pdf"
+        },
+        {
+            "type": "github",
+            "description": "49 QUY TẮC ĐÁNH VẦN VÀ ĐỌC TIẾNG ANH",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/50-Quy-tac-Danh-van-tieng-Anh_Nguyen-Ngoc-Nam.pdf"
+        },
+        {
+            "type": "github",
+            "description": "Một số trao đổi về cách sử dụng ngữ âm tiếng Anh",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/97054-Article%20Text-205585-1-10-20240603.pdf"
+        },
+        {
+            "type": "github",
+            "description": "Làm thế nào để có thể học phát âm tiếng Anh một cách khoa học và hiệu quả hơn",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/how-to-polish-your-pronunciation-like-a-native.pdf"
+        },
+        {
+            "type": "github",
+            "description": "Cuộc điều tra về lỗi phát âm trong tiếng anh của sinh viên chuyên ngữ trường đại học cửu long",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/36663-805-118150-1-10-20180818.pdf"
+        },
+        {
+            "type": "github",
+            "description": "Năng lực phát âm tiếng anh của sinh viên ngành ngôn",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/86524-Article%20Text-192803-1-10-20231112.pdf"
+        }
+    ]
 }
