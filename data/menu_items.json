@@ -31,28 +31,28 @@
   {
     "id": "dictionary",
     "title": "Từ điển",
-    "icon": "book",
+    "icon": "dictionary",
     "route": "/dictionary",
     "description": "Tra cứu từ điển online"
   },
   {
     "id": "wiktionary",
     "title": "Wiktionary",
-    "icon": "book",
+    "icon": "wiktionary",
     "route": "/wiktionary",
     "description": "Tra cứu wiki online"
   },
   {
     "id": "news",
     "title": "Tin tức",
-    "icon": "rss_feed",
+    "icon": "news",
     "route": "/news",
     "description": "Tổng hợp tin tức từ các nguồn RSS"
   },
   {
     "id": "lookaround",
     "title": "Tìm quanh đây",
-    "icon": "location_searching",
+    "icon": "lookaround",
     "route": "/lookaround",
     "description": "Tìm các địa điểm quanh vị trí hiện tại"
   },
