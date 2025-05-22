@@ -57,13 +57,23 @@
         },
         {
             "type": "github",
-            "description": "Cuộc điều tra về lỗi phát âm trong tiếng anh của sinh viên chuyên ngữ trường đại học cửu long",
+            "description": "Cuộc điều tra về lỗi phát âm trong tiếng anh của sinh viên chuyên ngữ trường Đại Học Cửu Long",
             "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/36663-805-118150-1-10-20180818.pdf"
         },
         {
             "type": "github",
-            "description": "Năng lực phát âm tiếng anh của sinh viên ngành ngôn",
+            "description": "NĂNG LỰC PHÁT ÂM TIẾNG ANH CỦA SINH VIÊN NGÀNH NGÔN NGỮ ANH- HUBT: VẤN ĐỀ VÀ GIẢI PHÁP",
             "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/86524-Article%20Text-192803-1-10-20231112.pdf"
+        },
+        {
+            "type": "github",
+            "description": "ĐỀ CƯƠNG CHI TIẾT HỌC PHẦN Ngữ âm Thực hành Cơ bản (Basic English Pronunciation)",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/SG282.pdf"
+        },
+        {
+            "type": "github",
+            "description": "KHẢO SÁT VIỆC PHÁT ÂM ÂM CUỐI CỦA DẠNG SỐ NHIỀU CỦA SINH VIÊN NĂM HAI KHOA TIẾNG ANH, TRƯỜNG ĐẠI HỌC NGOẠI NGỮ - ĐẠI HỌC ĐÀ NẴNG",
+            "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/3560-Văn%20bản%20của%20bài%20báo-6322-1-10-20210603.pdf"
         }
     ]
 }
