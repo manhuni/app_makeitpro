@@ -29,6 +29,16 @@
               "type": "github",
               "description": "Complete Phrasal Verbs List",
               "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/Complete-PV-list.pdf"
+          },
+          {
+              "type": "github",
+              "description": "TỰ HỌC PHÁT ÂM TIẾNG ANH CHUẨN CÙNG IEC",
+              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/IEC-Tai-lieu-phat-am-Tieng-Anh.pdf"
+          },
+          {
+              "type": "github",
+              "description": "CHUYÊN ĐỀ NGỮ ÂM ÔN THI THPT QG PHÁT ÂM - PRONUNCIATION",
+              "url": "https://raw.githubusercontent.com/manhuni/app_makeitpro/main/data/pdf/CHUYEN%20DE%20NGU%20AM%20ON%20THI%20THPT%20QG.pdf"
           }
       ]
 }
