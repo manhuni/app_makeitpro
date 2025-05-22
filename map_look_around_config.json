@@ -1,0 +1,5 @@
+{
+  "overpassUrl": "https://overpass-api.de/api/interpreter",
+  "tileLayerUrl": "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+  "tileLayerSubdomains": ["a", "b", "c"]
+}
