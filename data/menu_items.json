@@ -50,6 +50,13 @@
     "description": "Tổng hợp tin tức từ các nguồn RSS"
   },
   {
+    "id": "lookaround",
+    "title": "Tìm quanh đây",
+    "icon": "location_searching",
+    "route": "/lookaround",
+    "description": "Tìm các địa điểm quanh vị trí hiện tại"
+  },
+  {
     "id": "help",
     "title": "Trợ giúp",
     "icon": "help",
