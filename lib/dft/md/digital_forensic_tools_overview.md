@@ -52,3 +52,66 @@ Digital forensic tools là công cụ không thể thiếu trong việc điều 
 ---
 
 Nếu bạn muốn, mình có thể hướng dẫn bạn cách sử dụng hoặc cài đặt một số công cụ này nhé!
+
+# Digital Forensic Tools - Học những gì và có thể làm được gì?
+
+## 1. Digital Forensic Tools là gì?
+
+Digital forensic tools là các công cụ phần mềm dùng để thu thập, phân tích, phục hồi và bảo toàn bằng chứng kỹ thuật số từ các thiết bị như máy tính, điện thoại, ổ cứng, mạng,... nhằm phục vụ công tác điều tra tội phạm công nghệ và sự cố an ninh mạng.
+
+---
+
+## 2. Học những gì khi làm việc với Digital Forensic Tools?
+
+- **Kiến thức về hệ điều hành:**  
+  Hiểu rõ cấu trúc file system (NTFS, FAT, EXT...), cách hoạt động của Windows, Linux, macOS.
+
+- **Kiến thức về mạng máy tính:**  
+  Hiểu các giao thức mạng, phân tích lưu lượng mạng, log mạng.
+
+- **Phân tích dữ liệu:**  
+  Phục hồi dữ liệu bị xóa, phân tích metadata, log files, file signatures.
+
+- **Memory Forensics:**  
+  Phân tích bộ nhớ RAM để phát hiện tiến trình ẩn, malware.
+
+- **Mã hóa và giải mã:**  
+  Hiểu các thuật toán mã hóa, cách giải mã dữ liệu phục vụ điều tra.
+
+- **Sử dụng công cụ forensic:**  
+  Thành thạo các phần mềm như Autopsy, Sleuth Kit, Volatility, Wireshark,...
+
+- **Quy trình pháp y kỹ thuật số:**  
+  Hiểu các bước thu thập, bảo quản và trình bày bằng chứng sao cho hợp pháp.
+
+---
+
+## 3. Có thể làm được gì với Digital Forensic Tools?
+
+- **Phục hồi dữ liệu đã xóa hoặc bị ẩn:**  
+  Khôi phục file quan trọng bị mất hoặc xóa cố ý.
+
+- **Phân tích hành vi người dùng:**  
+  Tìm hiểu các hoạt động trên máy tính, lịch sử truy cập.
+
+- **Phát hiện malware và rootkit:**  
+  Tìm dấu hiệu phần mềm độc hại và các chương trình ẩn.
+
+- **Phân tích lưu lượng mạng:**  
+  Giám sát và phân tích các gói tin mạng để phát hiện các cuộc tấn công.
+
+- **Hỗ trợ điều tra tội phạm công nghệ:**  
+  Thu thập và bảo toàn bằng chứng kỹ thuật số để phục vụ tố tụng.
+
+- **Phát hiện và xử lý sự cố an ninh:**  
+  Điều tra nguyên nhân sự cố, lỗ hổng bảo mật.
+
+---
+
+## 4. Kết luận
+
+Digital forensic tools giúp chuyên gia an ninh và điều tra viên hiểu rõ hơn về các sự kiện xảy ra trên thiết bị kỹ thuật số, phát hiện hành vi gian lận, tấn công mạng hoặc các vi phạm khác. Việc học và sử dụng thành thạo các công cụ này rất quan trọng trong lĩnh vực an ninh mạng hiện đại.
+
+---
+
+Nếu bạn muốn, mình có thể giúp bạn lên kế hoạch học tập hoặc giới thiệu tài liệu học về Digital Forensics nhé!
