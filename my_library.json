@@ -1,22 +1,7 @@
 [
     {
-        "name": "My Job",
-        "url": "https://github.com/manhuni/app_makeitpro/blob/main/data/myjob",
-        "description": "Các file liên quan đến công việc"
-    },
-    {
-        "name": "Audio",
-        "url": "https://github.com/manhuni/app_makeitpro/blob/main/data/audio",
+        "name": "IPA",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/ipa",
         "description": "Thư viện nhạc và âm thanh"
-    },
-    {
-        "name": "Pdf",
-        "url": "https://github.com/manhuni/app_makeitpro/blob/main/data/pdf",
-        "description": "Thư viện nhạc và âm thanh"
-    },
-    {
-        "name": "Photo",
-        "url": "https://github.com/manhuni/app_makeitpro/blob/main/data/photo",
-        "description": "Kho hình ảnh"
     }
 ]
