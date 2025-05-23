@@ -57,6 +57,13 @@
     "description": "Tìm các địa điểm quanh vị trí hiện tại"
   },
   {
+    "id": "library",
+    "title": "Thư viện",
+    "icon": "library",
+    "route": "/library",
+    "description": "Thư viện của tôi"
+  },
+  {
     "id": "help",
     "title": "Trợ giúp",
     "icon": "help",
