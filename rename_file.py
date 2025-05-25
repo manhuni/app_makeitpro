@@ -11,7 +11,7 @@ def rename_files_replace_space_with_underscore(folder_path):
     print('Đổi tên hoàn tất!')
 
 if __name__ == '__main__':
-    folder = './lib/ipa/audio/Interactive IPA Chart 2022'
+    folder = './lib/ipa/pdf'
     if os.path.isdir(folder):
         rename_files_replace_space_with_underscore(folder)
     else:
