@@ -13,5 +13,10 @@
         "name": "Misc",
         "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/misc",
         "description": "Tổng hợp"
+    },
+    {
+        "name": "Pentest Course",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/pentest-course",
+        "description": "Khoá học pentest"
     }
 ]
