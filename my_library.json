@@ -5,6 +5,11 @@
         "description": "Thư viện IPA"
     },
     {
+        "name": "Hội thoại tiếng anh lingoneo.org",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/lingoneo.org",
+        "description": "Thư viện hội thoại tiếng anh lingoneo.org"
+    },
+    {
         "name": "Digital forensic tools",
         "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/dft",
         "description": "Công cụ pháp y kỹ thuật số"
