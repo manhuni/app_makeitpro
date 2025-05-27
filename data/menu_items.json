@@ -64,6 +64,13 @@
     "description": "Thư viện của tôi"
   },
   {
+    "id": "files",
+    "title": "Tập tin",
+    "icon": "files",
+    "route": "/files",
+    "description": "Tập tin của tôi"
+  },
+  {
     "id": "help",
     "title": "Trợ giúp",
     "icon": "help",
