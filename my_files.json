@@ -1,22 +1,7 @@
 [
     {
-        "name": "IPA",
-        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/ipa",
-        "description": "Thư viện IPA"
-    },
-    {
-        "name": "Digital forensic tools",
-        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/dft",
-        "description": "Công cụ pháp y kỹ thuật số"
-    },
-    {
-        "name": "Misc",
-        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/misc",
-        "description": "Tổng hợp"
-    },
-    {
-        "name": "Pentest Course",
-        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/pentest-course",
-        "description": "Khoá học pentest"
-    }
+        "name": "IPA Audio",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/ipa/audio",
+        "description": "Thư viện adio IPA"
+    } 
 ]
