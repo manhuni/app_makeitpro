@@ -1,27 +1,17 @@
 [
     {
-        "name": "IPA",
-        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/ipa",
-        "description": "Thư viện IPA"
+        "name": "IPA Audio",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/ipa/audio/Interactive%20IPA%20Chart%202022",
+        "description": "Thư viện adio IPA"
     },
     {
-        "name": "Digital forensic tools",
-        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/dft",
-        "description": "Công cụ pháp y kỹ thuật số"
+        "name": "IPA PDF",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/ipa/pdf",
+        "description": "Thư viện pdf IPA"
     },
     {
-        "name": "Misc",
-        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/misc",
-        "description": "Tổng hợp"
-    },
-    {
-        "name": "Pentest Course",
-        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/pentest-course",
-        "description": "Khoá học pentest"
-    },
-    {
-        "name": "Hội thoại tiếng anh lingoneo.org",
+        "name": "lingoneo.org",
         "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/lingoneo",
-        "description": "Thư viện hội thoại tiếng anh lingoneo.org"
+        "description": "Thư viện hội thoại tiếng anh từ lingoneo.org"
     }
 ]
