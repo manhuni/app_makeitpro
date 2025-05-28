@@ -2,7 +2,17 @@
     {
         "name": "IPA Audio",
         "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/ipa/audio/Interactive%20IPA%20Chart%202022",
-        "description": "Thư viện adio IPA"
+        "description": "Thư viện audio IPA"
+    },
+    {
+        "name": "IPA Moon Esl",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/ipa/audio/IPA%20Moon%20Esl",
+        "description": "Thư viện audio IPA Moon Esl"
+    },
+    {
+        "name": "IPA Phonemic Chart English with Lucy",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/ipa/audio/Phonemic%20Chart%20English%20with%20Lucy",
+        "description": "Thư viện audio Phonemic Chart English with Lucy"
     },
     {
         "name": "IPA PDF",
