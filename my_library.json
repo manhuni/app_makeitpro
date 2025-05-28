@@ -10,6 +10,11 @@
         "description": "Thư viện audio IPA Moon Esl"
     },
     {
+        "name": "IPA An American IPA chart",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/ipa/audio/An%20American%20IPA%20chart",
+        "description": "Thư viện audio An American IPA chart"
+    },
+    {
         "name": "IPA Phonemic Chart English with Lucy",
         "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/ipa/audio/Phonemic%20Chart%20English%20with%20Lucy",
         "description": "Thư viện audio Phonemic Chart English with Lucy"
