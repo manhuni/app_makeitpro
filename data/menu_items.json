@@ -36,6 +36,13 @@
     "description": "Tra cứu từ điển online"
   },
   {
+    "id": "oxford_dictionary",
+    "title": "Từ điển Oxford",
+    "icon": "oxford_dictionary",
+    "route": "/oxford_dictionary",
+    "description": "Tra cứu từ điển Oxford online"
+  },
+  {
     "id": "wiktionary",
     "title": "Wiktionary",
     "icon": "wiktionary",
