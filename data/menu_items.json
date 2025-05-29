@@ -1,34 +1,5 @@
 [
   {
-    "id": "profile",
-    "title": "Hồ sơ",
-    "icon": "profile",
-    "route": "/profile",
-    "description": "Thông tin cá nhân"
-  },
-  {
-    "id": "settings",
-    "title": "Cài đặt",
-    "icon": "settings",
-    "route": "/settings",
-    "description": "Tùy chỉnh ứng dụng"
-  },
-  {
-    "id": "history",
-    "title": "Lịch sử",
-    "icon": "history",
-    "route": "/history",
-    "description": "Lịch sử hoạt động"
-  },
-  {
-    "id": "payment",
-    "title": "Thanh toán",
-    "icon": "payment",
-    "route": "/payment",
-    "color": "#4CAF50",
-    "description": "Quản lý thanh toán"
-  },
-  {
     "id": "dictionary",
     "title": "Từ điển",
     "icon": "dictionary",
@@ -76,6 +47,35 @@
     "icon": "library",
     "route": "/library",
     "description": "Thư viện của tôi"
+  },
+  {
+    "id": "profile",
+    "title": "Hồ sơ",
+    "icon": "profile",
+    "route": "/profile",
+    "description": "Thông tin cá nhân"
+  },
+  {
+    "id": "settings",
+    "title": "Cài đặt",
+    "icon": "settings",
+    "route": "/settings",
+    "description": "Tùy chỉnh ứng dụng"
+  },
+  {
+    "id": "history",
+    "title": "Lịch sử",
+    "icon": "history",
+    "route": "/history",
+    "description": "Lịch sử hoạt động"
+  },
+  {
+    "id": "payment",
+    "title": "Thanh toán",
+    "icon": "payment",
+    "route": "/payment",
+    "color": "#4CAF50",
+    "description": "Quản lý thanh toán"
   },
   {
     "id": "help",
