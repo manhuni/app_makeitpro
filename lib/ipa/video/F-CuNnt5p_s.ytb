@@ -1,0 +1,25 @@
+{
+    "word": "/iː/",
+    "exampleWords": [
+        "see",
+        "green",
+        "seat",
+        "machine",
+        "belief"
+    ],
+    "exampleWordHighlighted": "s**ee**",
+    "definition": "A long close front unrounded vowel, pronounced with the tongue high and towards the front of the mouth.",
+    "exampleSentence": "I can see the green tree from here.",
+    "exampleSentenceIPA": "/aɪ kæn siː ðə ɡriːn triː frɒm hɪə/",
+    "exampleSentence_vn": "Tôi có thể nhìn thấy cây xanh từ đây.",
+    "audio": "https://example.com/audio/iː.mp3",
+    "tips": "Giữ môi hơi kéo dài như đang cười nhẹ và phát âm âm dài.",
+    "type": "vowel",
+    "tags": [
+        "long vowel",
+        "front vowel",
+        "common"
+    ],
+    "languageLevel": "A1",
+    "mnemonic": "Think of the double 'ee' in 'see' which signals a long /iː/ sound."
+}
