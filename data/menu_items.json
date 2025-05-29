@@ -43,6 +43,13 @@
     "description": "Tra cứu từ điển Oxford online"
   },
   {
+    "id": "tophonetics",
+    "title": "IPA Transcription",
+    "icon": "tophonetics",
+    "route": "/tophonetics",
+    "description": "Tra cứu ipa"
+  },
+  {
     "id": "wiktionary",
     "title": "Wiktionary",
     "icon": "wiktionary",
