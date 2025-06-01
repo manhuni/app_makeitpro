@@ -51,6 +51,30 @@
         { "title": "Sức khỏe đời sống", "rss": "/upload/rss/suckhoedoisong.rss" },
         { "title": "Cười 24h", "rss": "/upload/rss/cuoi24h.rss" }
       ]
+    },
+    "abc": {
+      "domain": "https://feeds.abcnews.com",
+      "channels": [
+        { "title": "Top Stories", "rss": "/abcnews/topstories" },
+        { "title": "U.S. Headlines", "rss": "/abcnews/usheadlines" },
+        { "title": "International Headlines", "rss": "/abcnews/internationalheadlines" },
+        { "title": "Politics Headlines", "rss": "/abcnews/politicsheadlines" },
+        { "title": "Business Headlines", "rss": "/abcnews/moneyheadlines" },
+        { "title": "Technology Headlines", "rss": "/abcnews/technologyheadlines" },
+        { "title": "Health Headlines", "rss": "/abcnews/healthheadlines" },
+        { "title": "Entertainment Headlines", "rss": "/abcnews/entertainmentheadlines" },
+        { "title": "Travel Headlines", "rss": "/abcnews/travelheadlines" },
+        { "title": "ESPN Sports", "rss": "/abcnews/sportsheadlines" },
+        { "title": "World News Headlines", "rss": "/abcnews/worldnewsheadlines" },
+        { "title": "Good Morning America Headlines", "rss": "/abcnews/gmaheadlines" },
+        { "title": "20/20 Headlines", "rss": "/abcnews/2020headlines" },
+        { "title": "Primetime Headlines", "rss": "/abcnews/primetimeheadlines" },
+        { "title": "Nightline Headlines", "rss": "/abcnews/nightlineheadlines" },
+        { "title": "This Week Headlines", "rss": "/abcnews/thisweekheadlines" },
+        { "title": "Most Read Stories", "rss": "/abcnews/mostreadstories" },
+        { "title": "Most Viewed Videos", "rss": "/abcnews/mostviewedvideos" },
+        { "title": "Most Viewed Slideshows", "rss": "/abcnews/mostviewedslideshows" }
+      ]
     }
   }
 }
