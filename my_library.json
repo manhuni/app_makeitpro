@@ -38,5 +38,10 @@
         "name": "lingoneo.org",
         "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/lingoneo",
         "description": "Thư viện hội thoại tiếng anh từ lingoneo.org"
+    },
+    {
+        "name": "ECC",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/ecc",
+        "description": "Emotional Control Course"
     }
 ]
