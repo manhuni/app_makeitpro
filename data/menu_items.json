@@ -49,13 +49,6 @@
     "description": "Thư viện của tôi"
   },
   {
-    "id": "topchartsensortower",
-    "title": "Top Charts",
-    "icon": "topchartsensortower",
-    "route": "/topchartsensortower",
-    "description": "Bảng xếp hạng ứng dụng từ Sensor Tower"
-  },
-  {
     "id": "profile",
     "title": "Hồ sơ",
     "icon": "profile",
