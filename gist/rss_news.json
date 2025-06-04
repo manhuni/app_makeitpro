@@ -259,96 +259,12 @@
         }
       ]
     },
-    "cnn": {
-      "domain": "http://rss.cnn.com",
+    "ycombinator": {
+      "domain": "https://news.ycombinator.com",
       "channels": [
         {
           "title": "All Stories",
-          "rss": "/rss/money_latest.rss"
-        },
-        {
-          "title": "Top Stories",
-          "rss": "/rss/money_topstories.rss"
-        },
-        {
-          "title": "Most Popular",
-          "rss": "/rss/money_mostpopular.rss"
-        },
-        {
-          "title": "Companies",
-          "rss": "/rss/money_news_companies.rss"
-        },
-        {
-          "title": "International",
-          "rss": "/rss/money_news_international.rss"
-        },
-        {
-          "title": "Economy",
-          "rss": "/rss/money_news_economy.rss"
-        },
-        {
-          "title": "Video",
-          "rss": "/rss/money_video_business.rss"
-        },
-        {
-          "title": "Media",
-          "rss": "/rss/money_media.rss"
-        },
-        {
-          "title": "Markets",
-          "rss": "/rss/money_markets.rss"
-        },
-        {
-          "title": "The Buzz",
-          "rss": "/cnnmoneymorningbuzz"
-        },
-        {
-          "title": "Technology",
-          "rss": "/rss/money_technology.rss"
-        },
-        {
-          "title": "Personal Finance",
-          "rss": "/rss/money_pf.rss"
-        },
-        {
-          "title": "Autos",
-          "rss": "/rss/money_autos.rss"
-        },
-        {
-          "title": "Funds",
-          "rss": "/rss/money_funds.rss"
-        },
-        {
-          "title": "College",
-          "rss": "/rss/money_pf_college.rss"
-        },
-        {
-          "title": "Insurance",
-          "rss": "/rss/money_pf_insurance.rss"
-        },
-        {
-          "title": "Taxes",
-          "rss": "/rss/money_pf_taxes.rss"
-        },
-        {
-          "title": "Retirement",
-          "rss": "/rss/money_retirement.rss"
-        },
-        {
-          "title": "Lifestyle",
-          "rss": "/rss/money_lifestyle.rss"
-        },
-        {
-          "title": "Real Estate",
-          "rss": "/rss/money_realestate.rss"
-        },
-        {
-          "title": "Luxury",
-          "rss": "/rss/money_luxury.rss"
-        },
-        {
-          "title": "Small Business",
-          "rss": "/rss/money_smbusiness.rss"
+          "rss": "/rss"
         }
       ]
     }
