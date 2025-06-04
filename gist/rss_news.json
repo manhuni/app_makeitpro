@@ -178,6 +178,87 @@
         }
       ]
     },
+    "tuoitre": {
+      "domain": "https://tuoitre.vn",
+      "channels": [
+        {
+          "title": "Trang chủ",
+          "rss": "/rss/tin-moi-nhat.rss"
+        },
+        {
+          "title": "Thời sự",
+          "rss": "/rss/thoi-su.rss"
+        },
+        {
+          "title": "Thế giới",
+          "rss": "/rss/the-gioi.rss"
+        },
+        {
+          "title": "Pháp luật",
+          "rss": "/rss/phap-luat.rss"
+        },
+        {
+          "title": "Kinh doanh",
+          "rss": "/rss/kinh-doanh.rss"
+        },
+        {
+          "title": "Công nghệ",
+          "rss": "/rss/nhip-song-so.rss"
+        },
+        {
+          "title": "Xe",
+          "rss": "/rss/xe.rss"
+        },
+        {
+          "title": "Nhịp sống trẻ",
+          "rss": "/rss/nhip-song-tre.rss"
+        },
+        {
+          "title": "Văn hóa",
+          "rss": "/rss/van-hoa.rss"
+        },
+        {
+          "title": "Giải trí",
+          "rss": "/rss/giai-tri.rss"
+        },
+        {
+          "title": "Thể thao",
+          "rss": "/rss/the-thao.rss"
+        },
+        {
+          "title": "Giáo dục",
+          "rss": "/rss/giao-duc.rss"
+        },
+        {
+          "title": "Khoa học",
+          "rss": "/rss/khoa-hoc.rss"
+        },
+        {
+          "title": "Sức khỏe",
+          "rss": "/rss/suc-khoe.rss"
+        },
+        {
+          "title": "Giả thật",
+          "rss": "/rss/gia-that.rss"
+        },
+        {
+          "title": "Thư giãn",
+          "rss": "/rss/thu-gian.rss"
+        },
+        {
+          "title": "Bạn đọc",
+          "rss": "/rss/ban-doc.rss"
+        },
+        {
+          "title": "Du lịch",
+          "rss": "/rss/du-lich.rss"
+        },
+        {
+          "title": "Video",
+          "rss": "/video.rss"
+        }
+      ]
+    },
     "abc": {
       "domain": "https://feeds.abcnews.com",
       "channels": [
