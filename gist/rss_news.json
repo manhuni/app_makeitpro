@@ -328,6 +328,303 @@
           "rss": "/obituaries/rss"
         }
       ]
+    },
+    "nytimes": {
+      "domain": "https://rss.nytimes.com",
+      "channels": [
+        {
+          "title": "NYTimes.com Home Page (U.S.)",
+          "rss": "/services/xml/rss/nyt/HomePage.xml"
+        },
+        {
+          "title": "World",
+          "rss": "/services/xml/rss/nyt/World.xml"
+        },
+        {
+          "title": "Africa",
+          "rss": "/services/xml/rss/nyt/Africa.xml"
+        },
+        {
+          "title": "Americas",
+          "rss": "/services/xml/rss/nyt/Americas.xml"
+        },
+        {
+          "title": "Asia Pacific",
+          "rss": "/services/xml/rss/nyt/AsiaPacific.xml"
+        },
+        {
+          "title": "Europe",
+          "rss": "/services/xml/rss/nyt/Europe.xml"
+        },
+        {
+          "title": "Middle East",
+          "rss": "/services/xml/rss/nyt/MiddleEast.xml"
+        },
+        {
+          "title": "U.S.",
+          "rss": "/services/xml/rss/nyt/US.xml"
+        },
+        {
+          "title": "Education",
+          "rss": "/services/xml/rss/nyt/Education.xml"
+        },
+        {
+          "title": "Politics",
+          "rss": "/services/xml/rss/nyt/Politics.xml"
+        },
+        {
+          "title": "The Upshot",
+          "rss": "/services/xml/rss/nyt/Upshot.xml"
+        },
+        {
+          "title": "N.Y./Region",
+          "rss": "/services/xml/rss/nyt/NYRegion.xml"
+        },
+        {
+          "title": "Business",
+          "rss": "/services/xml/rss/nyt/Business.xml"
+        },
+        {
+          "title": "Energy & Environment",
+          "rss": "/services/xml/rss/nyt/EnergyEnvironment.xml"
+        },
+        {
+          "title": "Small Business",
+          "rss": "/services/xml/rss/nyt/SmallBusiness.xml"
+        },
+        {
+          "title": "Economy",
+          "rss": "/services/xml/rss/nyt/Economy.xml"
+        },
+        {
+          "title": "DealBook",
+          "rss": "/services/xml/rss/nyt/Dealbook.xml"
+        },
+        {
+          "title": "Media & Advertising",
+          "rss": "/services/xml/rss/nyt/MediaandAdvertising.xml"
+        },
+        {
+          "title": "Your Money",
+          "rss": "/services/xml/rss/nyt/YourMoney.xml"
+        },
+        {
+          "title": "Technology",
+          "rss": "/services/xml/rss/nyt/Technology.xml"
+        },
+        {
+          "title": "Personal Tech",
+          "rss": "/services/xml/rss/nyt/PersonalTech.xml"
+        },
+        {
+          "title": "Sports",
+          "rss": "/services/xml/rss/nyt/Sports.xml"
+        },
+        {
+          "title": "Baseball",
+          "rss": "/services/xml/rss/nyt/Baseball.xml"
+        },
+        {
+          "title": "College Basketball",
+          "rss": "/services/xml/rss/nyt/CollegeBasketball.xml"
+        },
+        {
+          "title": "College Football",
+          "rss": "/services/xml/rss/nyt/CollegeFootball.xml"
+        },
+        {
+          "title": "Golf",
+          "rss": "/services/xml/rss/nyt/Golf.xml"
+        },
+        {
+          "title": "Hockey",
+          "rss": "/services/xml/rss/nyt/Hockey.xml"
+        },
+        {
+          "title": "Pro-Basketball",
+          "rss": "/services/xml/rss/nyt/ProBasketball.xml"
+        },
+        {
+          "title": "Pro-Football",
+          "rss": "/services/xml/rss/nyt/ProFootball.xml"
+        },
+        {
+          "title": "Soccer",
+          "rss": "/services/xml/rss/nyt/Soccer.xml"
+        },
+        {
+          "title": "Tennis",
+          "rss": "/services/xml/rss/nyt/Tennis.xml"
+        },
+        {
+          "title": "Science",
+          "rss": "/services/xml/rss/nyt/Science.xml"
+        },
+        {
+          "title": "Environment",
+          "rss": "/services/xml/rss/nyt/Climate.xml"
+        },
+        {
+          "title": "Space & Cosmos",
+          "rss": "/services/xml/rss/nyt/Space.xml"
+        },
+        {
+          "title": "Health",
+          "rss": "/services/xml/rss/nyt/Health.xml"
+        },
+        {
+          "title": "Well Blog",
+          "rss": "/services/xml/rss/nyt/Well.xml"
+        },
+        {
+          "title": "Arts",
+          "rss": "/services/xml/rss/nyt/Arts.xml"
+        },
+        {
+          "title": "Art & Design",
+          "rss": "/services/xml/rss/nyt/ArtandDesign.xml"
+        },
+        {
+          "title": "Book Review",
+          "rss": "/services/xml/rss/nyt/Books/Review.xml"
+        },
+        {
+          "title": "Dance",
+          "rss": "/services/xml/rss/nyt/Dance.xml"
+        },
+        {
+          "title": "Movies",
+          "rss": "/services/xml/rss/nyt/Movies.xml"
+        },
+        {
+          "title": "Music",
+          "rss": "/services/xml/rss/nyt/Music.xml"
+        },
+        {
+          "title": "Television",
+          "rss": "/services/xml/rss/nyt/Television.xml"
+        },
+        {
+          "title": "Theater",
+          "rss": "/services/xml/rss/nyt/Theater.xml"
+        },
+        {
+          "title": "Fashion & Style",
+          "rss": "/services/xml/rss/nyt/FashionandStyle.xml"
+        },
+        {
+          "title": "Dining & Wine",
+          "rss": "/services/xml/rss/nyt/DiningandWine.xml"
+        },
+        {
+          "title": "Love",
+          "rss": "/services/xml/rss/nyt/Weddings.xml"
+        },
+        {
+          "title": "T Magazine",
+          "rss": "/services/xml/rss/nyt/tmagazine.xml"
+        },
+        {
+          "title": "Travel",
+          "rss": "/services/xml/rss/nyt/Travel.xml"
+        },
+        {
+          "title": "Jobs",
+          "rss": "/services/xml/rss/nyt/Jobs.xml"
+        },
+        {
+          "title": "Real Estate",
+          "rss": "/services/xml/rss/nyt/RealEstate.xml"
+        },
+        {
+          "title": "Autos",
+          "rss": "/services/xml/rss/nyt/Automobiles.xml"
+        },
+        {
+          "title": "Lens Blog",
+          "rss": "/services/xml/rss/nyt/Lens.xml"
+        },
+        {
+          "title": "Obituaries",
+          "rss": "/services/xml/rss/nyt/Obituaries.xml"
+        },
+        {
+          "title": "Times Wire",
+          "rss": "/services/xml/rss/nyt/recent.xml"
+        },
+        {
+          "title": "Most E-Mailed",
+          "rss": "/services/xml/rss/nyt/MostEmailed.xml"
+        },
+        {
+          "title": "Most Shared",
+          "rss": "/services/xml/rss/nyt/MostShared.xml"
+        },
+        {
+          "title": "Most Viewed",
+          "rss": "/services/xml/rss/nyt/MostViewed.xml"
+        },
+        {
+          "title": "Charles M. Blow",
+          "rss": "/svc/collections/v1/publish/www.nytimes.com/column/charles-m-blow/rss.xml"
+        },
+        {
+          "title": "Jamelle Bouie",
+          "rss": "/svc/collections/v1/publish/www.nytimes.com/column/jamelle-bouie/rss.xml"
+        },
+        {
+          "title": "David Brooks",
+          "rss": "/svc/collections/v1/publish/www.nytimes.com/column/david-brooks/rss.xml"
+        },
+        {
+          "title": "Frank Bruni",
+          "rss": "/svc/collections/v1/publish/www.nytimes.com/column/frank-bruni/rss.xml"
+        },
+        {
+          "title": "Gail Collins",
+          "rss": "/svc/collections/v1/publish/www.nytimes.com/column/gail-collins/rss.xml"
+        },
+        {
+          "title": "Ross Douthat",
+          "rss": "/svc/collections/v1/publish/www.nytimes.com/column/ross-douthat/rss.xml"
+        },
+        {
+          "title": "Maureen Dowd",
+          "rss": "/svc/collections/v1/publish/www.nytimes.com/column/maureen-dowd/rss.xml"
+        },
+        {
+          "title": "Thomas L. Friedman",
+          "rss": "/svc/collections/v1/publish/www.nytimes.com/column/thomas-l-friedman/rss.xml"
+        },
+        {
+          "title": "Michelle Goldberg",
+          "rss": "/svc/collections/v1/publish/www.nytimes.com/column/michelle-goldberg/rss.xml"
+        },
+        {
+          "title": "Ezra Klein",
+          "rss": "/svc/collections/v1/publish/www.nytimes.com/column/ezra-klein/rss.xml"
+        },
+        {
+          "title": "Nicholas D. Kristof",
+          "rss": "/svc/collections/v1/publish/www.nytimes.com/column/nicholas-kristof/rss.xml"
+        },
+        {
+          "title": "Paul Krugman",
+          "rss": "/svc/collections/v1/publish/www.nytimes.com/column/paul-krugman/rss.xml"
+        },
+        {
+          "title": "Farhad Manjoo",
+          "rss": "/svc/collections/v1/publish/www.nytimes.com/column/farhad-manjoo/rss.xml"
+        },
+        {
+          "title": "Bret Stephens",
+          "rss": "/svc/collections/v1/publish/www.nytimes.com/column/bret-stephens/rss.xml"
+        },
+        {
+          "title": "Sunday Opinion",
+          "rss": "/services/xml/rss/nyt/sunday-review.xml"
+        }
+      ]
     }
   }
 }
