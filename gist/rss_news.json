@@ -267,6 +267,67 @@
           "rss": "/rss"
         }
       ]
+    },
+    "theguardian": {
+      "domain": "https://www.theguardian.com",
+      "channels": [
+        {
+          "title": "View all News",
+          "rss": "/rss"
+        },
+        {
+          "title": "World news",
+          "rss": "/world/rss"
+        },
+        {
+          "title": "US politics",
+          "rss": "/us-news/us-politics/rss"
+        },
+        {
+          "title": "UK news",
+          "rss": "/uk-news/rss"
+        },
+        {
+          "title": "Climate crisis",
+          "rss": "/environment/climate-crisis/rss"
+        },
+        {
+          "title": "Middle East",
+          "rss": "/world/middleeast/rss"
+        },
+        {
+          "title": "Ukraine",
+          "rss": "/world/ukraine/rss"
+        },
+        {
+          "title": "Environment",
+          "rss": "/environment/rss"
+        },
+        {
+          "title": "Science",
+          "rss": "/science/rss"
+        },
+        {
+          "title": "Global development",
+          "rss": "/global-development/rss"
+        },
+        {
+          "title": "Football",
+          "rss": "/football/rss"
+        },
+        {
+          "title": "Tech",
+          "rss": "/technology/rss"
+        },
+        {
+          "title": "Business",
+          "rss": "/business/rss"
+        },
+        {
+          "title": "Obituaries",
+          "rss": "/obituaries/rss"
+        }
+      ]
     }
   }
 }
