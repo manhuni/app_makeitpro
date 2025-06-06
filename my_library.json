@@ -43,5 +43,10 @@
         "name": "ECC",
         "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/ecc",
         "description": "Emotional Control Course"
+    },
+    {
+        "name": "DOPAMINE",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/dopamine",
+        "description": "Emotional Control Course"
     }
 ]
