@@ -1,19 +1,14 @@
 import os
 
 # Cấu trúc khóa học
-course_structure = [
-    "01-Dopamine-la-gi",
-    "02-Vong-lap-phan-thuong",
-    "03-Dopamine-va-hoc-tap",
-    "04-Nghien-cuu-dopamine",
-    "05-Ung-dung-lop-hoc",
-    "06-Gamification-va-dopamine",
-    "07-Nguoi-lon-va-dopamine",
-    "08-Dopamine-tu-nhien-va-nghien",
-    "09-Tang-dopamine-lanh-manh",
-    "10-Mo-hinh-he-thong-hoc",
-    "11-Case-duolingo",
-    "12-Tong-ket-va-dinh-huong"
+course_structure = [ 
+    # 24 phụ âm
+    "p", "b", "t", "d", "k", "g", "tʃ", "dʒ", "f", "v", "θ", "ð",
+    "s", "z", "ʃ", "ʒ", "h", "m", "n", "ŋ", "l", "r", "j", "w",
+    # 12 nguyên âm đơn
+    "iː", "ɪ", "e", "æ", "ʌ", "ɑː", "ɒ", "ɔː", "ʊ", "uː", "ɜː", "ə",
+    # 8 nguyên âm đôi (diphthongs)
+    "eɪ", "aɪ", "ɔɪ", "aʊ", "əʊ", "ɪə", "eə", "ʊə" 
 ]
 
 # Hoặc thay bằng dict nếu có nhiều chương
@@ -23,7 +18,7 @@ course_structure = [
 # }
 
 # Tên thư mục gốc
-root_dir = "dopamine"
+root_dir = "44ipa"
 
 if isinstance(course_structure, dict):
     # Trường hợp có thư mục chương
