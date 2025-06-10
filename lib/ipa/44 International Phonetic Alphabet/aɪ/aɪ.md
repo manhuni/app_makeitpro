@@ -1,5 +1,5 @@
 # IPA Symbol: /aɪ/
-
+/ʌɪ/ = /aɪ/
 ---
 
 ## 1. 🔍 Description

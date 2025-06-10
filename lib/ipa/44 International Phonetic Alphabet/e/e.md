@@ -1,5 +1,5 @@
 # IPA Symbol: /e/
-
+/ɛ/ = /e/
 ---
 
 ## 1. 🔍 Description
