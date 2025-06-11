@@ -2,29 +2,34 @@ import os
 
 # Cấu trúc khóa học
 course_structure = {
-    "A. Dấu câu trong lập trình": [
-        "01 - Dấu ngoặc đơn ( ) gọi là gì.md",
-        "02 - Dấu ngoặc nhọn { } dùng khi nào.md",
-        "03 - Dấu hai chấm : có nghĩa gì trong code.md",
-        "04 - Dấu phẩy , và dấu chấm . khác nhau ra sao.md",
-        "05 - Dấu chấm phẩy ; thường gặp ở đâu.md"
-    ],
-    "B. Thuật ngữ cơ bản trong lập trình": [
-        "06 - Variable là gì.md",
-        "07 - Function, Method khác nhau gì.md",
-        "08 - Argument, Parameter là gì.md",
-        "09 - Statement, Expression là gì.md",
-        "10 - Bug, Debug nghĩa là gì.md"
-    ],
-    "C. Câu và từ trong tài liệu kỹ thuật": [
-        "11 - 'Return a value' nghĩa là gì.md",
-        "12 - 'Pass by reference' dịch sao.md",
-        "13 - 'Compile the code' nghĩa là gì.md",
-        "14 - 'Throw an exception' là gì.md"
-    ]
+    "A - Tu vung ky thuat": {
+        "A01 - Programming Keywords.md": "Programming-related terms (e.g., variable, function, return, class)",
+        "A02 - Game Dev Terms.md": "Game development terms (e.g., sprite, scene, node, animation)",
+        "A03 - Cocos-specific Vocabulary.md": "Terms used in Cocos Creator",
+        "A04 - TypeScript Vocabulary.md": "TypeScript-specific terms",
+        "A05 - Git and Version Control.md": "Terms like commit, merge, branch, etc."
+    },
+    "B - Giao tiep cong viec": {
+        "B01 - JIRA and Task Language.md": "Words used in project management (task, bug, backlog)",
+        "B02 - Email and Meeting Vocabulary.md": "Common phrases for meetings and emails",
+        "B03 - Reporting Issues and Solutions.md": "How to describe problems and propose fixes"
+    },
+    "C - Cau mau va ngu canh ky thuat": {
+        "C01 - Describing Bugs.md": "How to explain bugs in English",
+        "C02 - Describing Features.md": "How to describe a feature or function",
+        "C03 - Asking for Clarification.md": "Useful sentences to clarify tasks"
+    },
+    "D - Phat am va viet tat": {
+        "D01 - Pronunciation of Code Symbols.md": "IPA and English name of special characters",
+        "D02 - Acronyms in Tech.md": "Terms like API, SDK, FPS, IDE, etc.",
+        "D03 - Common Mispronunciations.md": "Words like cache, null, async, syntax"
+    },
+    "E - Bai tap thuc hanh": {
+        "E01 - Dich mo ta cong viec.md": "Translate job descriptions or specs",
+        "E02 - Viet lai bug report bang tieng Anh.md": "Rewrite technical issues in English",
+        "E03 - Tu dien ky thuat ca nhan.md": "Build your own technical vocabulary"
+    }
 }
-
-
 # course_structure = {
 #     "Present Simple - Hiện tại đơn": [],
 #     "Present Continuous - Hiện tại tiếp diễn": [],
