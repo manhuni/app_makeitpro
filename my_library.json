@@ -5,6 +5,11 @@
         "description": "Thư viện audio IPA"
     },
     {
+        "name": "English Tenses",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/englishtenses",
+        "description": "Thư viện các thì tiếng anh"
+    },
+    {
         "name": "44 International Phonetic Alphabet",
         "url": "https://github.com/manhuni/app_makeitpro/tree/main/lib/ipa/44%20International%20Phonetic%20Alphabet",
         "description": "Thư viện tổng hợp 44 IPA"
