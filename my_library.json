@@ -5,6 +5,11 @@
         "description": "Thư viện Real English Pitfalls"
     },
     {
+        "name": "Technical English for Programmers",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/Technical%20English%20for%20Programmers",
+        "description": "Thư viện tiếng anh chuyên ngành lập trình"
+    },
+    {
         "name": "IPA Audio",
         "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/ipa/audio/Interactive%20IPA%20Chart%202022",
         "description": "Thư viện audio IPA"
