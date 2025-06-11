@@ -2,13 +2,18 @@ import os
 
 # Cấu trúc khóa học
 course_structure = {
-    # 24 phụ âm
-    "p":[], "b":[], "t":[], "d":[], "k":[], "g":[], "tʃ":[], "dʒ":[], "f":[], "v":[], "θ":[], "ð":[],
-    "s":[], "z":[], "ʃ":[], "ʒ":[], "h":[], "m":[], "n":[], "ŋ":[], "l":[], "r":[], "j":[], "w":[],
-    # 12 nguyên âm đơn
-    "iː":[], "ɪ":[], "e":[], "æ":[], "ʌ":[], "ɑː":[], "ɒ":[], "ɔː":[], "ʊ":[], "uː":[], "ɜː":[], "ə":[],
-    # 8 nguyên âm đôi (diphthongs)
-    "eɪ":[], "aɪ":[], "ɔɪ":[], "aʊ":[], "əʊ":[], "ɪə":[], "eə":[], "ʊə":[] 
+    "Present Simple - Hiện tại đơn": [],
+    "Present Continuous - Hiện tại tiếp diễn": [],
+    "Present Perfect - Hiện tại hoàn thành": [],
+    "Present Perfect Continuous - Hiện tại hoàn thành tiếp diễn": [],
+    "Past Simple - Quá khứ đơn": [],
+    "Past Continuous - Quá khứ tiếp diễn": [],
+    "Past Perfect - Quá khứ hoàn thành": [],
+    "Past Perfect Continuous - Quá khứ hoàn thành tiếp diễn": [],
+    "Future Simple - Tương lai đơn": [],
+    "Future Continuous - Tương lai tiếp diễn": [],
+    "Future Perfect - Tương lai hoàn thành": [],
+    "Future Perfect Continuous - Tương lai hoàn thành tiếp diễn": []
 }
 
 # Hoặc thay bằng dict nếu có nhiều chương
@@ -18,7 +23,7 @@ course_structure = {
 # }
 
 # Tên thư mục gốc
-root_dir = "44ipa"
+root_dir = "English Tenses"
 
 if isinstance(course_structure, dict):
     # Trường hợp có thư mục chương
