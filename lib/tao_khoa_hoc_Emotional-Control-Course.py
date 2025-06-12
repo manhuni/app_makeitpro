@@ -1,34 +1,43 @@
 import os
 
 # Cấu trúc khóa học
-course_structure = {
-    "A - Tu vung ky thuat": {
-        "A01 - Programming Keywords.md": "Programming-related terms (e.g., variable, function, return, class)",
-        "A02 - Game Dev Terms.md": "Game development terms (e.g., sprite, scene, node, animation)",
-        "A03 - Cocos-specific Vocabulary.md": "Terms used in Cocos Creator",
-        "A04 - TypeScript Vocabulary.md": "TypeScript-specific terms",
-        "A05 - Git and Version Control.md": "Terms like commit, merge, branch, etc."
-    },
-    "B - Giao tiep cong viec": {
-        "B01 - JIRA and Task Language.md": "Words used in project management (task, bug, backlog)",
-        "B02 - Email and Meeting Vocabulary.md": "Common phrases for meetings and emails",
-        "B03 - Reporting Issues and Solutions.md": "How to describe problems and propose fixes"
-    },
-    "C - Cau mau va ngu canh ky thuat": {
-        "C01 - Describing Bugs.md": "How to explain bugs in English",
-        "C02 - Describing Features.md": "How to describe a feature or function",
-        "C03 - Asking for Clarification.md": "Useful sentences to clarify tasks"
-    },
-    "D - Phat am va viet tat": {
-        "D01 - Pronunciation of Code Symbols.md": "IPA and English name of special characters",
-        "D02 - Acronyms in Tech.md": "Terms like API, SDK, FPS, IDE, etc.",
-        "D03 - Common Mispronunciations.md": "Words like cache, null, async, syntax"
-    },
-    "E - Bai tap thuc hanh": {
-        "E01 - Dich mo ta cong viec.md": "Translate job descriptions or specs",
-        "E02 - Viet lai bug report bang tieng Anh.md": "Rewrite technical issues in English",
-        "E03 - Tu dien ky thuat ca nhan.md": "Build your own technical vocabulary"
-    }
+course_structure  = {
+    "Giới thiệu Mạng Máy Tính - Introduction to Computer Networks": [
+        "Giới thiệu mạng - Introduction to Networking.md",
+        "Kiến trúc mạng cơ bản - Basic Network Architecture.md"
+    ],
+    "Mô hình OSI và TCP-IP - OSI & TCP-IP Models": [
+        "Mô hình OSI - OSI Model.md",
+        "Ngăn xếp TCP-IP - TCP-IP Stack.md"
+    ],
+    "Giao thức mạng cơ bản - Basic Network Protocols": [
+        "Địa chỉ IP - IP Addressing.md",
+        "MAC, ARP, ICMP - MAC, ARP, ICMP.md",
+        "TCP và UDP - TCP and UDP.md"
+    ],
+    "Routing và Switching - Routing & Switching": [
+        "Switch hoạt động thế nào - How Switches Work.md",
+        "Định tuyến tĩnh và động - Static and Dynamic Routing.md",
+        "Subnetting và CIDR - Subnetting and CIDR.md"
+    ],
+    "DNS, DHCP và NAT - DNS, DHCP & NAT": [
+        "DNS hoạt động ra sao - How DNS Works.md",
+        "Cơ chế cấp phát IP với DHCP - DHCP Overview.md",
+        "Chuyển đổi địa chỉ mạng (NAT) - Network Address Translation (NAT).md"
+    ],
+    "Bảo mật mạng cơ bản - Basic Network Security": [
+        "Tường lửa và ACL - Firewalls and ACLs.md",
+        "VPN, SSL và TLS - VPN, SSL and TLS.md"
+    ],
+    "Giám sát và Phân tích mạng (Wireshark) - Network Monitoring & Analysis (Wireshark)": [
+        "Giới thiệu Wireshark - Introduction to Wireshark.md",
+        "Bắt gói và phân tích cơ bản - Packet Capturing & Basic Analysis.md",
+        "Phát hiện lỗi và bất thường - Troubleshooting & Anomaly Detection.md"
+    ],
+    "Thực hành và Case Study - Practice & Case Studies": [
+        "Thực hành Ping, Traceroute - Practice: Ping & Traceroute.md",
+        "Phân tích hệ thống mạng doanh nghiệp - Case Study: Enterprise Network.md"
+    ]
 }
 # course_structure = {
 #     "Present Simple - Hiện tại đơn": [],
@@ -52,7 +61,7 @@ course_structure = {
 # }
 
 # Tên thư mục gốc
-root_dir = "Technical_English_for_Programmers"
+root_dir = "Networking Course"
 
 if isinstance(course_structure, dict):
     # Trường hợp có thư mục chương

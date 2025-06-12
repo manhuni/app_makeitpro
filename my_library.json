@@ -2,7 +2,12 @@
     {
         "name": "Real English Pitfalls",
         "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/Real%20English%20Pitfalls",
-        "description": "Thư viện Real English Pitfalls"
+        "description": "Thư viện những cạm bẫy thực sự trong tiếng Anh"
+    },
+    {
+        "name": "Networking Course",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/Networking%20Course",
+        "description": "Thư viện mạng máy tính"
     },
     {
         "name": "Technical English for Programmers",
