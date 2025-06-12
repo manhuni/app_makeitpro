@@ -62,6 +62,56 @@ Tôi chỉ cần tiếp tục. Ngày qua ngày.
 
 - **Open mine**: Không phải cụm từ chuẩn, "mine" nghĩa là mỏ hoặc “của tôi”.  
   *Sai:* I have an open mine. (Không đúng)
+# Sự khác biệt giữa **Open Mind** và **Open Mindset**
+
+---
+
+## 1. Open Mind
+
+- **Ý nghĩa:**  
+  Tâm trí cởi mở, sẵn sàng tiếp nhận ý kiến mới, không cố chấp hay khép kín.
+
+- **Cách dùng:**  
+  Rất phổ biến trong giao tiếp hàng ngày.
+
+- **Ví dụ:**  
+  - She has an open mind about different cultures.  
+  (Cô ấy có tâm trí cởi mở về các nền văn hóa khác nhau.)
+
+---
+
+## 2. Open Mindset
+
+- **Ý nghĩa:**  
+  Không phải cụm từ phổ biến hoặc chuẩn mực trong tiếng Anh.  
+  Có thể hiểu là “tư duy cởi mở”, nhưng thường người ta sẽ nói **open-minded mindset** hoặc **open-minded attitude**.
+
+- **Lưu ý:**  
+  "Mindset" thường đi kèm tính từ mô tả như:  
+  - Growth mindset (tư duy phát triển)  
+  - Fixed mindset (tư duy cố định)  
+  Cụm "open mindset" ít được dùng và không chuẩn.
+
+---
+
+## Tóm tắt
+
+| Cụm từ      | Ý nghĩa chính                   | Mức độ phổ biến |
+|-------------|--------------------------------|-----------------|
+| Open mind   | Tâm trí cởi mở                  | Rất phổ biến    |
+| Open mindset| (Ít dùng, không chuẩn)          | Hiếm gặp        |
+
+---
+
+## Lời khuyên
+
+Nếu muốn diễn đạt “tư duy cởi mở”, bạn nên dùng:  
+- **open mind**  
+- hoặc **open-minded attitude**
+
+---
+
+*Giữ tư duy cởi mở sẽ giúp bạn học hỏi và phát triển mỗi ngày!*
 
 ---
 
