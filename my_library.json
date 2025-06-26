@@ -5,6 +5,11 @@
         "description": "Thư viện những cạm bẫy thực sự trong tiếng Anh"
     },
     {
+        "name": "English for Game Developers",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/English%20for%20Game%20Developers%20-%20Full%20Program",
+        "description": "Thư viện tiếng anh cho lập trình viên"
+    },
+    {
         "name": "Networking Course",
         "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/Networking%20Course",
         "description": "Thư viện mạng máy tính"
