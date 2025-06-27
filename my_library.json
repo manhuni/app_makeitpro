@@ -25,6 +25,11 @@
         "description": "Thư viện ADHD"
     },
     {
+        "name": "English for League of Legends",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/English%20for%20League%20of%20Legends",
+        "description": "Thư viện LOL"
+    },
+    {
         "name": "Pentest Course",
         "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/pentest-course",
         "description": "Thư viện khoá học pentest"
