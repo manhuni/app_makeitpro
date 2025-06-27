@@ -20,6 +20,11 @@
         "description": "Thư viện mạng máy tính"
     },
     {
+        "name": "ADHD",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/English%20for%20Understanding%20ADHD",
+        "description": "Thư viện ADHD"
+    },
+    {
         "name": "Pentest Course",
         "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/pentest-course",
         "description": "Thư viện khoá học pentest"
