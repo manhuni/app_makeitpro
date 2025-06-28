@@ -30,6 +30,11 @@
         "description": "Thư viện LOL"
     },
     {
+        "name": "Weak Forms & Connected Speech",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/English%20for%20League%20of%20Legends",
+        "description": "Thư viện Weak Forms & Connected Speech"
+    },
+    {
         "name": "Pentest Course",
         "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/pentest-course",
         "description": "Thư viện khoá học pentest"
