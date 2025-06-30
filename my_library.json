@@ -10,6 +10,11 @@
         "description": "Thư viện tiếng anh cho từ hình thái"
     },
     {
+        "name": "Tư Duy bằng Tiếng Anh - Thinking In English",
+        "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/Thinking%20in%20English",
+        "description": "Thư viện tiếng anh cho tư duy bằng tiếng anh"
+    },
+    {
         "name": "English for Game Developers",
         "url": "https://github.com/manhuni/app_makeitpro/blob/main/lib/English%20for%20Game%20Developers%20-%20Full%20Program",
         "description": "Thư viện tiếng anh cho lập trình viên"
